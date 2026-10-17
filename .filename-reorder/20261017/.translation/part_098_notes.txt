@@ -1,0 +1,26 @@
+范围与组织
+《烟消云散》第十章全文，源38279—38924，末正文38923，38924为空。先完整阅读第九章37747—38278前情，再逐段译本章全部源文。首行“十不堪回首”是与正文相连的章题，英文正文剔除，交统一渲染器另列。上谕、传闻、报纸引文、人物内心与家务对白均完整翻译，未用摘要代替。报中裁缝女儿未给未成年年龄，婚姻轶闻按成年情境完整保留；阿彩旧貌仅为普通记忆，无安全覆盖。
+
+称谓与字面读法
+沿Hu Xueyan、Gu Yingchun、the Seventh Lady／Seventh Sister、Madam Luosi、Old Madam Hu、Mrs Hu、Treasurer De／Dexin、Mi Benchang、A’zhang、Ruixiang、A’yun、A’lan、Fusheng、Old Mother He、Jixian Lane、Laotonghe Restaurant。新见Shen Lansheng沈兰生、Zhou Jiamei周家楣、Bi Daoyuan毕道远、Wenhui文辉，与Wenyu文煜分开。周为Shuntian prefect；毕为Left Censor-in-Chief兼管顺天府；文煜Assistant Grand Secretary and Minister of Punishments。保留文煜与恭王“亲戚”的笼统关系，不添具体亲属身份。
+Mistress Dai排行第二、四十岁；Miss Song第五；福建Mistress Yang；Mistress Zhu／Qinglian第七。罗直称朱“七妹”作Little Sister Seven，胡“老七”作Seven，不与古妻the Seventh Lady混同。Chunxiang春香为朱的大丫头，Mother Liu刘妈为厨妇，Guixing贵兴为门房帮工且学过铜匠，不等后章周家的Guisheng。李伯元Li Boyuan、总栏Nanting Notes、《胡财神因奢而败》The God of Wealth Hu Ruined by Extravagance；《八大锤带说书》Eight Great Hammers with the Storytelling Scene，不另改戏名。“中轴子”保守作featured item，不指定为倒数第二节目。
+38325“廉傣”按廉俸语境作official pay and allowances。38327“十万一两”随本句紧接“这十万两”、后文多次十万统一100,000，不制造100,001。38371七字唱本是seven-character lines，不译seven-word lines。38477“七奶”、38497“好个”等明显衍误按现场称呼及语义读。38569油炸桧保留youzha Hui及秦桧／岳飞、十八层地狱的解释，异写油灼脍用youzhuo kuai。
+38651引号／分号错接，“在我这回去上海以前……”依胡赴沪事实及其随后问周少棠，作为胡续问，不误归朱。38673“款了”按款子，38681“不在”依语意作“不枉”。38715“眼毒”“膨弯”按服毒、腹胀语境；38717“每值于金”疑千字损，不擅定精确千两，只作each worth a fortune。“皆规禁制”按宫禁建筑式样理解，保留又仿西法；“碗沙”按细碎陶质砂料保守译，不增修复工艺；“六七月重裘”照报纸夸饰及胡的否认都译。38725“仅擎巨烛侍其旁”执烛主语不清，用被动陈述有人持烛，不擅增仆人。38741“洁旦”按诘旦即黎明语境。38783“一个人锅／十锦”据后紧接火锅按assorted hotpot。38869“倒不如下说”按上下文“不说”读。38889“帐户／经的”按账房领工钱、经手事务读；38901“铜匠夹”按叫铜匠来；38905“箱了”按箱子。
+
+数额、先后与消息来源
+文煜案总存46万：文辉10万、文宅36万；奉旨缴公10万，胡命京号筹缴，未写成已经到账。第二谕罢胡官、交左清理，20余典当及价值数百万茧丝按原称“存置浙省”保留。七关于免抄家、刘受左指挥的读法为她的判断；胡推文煜援手也是推断。古拟翌日江宁，先稳买主，左须批准售丝；价格、批准和交割均未完成，宓死后又拟顺延一日。
+宓死因保持三层：古听伙计叙经过、推测自己走后吞鸦片；七认为假寻死弄假成真；后来报纸以腹胀呕血疑服西国药水。未把任何推论改成译者确证，也不强行统一药物。前晚八点、近三小时等原时间照录。38525问“谈妥了”后38527胡接“好”，源缺古回答，保留缺口，不补“已成交”。电报仅拟稿并嘱明码发，不擅写左已阅。雇拖轮300两、估两天归杭；38541转叙黄昏过海宁、当夜抵杭，保留叙事省略，不增某一天编号去消时序疑点。
+本章十二房中除罗外十一人：戴愿侍老母，五回娘家、四另找去处，共九人离开；朱另谈再嫁。宣布每人500两且不回房，与093此前胡称已遣半数、每人5000并许带房中财物不一致，均按各章原话保留。朱阜康存20,000余未提，其他人已提且胡原嘱照付；此处胡只许另给一笔钱，尚未交钱／销账／完成嫁周。报价及存款不合并。报道中裁缝女儿聘价7000圆作dollars，后来所得20,000余金依银产语境作taels，不折换两种单位。
+胡说次日起撤私厨，罗当日实际断炊后又当众否认，保留操作与说法差别。腊八初七试煮、先请母尝、正式子时下锅均按人物说法并存；子时译zi hour, around midnight，非更次第一更。38771春香说同阿云问刘妈，38819刘妈自称问阿兰，源姓名不同，未机械统一。胡母住山上、朱提出亲自送粥、罗与主妻计划探望，均尚未写成送达。三个月额外工钱正在领取，仆人待至傍晚才走；房门有钥匙、箱子无钥匙，罗命备斧锤，不提前写已劈箱搜出财物。末往周处仍是胡打算，被罗拦下待谈。
+
+英语一综合练习
+阅读：分别标出上谕的命令、七的解释、胡的推断与报纸传闻；同一事实的转述来源不同，不可把suggest、think、must have当已证实。
+完形：练习although、nevertheless、otherwise、once、rather than、by the time，以及therefore与however如何连接相反态度和未遂计划。
+排序：宫廷消息→请教七→拟赴宁与稳买主→宓死／临时改期→胡返杭→遣散与朱去向→报纸议论→厨房风波→探母及开箱→拟访周。电报、报纸、钥匙、粥等复现线索可连接相邻段。
+翻译：辨析deposit、withdraw、arrears、liquidation、contribute、remit、assemble funds；练习reported speech、过去将来时和被动句，避免将承诺give／send／arrange误译成已完成。
+写作：可积累act on incomplete information、distinguish fact from inference、make arrangements、take responsibility、consider the consequences、preserve a sense of dignity；将危机下的判断和沟通用于一般论证，不把人物侵财或推责话术当值得效仿的建议。
+
+自校完成：34个完整语义段，9231空格词，最长381词；38279—38923共323条非空源行唯一升序覆盖，38924空白。已逐段回读源文、核首尾及具体数字；英文无汉字、可见编号或语言标签，无安全改写。
+
+独立全文复核记录
+已完整通读38279—38924全部源文并逐条对照34段英文，含097前情。预审提出的七字非七词、中轴子不定倒数第二、油灼脍转写均已由译者采纳；最终另修两处：38279并不在意不是未注意到，改为Neither had thought much of their own；38785一到年头改为At the turn of the year...，不泛化成全年。其余两道上谕、文煜/文辉金额、七姐推测、宓死不同消息来源、500两遣散方案、朱尚未允嫁/提款、报纸成年轶闻、厨房说辞和未劈箱阶段，以及各条首尾短答句归属均通过。复核后34段、9239空格词，最长381词；323非空行唯一升序完整覆盖，英文无汉字，无安全改写。

@@ -1,0 +1,61 @@
+{
+  "scope": "Independent source-to-TSV review of parts 131–134 and 147–149, with emphasis on money, counts, dates, liability and conditional versus completed actions.",
+  "reviewer": "translate_red_a",
+  "status": "pass_no_clear_substantive_mistranslation_found",
+  "body_edits": [],
+  "checks": {
+    "131": [
+      "Army 2,500; five-month siege; eighth day of eighth month preserved.",
+      "Licentiate punishment: 200 strokes and three-month cangue originally proposed; both waived but degree revoked.",
+      "Gambling notes at least 200 taels; 20–30 cash; Liu stake 10, loan 50, jade value at least 200. Deliberate pledge while holding Fukang notes preserved."
+    ],
+    "132": [
+      "50-tael redemption occurs before gifts; gifts first misrepresented as casually acquired, then revealed as Hu’s instruction.",
+      "Protective document issued under Jiangsu governor seal; temporary dual allegiance and future help from inside preserved.",
+      "Young Zhang receives seventh-rank certificate and bureau appointment only after recovery."
+    ],
+    "133": [
+      "Rice needed 10,000 shi; 8,500 assembled including 2,000 foreign rice; You supplies remainder.",
+      "Yang repayment 50,000 taels; shortfall temporarily drawn from planned 120,000 for Wang family; no claim that family payment is completed.",
+      "Twenty-day procurement limit within one-month arrival target; actual sailing after thirteen days.",
+      "Liu directs unloading but need not secure grain against soldiers; Battalion Officer Zhang owns that responsibility.",
+      "100,000-tael reward is an offer to be raised, not yet delivered; doubts over adequacy for tens of thousands remain."
+    ],
+    "134": [
+      "100,000 reward; half immediate cash merely illustrative, remaining note offset by treasury advances; treasury receipts still remitted, not retained to repay those offset advances.",
+      "Signature code Li=full, Yili=half, whole name=refuse; future codes to vary.",
+      "10,000 shi retained temporarily until Hu sees Zuo, then entrusted to Jiang; delay one or two days.",
+      "Restart funding 1,000–2,000 taels; each returned clerk gets 10 taels plus 5 dou rice; new deposits still anticipated.",
+      "Rebel deposit bank-repayment assurance remains distinct from possibility of government seizure."
+    ],
+    "147": [
+      "Three columns: 8,000+2,500;4,600;4,500. Guangdong separate force 8,000.",
+      "Taiwan suppression initial reinforcement600; Lin personal escort200; fortress25li; later Yongding7,000+.",
+      "Li escape through west gate contrasted with Guo/Yang south/east defensive responsibilities; not inverted.",
+      "8/5/3 battalion dispositions and 10li+10li distances preserved. Source three-month transition retained rather than silently corrected."
+    ],
+    "148": [
+      "Chaozhou annual30,000+, insufficient for6,000 men one month; possible later300,000 remains forecast.",
+      "Customs2,000,000+ is Zuo’s exaggerated allegation as narrated, not unqualified historical assertion.",
+      "Rumoured10,000-tael gift for ten characters,1,000 each; bribery uncertainty preserved.",
+      "Gao force5,000, monthly30,000+; arrears300,000+ plus50,000+ used for roughlyone year.",
+      "First Jiang order concerns military/finance duties, later separate governorship appointment; Ruilin rebuked but retained, Guo removed without rebuke.",
+      "Ship count30+10=40;1–2 foreign steamers;500li express distinguished from600li;dates preserved."
+    ],
+    "149": [
+      "Title promotion vs actual provincial office distinguished; red finial lowersecond vs blue upperthird.",
+      "Factory initial300,000+;monthly50–60k;annual600–700k;firstship2years/cumulative1.5m;5yearstotal3m+;initialone-million financial strategy preserved.",
+      "D’Aiguebelle’s objection to site firmness follows earlier approval; not collapsed into consensus.",
+      "Westerncampaign3–5years;Wu’s reasoning that distant patron becomes more powerful preserved.",
+      "Hu asks to stop when Zuo leaves but Zuo requires continued management; Shen chosen separately for enduring leadership.",
+      "Memorial requests30additionaldays;Zuo visitedShen3times;approval/directmemorialrights requested rather than assumed granted."
+    ]
+  },
+  "minor_consistency_observations": [
+    {
+      "part": 133,
+      "issue": "Zeng Guoquan is addressed Ninth Commander Zeng here, whereas several earlier terminology records use Ninth Marshal and later 167 uses Marshal Zeng the Ninth. Meaning is clear; optional global style harmonisation only."
+    }
+  ],
+  "limitations": "This is a translation-fidelity review, not external historical verification. Source contradictions in dates, geography, amounts and named identities were not silently corrected."
+}

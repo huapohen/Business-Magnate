@@ -1,0 +1,584 @@
+{
+  "conclusion": "旧新《平步青云》全文规范化对齐后无成段正文增删；旧稿已覆盖上中下范围，误留（上）总标题。两稿共享第二十四章分界缺失，不能据此单独证明与纸本完全无遗漏。",
+  "boundaries": [
+    {
+      "chapter_number_label": "一",
+      "old_start": {
+        "line_1based": 29,
+        "byte_offset_0based": 4404,
+        "decoded_char_offset_0based": 1530
+      },
+      "new_start": {
+        "line_1based": 26,
+        "byte_offset_0based": 3453,
+        "decoded_char_offset_0based": 1199
+      },
+      "prefix_in_old": "一",
+      "prefix_in_new": "",
+      "opening_anchor": "有个福州人名叫王有龄他的父亲是候补道分发浙江在杭州一住数年没有奉委过什么好差使老"
+    },
+    {
+      "chapter_number_label": "二",
+      "old_start": {
+        "line_1based": 541,
+        "byte_offset_0based": 57753,
+        "decoded_char_offset_0based": 20341
+      },
+      "new_start": {
+        "line_1based": 536,
+        "byte_offset_0based": 56289,
+        "decoded_char_offset_0based": 19493
+      },
+      "prefix_in_old": "二",
+      "prefix_in_new": "",
+      "opening_anchor": "就在同一天王有龄到了北通州他从杭州动身坐乌篷船到苏州然后换搭漕船北上偏偏又逢丰北"
+    },
+    {
+      "chapter_number_label": "三",
+      "old_start": {
+        "line_1based": 1773,
+        "byte_offset_0based": 168648,
+        "decoded_char_offset_0based": 59772
+      },
+      "new_start": {
+        "line_1based": 1760,
+        "byte_offset_0based": 165965,
+        "decoded_char_offset_0based": 57687
+      },
+      "prefix_in_old": "三",
+      "prefix_in_new": "",
+      "opening_anchor": "正徘徊瞻顾不知何以为计时突然眼前一亮那个在吃门板饭的一定是了杭州的饭店犹有两宋的"
+    },
+    {
+      "chapter_number_label": "四",
+      "old_start": {
+        "line_1based": 2841,
+        "byte_offset_0based": 261806,
+        "decoded_char_offset_0based": 92966
+      },
+      "new_start": {
+        "line_1based": 2830,
+        "byte_offset_0based": 258088,
+        "decoded_char_offset_0based": 89828
+      },
+      "prefix_in_old": "四",
+      "prefix_in_new": "",
+      "opening_anchor": "上海县城筑于明朝嘉靖三十二年原是用以备倭的城周九里城墙高二丈四尽大小六个城门东南"
+    },
+    {
+      "chapter_number_label": "五",
+      "old_start": {
+        "line_1based": 3733,
+        "byte_offset_0based": 331139,
+        "decoded_char_offset_0based": 117867
+      },
+      "new_start": {
+        "line_1based": 3724,
+        "byte_offset_0based": 326539,
+        "decoded_char_offset_0based": 113843
+      },
+      "prefix_in_old": "五",
+      "prefix_in_new": "",
+      "opening_anchor": "船到杭州王有龄回家歇得一歇随即换了官服去谒见抚台当面禀报了此行的经过同时呈上一封"
+    },
+    {
+      "chapter_number_label": "六",
+      "old_start": {
+        "line_1based": 4215,
+        "byte_offset_0based": 366781,
+        "decoded_char_offset_0based": 130715
+      },
+      "new_start": {
+        "line_1based": 4208,
+        "byte_offset_0based": 361709,
+        "decoded_char_offset_0based": 126215
+      },
+      "prefix_in_old": "六",
+      "prefix_in_new": "",
+      "opening_anchor": "他请教的不是别人是王有龄"
+    },
+    {
+      "chapter_number_label": "七",
+      "old_start": {
+        "line_1based": 4987,
+        "byte_offset_0based": 435658,
+        "decoded_char_offset_0based": 155226
+      },
+      "new_start": {
+        "line_1based": 4982,
+        "byte_offset_0based": 429821,
+        "decoded_char_offset_0based": 149957
+      },
+      "prefix_in_old": "七",
+      "prefix_in_new": "",
+      "opening_anchor": "这是胡雪岩第一次听见老张谈到他女儿叫这个如何叫那个如何口气倒象是佣人听小姐的吩咐"
+    },
+    {
+      "chapter_number_label": "八",
+      "old_start": {
+        "line_1based": 6117,
+        "byte_offset_0based": 522000,
+        "decoded_char_offset_0based": 186274
+      },
+      "new_start": {
+        "line_1based": 6114,
+        "byte_offset_0based": 515060,
+        "decoded_char_offset_0based": 179892
+      },
+      "prefix_in_old": "八",
+      "prefix_in_new": "",
+      "opening_anchor": "阜康钱庄开张了门面装修得很象佯柜台里四个伙计一律簇新的洋蓝布长衫笑脸迎人刘庆生是"
+    },
+    {
+      "chapter_number_label": "九",
+      "old_start": {
+        "line_1based": 6877,
+        "byte_offset_0based": 582335,
+        "decoded_char_offset_0based": 207915
+      },
+      "new_start": {
+        "line_1based": 6876,
+        "byte_offset_0based": 574639,
+        "decoded_char_offset_0based": 200773
+      },
+      "prefix_in_old": "九",
+      "prefix_in_new": "",
+      "opening_anchor": "一到湖州胡雪岩就为王有龄接到知府衙门去住虽只是小别重逢但以交情太深彼此都有无法言"
+    },
+    {
+      "chapter_number_label": "十",
+      "old_start": {
+        "line_1based": 7847,
+        "byte_offset_0based": 654944,
+        "decoded_char_offset_0based": 234062
+      },
+      "new_start": {
+        "line_1based": 7848,
+        "byte_offset_0based": 646317,
+        "decoded_char_offset_0based": 225971
+      },
+      "prefix_in_old": "十",
+      "prefix_in_new": "",
+      "opening_anchor": "半个月以后陈世龙原船回湖州没有把畹香带来但一百两银票却已送了给畹香因为她也听说王"
+    },
+    {
+      "chapter_number_label": "十一",
+      "old_start": {
+        "line_1based": 8377,
+        "byte_offset_0based": 696651,
+        "decoded_char_offset_0based": 249027
+      },
+      "new_start": {
+        "line_1based": 8380,
+        "byte_offset_0based": 687507,
+        "decoded_char_offset_0based": 240413
+      },
+      "prefix_in_old": "十一",
+      "prefix_in_new": "",
+      "opening_anchor": "王有龄的船到杭州仍旧泊在万安桥来时风光与去时又不大相同"
+    },
+    {
+      "chapter_number_label": "十二",
+      "old_start": {
+        "line_1based": 9279,
+        "byte_offset_0based": 770704,
+        "decoded_char_offset_0based": 275520
+      },
+      "new_start": {
+        "line_1based": 9284,
+        "byte_offset_0based": 760668,
+        "decoded_char_offset_0based": 266010
+      },
+      "prefix_in_old": "十二",
+      "prefix_in_new": "",
+      "opening_anchor": "到新城先到富阳走钱塘江这条水路等送行的王有龄一走嵇鹤龄把胡雪岩留了下来说还有几句"
+    },
+    {
+      "chapter_number_label": "十三",
+      "old_start": {
+        "line_1based": 10747,
+        "byte_offset_0based": 880898,
+        "decoded_char_offset_0based": 315196
+      },
+      "new_start": {
+        "line_1based": 10754,
+        "byte_offset_0based": 869406,
+        "decoded_char_offset_0based": 304224
+      },
+      "prefix_in_old": "十三",
+      "prefix_in_new": "",
+      "opening_anchor": "这个不速之客是嘉定的周立春派来的周立春与刘丽川有联系所以上海一起事周立春预备在嘉"
+    },
+    {
+      "chapter_number_label": "十四",
+      "old_start": {
+        "line_1based": 11033,
+        "byte_offset_0based": 904262,
+        "decoded_char_offset_0based": 323560
+      },
+      "new_start": {
+        "line_1based": 11042,
+        "byte_offset_0based": 892491,
+        "decoded_char_offset_0based": 312305
+      },
+      "prefix_in_old": "十四",
+      "prefix_in_new": "",
+      "opening_anchor": "要会的那个要紧人姓古广东人是个通事结交的洋朋友极多对英国人尤其熟悉而在上海的英国"
+    },
+    {
+      "chapter_number_label": "十五",
+      "old_start": {
+        "line_1based": 11841,
+        "byte_offset_0based": 970977,
+        "decoded_char_offset_0based": 347417
+      },
+      "new_start": {
+        "line_1based": 11852,
+        "byte_offset_0based": 958408,
+        "decoded_char_offset_0based": 335360
+      },
+      "prefix_in_old": "十五",
+      "prefix_in_new": "",
+      "opening_anchor": "放下一颗悬着的心胡雪岩又把全副精神放在正事上船上无事正好算帐结出总帐一看自己都有"
+    },
+    {
+      "chapter_number_label": "十六",
+      "old_start": {
+        "line_1based": 12975,
+        "byte_offset_0based": 1062505,
+        "decoded_char_offset_0based": 380205
+      },
+      "new_start": {
+        "line_1based": 12988,
+        "byte_offset_0based": 1048852,
+        "decoded_char_offset_0based": 367040
+      },
+      "prefix_in_old": "十六",
+      "prefix_in_new": "",
+      "opening_anchor": "当天回家胡雪岩叫阿福把住在附近客栈里的陈世龙去找了来他是要告诉他一个好消息到松江"
+    },
+    {
+      "chapter_number_label": "十七",
+      "old_start": {
+        "line_1based": 13931,
+        "byte_offset_0based": 1145157,
+        "decoded_char_offset_0based": 409671
+      },
+      "new_start": {
+        "line_1based": 13946,
+        "byte_offset_0based": 1130558,
+        "decoded_char_offset_0based": 395556
+      },
+      "prefix_in_old": "十七",
+      "prefix_in_new": "",
+      "opening_anchor": "刚睡下不久小徒弟来敲门送来一封夜班航船刚刚带到的信信是胡雪岩寄来的拆开一看寥寥数"
+    },
+    {
+      "chapter_number_label": "十八",
+      "old_start": {
+        "line_1based": 14715,
+        "byte_offset_0based": 1207915,
+        "decoded_char_offset_0based": 432161
+      },
+      "new_start": {
+        "line_1based": 14730,
+        "byte_offset_0based": 1192538,
+        "decoded_char_offset_0based": 417264
+      },
+      "prefix_in_old": "十八",
+      "prefix_in_new": "",
+      "opening_anchor": "走了沂园坐上轿子陈世龙吩咐了一个地名是胡雪岩所不曾听说过的只觉得曲曲折折穿过好儿"
+    },
+    {
+      "chapter_number_label": "十九",
+      "old_start": {
+        "line_1based": 15581,
+        "byte_offset_0based": 1278265,
+        "decoded_char_offset_0based": 457349
+      },
+      "new_start": {
+        "line_1based": 15598,
+        "byte_offset_0based": 1262032,
+        "decoded_char_offset_0based": 441592
+      },
+      "prefix_in_old": "十九",
+      "prefix_in_new": "",
+      "opening_anchor": "这样老是玩不是事刘不才最感苦恼的是无事可做手会发痒老想赌钱但每一转到这个念头随即"
+    },
+    {
+      "chapter_number_label": "二十",
+      "old_start": {
+        "line_1based": 16199,
+        "byte_offset_0based": 1331701,
+        "decoded_char_offset_0based": 476401
+      },
+      "new_start": {
+        "line_1based": 16218,
+        "byte_offset_0based": 1314860,
+        "decoded_char_offset_0based": 460032
+      },
+      "prefix_in_old": "二十",
+      "prefix_in_new": "",
+      "opening_anchor": "有了这封委托书胡雪岩要好好的动脑筋了"
+    },
+    {
+      "chapter_number_label": "二十一",
+      "old_start": {
+        "line_1based": 16899,
+        "byte_offset_0based": 1390432,
+        "decoded_char_offset_0based": 497380
+      },
+      "new_start": {
+        "line_1based": 16920,
+        "byte_offset_0based": 1372904,
+        "decoded_char_offset_0based": 480318
+      },
+      "prefix_in_old": "二十一",
+      "prefix_in_new": "",
+      "opening_anchor": "年初四夜里接财神胡雪岩因为这一年顺利非凡真象遇见了财神菩萨似地所以这天夜里烧财神"
+    },
+    {
+      "chapter_number_label": "二十二",
+      "old_start": {
+        "line_1based": 17695,
+        "byte_offset_0based": 1452771,
+        "decoded_char_offset_0based": 519757
+      },
+      "new_start": {
+        "line_1based": 17718,
+        "byte_offset_0based": 1434486,
+        "decoded_char_offset_0based": 501920
+      },
+      "prefix_in_old": "二十二",
+      "prefix_in_new": "",
+      "opening_anchor": "当天两个人就到了上海住在裕记丝栈古应春得信赶来相会见了胡雪岩略有忸怩之色他自然不"
+    },
+    {
+      "chapter_number_label": "二十三",
+      "old_start": {
+        "line_1based": 18987,
+        "byte_offset_0based": 1553019,
+        "decoded_char_offset_0based": 555761
+      },
+      "new_start": {
+        "line_1based": 19012,
+        "byte_offset_0based": 1533498,
+        "decoded_char_offset_0based": 536656
+      },
+      "prefix_in_old": "二十三",
+      "prefix_in_new": "",
+      "opening_anchor": "回到大兴客栈阿巧姐一面收拾随身动用什物一面问起胡雪岩此行的目的这没有什么隐瞒的必"
+    },
+    {
+      "chapter_number_label": "二十五",
+      "old_start": {
+        "line_1based": 20425,
+        "byte_offset_0based": 1673177,
+        "decoded_char_offset_0based": 598697
+      },
+      "new_start": {
+        "line_1based": 20448,
+        "byte_offset_0based": 1652222,
+        "decoded_char_offset_0based": 578158
+      },
+      "prefix_in_old": "二十五",
+      "prefix_in_new": "二十五",
+      "opening_anchor": "等这些人走了阿巧姐也可以露面了萌雪岩觉得已到了一切跟她说明白的时候于是凝神想了想"
+    },
+    {
+      "chapter_number_label": "二十六",
+      "old_start": {
+        "line_1based": 21459,
+        "byte_offset_0based": 1760089,
+        "decoded_char_offset_0based": 629741
+      },
+      "new_start": {
+        "line_1based": 21482,
+        "byte_offset_0based": 1738100,
+        "decoded_char_offset_0based": 608168
+      },
+      "prefix_in_old": "二十六",
+      "prefix_in_new": "二十六",
+      "opening_anchor": "胡雪岩到了上海仍旧在投大兴客栈行李还不曾安顿好就写条子叫客栈专人送到七姑奶奶的寓"
+    },
+    {
+      "chapter_number_label": "二十七",
+      "old_start": {
+        "line_1based": 22297,
+        "byte_offset_0based": 1824329,
+        "decoded_char_offset_0based": 652835
+      },
+      "new_start": {
+        "line_1based": 22320,
+        "byte_offset_0based": 1801502,
+        "decoded_char_offset_0based": 630424
+      },
+      "prefix_in_old": "二十七",
+      "prefix_in_new": "二十七",
+      "opening_anchor": "到了松江船泊秀野桥下都上了岸先到尤家休息尤五奶奶大出意外少不得有一番寒暄张罗尤家"
+    },
+    {
+      "chapter_number_label": "二十八",
+      "old_start": {
+        "line_1based": 23529,
+        "byte_offset_0based": 1925019,
+        "decoded_char_offset_0based": 688869
+      },
+      "new_start": {
+        "line_1based": 23552,
+        "byte_offset_0based": 1900978,
+        "decoded_char_offset_0based": 665240
+      },
+      "prefix_in_old": "二十八",
+      "prefix_in_new": "二十八",
+      "opening_anchor": "安下了这支伏兵胡雪岩才算放下心来第二天一早起身漱洗穿戴刚刚停当杨凤毛就到了一起吃"
+    },
+    {
+      "chapter_number_label": "二十九",
+      "old_start": {
+        "line_1based": 24317,
+        "byte_offset_0based": 1997838,
+        "decoded_char_offset_0based": 714720
+      },
+      "new_start": {
+        "line_1based": 24340,
+        "byte_offset_0based": 1973009,
+        "decoded_char_offset_0based": 690303
+      },
+      "prefix_in_old": "二十九",
+      "prefix_in_new": "二十九",
+      "opening_anchor": "这轻飘飘的一封八行在胡雪岩感觉中仿佛肩上压下一副沉重的担子"
+    },
+    {
+      "chapter_number_label": "三十",
+      "old_start": {
+        "line_1based": 25671,
+        "byte_offset_0based": 2101625,
+        "decoded_char_offset_0based": 752031
+      },
+      "new_start": {
+        "line_1based": 25694,
+        "byte_offset_0based": 2075462,
+        "decoded_char_offset_0based": 726266
+      },
+      "prefix_in_old": "三十",
+      "prefix_in_new": "三十",
+      "opening_anchor": "第二天一早便有人敲门妙珠惊醒了问道是不是阿金做啥"
+    },
+    {
+      "chapter_number_label": "三十一",
+      "old_start": {
+        "line_1based": 26353,
+        "byte_offset_0based": 2159792,
+        "decoded_char_offset_0based": 772802
+      },
+      "new_start": {
+        "line_1based": 26376,
+        "byte_offset_0based": 2132961,
+        "decoded_char_offset_0based": 746357
+      },
+      "prefix_in_old": "三十一",
+      "prefix_in_new": "三十一",
+      "opening_anchor": "朱福年的把柄虽已入手胡雪岩却反丢开了他做事一向往好的方面走眼前的唯一大事是与庞二"
+    }
+  ],
+  "volume_boundaries": {
+    "上": {
+      "old_start_line": 11,
+      "old_last_body_line": 9277,
+      "new_start_line": 8,
+      "new_last_body_line": 9280
+    },
+    "中": {
+      "old_start_line": 9279,
+      "old_last_body_line": 17693,
+      "new_start_line": 9284,
+      "new_last_body_line": 17714
+    },
+    "下": {
+      "old_start_line": 17695,
+      "old_last_body_line": 26905,
+      "new_start_line": 17718,
+      "new_last_body_line": 26928
+    }
+  },
+  "safe_typo_fixes": [
+    {
+      "old_line": 353,
+      "old": "精神夏",
+      "new": "精神复",
+      "new_line": 348
+    },
+    {
+      "old_line": 1469,
+      "old": "三有龄",
+      "new": "王有龄",
+      "new_line": 1454
+    },
+    {
+      "old_line": 3529,
+      "old": "在五有龄",
+      "new": "在王有龄",
+      "new_line": 3518
+    }
+  ],
+  "unresolved_variant": {
+    "old_line": 439,
+    "new_line": 432,
+    "old": "你是科甲出身",
+    "new": "我是科甲出身",
+    "recommendation": "保留旧稿，未凭出版文本独立确认"
+  },
+  "heading_24": {
+    "old_search_interval_lines": [
+      18987,
+      20424
+    ],
+    "new_search_interval_lines": [
+      19012,
+      20447
+    ],
+    "status": "两文件均未找到分界；无新增文字可据以补题；不强行猜分界"
+  },
+  "normalization_statistics": {
+    "old_alphanumeric_chars": 589043,
+    "new_alphanumeric_chars": 589163,
+    "matched_alphanumeric_chars": 589039,
+    "changed_single_chars": 4,
+    "new_watermark_insertions": 13,
+    "new_watermark_alphanumeric_chars": 120,
+    "line_join_events": 9,
+    "body_insertions_or_deletions_excluding_watermarks": 0
+  },
+  "references": [
+    {
+      "url": "https://store.linkingbooks.com.tw/product/18458602",
+      "publisher": "聯經",
+      "edition": "胡雪巖（新校版）（中） ISBN 9789570854275",
+      "catalog": "第十二章至第二十一章",
+      "evidence": "网页检索完整目录与第十二章选文起首，和本地章节对应"
+    },
+    {
+      "url": "https://www.kingstone.com.tw/basic/2800000215699/?actid=basic_ver",
+      "publisher": "聯經（目录由金石堂载录）",
+      "edition": "胡雪巖（新校版）（下） ISBN 9789570854282",
+      "catalog": "第二十二章至第三十一章"
+    },
+    {
+      "url": "https://www.kingstone.com.tw/basic/2018630179827/?actid=r2510001_1&lid=book_class3_jid",
+      "publisher": "聯經（目录由金石堂载录）",
+      "edition": "胡雪巖（新校版）（上） ISBN 9789570854268",
+      "catalog": "楔子、第一章至第十一章"
+    }
+  ],
+  "limitations": [
+    "两稿高度同源，差异对齐不能发现双方共同缺失。",
+    "目录和卷首选文证明卷次范围，未对照纸本全部正文，不称出版级完整校本。",
+    "规范化对齐忽略标点和空白，不能据此评定标点质量。",
+    "字节偏移按实际UTF-8原文件；字符偏移按原始换行解码，非read_text换行转换后索引。"
+  ],
+  "input_sha256": {
+    "old": "27ded7a0aa0482b15b146c349d02dee34c92be0107317481d5123b2c2f498238",
+    "new": "8a39ae387ab2120a65acd6c978748baee9762ef7b9390c977d280108620d9a36"
+  }
+}

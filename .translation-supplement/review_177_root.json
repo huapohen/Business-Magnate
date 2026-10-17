@@ -1,0 +1,24 @@
+{
+  "parts": [
+    177
+  ],
+  "reviewer": "root",
+  "method": "Read every supplied nonempty source line against its complete English paragraph.",
+  "findings": [
+    {
+      "span": "2757-2761",
+      "issue": "伤养好了 describes completed recovery, not a future condition.",
+      "before": "Once the injury heals, I shall merely move less easily. I am not confined to bed.",
+      "after": "Besides, the injury has healed; at worst, moving about is a little inconvenient. I am not confined to bed.",
+      "status": "fixed"
+    }
+  ],
+  "checked": [
+    "Source coverage",
+    "30–50万 capacity versus actual initial5万",
+    "3000 net profit on5万 equals6% overtwo months",
+    "Monthly0.25% borrowing versus0.5% two-monthinterest",
+    "Two-to-oneprofit split and one-year no-withdrawalagreement",
+    "Narrator’s private-motive explanation versus public courtesies"
+  ]
+}

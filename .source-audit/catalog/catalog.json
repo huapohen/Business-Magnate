@@ -1,0 +1,175 @@
+{
+  "verified_date": "2026-10-17",
+  "basis": "聯經出版社2020新校版官方產品頁目次；冊數與大陸五部/七冊排法不同，按連續章號對照，不把物理分冊當缺卷證據。",
+  "volumes": [
+    {
+      "title": "胡雪巖（新校版）（上）",
+      "maps_to": "平步青云上",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "additional": [
+        "楔子"
+      ],
+      "url": "https://store.linkingbooks.com.tw/product/18458601"
+    },
+    {
+      "title": "胡雪巖（新校版）（中）",
+      "maps_to": "平步青云中",
+      "chapters": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "url": "https://store.linkingbooks.com.tw/product/18458602"
+    },
+    {
+      "title": "胡雪巖（新校版）（下）",
+      "maps_to": "平步青云下",
+      "chapters": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "url": "https://store.linkingbooks.com.tw/product/18458603"
+    },
+    {
+      "title": "紅頂商人（新校版）",
+      "maps_to": "红顶商人",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "url": "https://store.linkingbooks.com.tw/product/184590"
+    },
+    {
+      "title": "燈火樓台（新校版）（上）",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "url": "https://store.linkingbooks.com.tw/product/18458801"
+    },
+    {
+      "title": "燈火樓台（新校版）（下）",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "url": "https://store.linkingbooks.com.tw/product/18458802"
+    }
+  ],
+  "five_part_mapping": [
+    {
+      "part": "平步青云",
+      "chapter_count": 31,
+      "publisher_sections": "胡雪巖上、中、下"
+    },
+    {
+      "part": "红顶商人",
+      "chapter_count": 11,
+      "publisher_sections": "紅頂商人"
+    },
+    {
+      "part": "灯火楼台",
+      "chapter_count": 7,
+      "publisher_chapters": "燈火樓台1–7"
+    },
+    {
+      "part": "萧瑟洋场",
+      "chapter_count": 7,
+      "publisher_chapters": "燈火樓台8–14"
+    },
+    {
+      "part": "烟消云散",
+      "chapter_count": 13,
+      "publisher_chapters": "燈火樓台15–27"
+    }
+  ],
+  "lantern_titles": [
+    "出將入相",
+    "深宮疑雲",
+    "元寶街",
+    "美人計",
+    "螺螄太太",
+    "曲折情關",
+    "幫夫運",
+    "壽域宏開",
+    "千絲萬縷",
+    "力爭上游",
+    "移花接木",
+    "蕭瑟洋場",
+    "改絃易轍",
+    "家有喜事",
+    "甲申之變",
+    "變起不測",
+    "仗義執言",
+    "夜訪藩司",
+    "迴光返照",
+    "探驪得珠",
+    "大封典舖",
+    "贈妾酬友",
+    "少年綺夢",
+    "不堪回首",
+    "人去樓空",
+    "城狐社鼠",
+    "煙消雲散"
+  ],
+  "limits": "目录核验只证明章次结构。未获得同版完整官方正文，因此不能保证网络TXT逐字无缺、无错。"
+}

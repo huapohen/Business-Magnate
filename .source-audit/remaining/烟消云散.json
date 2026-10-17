@@ -1,0 +1,1216 @@
+{
+  "name": "烟消云散",
+  "ranges": [
+    [
+      32484,
+      40926
+    ],
+    [
+      38012,
+      46479
+    ]
+  ],
+  "normalized_lengths": [
+    171412,
+    171645
+  ],
+  "equal": 171400,
+  "differences": [
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 0,
+        "normalized_end": 0,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 0,
+        "normalized_end": 1,
+        "char_start": 1261585,
+        "char_end": 1261586,
+        "line_start": 38012,
+        "line_end": 38012,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "",
+      "old_after": "一甲申之变上海的市面更坏了是受了法国在越南的战事的影响法国凯",
+      "new_before": "",
+      "new_after": "一章甲申之变上海的市面更坏了是受了法国在越南的战事的影响法国"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 1,
+        "normalized_end": 1,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 2,
+        "normalized_end": 3,
+        "char_start": 1261587,
+        "char_end": 1261588,
+        "line_start": 38012,
+        "line_end": 38012,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "一",
+      "old_after": "甲申之变上海的市面更坏了是受了法国在越南的战事的影响法国凯觎",
+      "new_before": "第一",
+      "new_after": "甲申之变上海的市面更坏了是受了法国在越南的战事的影响法国凯觎"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 10074,
+        "normalized_end": 10074,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 10076,
+        "normalized_end": 10083,
+        "char_start": 1273743,
+        "char_end": 1273756,
+        "line_start": 38334,
+        "line_end": 38334,
+        "char_count": 7,
+        "text": "奇*书*网-整*理*提*供"
+      },
+      "old_before": "胡雪岩倒是听了许多内幕据说李鸿章已向总理衙门正式表明他的看法",
+      "old_after": "中国实力不足对越南之事应早结束舍此别无良法但总理衙门主张将法",
+      "new_before": "胡雪岩倒是听了许多内幕据说李鸿章已向总理衙门正式表明他的看法",
+      "new_after": "中国实力不足对越南之事应早结束舍此别无良法但总理衙门主张将法"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 10238,
+        "normalized_end": 10238,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 10247,
+        "normalized_end": 10255,
+        "char_start": 1273958,
+        "char_end": 1273972,
+        "line_start": 38340,
+        "line_end": 38340,
+        "char_count": 8,
+        "text": "奇+書网-QＩＳuu.cＯm"
+      },
+      "old_before": "彼此耗的局面就不知道谁耗得过谁了那么照凤翁看是哪个耗得过哪个",
+      "old_after": "这一层很难说不过在法国原来只有他们的外务部长最强硬现在意见已",
+      "new_before": "彼此耗的局面就不知道谁耗得过谁了那么照凤翁看是哪个耗得过哪个",
+      "new_after": "这一层很难说不过在法国原来只有他们的外务部长最强硬现在意见已"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 15898,
+        "normalized_end": 15898,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 15915,
+        "normalized_end": 15929,
+        "char_start": 1280989,
+        "char_end": 1281003,
+        "line_start": 38600,
+        "line_end": 38600,
+        "char_count": 14,
+        "text": "www奇Qisuu书com网"
+      },
+      "old_before": "西征军事顺手全靠枪炮厉害这一点湘阴在京的时候跟醇王谈得很详细",
+      "old_after": "醇王现在完全赞成中堂的主张师夷之长以制夷正在筹划一个辟旅顺为",
+      "new_before": "西征军事顺手全靠枪炮厉害这一点湘阴在京的时候跟醇王谈得很详细",
+      "new_after": "醇王现在完全赞成中堂的主张师夷之长以制夷正在筹划一个辟旅顺为"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 21543,
+        "normalized_end": 21543,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 21574,
+        "normalized_end": 21575,
+        "char_start": 1288068,
+        "char_end": 1288069,
+        "line_start": 38904,
+        "line_end": 38904,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "到宁波去了这里怎么办谁也不知道怎么办只有阿章说了句只好上排门",
+      "old_after": "二变起不测螺蛳太太已经上床了丫头红儿来报中门上传话进来说旱康",
+      "new_before": "到宁波去了这里怎么办谁也不知道怎么办只有阿章说了句只好上排门",
+      "new_after": "二章变起不测螺蛳太太已经上床了丫头红儿来报中门上传话进来说旱"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 21544,
+        "normalized_end": 21544,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 21576,
+        "normalized_end": 21577,
+        "char_start": 1288070,
+        "char_end": 1288071,
+        "line_start": 38904,
+        "line_end": 38904,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "宁波去了这里怎么办谁也不知道怎么办只有阿章说了句只好上排门二",
+      "old_after": "变起不测螺蛳太太已经上床了丫头红儿来报中门上传话进来说旱康的",
+      "new_before": "波去了这里怎么办谁也不知道怎么办只有阿章说了句只好上排门第二",
+      "new_after": "变起不测螺蛳太太已经上床了丫头红儿来报中门上传话进来说旱康的"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 30531,
+        "normalized_end": 30531,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 30564,
+        "normalized_end": 30572,
+        "char_start": 1299281,
+        "char_end": 1299295,
+        "line_start": 39338,
+        "line_end": 39338,
+        "char_count": 8,
+        "text": "奇+書网-QＩＳuu.cＯm"
+      },
+      "old_before": "点发烧但力持镇静不过要想象平时那样有说有笑却怎么样也办不到了",
+      "old_after": "怎么不要紧一块金字招牌擦亮来不容易要弄脏它很方便螺蛳太太慢条",
+      "new_before": "点发烧但力持镇静不过要想象平时那样有说有笑却怎么样也办不到了",
+      "new_after": "怎么不要紧一块金字招牌擦亮来不容易要弄脏它很方便螺蛳太太慢条"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 31102,
+        "normalized_end": 31102,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 31143,
+        "normalized_end": 31146,
+        "char_start": 1300019,
+        "char_end": 1300025,
+        "line_start": 39370,
+        "line_end": 39370,
+        "char_count": 3,
+        "text": "奇--書∧網"
+      },
+      "old_before": "德馨跟胡雪岩的交情很厚私底下管他叫胡大哥对螺蛳太太便叫罗四姐",
+      "old_after": "他一开口便问罗四姐雪岩什么时候回来今天下半天唉他顿一顿足说就",
+      "new_before": "德馨跟胡雪岩的交情很厚私底下管他叫胡大哥对螺蛳太太便叫罗四姐",
+      "new_after": "他一开口便问罗四姐雪岩什么时候回来今天下半天唉他顿一顿足说就"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 33668,
+        "normalized_end": 33668,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 33712,
+        "normalized_end": 33719,
+        "char_start": 1303343,
+        "char_end": 1303356,
+        "line_start": 39520,
+        "line_end": 39520,
+        "char_count": 7,
+        "text": "奇*书*网-整*理*提*供"
+      },
+      "old_before": "上园子也好本主儿那里还没有唱过角儿就不能在别处漏一漏他的玩艺",
+      "old_after": "有这个规矩没有有德馨答说不过这个规矩用不上如今我是不想再听灵",
+      "new_before": "上园子也好本主儿那里还没有唱过角儿就不能在别处漏一漏他的玩艺",
+      "new_after": "有这个规矩没有有德馨答说不过这个规矩用不上如今我是不想再听灵"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 34694,
+        "normalized_end": 34694,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 34745,
+        "normalized_end": 34746,
+        "char_start": 1304653,
+        "char_end": 1304654,
+        "line_start": 39568,
+        "line_end": 39568,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "馨的意思是想升巡抚莲珠便即答说只要左大人赏识你换顶戴也快得很",
+      "old_after": "三仗义执言杭州府知府吴云一名吴世荣到任才一个多月对于杭州的情",
+      "new_before": "馨的意思是想升巡抚莲珠便即答说只要左大人赏识你换顶戴也快得很",
+      "new_after": "三章仗义执言杭州府知府吴云一名吴世荣到任才一个多月对于杭州的"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 34695,
+        "normalized_end": 34695,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 34747,
+        "normalized_end": 34748,
+        "char_start": 1304655,
+        "char_end": 1304656,
+        "line_start": 39568,
+        "line_end": 39568,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "的意思是想升巡抚莲珠便即答说只要左大人赏识你换顶戴也快得很三",
+      "old_after": "仗义执言杭州府知府吴云一名吴世荣到任才一个多月对于杭州的情形",
+      "new_before": "意思是想升巡抚莲珠便即答说只要左大人赏识你换顶戴也快得很第三",
+      "new_after": "仗义执言杭州府知府吴云一名吴世荣到任才一个多月对于杭州的情形"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 42382,
+        "normalized_end": 42382,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 42435,
+        "normalized_end": 42448,
+        "char_start": 1314193,
+        "char_end": 1314207,
+        "line_start": 39904,
+        "line_end": 39904,
+        "char_count": 13,
+        "text": "16ks.com一路在线看书"
+      },
+      "old_before": "衙门的织工一家人的生计都与丝有关对于新式缫丝厂的情况相当清楚",
+      "old_after": "当即答说我娘先没有生活做现在又有了是啥辰光没有生活做上海洋机",
+      "new_before": "衙门的织工一家人的生计都与丝有关对于新式缫丝厂的情况相当清楚",
+      "new_after": "当即答说我娘先没有生活做现在又有了是啥辰光没有生活做上海洋机"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 44192,
+        "normalized_end": 44192,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 44258,
+        "normalized_end": 44259,
+        "char_start": 1316483,
+        "char_end": 1316484,
+        "line_start": 39986,
+        "line_end": 39986,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "道风潮只是暂时平息重头戏在后面只待主角胡雪岩一回来便要登场了",
+      "old_after": "四夜访藩司胡雪岩船到望仙桥恰正是周少棠舌战黄八麻子在大开玩笑",
+      "new_before": "道风潮只是暂时平息重头戏在后面只待主角胡雪岩一回来便要登场了",
+      "new_after": "四章夜访藩司胡雪岩船到望仙桥恰正是周少棠舌战黄八麻子在大开玩"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 44193,
+        "normalized_end": 44193,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 44260,
+        "normalized_end": 44261,
+        "char_start": 1316485,
+        "char_end": 1316486,
+        "line_start": 39986,
+        "line_end": 39986,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "风潮只是暂时平息重头戏在后面只待主角胡雪岩一回来便要登场了四",
+      "old_after": "夜访藩司胡雪岩船到望仙桥恰正是周少棠舌战黄八麻子在大开玩笑的",
+      "new_before": "潮只是暂时平息重头戏在后面只待主角胡雪岩一回来便要登场了第四",
+      "new_after": "夜访藩司胡雪岩船到望仙桥恰正是周少棠舌战黄八麻子在大开玩笑的"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 56704,
+        "normalized_end": 56704,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 56772,
+        "normalized_end": 56773,
+        "char_start": 1332219,
+        "char_end": 1332220,
+        "line_start": 40624,
+        "line_end": 40624,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "要走了莲珠起身说道你们也早点休息初五办喜事一定要把精神打起来",
+      "old_after": "五回光返照从第二天起阜康照常开门典当药店丝行凡是胡雪岩的事业",
+      "new_before": "要走了莲珠起身说道你们也早点休息初五办喜事一定要把精神打起来",
+      "new_after": "五章回光返照从第二天起阜康照常开门典当药店丝行凡是胡雪岩的事"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 56705,
+        "normalized_end": 56705,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 56774,
+        "normalized_end": 56775,
+        "char_start": 1332221,
+        "char_end": 1332222,
+        "line_start": 40624,
+        "line_end": 40624,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "走了莲珠起身说道你们也早点休息初五办喜事一定要把精神打起来五",
+      "old_after": "回光返照从第二天起阜康照常开门典当药店丝行凡是胡雪岩的事业无",
+      "new_before": "了莲珠起身说道你们也早点休息初五办喜事一定要把精神打起来第五",
+      "new_after": "回光返照从第二天起阜康照常开门典当药店丝行凡是胡雪岩的事业无"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 62754,
+        "normalized_end": 62754,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 62824,
+        "normalized_end": 62838,
+        "char_start": 1339621,
+        "char_end": 1339635,
+        "line_start": 40878,
+        "line_end": 40878,
+        "char_count": 14,
+        "text": "www奇Qisuu书com网"
+      },
+      "old_before": "臣备战备战等于打仗打仗要钱两江藩库空虚左爵相向雪岩作将伯之呼",
+      "old_after": "不能不勉力相助以致头寸更紧亦是被挤的原因之一不必不必胡雪岩表",
+      "new_before": "臣备战备战等于打仗打仗要钱两江藩库空虚左爵相向雪岩作将伯之呼",
+      "new_after": "不能不勉力相助以致头寸更紧亦是被挤的原因之一不必不必胡雪岩表"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 66495,
+        "normalized_end": 66495,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 66579,
+        "normalized_end": 66580,
+        "char_start": 1344251,
+        "char_end": 1344252,
+        "line_start": 41028,
+        "line_end": 41028,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "来以后却悄悄嘱咐阿云传话客房不论乌先生睡了没有请他马上来一趟",
+      "old_after": "六探骊得珠乌先生却还未睡所以一请就到他是第一次见德馨在胡雪岩",
+      "new_before": "来以后却悄悄嘱咐阿云传话客房不论乌先生睡了没有请他马上来一趟",
+      "new_after": "六章探骊得珠乌先生却还未睡所以一请就到他是第一次见德馨在胡雪"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 66496,
+        "normalized_end": 66496,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 66581,
+        "normalized_end": 66582,
+        "char_start": 1344253,
+        "char_end": 1344254,
+        "line_start": 41028,
+        "line_end": 41028,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "以后却悄悄嘱咐阿云传话客房不论乌先生睡了没有请他马上来一趟六",
+      "old_after": "探骊得珠乌先生却还未睡所以一请就到他是第一次见德馨在胡雪岩引",
+      "new_before": "后却悄悄嘱咐阿云传话客房不论乌先生睡了没有请他马上来一趟第六",
+      "new_after": "探骊得珠乌先生却还未睡所以一请就到他是第一次见德馨在胡雪岩引"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 69937,
+        "normalized_end": 69937,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 70023,
+        "normalized_end": 70034,
+        "char_start": 1348542,
+        "char_end": 1348554,
+        "line_start": 41176,
+        "line_end": 41176,
+        "char_count": 11,
+        "text": "奇qinkan.net书"
+      },
+      "old_before": "古应春但他的号召力不够必得自己到上海在古应春协助之下才有希望",
+      "old_after": "照这个想法来说他交出全部帐目债务由公家来替他抵挡一阵等于获得",
+      "new_before": "古应春但他的号召力不够必得自己到上海在古应春协助之下才有希望",
+      "new_after": "照这个想法来说他交出全部帐目债务由公家来替他抵挡一阵等于获得"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 77614,
+        "normalized_end": 77614,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 77711,
+        "normalized_end": 77712,
+        "char_start": 1358206,
+        "char_end": 1358207,
+        "line_start": 41556,
+        "line_end": 41556,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "要用真的你们老太太尊姓姓李我就叫你老李了离这里不远我们走了去",
+      "old_after": "七大封典铺杨书办惠了帐带着马逢时穿过两条街进入一条曲曲折折的",
+      "new_before": "要用真的你们老太太尊姓姓李我就叫你老李了离这里不远我们走了去",
+      "new_after": "七章大封典铺杨书办惠了帐带着马逢时穿过两条街进入一条曲曲折折"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 77615,
+        "normalized_end": 77615,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 77713,
+        "normalized_end": 77714,
+        "char_start": 1358208,
+        "char_end": 1358209,
+        "line_start": 41556,
+        "line_end": 41556,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "用真的你们老太太尊姓姓李我就叫你老李了离这里不远我们走了去七",
+      "old_after": "大封典铺杨书办惠了帐带着马逢时穿过两条街进入一条曲曲折折的小",
+      "new_before": "真的你们老太太尊姓姓李我就叫你老李了离这里不远我们走了去第七",
+      "new_after": "大封典铺杨书办惠了帐带着马逢时穿过两条街进入一条曲曲折折的小"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 85506,
+        "normalized_end": 85506,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 85605,
+        "normalized_end": 85612,
+        "char_start": 1368123,
+        "char_end": 1368132,
+        "line_start": 41976,
+        "line_end": 41976,
+        "char_count": 7,
+        "text": "奇#書*網收集整理"
+      },
+      "old_before": "走有三天工夫总可以收拾好不动产只好摆在那里再说不过这三天当中",
+      "old_after": "会不会出事呢当然要用缓兵之计杨书办要我今天晚上就去看周少棠他",
+      "new_before": "走有三天工夫总可以收拾好不动产只好摆在那里再说不过这三天当中",
+      "new_after": "会不会出事呢当然要用缓兵之计杨书办要我今天晚上就去看周少棠他"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 86843,
+        "normalized_end": 86843,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 86949,
+        "normalized_end": 86962,
+        "char_start": 1369848,
+        "char_end": 1369862,
+        "line_start": 42058,
+        "line_end": 42058,
+        "char_count": 13,
+        "text": "16ks.com一路在线看书"
+      },
+      "old_before": "我同我的几个妾说我放你们一条生路愿意走的自己房间里东西都带走",
+      "old_after": "我另外送五千银子想想月如总同我好过现在有了这样一个机会我想放",
+      "new_before": "我同我的几个妾说我放你们一条生路愿意走的自己房间里东西都带走",
+      "new_after": "我另外送五千银子想想月如总同我好过现在有了这样一个机会我想放"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 90415,
+        "normalized_end": 90415,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 90534,
+        "normalized_end": 90537,
+        "char_start": 1374372,
+        "char_end": 1374378,
+        "line_start": 42238,
+        "line_end": 42238,
+        "char_count": 3,
+        "text": "奇--書∧網"
+      },
+      "old_before": "少到了财神落难好比变了瘟神哪个不是见了他就躲只有周老爷看不过",
+      "old_after": "出来说公道话如今一看周老爷的相貌就晓得是行善积德得饶人处且饶",
+      "new_before": "少到了财神落难好比变了瘟神哪个不是见了他就躲只有周老爷看不过",
+      "new_after": "出来说公道话如今一看周老爷的相貌就晓得是行善积德得饶人处且饶"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 90635,
+        "normalized_end": 90635,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 90757,
+        "normalized_end": 90765,
+        "char_start": 1374647,
+        "char_end": 1374657,
+        "line_start": 42246,
+        "line_end": 42246,
+        "char_count": 8,
+        "text": "奇书-整理-提供下载"
+      },
+      "old_before": "并非如何讲究但颇为人味周少棠喜爱糟臃之物所以对糟蒸白鱼家乡肉",
+      "old_after": "醉蟹这三样肴馔格外欣赏听说家乡肉醉蟹并非市售而是月如手制便更",
+      "new_before": "并非如何讲究但颇为人味周少棠喜爱糟臃之物所以对糟蒸白鱼家乡肉",
+      "new_after": "醉蟹这三样肴馔格外欣赏听说家乡肉醉蟹并非市售而是月如手制便更"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 98392,
+        "normalized_end": 98392,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 98522,
+        "normalized_end": 98523,
+        "char_start": 1384513,
+        "char_end": 1384514,
+        "line_start": 42670,
+        "line_end": 42670,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "尽管请过来我还有几样拿手菜烧出来请你尝尝好极好极一定要来叨扰",
+      "old_after": "八赠妾酬友由于有事回到家只睡了一会儿周少棠便已醒来匆匆赶到杨",
+      "new_before": "尽管请过来我还有几样拿手菜烧出来请你尝尝好极好极一定要来叨扰",
+      "new_after": "八章赠妾酬友由于有事回到家只睡了一会儿周少棠便已醒来匆匆赶到"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 98393,
+        "normalized_end": 98393,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 98524,
+        "normalized_end": 98525,
+        "char_start": 1384515,
+        "char_end": 1384516,
+        "line_start": 42670,
+        "line_end": 42670,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "管请过来我还有几样拿手菜烧出来请你尝尝好极好极一定要来叨扰八",
+      "old_after": "赠妾酬友由于有事回到家只睡了一会儿周少棠便已醒来匆匆赶到杨家",
+      "new_before": "请过来我还有几样拿手菜烧出来请你尝尝好极好极一定要来叨扰第八",
+      "new_after": "赠妾酬友由于有事回到家只睡了一会儿周少棠便已醒来匆匆赶到杨家"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 109338,
+        "normalized_end": 109338,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 109470,
+        "normalized_end": 109471,
+        "char_start": 1398517,
+        "char_end": 1398518,
+        "line_start": 43286,
+        "line_end": 43286,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "都不带与古应春一起出了客栈先到电报局发了密电安步当车闲逛夜市",
+      "old_after": "九少年绮梦走过一家小饭馆胡雪岩止住了脚古应春亦跟着停了下来那",
+      "new_before": "都不带与古应春一起出了客栈先到电报局发了密电安步当车闲逛夜市",
+      "new_after": "九章少年绮梦走过一家小饭馆胡雪岩止住了脚古应春亦跟着停了下来"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 109339,
+        "normalized_end": 109339,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 109472,
+        "normalized_end": 109473,
+        "char_start": 1398519,
+        "char_end": 1398520,
+        "line_start": 43286,
+        "line_end": 43286,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "不带与古应春一起出了客栈先到电报局发了密电安步当车闲逛夜市九",
+      "old_after": "少年绮梦走过一家小饭馆胡雪岩止住了脚古应春亦跟着停了下来那有",
+      "new_before": "带与古应春一起出了客栈先到电报局发了密电安步当车闲逛夜市第九",
+      "new_after": "少年绮梦走过一家小饭馆胡雪岩止住了脚古应春亦跟着停了下来那有"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 114352,
+        "normalized_end": 114352,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 114486,
+        "normalized_end": 114500,
+        "char_start": 1405051,
+        "char_end": 1405065,
+        "line_start": 43594,
+        "line_end": 43594,
+        "char_count": 14,
+        "text": "www奇Qisuu书com网"
+      },
+      "old_before": "是件很痛快的事所以这一夜很难得地能够恬然人梦一觉醒来漱洗甫毕",
+      "old_after": "古应春倒已经到了你倒早想陪小爷叔去吃碗茶古应春问道昨天晚上睡",
+      "new_before": "是件很痛快的事所以这一夜很难得地能够恬然人梦一觉醒来漱洗甫毕",
+      "new_after": "古应春倒已经到了你倒早想陪小爷叔去吃碗茶古应春问道昨天晚上睡"
+    },
+    {
+      "op": "delete",
+      "old": {
+        "normalized_start": 115862,
+        "normalized_end": 115869,
+        "char_start": 1114198,
+        "char_end": 1114205,
+        "line_start": 38127,
+        "line_end": 38127,
+        "char_count": 7,
+        "text": "William"
+      },
+      "new": {
+        "normalized_start": 116010,
+        "normalized_end": 116010,
+        "char_count": 0,
+        "text": ""
+      },
+      "old_before": "来支付货款都开外国银行的支票在钱庄里的名气很大他的英文名字叫",
+      "old_after": "昵称Billy那些喜欢寻开心的洋行小鬼连他的姓在内替他起了个",
+      "new_before": "来支付货款都开外国银行的支票在钱庄里的名气很大他的英文名字叫",
+      "new_after": "昵称那些喜欢寻开心的洋行小鬼连他的姓在内替他起了个谐音的外号"
+    },
+    {
+      "op": "delete",
+      "old": {
+        "normalized_start": 115871,
+        "normalized_end": 115876,
+        "char_start": 1114209,
+        "char_end": 1114214,
+        "line_start": 38127,
+        "line_end": 38127,
+        "char_count": 5,
+        "text": "Billy"
+      },
+      "new": {
+        "normalized_start": 116012,
+        "normalized_end": 116012,
+        "char_count": 0,
+        "text": ""
+      },
+      "old_before": "银行的支票在钱庄里的名气很大他的英文名字叫William昵称",
+      "old_after": "那些喜欢寻开心的洋行小鬼连他的姓在内替他起了个谐音的外号叫屁",
+      "new_before": "付货款都开外国银行的支票在钱庄里的名气很大他的英文名字叫昵称",
+      "new_after": "那些喜欢寻开心的洋行小鬼连他的姓在内替他起了个谐音的外号叫屁"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 118253,
+        "normalized_end": 118253,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 118389,
+        "normalized_end": 118396,
+        "char_start": 1409912,
+        "char_end": 1409925,
+        "line_start": 43776,
+        "line_end": 43776,
+        "char_count": 7,
+        "text": "奇*书*网-整*理*提*供"
+      },
+      "old_before": "胡老爷送你的更何况人家是为了完当年的一笔人情债送的人光明正大",
+      "old_after": "受的人正大光明朱老板如果问一句你为啥不收请问你怎么同他说阿彩",
+      "new_before": "胡老爷送你的更何况人家是为了完当年的一笔人情债送的人光明正大",
+      "new_after": "受的人正大光明朱老板如果问一句你为啥不收请问你怎么同他说阿彩"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 119327,
+        "normalized_end": 119327,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 119470,
+        "normalized_end": 119471,
+        "char_start": 1411244,
+        "char_end": 1411245,
+        "line_start": 43820,
+        "line_end": 43820,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "留下了地址告辞出门回想经过自觉做了一件很潇洒的事胸怀为之一宽",
+      "old_after": "十不堪回首见了七姑奶奶彼此都有隔世之感两人对望着忍不住心酸落",
+      "new_before": "留下了地址告辞出门回想经过自觉做了一件很潇洒的事胸怀为之一宽",
+      "new_after": "十章不堪回首见了七姑奶奶彼此都有隔世之感两人对望着忍不住心酸"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 119328,
+        "normalized_end": 119328,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 119472,
+        "normalized_end": 119473,
+        "char_start": 1411246,
+        "char_end": 1411247,
+        "line_start": 43820,
+        "line_end": 43820,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "下了地址告辞出门回想经过自觉做了一件很潇洒的事胸怀为之一宽十",
+      "old_after": "不堪回首见了七姑奶奶彼此都有隔世之感两人对望着忍不住心酸落泪",
+      "new_before": "了地址告辞出门回想经过自觉做了一件很潇洒的事胸怀为之一宽第十",
+      "new_after": "不堪回首见了七姑奶奶彼此都有隔世之感两人对望着忍不住心酸落泪"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 128224,
+        "normalized_end": 128224,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 128369,
+        "normalized_end": 128376,
+        "char_start": 1422402,
+        "char_end": 1422411,
+        "line_start": 44260,
+        "line_end": 44260,
+        "char_count": 7,
+        "text": "奇#書*網收集整理"
+      },
+      "old_before": "营大宅其杭宅尤为富丽皆规禁制仿西法屡毁屡造厅事间四壁皆设尊罍",
+      "old_after": "略无空隙皆秦汉物每值于金以碗沙捣细涂墙扪之有棱可以百年不朽园",
+      "new_before": "营大宅其杭宅尤为富丽皆规禁制仿西法屡毁屡造厅事间四壁皆设尊罍",
+      "new_after": "略无空隙皆秦汉物每值于金以碗沙捣细涂墙扪之有棱可以百年不朽园"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 131954,
+        "normalized_end": 131954,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 132106,
+        "normalized_end": 132107,
+        "char_start": 1427152,
+        "char_end": 1427153,
+        "line_start": 44468,
+        "line_end": 44468,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "棠了对胡雪岩望然而起去寻少棠慢点螺蛳太太急忙说道我们先谈一谈",
+      "old_after": "十一人去楼空两人并坐低声谈了好一会方始结束胡雪岩戴了一顶风帽",
+      "new_before": "棠了对胡雪岩望然而起去寻少棠慢点螺蛳太太急忙说道我们先谈一谈",
+      "new_after": "十一章人去楼空两人并坐低声谈了好一会方始结束胡雪岩戴了一顶风"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 131956,
+        "normalized_end": 131956,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 132109,
+        "normalized_end": 132110,
+        "char_start": 1427155,
+        "char_end": 1427156,
+        "line_start": 44468,
+        "line_end": 44468,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "对胡雪岩望然而起去寻少棠慢点螺蛳太太急忙说道我们先谈一谈十一",
+      "old_after": "人去楼空两人并坐低声谈了好一会方始结束胡雪岩戴了一顶风帽帽檐",
+      "new_before": "胡雪岩望然而起去寻少棠慢点螺蛳太太急忙说道我们先谈一谈第十一",
+      "new_after": "人去楼空两人并坐低声谈了好一会方始结束胡雪岩戴了一顶风帽帽檐"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 144890,
+        "normalized_end": 144890,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 145044,
+        "normalized_end": 145045,
+        "char_start": 1443613,
+        "char_end": 1443614,
+        "line_start": 45170,
+        "line_end": 45170,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "乌先生插嘴说道大概有段故事在内大先生是不是不错我来讲给你们听",
+      "old_after": "十二城狐社鼠胡雪岩讲的是一个掘藏的故事凡是大乱以后抚缉流亡秩",
+      "new_before": "乌先生插嘴说道大概有段故事在内大先生是不是不错我来讲给你们听",
+      "new_after": "十二章城狐社鼠胡雪岩讲的是一个掘藏的故事凡是大乱以后抚缉流亡"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 144892,
+        "normalized_end": 144892,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 145047,
+        "normalized_end": 145048,
+        "char_start": 1443616,
+        "char_end": 1443617,
+        "line_start": 45170,
+        "line_end": 45170,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "生插嘴说道大概有段故事在内大先生是不是不错我来讲给你们听十二",
+      "old_after": "城狐社鼠胡雪岩讲的是一个掘藏的故事凡是大乱以后抚缉流亡秩序渐",
+      "new_before": "插嘴说道大概有段故事在内大先生是不是不错我来讲给你们听第十二",
+      "new_after": "城狐社鼠胡雪岩讲的是一个掘藏的故事凡是大乱以后抚缉流亡秩序渐"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 149038,
+        "normalized_end": 149038,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 149194,
+        "normalized_end": 149207,
+        "char_start": 1448672,
+        "char_end": 1448686,
+        "line_start": 45316,
+        "line_end": 45316,
+        "char_count": 13,
+        "text": "16ks.com一路在线看书"
+      },
+      "old_before": "是现银还是金珠细软如果是金珠细软如何变卖总要筹足了典屋的款子",
+      "old_after": "才谈到第三步第三步便是由朱宝如亲自到上海去一趟托人介绍严进士",
+      "new_before": "是现银还是金珠细软如果是金珠细软如何变卖总要筹足了典屋的款子",
+      "new_after": "才谈到第三步第三步便是由朱宝如亲自到上海去一趟托人介绍严进士"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 149737,
+        "normalized_end": 149737,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 149906,
+        "normalized_end": 149914,
+        "char_start": 1449594,
+        "char_end": 1449608,
+        "line_start": 45366,
+        "line_end": 45366,
+        "char_count": 8,
+        "text": "奇+書网-QＩＳuu.cＯm"
+      },
+      "old_before": "易朱家驹将他的义父母请了出来说是王培利有两个朋友从上海来找他",
+      "old_after": "在家不甚方便想到客栈里去住几天等会过朋友以后再搬回来住朱宝如",
+      "new_before": "易朱家驹将他的义父母请了出来说是王培利有两个朋友从上海来找他",
+      "new_after": "在家不甚方便想到客栈里去住几天等会过朋友以后再搬回来住朱宝如"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 151852,
+        "normalized_end": 151852,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 152029,
+        "normalized_end": 152040,
+        "char_start": 1452260,
+        "char_end": 1452272,
+        "line_start": 45470,
+        "line_end": 45470,
+        "char_count": 11,
+        "text": "奇qinkan.net书"
+      },
+      "old_before": "分割此图时是在很匆遽的情况之下朱家驹并未细看但即令只看了一眼",
+      "old_after": "图上骰子大的小方块只有一个他可能还记得看真图上多了几个小方块",
+      "new_before": "分割此图时是在很匆遽的情况之下朱家驹并未细看但即令只看了一眼",
+      "new_after": "图上骰子大的小方块只有一个他可能还记得看真图上多了几个小方块"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 157275,
+        "normalized_end": 157275,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 157463,
+        "normalized_end": 157464,
+        "char_start": 1459181,
+        "char_end": 1459182,
+        "line_start": 45780,
+        "line_end": 45780,
+        "char_count": 1,
+        "text": "第"
+      },
+      "old_before": "到队上一问王培利供出朱家驹与朱宝如结果这义父子二人亦双双被捕",
+      "old_after": "十三烟消云散胡雪岩谈朱宝如夫妇的故事话到此处忽然看着乌先生问",
+      "new_before": "到队上一问王培利供出朱家驹与朱宝如结果这义父子二人亦双双被捕",
+      "new_after": "十三章烟消云散胡雪岩谈朱宝如夫妇的故事话到此处忽然看着乌先生"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 157277,
+        "normalized_end": 157277,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 157466,
+        "normalized_end": 157467,
+        "char_start": 1459184,
+        "char_end": 1459185,
+        "line_start": 45780,
+        "line_end": 45780,
+        "char_count": 1,
+        "text": "章"
+      },
+      "old_before": "上一问王培利供出朱家驹与朱宝如结果这义父子二人亦双双被捕十三",
+      "old_after": "烟消云散胡雪岩谈朱宝如夫妇的故事话到此处忽然看着乌先生问道你",
+      "new_before": "一问王培利供出朱家驹与朱宝如结果这义父子二人亦双双被捕第十三",
+      "new_after": "烟消云散胡雪岩谈朱宝如夫妇的故事话到此处忽然看着乌先生问道你"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 161030,
+        "normalized_end": 161030,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 161220,
+        "normalized_end": 161231,
+        "char_start": 1463907,
+        "char_end": 1463919,
+        "line_start": 45962,
+        "line_end": 45962,
+        "char_count": 11,
+        "text": "奇qinkan.net书"
+      },
+      "old_before": "乾隆年间的权相和珅一早起来取一盘五色宝石要看好些辰光名为养眼",
+      "old_after": "回家以后如法炮制这一盘宝石起码要值十万银子第二样是螺蛳太太顶",
+      "new_before": "乾隆年间的权相和珅一早起来取一盘五色宝石要看好些辰光名为养眼",
+      "new_after": "回家以后如法炮制这一盘宝石起码要值十万银子第二样是螺蛳太太顶"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 161894,
+        "normalized_end": 161894,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 162095,
+        "normalized_end": 162109,
+        "char_start": 1465006,
+        "char_end": 1465020,
+        "line_start": 46004,
+        "line_end": 46004,
+        "char_count": 14,
+        "text": "www奇Qisuu书com网"
+      },
+      "old_before": "赈山西巡抚曾国荃专折请奖蒙慈禧太后颁赐一方乐善好施的御笔匾额",
+      "old_after": "及四两人参由于出自天家格外珍贵这是螺蛳太太为了结好自动送朱太",
+      "new_before": "赈山西巡抚曾国荃专折请奖蒙慈禧太后颁赐一方乐善好施的御笔匾额",
+      "new_after": "及四两人参由于出自天家格外珍贵这是螺蛳太太为了结好自动送朱太"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 163178,
+        "normalized_end": 163178,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 163393,
+        "normalized_end": 163396,
+        "char_start": 1466602,
+        "char_end": 1466608,
+        "line_start": 46054,
+        "line_end": 46054,
+        "char_count": 3,
+        "text": "奇--書∧網"
+      },
+      "old_before": "点小事情操心又送这么一支贵重的人参我受是受了心里实在说不出的",
+      "old_after": "怎么说呢只好说实在是说不出的难过彼此至交总有补情的时候喔还有",
+      "new_before": "点小事情操心又送这么一支贵重的人参我受是受了心里实在说不出的",
+      "new_after": "怎么说呢只好说实在是说不出的难过彼此至交总有补情的时候喔还有"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 165021,
+        "normalized_end": 165021,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 165239,
+        "normalized_end": 165247,
+        "char_start": 1468913,
+        "char_end": 1468923,
+        "line_start": 46140,
+        "line_end": 46140,
+        "char_count": 8,
+        "text": "奇书-整理-提供下载"
+      },
+      "old_before": "是一顶貂帽一只女用金表包裹中便是螺蛳太太寄存的枕头连蓝布包袱",
+      "old_after": "都是原来的回盘没有啥好东西你不要见笑自己人螺蛳太太说何必说客",
+      "new_before": "是一顶貂帽一只女用金表包裹中便是螺蛳太太寄存的枕头连蓝布包袱",
+      "new_after": "都是原来的回盘没有啥好东西你不要见笑自己人螺蛳太太说何必说客"
+    },
+    {
+      "op": "insert",
+      "old": {
+        "normalized_start": 168844,
+        "normalized_end": 168844,
+        "char_count": 0,
+        "text": ""
+      },
+      "new": {
+        "normalized_start": 169070,
+        "normalized_end": 169077,
+        "char_start": 1473790,
+        "char_end": 1473799,
+        "line_start": 46350,
+        "line_end": 46350,
+        "char_count": 7,
+        "text": "奇#書*網收集整理"
+      },
+      "old_before": "岩极熟远远地迎了上来捞起衣襟打了个千口中仍旧是以往见面的称谓",
+      "old_after": "胡大人不敢当不敢当四者爷县衙门的官位典史排列第四所以通称四老",
+      "new_before": "岩极熟远远地迎了上来捞起衣襟打了个千口中仍旧是以往见面的称谓",
+      "new_after": "胡大人不敢当不敢当四者爷县衙门的官位典史排列第四所以通称四老"
+    }
+  ]
+}

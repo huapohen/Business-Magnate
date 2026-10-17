@@ -1,0 +1,96 @@
+{
+  "红顶商人": [
+    {
+      "line": 26936,
+      "heading": "第一章",
+      "inline": false
+    },
+    {
+      "line": 27596,
+      "heading": "第二章",
+      "inline": false
+    },
+    {
+      "line": 27954,
+      "heading": "第三章",
+      "inline": false
+    },
+    {
+      "line": 28360,
+      "heading": "第四章",
+      "inline": false
+    },
+    {
+      "line": 28570,
+      "heading": "第五章",
+      "inline": false
+    },
+    {
+      "line": 28832,
+      "heading": "第六章",
+      "inline": false
+    },
+    {
+      "line": 29406,
+      "heading": "第七章",
+      "inline": false
+    },
+    {
+      "line": 29886,
+      "heading": "第八章",
+      "inline": false
+    },
+    {
+      "line": 30790,
+      "heading": "第九章",
+      "inline": true
+    },
+    {
+      "line": 31298,
+      "heading": "第十章",
+      "inline": false
+    },
+    {
+      "line": 31484,
+      "heading": "第十一章",
+      "inline": false
+    }
+  ],
+  "萧瑟洋场": [
+    {
+      "line": 35140,
+      "heading": "第一章",
+      "inline": false
+    },
+    {
+      "line": 35514,
+      "heading": "第二章",
+      "inline": true
+    },
+    {
+      "line": 36216,
+      "heading": "第三章",
+      "inline": true
+    },
+    {
+      "line": 36590,
+      "heading": "第四章",
+      "inline": true
+    },
+    {
+      "line": 36832,
+      "heading": "第五章",
+      "inline": true
+    },
+    {
+      "line": 37186,
+      "heading": "第六章",
+      "inline": true
+    },
+    {
+      "line": 37404,
+      "heading": "第七章",
+      "inline": true
+    }
+  ]
+}

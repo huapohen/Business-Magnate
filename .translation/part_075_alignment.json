@@ -1,0 +1,197 @@
+[
+  {
+    "id": "P001",
+    "global_id": "B075-P001",
+    "part": 75,
+    "source_start_line": 30531,
+    "source_end_line": 30551,
+    "source_heading_prefix": "",
+    "zh": "罗四姐当然记得，在与胡雪岩重逢那天晚上就回忆过。那天，是七月三十日地藏王菩萨生日，插了地藏香，全家都出去看放荷花灯，留她一个人看家，胡雪岩忽然闯了进来。“你怎么来了？”“我来送会饯。”胡雪岩说：“今天月底，不送来迟一天就算出月了，信用要紧。你们家人呢？”“都看荷花灯去了。”罗四姐又说：“其实，你倒还是明天送来的好。因为我这笔钱转手要还人家的，左手来，右手去，清清爽爽，你今天晚上送来，过一夜，大钱不会生小钱，说不定晚上来了贼，那一来你的好意反倒害人。““这一层我倒没有想到，早知如此，我无论如何要凑齐了，吃过中饭就送来。”胡雪岩想了一下说：“这样子好了，钱我带回去，省得害你担心。这笔钱你要送给哪个，告诉我，明天一早，我替你去送。““这样太好了。”罗四姐高兴地笑着，“你替我赔脚步，我不晓得拿啥谢你？”“先请我吃杯凉茶。”“有，有！”原来是借着插在地上的蜡烛光，在天井中说话，要喝茶，便需延入堂屋。",
+    "en": "Of course Luo remembered. She had recalled it on the evening of their reunion. It had been the thirtieth day of the seventh month, the birthday of the Bodhisattva Kshitigarbha. After setting out the incense, the family had gone to watch lotus lanterns being floated, leaving her alone to mind the house. Hu had suddenly appeared. “What brings you here?” “Your savings-club payment. Today is the last day of the month. A day's delay would carry it into next month, and credit matters. Where is everyone?” “Watching the lotus lanterns. Actually, it would have been better if you brought it tomorrow. I have to pass it straight on to someone else. In one hand and out of the other—that would be simple. Money kept overnight will not produce little coins, and a thief might come. Your kindness could turn into harm.” “I had not thought of that. If I had, I would have found some way to gather it all and bring it after lunch.” He considered. “Let me take it back, then, so you need not worry. Tell me who is to receive it, and I shall deliver it for you first thing tomorrow.” “That would be wonderful!” she said happily. “You are saving me the journey. I do not know how to thank you.” “First, give me a cup of cool tea.” “Certainly!” They had been talking in the courtyard by the light of candles set in the ground. For tea, she invited him into the main room.",
+    "adaptation": {
+      "type": "non_graphic",
+      "reason": "后文明确本次回忆中罗四姐为十六岁；在性化回忆语境中去除美化身体的短语，其余会钱、家人外出、代送与请茶原文完整保留。",
+      "source_text_sha256": "dac6a0c214d8789879f9066faa6d08cb8273c5373a2f116f783c87f00128615e"
+    }
+  },
+  {
+    "id": "P002",
+    "global_id": "B075-P002",
+    "part": 75,
+    "source_start_line": 30553,
+    "source_end_line": 30579,
+    "source_heading_prefix": "",
+    "zh": "她倒了茶来，胡雪岩一饮而尽。随后他对罗四姐举止不当，她表示拒绝。恰好门外有人大喊：“罗四姐，罗四姐！”她立刻与他拉开距离，答应一声：“来了！”同时示意胡雪岩躲到一旁。来的是邻居，来问一件小事，罗四姐三言两语，在门外把他打发走了。回屋后，她站得远远的。胡雪岩再想靠近时，她退到方桌对面。“你好走了。刚刚那个冒失鬼一叫，我吓得魂灵都要出窍了。快，快，快点走。”",
+    "en": "She brought tea, and Hu drank it all. He then behaved inappropriately towards Luo, and she objected. Just then someone outside called loudly, “Sister Luo! Sister Luo!” She immediately moved away from him and answered, “Coming!” At the same time she signalled that Hu should step out of sight. The visitor was a neighbour with a small inquiry, whom she answered in a few words at the door and sent away. Back inside, she kept well away from Hu. When he tried to approach again, she moved to the other side of the square table. “You ought to go. That thoughtless fellow’s sudden shout frightened me nearly out of my senses. Quickly, quickly—please go.”",
+    "adaptation": {
+      "type": "non_graphic",
+      "reason": "本段回忆人物当时明确十六岁，性化推进及身体接触细节改为非露骨叙述；保留喝茶、拒绝、邻居叫门、她回应并示意暂避、门外答话、隔桌保持距离及催他离开的普通情节。",
+      "source_text_sha256": "deb9d25853ac65a9c9d396f7aa136fd1f22ecc8bb43f28a89e1eea30ea3fa64a"
+    }
+  },
+  {
+    "id": "P003",
+    "global_id": "B075-P003",
+    "part": 75,
+    "source_start_line": 30581,
+    "source_end_line": 30595,
+    "source_heading_prefix": "",
+    "zh": "两人又说起那次往事。罗四姐的神情有些怅惘与落寞。“这件事有十年了吧？”胡雪岩问。“十一年。”罗四姐答说：“那年我十六岁。”胡雪岩还想顺着旧事谈下去，罗四姐却说不愿再谈，至少现在不是时候。“要到什么时候呢？”胡雪岩问。",
+    "en": "They returned to the memory of that incident. Luo’s expression showed sadness and loneliness. “It must have been ten years ago?” Hu asked. “Eleven,” Luo replied. “I was sixteen that year.” He tried to pursue the old subject, but she said she did not wish to discuss it, at least not yet. “When, then?” he asked.",
+    "adaptation": {
+      "type": "non_graphic",
+      "reason": "保留十一年、十六岁及罗的普通怅惘情绪，去除将未成年时的性化往事浪漫化及当作待偿之债的调情表达，改成是否继续旧话题的非露骨对话，以承接下一源段“我不晓得”及成年后的事业谈话。",
+      "source_text_sha256": "243674c606d886d47ab05df2345a0cb437bb210dea7bdc186210d78321d6dbca"
+    }
+  },
+  {
+    "id": "P004",
+    "global_id": "B075-P004",
+    "part": 75,
+    "source_start_line": 30597,
+    "source_end_line": 30617,
+    "source_heading_prefix": "",
+    "zh": "“我不晓得。”罗四姐忽然问道：“你看我的本事，就只配开一家绣庄？”问到这句话，胡雪岩的绮念一收，“我们好好来谈一谈。”他说，“你的本事，十几岁我就晓得了，那时候‘摇会’，盘利息，哪个都没有你精明。说一句实话，你如果是男的，我要请你管钱庄。““卖高帽子不要本钱的。”罗四姐笑道：“不管你说一定要男的才好管钱庄，这话我倒不大服气。”“你不要误会。我不是说你本事不如男的，是女人家不大方便，尤其是你这样子漂亮，下面的伙计为了你争风吃醋，我的钱庄就要倒灶了。”“要死！”罗四姐的一双脚虽非三寸金莲，但也是所谓“前面卖生姜，后面卖鸭蛋”裹了又放的半大脚，笑得有些立足不稳，伸出一只手去想扶桌沿，却让胡雪岩一把抄住了。“不要说伙计，”胡雪岩笑道，“就是我，只怕也没心思在生意上头了，一天到晚担心，哪个客人会把你讨了去。”杭州人叫“娶亲”为“讨亲”，这最后一句话，又勾起罗四姐的心事，“不要说了！”她夺回了手，坐到一旁，幽幽地说：“总怪我自己命苦。”“我也难过啊！”胡雪岩以同感表示安慰，“我迟两年讨老婆就好了。”“哼！”罗四姐微微冷笑，“你嘴里说得好听。”“好听不好听，你等着看将来。”胡雪岩说道：“言归正传，你说你的本事不止于开一爿绣庄，那么，还有啥大生意好做？你说来我听听看。”",
+    "en": "“I don’t know,” Luo replied. Then she suddenly asked, “Do you think my abilities fit me for nothing more than an embroidery shop?” The question checked Hu's amorous thoughts. “Let us discuss this seriously. I knew how capable you were when you were still in your teens. Nobody was shrewder at arranging savings clubs or calculating interest. Frankly, if you were a man, I would ask you to manage a bank.” “Compliments cost nothing.” She smiled. “But I am not convinced by your claim that only a man can manage a bank.” “Do not misunderstand. I am not saying that you are less capable. It is inconvenient for a woman—especially one as beautiful as you. The clerks would quarrel over you, and my bank would be ruined.” “How outrageous!” Her feet were not tiny three-inch golden lilies, but the larger sort that had been bound and then released, described as having ginger for sale in front and duck eggs behind. Laughing, she became a little unsteady and reached for the table, only to have Hu catch her hand. “Never mind the clerks. I might be unable to concentrate on business myself, worrying all day that some customer would marry you and take you away.” In Hangzhou, the expression he used meant taking a wife. It touched Luo's old sorrow. “Enough!” She drew back her hand, sat aside, and said softly, “I can only blame my unhappy fate.” “I feel unhappy too,” Hu offered in sympathy. “If only I had married two years later.” She gave a faint, cold laugh. “Fine words come easily to you.” “Whether they are merely fine words, time will show. But to return to business: you say your abilities extend beyond an embroidery shop. What larger enterprise have you in mind? Tell me.”"
+  },
+  {
+    "id": "P005",
+    "global_id": "B075-P005",
+    "part": 75,
+    "source_start_line": 30619,
+    "source_end_line": 30651,
+    "source_heading_prefix": "",
+    "zh": "罗四姐不作声，低着头看桌面，睫毛不住眨动，盘算得好象出神了。“明天再说。”罗四姐抬眼说道：“你明天来吃便饭好不好？”“怎么不好？我明天下半天早一点来，好多谈谈。”“不！你明天来吃中饭，下半天早一点走。晚上总不方便。”胡雪岩想了一下说：“明天中午我有两个饭局，有一个是要谈公事，不能不到。这倒麻烦了。”“那么后天呢？”后天中午已有应酬，不过可以推掉的。““那就后天。”胡雪岩无奈，只好答说：“后天就后天。”“后天我弄两个杭州菜给你吃。”罗四姐又说：“现在我代七姑奶奶做主人，请你吃消夜。”胡雪岩胃口不太好，本不想吃，但想到第二夭不能会面，便有些不舍之意，惜吃消夜盘桓一会也好，便点点头：“不必费事！”“现在的东西。”罗四姐说，“到楼下去吃好不好？”原要在楼上小酌才够味，但那一来比较费事，变成言行不符，只好站起身来，跟着罗四姐下楼。“你吃什么酒？”“随便。”胡雪岩说：“我又不会吃酒，完全陪你。”“谢谢。既然你陪我，就陪我吃我自己泡的药酒。”“喔，我倒想起来了……”“慢点！”罗四姐说：“等我把桌子摆好了再说。”",
+    "en": "She lowered her eyes to the tabletop, her lashes moving as though absorbed in calculation. At last she looked up. “Let us talk tomorrow. Will you come for a simple meal?” “Gladly. I shall come early in the afternoon so that we can talk at length.” “No. Come for lunch and leave early in the afternoon. Evenings are inconvenient.” Hu considered his engagements. He had two invitations for lunch the next day, one involving official business that he could not miss. The day after, he also had an engagement, but it could be declined. Luo settled on that day, and he reluctantly agreed. “I shall make a couple of Hangzhou dishes for you. Now let me act as hostess on the Seventh Lady's behalf and offer you supper.” Hu had little appetite, but the thought of not seeing her the next day made him reluctant to leave. Supper would provide an excuse to linger. He nodded, asking her not to go to any trouble. “Everything is ready. Shall we eat downstairs?” Drinking a little together upstairs would have been more agreeable, but would involve extra work and contradict his request. He rose and followed her down. “What would you like to drink?” “Anything. I am no drinker; I shall merely keep you company.” “Then join me in some medicinal wine I have infused myself.” “Ah! That reminds me…” “Wait until I have laid the table.”"
+  },
+  {
+    "id": "P006",
+    "global_id": "B075-P006",
+    "part": 75,
+    "source_start_line": 30653,
+    "source_end_line": 30675,
+    "source_heading_prefix": "",
+    "zh": "桌子上摆出来四个碟子，火腿、脆鳝、素鸡糟白鲞是七姑奶奶送的。罗四姐另外捧来一个白瓷坛，倒出来的药酒，颜色不佳，但香味扑鼻，发人酒兴。“你这酒看样子不坏，有没有方子？”“有。名叫周公百岁酒。你要，我抄一个给你。”“有这种方子，越多越好。”胡雪岩说，“我想开一家药店，将来要卖药酒。”罗四诅不由得诧异，“怎么忽然想起来要开药店？”她问。“其中有好些缘故。有个缘故是有人要我办各样成药，数量很大，我心里在想，不如自己开一家药店，既方便，又道地。”“这个人是哪个？要那许多成药，做啥用场？”原来左宗棠的西征将士，已发现有水土不服的现象，寄信到上海转运局，要采办大批丸散膏丹，因而触发了胡雪岩自己设一座大规模的药铺的构想。目前已请了一道陕甘总督衙门所发、请予免税的公文，派人到生药最大的集散地，直隶安国县采办道地药材去了。对于这个计划，胡雪岩最感兴趣，认为是救世济民、鼓励士气最切实的一件事，一谈起来，滔滔不绝。罗四姐很用心地倾听着，遇有他说得欠明白之处，会要言不烦地提出疑问。这表示她不但能够领会他的计划，而且也关心他的事业，胡雪岩便越加兴奋了。一谈谈到三更天，胡雪岩发现左右邻居看她家半夜里灯火辉煌，门前轿班高声谈笑，都好奇地在张望，不免抱愧，也不好意思再作流连。“好了，后天中午再来。”胡雪岩站起身来说：“再谈下去，邻居要骂人了。”",
+    "en": "Four dishes appeared: ham, crisp eel, vegetarian mock chicken, and dried croaker preserved in wine lees, all sent by the Seventh Lady. Luo also brought a white porcelain jar. The medicinal wine she poured from it had an unappealing colour but an enticing fragrance. “This looks promising. Do you have the recipe?” “Yes. It is called Duke Zhou's Hundred-Year Wine. I can copy it for you.” “The more recipes of this kind, the better. I intend to open a pharmacy and sell medicinal wines.” Surprised, she asked what had suddenly given him that idea. “Several things. One is a request for a very large quantity of prepared medicines. I thought that opening a pharmacy myself would be both convenient and a way to ensure proper quality.” Who had made the request, and why so much medicine? Zuo's soldiers on the western campaign had begun suffering from difficulty adjusting to unfamiliar climates and conditions. Letters to the Shanghai transshipment bureau requested large quantities of pills, powders, plasters, and other remedies. This had prompted Hu's plan for a substantial pharmacy. He had already obtained an official communication from the Governor-General of Shaanxi and Gansu requesting tax exemption, and had sent buyers to Anguo County in Zhili, the largest centre for crude medicinal ingredients, to purchase authentic supplies. Nothing interested him more than this plan, which he regarded as a practical means of relieving suffering and encouraging the troops. Once started, he spoke without pause. Luo listened closely and asked concise questions whenever something was unclear. Seeing that she both understood the project and cared about his work, he grew still more enthusiastic. They talked into the third watch. At last he noticed neighbours looking curiously at the brilliant lights in her house and the chair bearers talking and laughing loudly outside. Ashamed of the disturbance, he could no longer justify staying. “The day after tomorrow at noon, then. If we talk any longer, the neighbours will curse us.”"
+  },
+  {
+    "id": "P007",
+    "global_id": "B075-P007",
+    "part": 75,
+    "source_start_line": 30677,
+    "source_end_line": 30693,
+    "source_heading_prefix": "",
+    "zh": "到得第三天上午，胡雪岩照例先到阜康钱庄办事，有人告诉他说，“维记”来提了九千两银子，开出数目大小不等的十七张庄票。胡雪岩记在心里，并未多问。由于那天到罗四姐家，自觉太招摇了，这天只带了一个跟班，亦未乘轿，而且坐了一辆“亨斯美”马车，在罗家弄口下车，将马车打发回去，步行赴约。本未过午，罗家客厅里还坐着七、八个客户在等候发落。“胡大先生请坐。”罗四姐大大方方地站起来说：“我马上就好了。”“不忙，不忙！你尽管请治公。”胡雪岩捧着一杯茶，悄悄坐在一边，看罗四姐处事，口讲指画，十分明快。她的客户似乎也服她，说如何便如何，绝无争执，所以不过一盏茶的工夫，都打发走了。“佩服，佩服。”胡雪岩笑道：“实在能干。”“能干不能干还不晓得。等我替你买的地皮涨了价，你再恭维我。”胡雪岩摸不着头脑，“罗四姐，”他问：“你在说啥？”“等等吃饭的时候再同你讲。你请坐一坐，我要下厨房了。”",
+    "en": "On the third morning, Hu went as usual to Fukang Bank. He was told that Weiji had withdrawn nine thousand taels in seventeen bank drafts of differing amounts. He remembered the information but asked no questions. Feeling that his previous visit to Luo had been too conspicuous, he took only one attendant this time and took a Hengsimei carriage instead of a sedan chair. Alighting at the entrance to her lane, he sent the carriage away and walked to the house. It was not yet noon, and seven or eight customers were still waiting in her reception room. Luo rose without embarrassment. “Please sit down, Mr Hu. I shall be finished very soon.” “There is no hurry. Attend to your business.” Holding a cup of tea, he watched quietly as she gave clear, brisk explanations and directions. Her customers seemed to accept her authority: what she said was done, without argument. In scarcely the time needed to drink the tea, everyone had departed. “Admirable!” Hu smiled. “You really are capable.” “We do not know that yet. Wait until the land I bought for you rises in value before praising me.” He was bewildered. “What are you talking about?” “I shall explain over lunch. Sit a little longer while I go to the kitchen.”"
+  },
+  {
+    "id": "P008",
+    "global_id": "B075-P008",
+    "part": 75,
+    "source_start_line": 30695,
+    "source_end_line": 30713,
+    "source_heading_prefix": "",
+    "zh": "厨房里菜都预备得差不多了，炉子上炖着鱼头豆腐，“件儿肉”在蒸宠里，凉菜盐水虾、葱焖鲫鱼和素鸡，是早做好了的，起油锅炸个“响铃儿”，再炒一个荠菜春笋，就可以开饭了。“没有啥好东西请你。”罗四姐说：“不过我想，你天天鱼翅海参，大概也吃腻了，倒不如清清爽爽几样家常菜，或许反例可以多吃一碗饭。”“一点不错。”胡雪岩欣然落座，“本来没有啥胃口，现在倒真有点饿了。”罗四姐笑笑不作声，只替他斟了一杯药酒，然后布菜。胡雪岩吃得很起劲，罗四姐当然也很高兴。“你刚才说什么地皮不地皮，我没有听懂。请你再说一遍。”罗四姐点点头，“你给我的折子，我昨天去提了九千两银子。”她问，“你晓得不晓得？”“他们告诉我了。”“从前年英租界改路名的辰光，我就看出来了，外国人办事按部就班，有把握的，马路修到哪里，地价涨到哪里，可惜我没有闲钱来买地皮。前两个月还有人来兜我，说山东路……”“慢点！”胡雪岩问道：“山东路在啥地方？”“就是庙街。”",
+    "en": "Most of the meal was ready. Fish head and bean curd simmered on the stove; pieces of pork were in the steamer. Brined shrimps, crucian carp braised with spring onions, and vegetarian mock chicken had been prepared earlier. She needed only to fry crisp bean-curd-skin rolls and stir-fry shepherd's purse with spring bamboo shoots. “Nothing fine to offer you. But you eat shark's fin and sea cucumber every day and must be tired of them. A few simple, refreshing home dishes might persuade you to eat another bowl of rice.” “Exactly.” Hu sat down happily. “I had little appetite before, but now I am hungry.” She smiled, poured medicinal wine, and served him. He ate with relish, much to her pleasure. “I did not understand what you said about land. Please explain.” “I withdrew nine thousand taels yesterday from the account you gave me. Did you know?” “They told me.” “When the British concession renamed its roads two years ago, I noticed how methodically the foreigners proceeded. Wherever they built a road, land prices rose. Unfortunately, I had no spare money to buy any. A couple of months ago someone approached me about a plot on Shandong Road…” “Wait. Where is Shandong Road?” “Temple Street.”"
+  },
+  {
+    "id": "P009",
+    "global_id": "B075-P009",
+    "part": 75,
+    "source_start_line": 30715,
+    "source_end_line": 30723,
+    "source_heading_prefix": "",
+    "zh": "原来英租街新造的马路，最初方便他们自己，起的是英文名字，例如领事馆集中之处，名为Consulate Road，江海关所在地名为Customs Road.上海在战国时，原为楚国春申君黄歇的封邑，当时为了松江水患，要导流入海，春申君开了一条浦江，用好的姓，称为黄浦江，或称黄歇浦，此外春申浦、春申江、申江，种种上海的别称，都由此而来。后人为了崇功报德，曾建了一座春申侯词，又称春申君庙，但年深月久，遗址无处可寻。相传建于明朝、地在三茅阁桥、供奉“三茅真君”的延真观，原来就是春申君庙，英国人便将开在那里的一条马路，称为Temple Street，译成中文便是“庙街”。英租界的地名很乱，工部局早就想反它统一起来，将界内的马路，分为两类，横的一类从东到西，用中国主要的城市命名，纵的自南至北，以中国的省名命名，因此领事馆路改名北京路，而第二个大城市是南京。便将外滩公园向西延伸的马路，改名南京路。庙街是南北向，改名山东路。那是前两年的事，胡雪岩未尝留意于此，所以罗四姐提起这个新地名，他茫然莫辨。庙街他是知道的，“呃，”他问：“有人兜你买庙街的地皮？”",
+    "en": "When the British concession's roads were first laid out, they received English names for the foreigners' convenience: Consulate Road where the consulates gathered, and Customs Road where the Jianghaiguan stood. During the Warring States period, Shanghai had belonged to the fief of Lord Chunshen, Huang Xie of Chu. To relieve flooding in the Songjiang region, he had opened a channel to carry water to the sea. It was called the Huangpu after his surname, or Huang Xie Pu. Other names for Shanghai—Chunshen Pu, Chunshen Jiang, and Shenjiang—came from the same association. Later generations had built a shrine to honour his achievement, also known as Lord Chunshen's temple, but its site could no longer be identified. Tradition held that Yanzhen Temple, established in the Ming near Sanmaoge Bridge to worship the Three Mao Immortals, had originally been that shrine. The British therefore named a nearby road Temple Street. Place names in the concession were confused, and the Municipal Council had long wanted a uniform system. East–west roads were to bear the names of major Chinese cities, while north–south roads would take provincial names. Consulate Road became Beijing Road. Nanjing supplied the next great city's name, given to the road extending west from the Bund park. Temple Street ran north–south and became Shandong Road. This had happened two years earlier, but Hu had paid no attention and did not recognize the new name. Temple Street he knew. “Ah! Someone offered you land there?”"
+  },
+  {
+    "id": "P010",
+    "global_id": "B075-P010",
+    "part": 75,
+    "source_start_line": 30725,
+    "source_end_line": 30739,
+    "source_heading_prefix": "",
+    "zh": "“庙街现在是往南在造马路，那里的地皮，一定会涨价，所以我提了九千两银子出来，买了二十多亩地皮，已经成交了。”胡雪岩大为诧异，求田问舍，往往经年累月，不能定局，她居然一天工夫就定局了，莫非受入哄骗不成？罗四姐看他的脸色，猜到他的心里，“你不相信？”她问。“不是我不相信，只觉得太快了。”胡雪岩问，“你买的地皮，有没有啥凭证？”“怎么没有”，我有‘道契’，还有‘权柄单’。胡雪岩更为惊异，“你连‘小过户’都弄好了？”他说：“你的本事真大。”“你不相信，我拿东西给你看。”",
+    "en": "“The road is now being extended southwards. Land there is certain to rise, so I withdrew nine thousand taels and bought more than twenty mu. The transaction is complete.” Hu was astonished. Buying property could remain unsettled for months or years, yet she had finished in a single day. Had someone deceived her? Reading his expression, she asked whether he disbelieved her. “Not that. It simply seems very quick. Have you any documents for the land?” “Of course. I have official lease deeds and authority certificates.” He was still more surprised. “You have even completed the minor transfer? You really are capable.” “If you do not believe me, I shall show you.”"
+  },
+  {
+    "id": "P011",
+    "global_id": "B075-P011",
+    "part": 75,
+    "source_start_line": 30741,
+    "source_end_line": 30749,
+    "source_heading_prefix": "",
+    "zh": "于是罗四姐去取了三张“道契”来。原来鸦片战争失败，道光二十二年签订《南京条约》，开五口通商，洋人纷纷东来，但定居却成了疑问。“普天之下，莫非玉土”，中国的土地是不能卖给洋人的，这就不能不想个变通办法了。于是道光二十五年由英国领事跟上海道签订了一份“地皮，章程”，规定了一种“永租”的办法。洋人跟土地业主接头，年纳租金若干，租得地皮，起造房屋，另外付给业主约相当于年租十倍的金额，称为“押手”，实际上就是地价。租约成立后须通知邻近的地方，由地保带领，会同上海道及领事馆所派人员，会同丈量，确定四至界限，在契纸上附图写明白，由领事转送上海道查核。如果查明无误，即由上海道在“出租地契”加盖印信，交承祖人收执，这就是所谓“道契”。这种“道契”，产权清楚，责任确实，倘有纠葛，打起官司，是非分明，比中国旧式的地契，含糊不清，一生纠葛，涉讼经年，真是“有钱不置懊恼产”，海不当初。因此就有人想出一个办法，请洋人出面代领道契，这原是假买假卖的花样，所以在谈妥条件，付给酾劳以后，洋人要签发一张代管产业，业主随时可以自由处置凭证，名为“权柄单”。而这种做法，称之为“挂号”，上海专有这种“挂号洋商”。地皮买卖双方订约成交之前，到“挂号洋商”那里，付费改签一张“权柄单”，原道契不必更易，照样移转给买方，一样有效。这就叫“小过户”。罗四姐这三张道契，当然附有三张“权柄单”，是用英文所写。胡雪岩多年跟洋人打交道，略识英文，一看洋人所签的“抬头”是自己的英文名字，方始恍然，怪不得罗四姐有“我替你买的地皮”的话。",
+    "en": "She brought three official lease deeds. Following defeat in the Opium War and the Treaty of Nanjing in Daoguang's twenty-second year, five ports had opened to foreign trade and foreigners had begun arriving in numbers. Their settlement, however, posed a problem. All land beneath Heaven belonged to the sovereign; Chinese land could not be sold to foreigners. Some accommodation had to be devised. In Daoguang's twenty-fifth year, the British consul and the Shanghai circuit intendant therefore agreed on land regulations establishing perpetual leases. A foreigner negotiated with an owner, paid annual rent for a plot, and built upon it. In addition, the owner received a sum roughly equal to ten years' rent, called a deposit but effectively the purchase price. Once a lease was agreed, the neighbouring locality had to be notified. The local headman accompanied representatives of the circuit intendant and consulate to measure the property, establish its boundaries, and record them with a plan on the deed. The consul forwarded it to the circuit intendant for examination. If all was correct, the official sealed the lease deed and returned it to the lessee. Such a document was called a daoqi, an official lease deed. It established rights and responsibilities clearly, making disputes easier to decide than under old Chinese deeds, whose vagueness could turn a dispute into years of litigation and bitter regret. As the saying went, “However wealthy you are, never buy property that brings you grief.” People accordingly devised a nominal arrangement: a foreigner would obtain a daoqi on a Chinese owner's behalf. After agreeing terms and receiving his fee, the foreigner issued an authority certificate acknowledging that he held the property for its owner, who could dispose of it freely at any time. This was called nominee registration, and Shanghai had foreign brokers specializing in it. Before buyers and sellers concluded their transaction, they paid the broker to issue a replacement authority certificate. The original daoqi need not be changed; it passed to the buyer with equal validity. This was a minor transfer. Luo's three deeds naturally came with three authority certificates, written in English. Hu had learned a little English through years of dealing with foreigners. When he saw that the named owner was himself, he understood why she had said she had bought the land for him."
+  },
+  {
+    "id": "P012",
+    "global_id": "B075-P012",
+    "part": 75,
+    "source_start_line": 30751,
+    "source_end_line": 30769,
+    "source_heading_prefix": "",
+    "zh": "“不要，不要！地皮是你的。”胡雪岩将道契与权柄单拿到手中，“我叫人再办一次‘小过户’，过得你的名下。”“你也不必去过户，过来过去，白白挑洋人赚手续费。不过，你把三张权柄单去拿给七姐夫看看，倒是对的。他懂洋文，洋场又熟悉，看看有什么不妥当的地方，趁早好同洋人去办交涉。”“我晓得了。”胡雪岩问道：“罗四姐，我真有点想不通，你哪里学来的本事，会买地皮，而且一天工夫把手续都办好了。说真的，叫专门搞这一行的人去办，也未见得有你这么快。”“没有的话。洋人做事情最爽炔，你们双方谈好了，到他那里去挂个号，签个字就有多少银子进帐，他为啥要推三阻四？不过搞这一行的人，一定要拖两天，为啥呢？为的是显得他的脚步钱赚得辛苦。象我……”罗四姐拿她自己的经验为证。谈妥了山东路的那块地皮，找个专门替人办“小过户”的人要去挂号，讲妥十两银子的“脚步钱”，却说需五天才能办得好。罗四姐听人讲过其中的花样，当即表示只请他去当翻译，妒自己跟洋人打交道，脚步钱照付，果然，一去就办妥当了。“我还说句笑话给你听，那个洋人还要请我吃大菜。他说他那里从来没有看见我们中国的女人家上门过。他佩服我胆子大，要请请我。”“那么，你吃了他的大菜没有呢？”胡雪岩笑着问说。“没有。”罗四姐说：“我说我有胆子来请他办事，没有胆子吃他的饭，同去的人翻译给他听了，洋人哈哈大笑。”胡雪岩也笑了，“不要说洋人，我也要佩服。”他紧接着又说：“罗四姐，我现在才懂了，你是嫌开绣庄的生意太小，显不出你的本事是不是？”",
+    "en": "“No, no! The land is yours.” Taking the deeds and certificates, Hu said he would have another minor transfer made into her name. “There is no need. Transferring it back and forth merely gives the foreigner more fees. But you ought to show the three authority certificates to Brother-in-Law Gu. He knows English and understands the foreign settlement. If anything is wrong, we can raise it with the foreigner promptly.” “I shall. But I truly do not understand where you learned to buy land and complete every formality in a day. Even a professional might not manage it so quickly.” “Nonsense. Foreigners are straightforward about business. Once buyer and seller agree, they need only register it and sign to collect a fee. Why should they create delays? The middlemen deliberately drag matters out for a couple of days to make their errand fees seem hard-earned.” She explained her own experience. After agreeing to buy the Shandong Road land, she had engaged a specialist to handle the minor transfer for ten taels. He claimed it would take five days. Having heard of this trick, she said she would pay the same fee but employ him only as an interpreter while she dealt with the foreigner herself. The business was indeed completed in a single visit. “Here is something amusing: the foreigner even invited me to a Western meal. He said no Chinese woman had ever come to his office before. He admired my courage and wanted to entertain me.” “Did you accept?” Hu asked, smiling. “No. I said I was brave enough to ask him to do business, but not brave enough to eat his food. When the interpreter translated it, he laughed heartily.” Hu laughed too. “Never mind the foreigner: I admire you myself. Now I understand. You think an embroidery shop too small to display your abilities, do you not?”"
+  },
+  {
+    "id": "P013",
+    "global_id": "B075-P013",
+    "part": 75,
+    "source_start_line": 30771,
+    "source_end_line": 30785,
+    "source_heading_prefix": "",
+    "zh": "“也不敢这样子说。”罗四姐反问一句：“胡大先生，你钱庄里的头寸很多，为啥不买一批地皮呢？”“我从来没有想过买地。”胡雪岩说他对钱的看法，与人不同，钱要象泉水一样，流动才好，买了地等涨价，就好比池塘里的水一样，要靠老天帮忙，多下几场雨，水才会涨，如果久旱不雨，池塘就干涸了。这种靠天吃饭的事，他不屑去做。“你的说法过时了。”罗四姐居然开口批评胡雪岩，“在别处地方，买田买地，涨价涨得慢，脱手也不容易，钱就变了一池死水，在上海，现在外国人日日夜夜造马路，一造好，马路两边的田就好造房子，地价马上就涨了。而且买地皮的人，脱手也容易，行情俏，脱手快，地皮就不是不动产而是动产了。这跟你囤丝囤茧子有啥两样？“一听这话，胡雪岩愣住了，想不到她有这样高明的见解，真有自愧不如之感。“我要去了。”胡雪岩说：“吃饭吧！”罗四姐盛了浅浅一碗饭来，胡雪岩拿汤泡了，啼哩呼噜一下子吃完，唤跟班上来，到弄口叫了一辆“野鸡马车”到转运局办公会客。晚上应酬完了，半夜来看古应春夫妇。",
+    "en": "“I would not presume to say that. But you have plenty of funds available at your bank. Why do you not buy land?” “I have never considered it.” Hu explained that his view of money differed from other people's. Money ought to flow like spring water. Buying land and waiting for its value to rise was like keeping water in a pond: only Heaven could supply the rain that raised the level. A prolonged drought would dry it up. He disdained business that depended on such chance. “That view is out of date,” Luo said, boldly criticizing him. “Elsewhere, land rises slowly and is difficult to sell. The money does become stagnant water. But in Shanghai the foreigners are building roads day and night. Once a road is complete, the fields along it can carry houses, and prices rise at once. Buyers can also resell easily. With brisk demand and quick sales, land ceases to be immovable property and becomes movable capital. How is that different from your stocking silk and cocoons?” Hu was taken aback. He had not expected such an acute insight and felt genuinely outmatched. “I must be going. Let us have rice.” She brought a shallow bowl. He poured soup over it and quickly finished, then sent his attendant to hail a street carriage at the entrance to the lane. He went to the transshipment bureau to conduct business and receive visitors. After his evening engagements, he called on Gu and his wife at midnight."
+  },
+  {
+    "id": "P014",
+    "global_id": "B075-P014",
+    "part": 75,
+    "source_start_line": 30787,
+    "source_end_line": 30811,
+    "source_heading_prefix": "",
+    "zh": "“说件奇事给你们听，罗四姐会做地皮生意，会直接跟洋人去打交道。你们看！“古应春看了道契跟权柄单，诧异地问道：“小爷叔，你托她买的。”“不是！”胡雪岩将其中原委，细细说了一遍。“这罗四姐，”七姑奶奶说道：“真正是厉害角色。小爷叔……”她欲言又止，始终没有再说下去。胡雪岩有点听出来了，并未追问，只跟古应春谈如何再将这三块地皮再过户给罗四姐的事。“这个挂号的洋人我知道，有时候会耍花样，索性花五十两银子办个‘大过户’好了。”胡雪岩也不问他什么叫“大过户”，只说：“你随便。好在托了你了。”“罗四姐的名字叫什么？”“这，把我问倒了。”“罗四姐就是罗四姐。”七姑奶奶说：“姓罗名四姐，有啥不可以？”胡雪岩笑道：“真是，七姐说话，一刮两响，真正有裁缝。”古应春也笑了，不过是苦笑，搭讪着站起来说：“我来把她的名字，用英文翻出来。”",
+    "en": "“Here is something extraordinary. Sister Luo knows how to deal in land and negotiate directly with foreigners. Look!” Examining the deeds and certificates, Gu asked in surprise whether Hu had commissioned the purchase. Hu said no and explained everything. “Sister Luo is a formidable woman,” the Seventh Lady remarked. “Little Uncle…” She stopped and did not finish. Hu partly understood but did not pursue it. He merely discussed transferring the three plots into Luo's name. “I know this foreign registration broker,” Gu said. “He sometimes plays tricks. We had better spend fifty taels and make a full transfer.” Without asking what a full transfer involved, Hu left the arrangements to him. “What is Sister Luo's name?” Gu asked. “There you have me.” “Sister Luo is Sister Luo,” his wife said. “Surname Luo, given name Sijie. What is wrong with that?” Hu laughed. “Seventh Sister settles a matter with a single stroke. She has judgment.” Gu laughed too, though rather ruefully, and rose with an air of casualness. “I shall write her name in English.”"
+  },
+  {
+    "id": "P015",
+    "global_id": "B075-P015",
+    "part": 75,
+    "source_start_line": 30813,
+    "source_end_line": 30829,
+    "source_heading_prefix": "",
+    "zh": "等古应春走入书房，胡雪岩移一移座位靠近七姑奶奶，轻声说道：“七姐，有件事，我想跟你商量。自从两个小的，一场时疫去世以后，内人身子又不好，家务有时候还要靠老太太操心，实在说不过去。这罗四姐，我很喜欢她，不晓得……七姐，你看有没有法子好想？““我已经替你想过了，罗四姐如果肯嫁你，小爷叔，你是如虎添翼，着实还要发达。不过，她肯不肯做小，真的很难说。”“七姐，你能不能探探她的口气？”“不光是探口气，还要想办法。”七姑奶奶问道：“ ‘两头大’呢？”“ ‘两头大’就要住两处，仍旧要老太太操劳。”胡雪岩又说：“只要她肯在名分上委屈，其余的，我都照原配看待她。”“好！我有数了。我来劝她。好在婶娘贤慧，也决不会亏待她的。”“那么……”好了，小爷叔！“七姑奶奶打断他的话说：”你不必再关照，这件事我比你还心急，巴不得明天就吃这杯喜酒。“",
+    "en": "When Gu had gone into his study, Hu moved closer to the Seventh Lady and lowered his voice. “There is something I want to discuss. Since the two younger women in my household died in an epidemic, and with my wife's health poor, Mother still has to trouble herself with domestic affairs at times. It is hardly right. I am very fond of Sister Luo. I wonder… can anything be arranged?” “I have already considered it. If she would marry you, Little Uncle, you would be a tiger given wings. You would prosper still further. But whether she will accept the position of a concubine is difficult to say.” “Could you sound her out?” “More than that: we must find a way. What about two wives of equal standing?” “That would mean two separate households, leaving Mother with the work as before. If she will accept the lesser formal status, I shall treat her as a principal wife in every other respect.” “Very well. I understand. I shall persuade her. Your wife is kind and sensible too; she certainly would not mistreat her.” “Then…” “Enough, Little Uncle! You need give me no more instructions. I am more impatient than you. I should like to drink the wedding wine tomorrow.”"
+  },
+  {
+    "id": "P016",
+    "global_id": "B075-P016",
+    "part": 75,
+    "source_start_line": 30831,
+    "source_end_line": 30853,
+    "source_heading_prefix": "",
+    "zh": "七姑奶奶言而有信，第二天上午就去看罗四姐，帮她应付完了客户，在楼上吃饭，随意闲谈，看她提到胡雪岩，神气中有着一种掩抑不住的仰慕与兴奋，知道大有可为，便定了一计，随口问道：“你属蛇，我是晓得的。”七姑奶奶闲闲问道：“月份呢？”“月份啊？”罗四姐突然笑了起来，“七姐，我的小名叫阿荷……”“原来六月里生的。”七姑奶奶看她笑容诡异，话又未完，便又问说：“你的小名怎么样？”“ 我小的时候，男伢儿都要跟我寻开心，装出老虎吃人的样子，嘴里‘啊嗬”、’啊嗬‘乱叫，又说我大起来一定是雌老虎，所以我一定不要用这个小名。那时候，有人有啥事情来寻我帮忙，譬如来一脚会，如果叫我阿荷，就不成功。这样子才把我罗四姐这个名字叫开来的。““原来还有这么一段掌故。”七姑奶奶笑道：“说起来，雌老虎也不是啥不好的绰号，至少人家晓得丈夫怕你，也就不敢来欺侮你了。”“我倒不是这种人。为啥要丈夫怕？”罗四姐摇摇头，“从前的事不去说它了！现在更谈不到了。”“也不见得。一定还会有人怕你。”罗四姐欲言又止，不过到底还是微红着脸说了出来：“七姐，你说哪个会怕我？”七姑奶奶很深沉，点点头说：“人是一定有的，照你这份人材，普普通通的人不配娶你，娶了就怕你也是白怕。”“怎么叫白怕？”“怕你是因为你有本事。象你这种人，一看就是有帮夫运的，不过也要本身是块好材料，帮得起来才能帮。本身窝窝囊囊，没有志气，也没有才具，你帮他出个一等一的好主意，他懒得去做，或者做不到，心里觉得亏欠你，一味是怕，这种怕，有啥用处？”罗四姐听得很仔细，听完了还想了想，“七姐，你这话真有道理。”她说：“怕老婆都是会怕。”",
+    "en": "True to her word, the Seventh Lady visited Luo the next morning, helped her finish with the customers, and ate upstairs with her. During their casual conversation, Luo could not hide her admiration and excitement whenever Hu was mentioned. Seeing a real prospect of success, the Seventh Lady formed a plan. “I know you were born in the year of the Snake. What month?” “The month?” Luo suddenly laughed. “My childhood name was A'he…” “Then you were born in the sixth month, the lotus month.” Noticing an odd smile and an unfinished thought, she asked about the name. “When I was small, the boys teased me by pretending to be man-eating tigers, roaring ‘A-ho! A-ho!’ They said I would grow into a tigress. I refused to answer to that name. If someone wanted my help—another participant for a savings club, for example—calling me A'he ensured they would not get it. That is how everyone came to call me Sister Luo.” The Seventh Lady laughed. “There is a story behind it, then. A tigress is not such a bad nickname. At least, if people know your husband fears you, they will not dare bully you.” “I am not like that. Why should a husband be afraid? Never mind the past. Now there is even less reason to speak of it.” “Not necessarily. Someone will certainly fear you yet.” Luo hesitated, then asked with a slight blush whom she meant. The Seventh Lady nodded thoughtfully. “There will be someone. An ordinary man is not worthy of you. Even if he married you, his fear would be useless.” “Useless?” “He would fear you because you are capable. Anyone can see that you have the fortune to help a husband succeed. But he must have good material in him too. A weak fellow without ambition or ability might receive an excellent idea from you and be too lazy to act, or incapable of carrying it out. Feeling indebted, he would merely fear you. What use is that?” Luo listened carefully and considered. “You are right. There is a reason some men are afraid of their wives.”"
+  },
+  {
+    "id": "P017",
+    "global_id": "B075-P017",
+    "part": 75,
+    "source_start_line": 30855,
+    "source_end_line": 30885,
+    "source_heading_prefix": "",
+    "zh": "“就是这个道理。”七姑奶奶把话拉回正题，“运是由命来的，走帮夫运，先要嫁个命好的人，自己的命也要好。有运无命，好比树木没有根，到头来还是空的。”“七姐，命也靠不住。”罗四姐说，“我小的时候，人家替我算命，都说命好，你看我现在，命好在哪里？““喔，当初算你的命，怎么说法？”“我也不大懂，只说甲子日、甲子时，难得的富贵命。”“作兴富贵在后头。”“哪里有什么后头，有儿子还有希望，好比白娘娘，吃了一世的苦，到后来儿子中了状元，总算扬眉吐气了。我呢？有啥？”“你不会再嫁人，生一个？”七姑奶奶紧接着又说：“二马路有个吴铁口，大家都说他算的命，灵极了，几时我陪你去看看他。”“七姐，请他算过？”“算过。”“灵不灵呢？”“当然灵。”七姑奶奶说：“他说我今年上半年交的是‘比劫运’，果然应验了。”“什么叫‘比劫运’？”‘比劫运就是交朋友兄弟的运，我跟你一见就象亲姐妹一样，不是交比劫运？“罗四姐让她说动心了，“好啊！”她问：“哪一天去？”“吴铁口的生意闹猛得不得了！算命看流年，都要预先挂号的。等我叫人去挂号，看排定在啥辰光，我来通知你。”",
+    "en": "“Exactly.” The Seventh Lady returned to her purpose. “Fortune comes from destiny. To help a husband prosper, you must marry a man with a good destiny, and have a good one yourself. Fortune without destiny is like a rootless tree. Nothing will come of it.” “Destiny is unreliable too. When I was little, everyone who read mine said it was excellent. Look at me now. Where is the excellence?” “What did they say?” “I did not understand much of it. Only that a jiazi day and a jiazi hour made an unusually rich and honourable destiny.” “Perhaps the wealth and honour lie ahead.” “What future is there? With a son, there might be hope. Like the White Lady: after a lifetime of suffering, her son became the top examination graduate and she could hold her head high at last. What have I?” “Could you not marry again and have one? There is a Wu Tiekou on Second Road whose predictions everyone calls extraordinarily accurate. I shall take you to see him sometime.” Had the Seventh Lady consulted him herself? She said she had, and that his prediction had certainly proved true. He had foretold a bijie period in the first half of this year. Asked what that meant, she explained that it was a period of friendship and brotherhood. Had they not become as close as sisters at their first meeting? Luo was persuaded and asked when they could go. “His business is tremendously busy. You must book in advance, whether for a full reading or the year's fortunes. I shall send someone to register and let you know the appointment.”"
+  },
+  {
+    "id": "P018",
+    "global_id": "B075-P018",
+    "part": 75,
+    "source_start_line": 30887,
+    "source_end_line": 30913,
+    "source_heading_prefix": "",
+    "zh": "七姑奶奶回到家，立刻就找她丈夫问道：“二马路的吴铁口，是不是跟你很熟？”“吃花酒的朋友。”古应春问道：“你问他是为啥？”“我有个八字……”“算了，算了！”古应春兜头浇了她一盆冷水，“完全是江湖诀，见人说人话，见鬼说鬼话，你相信他就自讨苦吃了。”“我就是要他‘见人说人话，见鬼说鬼话，。我有个八字在这里，请他先看一看，到时候要他照我的说法。”“照你的说法？”古应春问道：“是什么人的八字？”“罗四姐的。她属蛇，六月望生日。甲子日、甲子时。”古应春有些会意了，“好吧！”他说，“你要他怎么说？”“你先不要问我，我要问你两件事：第一，他肯不肯照我的话说，第二，说得圆不圆？”“好，那么我告诉你：第一，一定肯照你的话说，不过润金要多付。”“这是小事，就怕他说得不圆，甚至于露马脚，那就误我的大事了。”此人鬼聪明，决不会露马脚，至于说得圆不圆，要看对方是不是行家。““这是啥道理呢？”“行家会挑他的毛病，捉他的漏洞。他们这一行有句话，叫做‘若要盘驳’性命交脱‘。“你叫他放心，他的性命一定保得住。”",
+    "en": "Back at home, the Seventh Lady immediately asked Gu whether he knew Wu Tiekou well. “We are companions at courtesan banquets. Why do you ask?” “I have a set of birth characters…” “Enough! It is all a charlatan's formula, saying whatever suits the listener. Believe him and you invite trouble.” “That is precisely what I want him to do. Let him examine these birth characters first, and then say what I instruct.” “What you instruct? Whose birth characters?” “Sister Luo's. Snake year, the fifteenth of the sixth month, a jiazi day and a jiazi hour.” Gu began to understand. “Very well. What do you want him to say?” “Before that, I have two questions. Will he follow my instructions? And can he make it sound convincing?” “He will certainly follow them—if you pay a larger fee.” “That is a small matter. I am afraid he may fail to make it convincing, or even reveal the trick. That would ruin my plan.” “He is devilishly clever and will not give himself away. Whether his account withstands scrutiny depends on whether the other person knows the subject.” “Why?” “An expert can find faults and expose gaps. His profession has a saying: submit your reading to challenge, and you put your life in another's hands.” “Tell him not to worry. His life will certainly be safe.”"
+  }
+]

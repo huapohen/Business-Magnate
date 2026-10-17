@@ -1,0 +1,143 @@
+{
+  "output_file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/胡雪岩_中文补全版.txt",
+  "output_sha256": "0ab4660485c507b5adba3665619be5f3bec8745254f8dd8fab81157231d10f53",
+  "source_sha256": {
+    "胡雪岩.txt": "27ded7a0aa0482b15b146c349d02dee34c92be0107317481d5123b2c2f498238",
+    "《胡雪岩》(共五部).txt": "8a39ae387ab2120a65acd6c978748baee9762ef7b9390c977d280108620d9a36"
+  },
+  "changes": [
+    {
+      "action": "insert_book",
+      "title": "红顶商人",
+      "source_file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/input/《胡雪岩》(共五部).txt",
+      "source_lines": [
+        26936,
+        31727
+      ],
+      "chapter_headings": 11,
+      "chapter_headings_separated": 1,
+      "site_footer_removed": 1,
+      "hash_markers_removed": 103,
+      "embedded_watermarks_removed": {
+        "[奇qinkan.net书]": 4,
+        "www奇Qisuu书com网": 3
+      },
+      "inserted_text_sha256": "89715025aa3d6fe4a7222987547959239a70f2febad61e3dd59eef6f00fdd149",
+      "inserted_characters": 240888
+    },
+    {
+      "action": "insert_book",
+      "title": "萧瑟洋场",
+      "source_file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/input/《胡雪岩》(共五部).txt",
+      "source_lines": [
+        35140,
+        38007
+      ],
+      "chapter_headings": 7,
+      "chapter_headings_separated": 6,
+      "site_footer_removed": 1,
+      "hash_markers_removed": 0,
+      "embedded_watermarks_removed": {
+        "www奇Qisuu书com网": 3,
+        "奇书-整理-提供下载": 3,
+        "16ks.com一路在线看书": 1
+      },
+      "inserted_text_sha256": "19ffdf2d5b211acb4a3a24027e39751ecec84595925663139b5912523adf0269",
+      "inserted_characters": 131150
+    },
+    {
+      "action": "insert_volume_heading",
+      "before_old_line": 9279,
+      "text": "胡雪岩全传——平步青云（中）",
+      "basis": "联经新校版目录：中卷12–21章，下卷22–31章"
+    },
+    {
+      "action": "insert_volume_heading",
+      "before_old_line": 17695,
+      "text": "胡雪岩全传——平步青云（下）",
+      "basis": "联经新校版目录：中卷12–21章，下卷22–31章"
+    },
+    {
+      "action": "restore_dialogue_order",
+      "old_lines": [
+        29271,
+        29273
+      ],
+      "basis_new_lines": [
+        33204,
+        33206
+      ],
+      "before": "    “喔，那我要把交代蓉斋的话告诉你，第一，今年丝的市面不大好，养”今天下半天就走。“\n\n    蚕人家，今年这个年，恐怕很难过，你叫他关照柜台上，看货稍微放宽些。“\n",
+      "after": "    “今天下半天就走。”\n\n    “喔，那我要把交代蓉斋的话告诉你，第一，今年丝的市面不大好，养蚕人家，今年这个年，恐怕很难过，你叫他关照柜台上，看货稍微放宽些。”\n"
+    },
+    {
+      "action": "correct_character",
+      "old_line": 353,
+      "before": "精神夏",
+      "after": "精神复",
+      "basis": "parallel text in the supplied new file"
+    },
+    {
+      "action": "correct_character",
+      "old_line": 1469,
+      "before": "三有龄辩",
+      "after": "王有龄辩",
+      "basis": "parallel text in the supplied new file"
+    },
+    {
+      "action": "correct_character",
+      "old_line": 3529,
+      "before": "在五有龄当然",
+      "after": "在王有龄当然",
+      "basis": "parallel text in the supplied new file"
+    }
+  ],
+  "original_lines_preserved_and_reversible": true,
+  "input_files_unchanged": true,
+  "unresolved_private_use_characters": [
+    {
+      "output_line": 37342,
+      "code_point": "U+E0E3",
+      "context": "旦，演到『思春』那一段，真如用『羊毛笔』写赵孟钭郑崦耐鹱钊艘庀正当德馨全神贯注在台上时，有个身穿行装的『戈什哈』"
+    },
+    {
+      "output_line": 37342,
+      "code_point": "U+E002",
+      "context": "『思春』那一段，真如用『羊毛笔』写赵孟钭郑崦耐鹱钊艘庀正当德馨全神贯注在台上时，有个身穿行装的『戈什哈』悄悄走到"
+    },
+    {
+      "output_line": 37342,
+      "code_point": "U+E0DC",
+      "context": "思春』那一段，真如用『羊毛笔』写赵孟钭郑崦耐鹱钊艘庀正当德馨全神贯注在台上时，有个身穿行装的『戈什哈』悄悄走到他"
+    },
+    {
+      "output_line": 37342,
+      "code_point": "U+E2F0",
+      "context": "一段，真如用『羊毛笔』写赵孟钭郑崦耐鹱钊艘庀正当德馨全神贯注在台上时，有个身穿行装的『戈什哈』悄悄走到他身旁，递"
+    },
+    {
+      "output_line": 38198,
+      "code_point": "U+E41D",
+      "context": "『啥叫见过歇？奴见过格。』说着敛衽见礼，口中说道∶『胡老爷，耐发福哉。』"
+    },
+    {
+      "output_line": 38318,
+      "code_point": "U+E41D",
+      "context": "，格桩事体末，我拜托仔耐哉畹！』『包拉我身浪，一个缺。不过，老四，耐那哼谢谢我呐？』『耐讲！』"
+    },
+    {
+      "output_line": 38332,
+      "code_point": "U+E41D",
+      "context": "盒，走来说道∶『呒拨啥好个烟膏请耐，只有「云土」，晓得阿好迁就？』说着，拖张小凳子在床前坐下来。"
+    },
+    {
+      "output_line": 38892,
+      "code_point": "U+E421",
+      "context": "，而朝鲜的内乱已经平定，不必再动用武力，就没有『墨从军』而且『夺情』的理由，好在洋务上棘手之事甚多，以需要李鸿章与各国"
+    }
+  ],
+  "limitations": [
+    "No paper-edition collation; chapter 24 heading is absent from both supplied first-book texts.",
+    "Original OCR and punctuation differences were not comprehensively corrected."
+  ]
+}

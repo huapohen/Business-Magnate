@@ -1,0 +1,62 @@
+{
+  "reviewer": "translate_desolate_a",
+  "scope": "Independent full source-to-TSV comparison of root batches 150 and 151; focus money, interest, conditions, speakers, omissions, paragraph alignment.",
+  "result": "No substantive translation errors found requiring changes. Root TSVs unchanged. Original source inconsistencies are handled explicitly in translator notes.",
+  "parts": [
+    {
+      "part": 150,
+      "source_range": [
+        4551,
+        4657
+      ],
+      "source_nonempty_lines": 54,
+      "paragraphs": 13,
+      "coverage_exact_once": true,
+      "checks": [
+        "Full source 4551-4657 compared against TSV, including chapter heading and every dialogue.",
+        "6500 men x 10 taels = 65000 travel advance; later source rounds to 60000. Source horse arithmetic 120 x 3000 = 36000 and stated total 3540000 preserved and expressly noted as inconsistent.",
+        "100000 Zhangjiakou funds only an advance source; 200000 artillery budget, 500000 revolving colonization fund / 250000 initially, 250000 monthly troop costs / 3000000 annually preserved.",
+        "Monthly Fujian 40000 + Zhejiang 70000 + Guangdong 40000 + customs 30000 = 180000; annual 2160000. Broader annual 2400000 is estimate; Hu promise 1200000 is half that estimate.",
+        "No confirmed disbursement inferred from proposals. Immediate 200000-300000 remains distinct from planned 1200000. Repeated Henan and source arithmetic defects explicitly in notes."
+      ],
+      "findings": [],
+      "reviewer_edits": [],
+      "tsv_sha256": "3d208cc64bb1a99de5dad248c4a25ea1f194d4657651e82ed446d23ab4819044"
+    },
+    {
+      "part": 151,
+      "source_range": [
+        4659,
+        4791
+      ],
+      "source_nonempty_lines": 67,
+      "paragraphs": 26,
+      "coverage_exact_once": true,
+      "checks": [
+        "Full source 4659-4791 compared against TSV, including every dialogue and five loan provisions.",
+        "HK$5000000 bank capital kept distinct from tael-denominated loans; novel bank chronology preserved and distinguished in notes from external history.",
+        "Initial loan 1200000, one year, first six months interest only then six monthly principal repayments; rejection of Fukang guarantee and later customs-note arrangement preserved.",
+        "Monthly funding plan 40000 + 40000 + 70000 = 150000, plus 30000 customs leaves 20000; no false total of annual funding.",
+        "Outstanding approximately 500000, salt-account deficit over 100000 and next-year working capital 500000 are separate measures. Proposed temporary use of installments preserved.",
+        "Exclusive negotiation and mutual secrecy preserved; no prior Zuo approval invented; oral agreement lacks written draft, then approval sought.",
+        "0.8 percent monthly loan interest, 0.4 public deposit rate / 0.6 private rate / 0.2 intermediary commission; 0.4 total margin split equally. Later rate 1.3 percent monthly preserved.",
+        "Customs notes 240000 + 240000 + 420000 + 180000 = 1080000; Hubei 20000 monthly supports further 120000 to total 1200000. Source erroneous monthly label not silently reproduced as monthly 240000; interpretive normalization explicitly disclosed in notes.",
+        "200000 monthly principal from Tongzhi 6 month 7, six installments; obstruction then actual completion preserved."
+      ],
+      "findings": [],
+      "reviewer_edits": [],
+      "tsv_sha256": "89ee78d2764161ab9827dfa475e493fbb15dcec1d56b6ca538a843524bdd7ee2"
+    }
+  ],
+  "additional_self_review": {
+    "part": 173,
+    "scope": "Source 2275-2389 read in full during translation; additional targeted self-review of dialogue and conditions in 2363-2389.",
+    "result": "No missing dialogue or condition. Manager has not yet obtained director approval. Private 500-tael payment is promised, not paid.",
+    "minor_change": {
+      "span": "2363-2369",
+      "before": "I can draw you a draft for that now.",
+      "after": "I shall draw you a draft for that now.",
+      "reason": "Preserve the explicit promise to pay the settled 12000 rather than merely ability to do so."
+    }
+  }
+}

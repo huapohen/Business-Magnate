@@ -1,0 +1,123 @@
+[
+  {
+    "source_span": "969-977",
+    "source_start_line": 969,
+    "source_end_line": 977,
+    "is_heading": false,
+    "zh": "遗折尚未写完，家人已经闻声环集∶王有龄看着奶妈抱着的五岁小儿子，肤色黄黑，骨瘦如柴，越发心如刀割，一恸而绝。等救醒过来，只见他的大儿子橘云含着泪强展笑容，『爹！』他说，『胡大叔派人来了。』『喔，』这无论如何是个喜信，王有龄顿觉有了精神。『在哪里？』『在花厅上等着。』橘云说道∶『爹也不必出去了，就请他上房来见吧！』『也好。』王有龄说，『这时候还谈什么体制？再说，胡大叔派的人，就是自己人。请他进来好了。』他又问∶『来人姓什么？』『姓萧！年纪很轻，他说他是古应春的学生。』",
+    "en": "Before Wang could finish the memorial, his family had heard his grief and gathered about him. He looked at his five-year-old son in the nurse’s arms, his skin sallow and dark, his body thin as a bundle of sticks. The sight cut him to the heart. He gave a cry of anguish and lost consciousness. When they revived him, his eldest son, Juyun, stood before him, forcing a smile through his tears. “Father, Uncle Hu has sent someone.” “Oh!” Whatever else might happen, this was good news. Wang felt his strength return. “Where is he?” “Waiting in the reception room. There is no need for you to go out, Father. Let him come to your room.” “Very well. What use is ceremony at a time like this? Besides, anyone Uncle Hu sends is one of our own. Ask him in. What is his name?” “Xiao. He is very young, and he says he is Gu Yingchun’s pupil.”",
+    "source_sha256": "be83562ac6eaea15176208af6a00532f233191812ef1b2a0b3b5821927c0c6af",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "979-985",
+    "source_start_line": 979,
+    "source_end_line": 985,
+    "is_heading": false,
+    "zh": "进上房，萧家骥以大礼拜见。王有龄力弱不能还礼，只叫∶『萧义士，萧义士，万不敢当。』萧家骥敬重他的孤苦忠节，依旧恭恭敬敬地一跪三叩首；只有由橘云在一旁还了礼，然后端张椅子，请他在王有龄床前坐下。『王大人！』萧家骥只叫得这一声，下面的话就说不出来了。这倒不是怯官，只为一路而来，所见所闻，是梦想不到的惊心惨目；特别是此一刻，王家上下，一个个半死不活，看他们有气无力地飘来飘去，真如鬼影幢幢，以致于连他自己都不知道此身究竟是在人间，还是在地狱？因而有些神志恍惚，一时竟想不起话从哪里开头？于是反主为客，王有龄先问起古应春∶『令师我也见过，我们还算是干亲。想来他近况很好？』『是，是。托福，托福！』",
+    "en": "Entering the inner room, Xiao Jiaji offered the full ceremonial obeisance. Wang was too weak to return it and could only protest, “Gallant Mr Xiao! Gallant Mr Xiao! I cannot possibly accept such an honor.” Respecting his lonely suffering and steadfast loyalty, Xiao nevertheless knelt reverently and touched his forehead to the floor three times. Juyun returned the courtesy on his father’s behalf, then brought a chair and asked the visitor to sit beside the bed. “Governor Wang!” Xiao got no further. It was not awe of an official that silenced him. Everything he had seen and heard along the way had been more appalling than he could ever have imagined. Now, above all, every member of the Wang household seemed half dead. They drifted weakly about like wavering ghosts, until he could no longer tell whether he was still among the living or already in hell. His mind grew dazed, and for a moment he did not know where to begin. Wang therefore took the initiative and asked about Gu. “I have met your teacher. We are, in fact, connected by an adopted family relationship. I trust he has been doing well?” “Yes, yes. Thanks to your good fortune, sir!”",
+    "source_sha256": "03cd2e4501b200a3febe9a0b5bc187edbfb73cbca76dc29635fd54b4e42d93a7",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "987",
+    "source_start_line": 987,
+    "source_end_line": 987,
+    "is_heading": false,
+    "zh": "等话出口，萧家骥才发觉一开口就错；王有龄眼前是这般光景，还有何福可托？说这话，岂不近乎讥讽？这样想着，急图掩饰失言，便紧接着说∶『王大人大忠大义，知道杭州情形的人，没有一个不感动的。都拿王大人跟何制台相比——。』这又失言了！何桂清弃地而逃，拿他相比，自是对照；然仿佛责以与杭州共亡似的。萧家骥既悔且愧又自恨，所以语声突住；平日伶牙利齿的人，这时变得笨嘴拙舌，不敢开口了。谁知道这话倒是发生了意想不到的效用，王有龄不但不以为忤；脸上反而有了笑容，『上海五方杂处，议论最多。』他问∶『他们是怎么拿我跟何制军相比？』",
+    "en": "Only after the words escaped did Xiao realize that he had begun badly. With Wang in such a state, what good fortune could anyone borrow from him? It almost sounded like mockery. Anxious to cover his mistake, he hurried on. “Your loyalty and righteousness are known to all, Governor Wang. No one who knows the situation in Hangzhou can fail to be moved. Everyone compares you with Governor-General He—” Another blunder! He Guiqing had abandoned his territory and fled; the comparison was naturally intended as a contrast, yet it seemed to demand that Wang perish with Hangzhou. Ashamed, remorseful, and angry with himself, Xiao broke off. Normally so fluent, he had become tongue-tied and hardly dared speak again. Yet his words produced an unexpected result. Far from being offended, Wang smiled. “Shanghai gathers people from every quarter, and everyone has an opinion. How do they compare me with Governor-General He?”",
+    "source_sha256": "cee16ef9d09411c5a642ddcd4777a592e694082b821069f693cffbe2dbdfac53",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "989",
+    "source_start_line": 989,
+    "source_end_line": 989,
+    "is_heading": false,
+    "zh": "既然追问，不能不说，萧家骥定定神答道∶『都说王大人才是大大的忠臣。跟何制台一比，贤愚不肖，更加分明了。大家都在保佑王大人，逢凶化吉，遇难成祥了。』『唉！』王有龄长长地舒了口气，『有这番舆论，可见得公道自在人心。』他略停一下又问∶『雪岩总有信给我？』『怕路上遇到长毛，胡先生没有写信，只有口信。』萧家骥心想，胡雪岩所说，王有龄向他托孤的话，原是为了征信之用；现在王有龄既已相信自己的身分，这话就不必再提，免得惹他伤心，所以接下来便谈正题∶『采办的米，四天前就到了，停在江心；胡先生因为王大人曾交代，米船一到，自会派人跟他联络，所以不敢离开。一直等到昨天，并无消息；胡先生焦躁得食不甘味，夜不安枕，特为派我冒险上岸来送信，请王大人赶快派兵，打通粮道，搬运上岸。』话还未完，王有龄双泪直流，不断摇头，哽咽着说∶『昨天就得到消息，今天也派兵出城了。没有用！叫长毛困死了；困得一点气力都没有了。可望而不可即；有饭吃不到口，真教我死不瞑目。』说到这里，放声一恸；王家大小，亦无不抢天呼地，跟着痛哭。萧家骥心头一酸，眼泪汨汨而下，也夹在一起号啕。『流泪眼看流泪眼』，相互劝慰着收住了眼泪；萧家骥重拾中断话头，要讨个确实主意。",
+    "en": "Since Wang pressed him, Xiao had to answer. He composed himself. “They all say that you are a truly loyal servant of the throne. Set beside Governor-General He, the difference between worth and unworthiness becomes all the clearer. Everyone prays that danger will turn to safety for you and misfortune to good.” “Ah!” Wang let out a long breath. “If that is what people say, then justice does indeed live in human hearts.” After a pause he asked, “Xueyan must have sent a letter?” “Mr Hu feared that I might encounter the Longhairs on the road, so he wrote nothing. He entrusted me with a spoken message.” Xiao remembered the private conversation Hu had described, in which Wang had asked him to care for his child after his death. Its purpose had been to establish Xiao’s credentials. Now that Wang already accepted his identity, he need not mention it and cause further grief. He went straight to the business. “The rice we bought arrived four days ago and is lying in the middle of the river. Because you told Mr Hu that you would send someone to contact him as soon as the grain boats arrived, he has not dared leave them. He waited until yesterday without news. Anxiety has robbed him of his appetite and his sleep. He therefore sent me ashore at great risk to bring this message: please dispatch troops quickly to open the supply route so that the rice can be landed.” Before he had finished, tears were streaming down Wang’s face. He shook his head repeatedly and sobbed, “We learned of it yesterday. We sent troops out this morning. It was no use! The Longhairs have penned us in until we have not a scrap of strength left. We can see it, but cannot reach it. Food is there, yet we cannot put it into our mouths. How can I close my eyes in death?” He broke into a great cry of anguish. Everyone in the household, old and young, wept with him, calling upon Heaven and earth. Xiao’s heart ached; tears poured down his cheeks, and he too sobbed aloud. Tearful eyes met tearful eyes as they comforted one another and at last brought their grief under control. Xiao then returned to the interrupted discussion. He needed a definite decision.",
+    "source_sha256": "09b29b00b39334ae9e8c9b30066d8d70393e5d0c90d8652851e438e76f7f445a",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "991-995",
+    "source_start_line": 991,
+    "source_end_line": 995,
+    "is_heading": false,
+    "zh": "问到这话，又惹王有龄伤心；这是唯一的一条生路，关乎全城数十万生灵，明知可望而不可即，却又怎么能具此大决断，说一声∶『算了！你们走吧！』不走等机会又如何？能办得到这一点，自然最好；虽然画饼不能充饥，但是望梅或可止渴，有这许多米停泊在钱塘江心，或者能激励军心，发现奇迹——王有龄见过这样的奇迹，幼时见邻家失火，有个病足在床的人，居然能健步冲出火窟。人到绝处想求生时，那份潜力的发生，常常是不可思议的。然而这到底是可遇而不可求的事。这许多米摆在那里，长毛必起觊觎之心∶就算他们自己不绝粮，但为了陷敌于绝境，亦必千方百计动脑筋不可，或明攻、或暗袭，只要有一于此，胡雪岩十之八九会葬身在钱塘江中，追随伍子胥于地下，呜咽朝夕，含恨千古。转念到此，王有龄凄然下泪，摇头长叹∶『何苦「临死还拉个垫背的」？萧义士，你跟雪岩说∶心余力绌，坐以待毙。请他快走吧！』其实这倒是萧家骥想讨到的一句话；但听王有龄说出口来，他反答应不下了。",
+    "en": "The question brought Wang fresh anguish. This was the only road to survival for hundreds of thousands of people. Even knowing that it lay beyond their reach, how could he take the terrible decision to say, “There is no hope. Go”? And what if the boats stayed and waited for a chance? If that were possible, it would naturally be best. A painted cake could not satisfy hunger, but the thought of plums might ease thirst. With so much rice lying in the Qiantang, the troops might find fresh courage and work a miracle. Wang had seen such a miracle in childhood: when a neighbor’s house caught fire, a man who had been bedridden with crippled legs somehow leaped up and ran out of the flames. The hidden strength summoned by a desperate will to live could be astonishing. Yet such things might occur; they could not be commanded. All that rice was sure to tempt the Longhairs. Even if they had enough food themselves, they would devise every possible means of depriving the besieged of their last hope. Whether by open assault or a secret raid, one attack might very well send Hu Xueyan to his death in the Qiantang. He would join Wu Zixu beneath its waters, his bitter grief sounding in the tides morning and evening for a thousand years. At the thought, Wang wept sorrowfully, shook his head, and sighed. “Why drag another man down with me when I die? Mr Xiao, tell Xueyan that our will outstrips our strength. We can only sit and await death. Ask him to leave at once.” This was, in fact, the answer Xiao had come hoping to obtain. But now that Wang had spoken it, he could not bring himself to assent.",
+    "source_sha256": "3fbf7057d0235f468639fdac28714ebd2a7b84a23933152ea34fd29f3fe6d665",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "997-1001",
+    "source_start_line": 997,
+    "source_end_line": 1001,
+    "is_heading": false,
+    "zh": "『王大人！再筹划筹划看！』『不用筹划了。日日盼望，夜夜盘算；连想派个人跟雪岩联络，都不容易办得到。唉，『王有龄痛心欲绝地说∶』我什么都不错，只错了两件事，一件是当初有人劝我从城上筑一条斜坡，直到江边，派重兵把守，以保粮路，我怕深累民力，而且工程浩大，担心半途而废，枉抛民力，不曾采纳。如今想来，大错特错。『这实在是个好办法，有了这条路，当然也难免遭长毛的袭击；但九次失败，一次成功，城内亦可暂延残喘，决不会象现在这样被困得一点点生路都找不到。",
+    "en": "“Governor Wang, think it over once more. There may be a way.” “There is nothing left to think over. I hope all day and plan all night. Even sending someone to contact Xueyan is almost beyond us. Ah!” Wang was in mortal anguish. “I did nothing wrong except in two matters. First, someone advised me at the beginning to build a ramp from the city wall down to the riverbank and guard it with a strong force to secure our supply route. I feared the burden on the people. The undertaking was so vast that I worried we might have to abandon it halfway, wasting all their labor. I did not accept the proposal. Now I see how terribly wrong I was.” It really had been an excellent plan. Such a route would naturally have been attacked by the Longhairs, but even if nine attempts failed and one succeeded, the city could have prolonged its existence a little. It could never have been trapped as completely as it was now, without the smallest opening toward life.",
+    "source_sha256": "6d32b2d3245bb03f13f608a9716cdbf38ff658d5b718fbc9588cf8b18bc00e94",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "1003-1005",
+    "source_start_line": 1003,
+    "source_end_line": 1005,
+    "is_heading": false,
+    "zh": "当然，这话要说出来，会更使王有龄伤心，所以只好反过来说，『那也不见得。』他说，『照我一路看到的情形，长毛太多，就有这条斜坡，也怕守不住。』『这不去说他了。第二件事最错！』王有龄黠然说道∶『被围之初，有人说该闭城，有人说要开城放百姓，聚讼纷纭，莫衷一是。我不该听了主张闭城的人的话，当初该十门大开，放百姓去逃生才是正办。』『王大人，你老也不必懊悔了。说不定当初城门一开，长毛趁机会一冲，杭州早就不保。』『原来顾虑的也就是这一点。总当解围是十天半个月的事，大家不妨守一守；开城放百姓，会动摇军心。哪知道，结果还是守不住。既有今日，何必当初？我对不起杭州的百姓啊！』说到这道，又是一场号啕大哭；萧家骥再次陪泪，而心里却已有了打算，哽咽着喊道∶『王大人，王大人，请你听我说一句。』",
+    "en": "To say so, however, would only deepen Wang’s grief. Xiao therefore argued the opposite. “Not necessarily. From what I saw on the way, there are so many Longhairs that even with such a ramp, I doubt it could have been held.” “Let us leave that. The second mistake was the worst.” Wang spoke dejectedly. “When the siege began, some said we must close the gates; others said we should open them and let the people out. There was endless argument and no agreement. I should not have listened to those who urged closure. The proper course was to throw all ten gates wide and let the people escape.” “You must not torment yourself, Governor. If the gates had been opened, the Longhairs might have charged in and Hangzhou might have fallen long ago.” “That was precisely what we feared. We thought relief would come in ten days or a fortnight, and that we might as well hold out. Opening the gates to let the civilians go would shake the army’s resolve. Who could have known that, in the end, we should fail to hold the city anyway? If it was to come to this, why did we do it? I have failed the people of Hangzhou!” Again he broke into loud sobs. Xiao wept with him, but a plan had already formed in his mind. Choking back his tears, he called, “Governor Wang! Please listen to what I have to say.”",
+    "source_sha256": "9bcd611e70238807e8bf72a8f5a420d136daf71135a517aeb8896e03142cbb46",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "1007",
+    "source_start_line": 1007,
+    "source_end_line": 1007,
+    "is_heading": false,
+    "zh": "等王有龄悲伤略减，萧家骥提出一个办法，也可以说是许诺；而实在是希望——希望粮船能再安然等待三天；更希望城内官军能在这三天以内，杀出一条血路，运粮上岸。『但愿如此！』王有龄强自振作着说，『我们内外和继，尽这三天以内拼一拼命。』『是！』为了鼓舞城内官兵，萧家骥又大胆作了个许诺∶『只要城内官兵能够打到江边，船上的洋兵一定会得接应；他们的人数虽不多，火器相当厉害，很得力的。』『能这样最好。果然天从人愿，杭州能够解围，将来洋兵的犒赏，都着落在我身上。多怕不行；两万银子！』王有龄拍着胸脯说，『哪怕我变卖薄产来赔，都不要紧。』『是了。』萧家骥站起身来说∶『我跟王大人告辞；早点赶回去办正事。』",
+    "en": "When Wang’s grief had eased a little, Xiao proposed a plan. It might have been called a promise, though in truth it was a hope: that the grain boats could remain safely where they were for another three days, and, more urgently still, that within those three days the troops inside the city could fight their way to the river and bring the rice ashore. “May it be so!” Wang forced himself to rally. “Let us work together, inside and outside, and stake our lives on these next three days.” “Yes!” To encourage the defenders, Xiao ventured another promise. “If the troops from the city can reach the riverbank, the foreign soldiers aboard the boats will certainly support them. There are not many of them, but their firearms are powerful and highly effective.” “That would be best. If Heaven grants our wish and Hangzhou is relieved, I shall be responsible for rewarding the foreign troops. I may not be able to manage more, but twenty thousand taels!” Wang struck his chest. “Even if I must sell my modest property to make up the sum, I shall not mind.” “Very well.” Xiao rose. “I must take my leave and return as quickly as possible to arrange matters.”",
+    "source_sha256": "5fed86c99fd6980b8ca62a7648bc8cb002cde434c665e0512c21543be8fd281c",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "1009-1011",
+    "source_start_line": 1009,
+    "source_end_line": 1011,
+    "is_heading": false,
+    "zh": "『多谢你！萧义士。』王有龄衷心感激地说∶『杭州已不是危城，简直是绝地；足下冒出生入死的大险来送信，这份云天高义，不独我王某人一个人，杭州全城的文武军民，无不感激。萧义士——』他一面说，一面颤巍巍地起身，『请受我一拜！』『不敢当，不敢当！』萧家骥慌忙扶住∶『王大人，这是我义不容辞的事。』一个坚辞，一个非要拜谢，僵持了好一会，终于还是由王有龄的长子代父行礼；萧家骥自然也很感动，转念想到生离几乎等于死别，不由得热泪盈眶，喉头梗塞，只说得一声∶『王大人，请保重！』扭头就走。",
+    "en": "“Thank you, gallant Mr Xiao.” Wang spoke with heartfelt gratitude. “Hangzhou is no longer merely a city in danger; it is a place of certain death. You have risked your life to bring this message. For such boundless generosity, it is not only I who thank you, but every civil and military official, every soldier, and every citizen of Hangzhou. Mr Xiao—” He struggled shakily to his feet. “Allow me to bow to you.” “I could not accept it!” Xiao hurried to support him. “Governor Wang, this is a duty I could not in honor refuse.” One insisted on offering thanks, the other steadfastly declined the honor. After a long impasse, Wang’s eldest son finally made the obeisance on his father’s behalf. Xiao was deeply moved. Reflecting that this parting in life was almost certainly a parting in death, he felt hot tears fill his eyes and a lump rise in his throat. He managed only, “Take care of yourself, Governor Wang,” then turned away.",
+    "source_sha256": "121e6d0339ad8033409038e2fc09678255374688dec3245f41a4d3f609746232",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "1013-1015",
+    "source_start_line": 1013,
+    "source_end_line": 1015,
+    "is_heading": false,
+    "zh": "踉踉跄跄地出了中门，只听里面在喊∶『请回来，请回来！』请了萧家骥回去，王有龄另有一件大事相托；将他的『遗疏』交了给萧家骥∶『萧义士！』这一次王有龄的声音相当平静∶『请你交付雪岩保管。城在人在，城亡人亡，只听说杭州失守，就是我毕命之日；请雪岩拿我这道遗疏，面呈江苏薛抚台，请他代缮出奏。这件事关乎我一生的结果，萧义士我重重拜托了。』见他是如此肃穆郑重的神情，萧家骥不敢怠慢，重重地应一声∶『是！』然后将那道遗疏的稿子折成四叠，放入贴肉小褂子的口袋中；深怕没有放得妥当会遗失，还用手在衣服外面按了两下。",
+    "en": "He had stumbled through the inner gate when he heard voices calling from within. “Please come back!” Wang had another important trust to place in him. Recalled to the room, Xiao received the governor’s final memorial. This time Wang’s voice was quite calm. “Mr Xiao, please give this to Xueyan for safekeeping. While the city stands, I live; when it falls, I die. News that Hangzhou has fallen will mean that my life is over. Ask Xueyan to take this final memorial in person to Governor Xue of Jiangsu and request that he have it transcribed and submitted to the throne. It concerns the final accounting of my entire life. Mr Xiao, I entrust it to you with all my heart.” Faced with such grave solemnity, Xiao dared show no hesitation. “I shall,” he answered firmly. He folded the draft into four and placed it in the pocket of the short undergarment next to his skin. Anxious lest it slip out and be lost, he pressed it twice through his outer clothes to make sure it was secure.",
+    "source_sha256": "6133f955841d7fc250ad7741b415d7f5250e9040a1fab3d78e66748c262e314f",
+    "source_cleanup_applied": false,
+    "adapted": false
+  },
+  {
+    "source_span": "1017",
+    "source_start_line": 1017,
+    "source_end_line": 1017,
+    "is_heading": false,
+    "zh": "『喔，还有句话要交代，这道遗疏请用我跟瑞将军两个人的衔名出奏。』王有龄又说∶『我跟瑞将军已经约好了，一起殉节，决不独生。』听他侃侃而谈，真有视死如归的气概；萧家骥内心的敬意，掩没了悲伤，从容拜辞，『王大人，』他说，『我决不负王大人的付托。但愿这个稿子永远存在胡先生手里！』『但愿如此！』王有龄用低微但很清晰的声音说∶『再请你转告雪岩，千万不必为我伤心。』",
+    "en": "“Oh, one more instruction. Please have this final memorial submitted under the names and titles of both General Rui and myself. The general and I have agreed to die for our duty together. Neither will survive the other.” He spoke so calmly and firmly, with such readiness to meet death, that the respect Xiao felt overwhelmed his sorrow. He took his leave with composure. “Governor Wang, I shall not fail your trust. May this draft remain forever in Mr Hu’s keeping!” “May it be so,” Wang said in a low but perfectly clear voice. “And tell Xueyan again that he must not grieve for me.”",
+    "source_sha256": "350e7affc470a1ae748f1a84df82ccb0810236181429a6e619c97f89dcae8da5",
+    "source_cleanup_applied": false,
+    "adapted": false
+  }
+]

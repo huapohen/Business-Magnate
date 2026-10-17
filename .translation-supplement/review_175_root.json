@@ -1,0 +1,24 @@
+{
+  "parts": [
+    175
+  ],
+  "reviewer": "root",
+  "method": "Read every source paragraph against English, including dialogue and working conditions.",
+  "findings": [
+    {
+      "span": "2607",
+      "issue": "上下床 is a euphemistic reference to sexual relations, not upper/lower bunks.",
+      "before": "Freedom and licence, however, were only an upper and a lower bunk apart; in time, breaches of convention became common.",
+      "after": "The distinction between an open manner and loose morals, however, was little more than a matter of getting into bed; in time, breaches of convention became common.",
+      "status": "fixed"
+    }
+  ],
+  "checked": [
+    "Source coverage and paragraph boundaries",
+    "Cooking descriptions and unreliable 今天 retained cautiously",
+    "100000tael borrowing and proposed mill purchase states",
+    "Mi rumours versus narrative explanation",
+    "Adult workers’ exploitation and twelve-hour conditions retained non-graphically",
+    "Dismissal penalty and proposed sale, without premature completion"
+  ]
+}

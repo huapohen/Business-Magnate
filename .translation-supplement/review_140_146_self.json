@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "coverage": "Every nonempty source line 3857–4363 covered once in order",
+  "parts": [
+    {
+      "part": 140,
+      "paragraphs": 17,
+      "nonempty_source_lines": 37,
+      "english_words": 3478,
+      "sha256": "0e01595963811a0be3ca7f703be46469a135de5082e59657677c3ba4d3d6672c"
+    },
+    {
+      "part": 141,
+      "paragraphs": 15,
+      "nonempty_source_lines": 41,
+      "english_words": 3211,
+      "sha256": "1fcd64f4972435d34cb85ffd4ea7ffd22ab1d0f7c39629360b1fa6d6a44710c0"
+    },
+    {
+      "part": 142,
+      "paragraphs": 14,
+      "nonempty_source_lines": 33,
+      "english_words": 3120,
+      "sha256": "240e70e3c621a1e45b44e36481cc5df6a2b728fcd1da6c6fab12a17d6a9e1144"
+    },
+    {
+      "part": 143,
+      "paragraphs": 15,
+      "nonempty_source_lines": 39,
+      "english_words": 2939,
+      "sha256": "d3753b9e2dfde4f98aa0b487f15140e201ec4c1b206557069c5cc2732e88e726"
+    },
+    {
+      "part": 144,
+      "paragraphs": 13,
+      "nonempty_source_lines": 41,
+      "english_words": 2764,
+      "sha256": "5be7d9f2963ec6090793d4943f02a0ed0b0de6ca85b76d9fa74dcc9c10c93c0f"
+    },
+    {
+      "part": 145,
+      "paragraphs": 11,
+      "nonempty_source_lines": 39,
+      "english_words": 2843,
+      "sha256": "e559f4147f2a51f679a450620ae6ee5c398e42b06f792b34911b6dca7c10d3cd"
+    },
+    {
+      "part": 146,
+      "paragraphs": 7,
+      "nonempty_source_lines": 24,
+      "english_words": 1374,
+      "sha256": "9d4ad0e2b881f07a570c35d2b4e2f4e461c3b7451f4824a9ebb28a756b8a5a7e"
+    }
+  ],
+  "totals": {
+    "paragraphs": 92,
+    "nonempty_source_lines": 254,
+    "english_words": 19729
+  },
+  "limitations": [
+    "141 source3991 begins an unintroduced discussion of a hundred thousand; preserved with notes.",
+    "145 source4293 says not for suppressing rebels despite earlier stated purpose; negation preserved with notes."
+  ],
+  "safety_overrides": "None required; no unmistakably sexualized minor content."
+}

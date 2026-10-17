@@ -1,0 +1,14 @@
+翻译说明
+覆盖《红顶商人》第四章后半 source_red.txt 第 1549–1633 行，全部 43 个非空源行整理为 16 个完整语义阅读段。无未成年性描写，无安全改写。徐宗鳌家三岁幼子被免死属于非性历史叙事，原文明确保留；自杀及城陷内容亦为小说历史事件叙述，未改写成建议。
+林福祥作 Lin Fuxiang，第 1555 行“林福洋”按同一统兵者、举荐者语境统一；定武军 Dingwu Army；徐宗鳌 Xu Zong’ao；甘姓候补知府只写 surnamed Gan，不补名字。有关林的传闻、可疑证据、随后叙述者断言秘密默契的三个层次均保留，没有将全段一律改成已证实或一律当传闻。
+员锡庚译 Yun Xigeng，员为姓读 yùn。姓氏读音参考教育部《异体字字典》“員”条 https://dict.variants.moe.edu.tw/dictView.jsp?ID=-6162 及重庆大学统战部姓氏释读 https://tzb.cqu.edu.cn/info/1029/2342.htm 。文瑞 Wenrui、处州 Chuzhou、吴保丰 Wu Baofeng、庄焕文 Zhuang Huanwen，沿此前官衔习惯，学政 Education Commissioner、总兵 brigade commander、盐运使 Salt Commissioner。
+“卖钱”是铜钱换银及银洋以便携带逃亡，未译作通货被任意出售。“一两木耳”等重量已在前批区别币值。千把银子是约一千两赎身预算，朱老爷三千两送上司是另外一件旧事；两者均不能写成胡已付出的钱。
+艳春老四译 the Fourth Miss of Yanchun House；本家是院方主人，金大块头作 Big Jin；借干铺以原文委婉说法译 borrow a bed for the night。院方虽已答应，医生最终拒绝留下，不能误译为已过夜。
+医生说十天能起床、七姑奶奶邀留十天、古折衷五天、医生答应五天、七姑奶奶又提出病情反复须留沪过年，属于不同阶段条件，逐一保留。消息准备一两天内逐步告诉胡，此批尚未实际告知。
+第 1603–1605 行以“七”手势暗扣“巧”是人物隐语；译文保留 seven 与 qiao 的暗示，不将其误作“七姑奶奶”本人，也不擅添未有依据的拆字原理。“齐大非偶”意译 a match altogether too grand for him，保留婚配不相称之意。“李代桃僵”保留 plum/peach 意象并简短说出 substitute，承接替阿巧解围的计划。
+第 1567 行“古应”“稍舟”分别依语境按古应春、稍稍；第 1601 行“情”按情景、第 1613 行“只有我这件办法”按其提议的办法理解。说话人断句和引号损坏按上下文恢复。
+
+综合学习提示
+“It was said… / could not be verified… / did give grounds… / had indeed…”递进改变证据强度，可练习辨认传闻、疑点与叙述者确认。
+“Once that side had consented, however, the other refused”是宴席留宿安排的关键转折，读过院方答应不能提前判定结果。
+末尾讨论以双方情愿、生活习惯、家庭反应三方面否定买妾替代方案，最终决定增加银钱补偿；因果链比表面热闹场面更重要。

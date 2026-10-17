@@ -1,0 +1,2754 @@
+{
+  "changes": [
+    {
+      "internal_part": 1,
+      "display_number": 1,
+      "old": "001_平步青云（上）_简介_楔子_第一章_纯英文.txt",
+      "new": "001_平步青云（上）_简介_楔子_第一章_纯英文.txt",
+      "sha256_before": "ec67eb31357385267cd01c947ff1233ba0c41ea82b457befb97c4089b811ed50"
+    },
+    {
+      "internal_part": 1,
+      "display_number": 1,
+      "old": "001_平步青云（上）_简介_楔子_第一章_中英对照.txt",
+      "new": "001_平步青云（上）_简介_楔子_第一章_中英对照.txt",
+      "sha256_before": "4119f1d3bb10c3b50c430d864d36724688ed174741c18978d606ae4852f8e84d"
+    },
+    {
+      "internal_part": 2,
+      "display_number": 2,
+      "old": "002_平步青云（上）_第二章_上_纯英文.txt",
+      "new": "002_平步青云（上）_第二章_上_纯英文.txt",
+      "sha256_before": "236ad69851d781f8a5c2248c2a4ec3900d0345fc3329566af55d5e4ff8f11dc8"
+    },
+    {
+      "internal_part": 2,
+      "display_number": 2,
+      "old": "002_平步青云（上）_第二章_上_中英对照.txt",
+      "new": "002_平步青云（上）_第二章_上_中英对照.txt",
+      "sha256_before": "c1365e77a667004034ce5e3cd92061a0391d9adba9f3123829f95e2a118893a8"
+    },
+    {
+      "internal_part": 3,
+      "display_number": 3,
+      "old": "003_平步青云（上）_第二章_下_纯英文.txt",
+      "new": "003_平步青云（上）_第二章_下_纯英文.txt",
+      "sha256_before": "0f38eae20d0b28d03427a34766a31f0a34b66eeff5af100314518850c68c2159"
+    },
+    {
+      "internal_part": 3,
+      "display_number": 3,
+      "old": "003_平步青云（上）_第二章_下_中英对照.txt",
+      "new": "003_平步青云（上）_第二章_下_中英对照.txt",
+      "sha256_before": "1b5821da5dc0cf05065a5c1d85df3dbc750d70052794dd9ca43df56c7da101e5"
+    },
+    {
+      "internal_part": 4,
+      "display_number": 4,
+      "old": "004_平步青云（上）_第三章_上_纯英文.txt",
+      "new": "004_平步青云（上）_第三章_上_纯英文.txt",
+      "sha256_before": "79cd6637ad6309b8127149e68c3bf2f88f532db54d30b2b458ea8d10bce2c7a7"
+    },
+    {
+      "internal_part": 4,
+      "display_number": 4,
+      "old": "004_平步青云（上）_第三章_上_中英对照.txt",
+      "new": "004_平步青云（上）_第三章_上_中英对照.txt",
+      "sha256_before": "4b92fcc6dd208da5252debd4b22a8234bfa3206f20df353a4b5ae213c6a77044"
+    },
+    {
+      "internal_part": 5,
+      "display_number": 5,
+      "old": "005_平步青云（上）_第三章_下_纯英文.txt",
+      "new": "005_平步青云（上）_第三章_下_纯英文.txt",
+      "sha256_before": "17bc65961e4a8abeb07db01219a5fe8635967ff8de65aeac655075e869f71b26"
+    },
+    {
+      "internal_part": 5,
+      "display_number": 5,
+      "old": "005_平步青云（上）_第三章_下_中英对照.txt",
+      "new": "005_平步青云（上）_第三章_下_中英对照.txt",
+      "sha256_before": "45d1c1b2f627dfe0da326820a7009e81f368b61ae442e8e47bcac222cc855e2f"
+    },
+    {
+      "internal_part": 6,
+      "display_number": 6,
+      "old": "006_平步青云（上）_第四章_上_纯英文.txt",
+      "new": "006_平步青云（上）_第四章_上_纯英文.txt",
+      "sha256_before": "1e77706043bae8200c7de30daf408f3fe56620022ea70dd53b126727de3f7090"
+    },
+    {
+      "internal_part": 6,
+      "display_number": 6,
+      "old": "006_平步青云（上）_第四章_上_中英对照.txt",
+      "new": "006_平步青云（上）_第四章_上_中英对照.txt",
+      "sha256_before": "0a60c4b6c0cafc6a41649c10226d9fe70f21483a7711f8aa40f413a323feedd5"
+    },
+    {
+      "internal_part": 7,
+      "display_number": 7,
+      "old": "007_平步青云（上）_第四章_下_纯英文.txt",
+      "new": "007_平步青云（上）_第四章_下_纯英文.txt",
+      "sha256_before": "e3d7ef462e9c252f9f17f93e211f75c462125979782f131d6d6c0a32383214b3"
+    },
+    {
+      "internal_part": 7,
+      "display_number": 7,
+      "old": "007_平步青云（上）_第四章_下_中英对照.txt",
+      "new": "007_平步青云（上）_第四章_下_中英对照.txt",
+      "sha256_before": "d8638470574ee4824b102ed4dfdb4222698776fd790d762bf03f8e58afffdbd1"
+    },
+    {
+      "internal_part": 8,
+      "display_number": 8,
+      "old": "008_平步青云（上）_第五章_纯英文.txt",
+      "new": "008_平步青云（上）_第五章_纯英文.txt",
+      "sha256_before": "b0a27c4490637cab3192644a52fc0d0394a7996bbe9587fa35e5f262320d26b4"
+    },
+    {
+      "internal_part": 8,
+      "display_number": 8,
+      "old": "008_平步青云（上）_第五章_中英对照.txt",
+      "new": "008_平步青云（上）_第五章_中英对照.txt",
+      "sha256_before": "0b0174fe712ee1228ddbf9cc5103d36badefa565283ab817848eff756e65f8fa"
+    },
+    {
+      "internal_part": 9,
+      "display_number": 9,
+      "old": "009_平步青云（上）_第六章_纯英文.txt",
+      "new": "009_平步青云（上）_第六章_纯英文.txt",
+      "sha256_before": "76660e0b73c90c82d4507e3f9739aec4959ba10171e1b7d6bc4bfcff5c8cfbcb"
+    },
+    {
+      "internal_part": 9,
+      "display_number": 9,
+      "old": "009_平步青云（上）_第六章_中英对照.txt",
+      "new": "009_平步青云（上）_第六章_中英对照.txt",
+      "sha256_before": "fcd6b90c699a5659745318a43f5d5d1a54f340811f9711ba030bb0f8c723a963"
+    },
+    {
+      "internal_part": 10,
+      "display_number": 10,
+      "old": "010_平步青云（上）_第七章_上_纯英文.txt",
+      "new": "010_平步青云（上）_第七章_上_纯英文.txt",
+      "sha256_before": "f2b64b5caf7ac36dc6d1fbf75b42db4f0ad81707ad1bf9221795d8efd271fd3c"
+    },
+    {
+      "internal_part": 10,
+      "display_number": 10,
+      "old": "010_平步青云（上）_第七章_上_中英对照.txt",
+      "new": "010_平步青云（上）_第七章_上_中英对照.txt",
+      "sha256_before": "55866fe527c66662438c36bf674bb842b769f7a3495b29caa74e3eb20839ad01"
+    },
+    {
+      "internal_part": 11,
+      "display_number": 11,
+      "old": "011_平步青云（上）_第七章_下_纯英文.txt",
+      "new": "011_平步青云（上）_第七章_下_纯英文.txt",
+      "sha256_before": "3d2d81ab3c3c3232e2b17d045b2512a7e0c3e5816b655e19b4caa767baa9debc"
+    },
+    {
+      "internal_part": 11,
+      "display_number": 11,
+      "old": "011_平步青云（上）_第七章_下_中英对照.txt",
+      "new": "011_平步青云（上）_第七章_下_中英对照.txt",
+      "sha256_before": "812460e4dfd1144264d3ddf970219cef37219c6650b62e80a401b796096df2e2"
+    },
+    {
+      "internal_part": 12,
+      "display_number": 12,
+      "old": "012_平步青云（上）_第八章_纯英文.txt",
+      "new": "012_平步青云（上）_第八章_纯英文.txt",
+      "sha256_before": "b46293a31040d58568c96bacf4d485ca4f2a0120fd8e6c4af89c9d9828fd16e4"
+    },
+    {
+      "internal_part": 12,
+      "display_number": 12,
+      "old": "012_平步青云（上）_第八章_中英对照.txt",
+      "new": "012_平步青云（上）_第八章_中英对照.txt",
+      "sha256_before": "7c0c32e9f7cffaf0cec9fa0edf56fe4a4fa7d90aad96c70d492243be533a5e8b"
+    },
+    {
+      "internal_part": 13,
+      "display_number": 13,
+      "old": "013_平步青云（上）_第九章_上_纯英文.txt",
+      "new": "013_平步青云（上）_第九章_上_纯英文.txt",
+      "sha256_before": "4843697ea64e12787ee54f0edd861ce5973ff0ed41c17b61a41c0296094fa920"
+    },
+    {
+      "internal_part": 13,
+      "display_number": 13,
+      "old": "013_平步青云（上）_第九章_上_中英对照.txt",
+      "new": "013_平步青云（上）_第九章_上_中英对照.txt",
+      "sha256_before": "78573de3ba09ea213efafadea571098d23cccda8eb5ea4f479b90ce574a90729"
+    },
+    {
+      "internal_part": 14,
+      "display_number": 14,
+      "old": "014_平步青云（上）_第九章_下_纯英文.txt",
+      "new": "014_平步青云（上）_第九章_下_纯英文.txt",
+      "sha256_before": "290e47e4f057364e2cc95e45fd8c3554906f4144203918a3aea283692d2d6b41"
+    },
+    {
+      "internal_part": 14,
+      "display_number": 14,
+      "old": "014_平步青云（上）_第九章_下_中英对照.txt",
+      "new": "014_平步青云（上）_第九章_下_中英对照.txt",
+      "sha256_before": "5aff408d9089c08f90d97e23d9a7933bcf2ac46ba1712e926f3a3284c847f209"
+    },
+    {
+      "internal_part": 15,
+      "display_number": 15,
+      "old": "015_平步青云（上）_第十章_纯英文.txt",
+      "new": "015_平步青云（上）_第十章_纯英文.txt",
+      "sha256_before": "88bfad96be8c97d1308f9b6fb935da143d8e153b30d2f424ad5d2b9e2ea3a74d"
+    },
+    {
+      "internal_part": 15,
+      "display_number": 15,
+      "old": "015_平步青云（上）_第十章_中英对照.txt",
+      "new": "015_平步青云（上）_第十章_中英对照.txt",
+      "sha256_before": "93b64a9bbaba540995dba88cbadcbfbde4a5bb3f48117a202d8e4d8f92fad3db"
+    },
+    {
+      "internal_part": 16,
+      "display_number": 16,
+      "old": "016_平步青云（上）_第十一章_上_纯英文.txt",
+      "new": "016_平步青云（上）_第十一章_上_纯英文.txt",
+      "sha256_before": "145a72d4698cee1e3c22c4719028bd0fb7803ca6877fc4734c85ef096fd58f21"
+    },
+    {
+      "internal_part": 16,
+      "display_number": 16,
+      "old": "016_平步青云（上）_第十一章_上_中英对照.txt",
+      "new": "016_平步青云（上）_第十一章_上_中英对照.txt",
+      "sha256_before": "1610282b5dedc9b3a0f267343ac6c8b827697b79cc1506c062762c12abd669ad"
+    },
+    {
+      "internal_part": 17,
+      "display_number": 17,
+      "old": "017_平步青云（上）_第十一章_下_纯英文.txt",
+      "new": "017_平步青云（上）_第十一章_下_纯英文.txt",
+      "sha256_before": "81b372ea789c16fd87ca4708c36fff18b502d1cfecf5f1692297b3355988d647"
+    },
+    {
+      "internal_part": 17,
+      "display_number": 17,
+      "old": "017_平步青云（上）_第十一章_下_中英对照.txt",
+      "new": "017_平步青云（上）_第十一章_下_中英对照.txt",
+      "sha256_before": "ae6f61e7717310c061bb29bedbe886bcb42c3f5ac2265d7a59ce785cb345c05d"
+    },
+    {
+      "internal_part": 18,
+      "display_number": 18,
+      "old": "018_平步青云（中）_第十二章_上_纯英文.txt",
+      "new": "018_平步青云（中）_第十二章_上_纯英文.txt",
+      "sha256_before": "0c8808efef793fd248c99588214d2a72d8328fd4fd5cfa10a2a03ac9c302062f"
+    },
+    {
+      "internal_part": 18,
+      "display_number": 18,
+      "old": "018_平步青云（中）_第十二章_上_中英对照.txt",
+      "new": "018_平步青云（中）_第十二章_上_中英对照.txt",
+      "sha256_before": "211f17c9d89b25199938232923729fc4ecb9709ae4c21376719858b4b92ab44a"
+    },
+    {
+      "internal_part": 19,
+      "display_number": 19,
+      "old": "019_平步青云（中）_第十二章_中_纯英文.txt",
+      "new": "019_平步青云（中）_第十二章_中_纯英文.txt",
+      "sha256_before": "dc9072960dd80bbc7b57002225bd35d546537c60cb25f410b1359eb715f708f5"
+    },
+    {
+      "internal_part": 19,
+      "display_number": 19,
+      "old": "019_平步青云（中）_第十二章_中_中英对照.txt",
+      "new": "019_平步青云（中）_第十二章_中_中英对照.txt",
+      "sha256_before": "480754107e53f4019158904ce6d500311169e6f1838994907f10667844f91430"
+    },
+    {
+      "internal_part": 20,
+      "display_number": 20,
+      "old": "020_平步青云（中）_第十二章_下_纯英文.txt",
+      "new": "020_平步青云（中）_第十二章_下_纯英文.txt",
+      "sha256_before": "8078d9b6dfa93323f4c8fd227f3c22c6c1d42669a620929adccf0a7848a787a5"
+    },
+    {
+      "internal_part": 20,
+      "display_number": 20,
+      "old": "020_平步青云（中）_第十二章_下_中英对照.txt",
+      "new": "020_平步青云（中）_第十二章_下_中英对照.txt",
+      "sha256_before": "39a231b84d36579b2a92bd14bec0b095b7ce046dbf62b373e14ae78323999b35"
+    },
+    {
+      "internal_part": 21,
+      "display_number": 21,
+      "old": "021_平步青云（中）_第十三章_纯英文.txt",
+      "new": "021_平步青云（中）_第十三章_纯英文.txt",
+      "sha256_before": "cad94ff28e6c676fc9bf155640c09b19ec220f560ce4059832398ed8e3b9be0f"
+    },
+    {
+      "internal_part": 21,
+      "display_number": 21,
+      "old": "021_平步青云（中）_第十三章_中英对照.txt",
+      "new": "021_平步青云（中）_第十三章_中英对照.txt",
+      "sha256_before": "7955124669f8be1d45464ca7d530bf89df0141c95763987291fa72effc7fc44e"
+    },
+    {
+      "internal_part": 22,
+      "display_number": 22,
+      "old": "022_平步青云（中）_第十四章_上_纯英文.txt",
+      "new": "022_平步青云（中）_第十四章_上_纯英文.txt",
+      "sha256_before": "aaaf8d4ac03c9a1a8164bd211002ac41fd6451e58fbdc7cc6456e5c3253a7872"
+    },
+    {
+      "internal_part": 22,
+      "display_number": 22,
+      "old": "022_平步青云（中）_第十四章_上_中英对照.txt",
+      "new": "022_平步青云（中）_第十四章_上_中英对照.txt",
+      "sha256_before": "35420f8c319d4c622f027811211ab8c00f5341c8c74a15b80ed87c9759a0b045"
+    },
+    {
+      "internal_part": 23,
+      "display_number": 23,
+      "old": "023_平步青云（中）_第十四章_下_纯英文.txt",
+      "new": "023_平步青云（中）_第十四章_下_纯英文.txt",
+      "sha256_before": "c48bc8b836f4ad120ea9a410e70c52b4d1e3671066b200496261b08fb42e0738"
+    },
+    {
+      "internal_part": 23,
+      "display_number": 23,
+      "old": "023_平步青云（中）_第十四章_下_中英对照.txt",
+      "new": "023_平步青云（中）_第十四章_下_中英对照.txt",
+      "sha256_before": "be67e19218bf8fa43bd239e7cd264192033854fad565032b3ecc30de033ff63a"
+    },
+    {
+      "internal_part": 24,
+      "display_number": 24,
+      "old": "024_平步青云（中）_第十五章_上_纯英文.txt",
+      "new": "024_平步青云（中）_第十五章_上_纯英文.txt",
+      "sha256_before": "59276fea0a002cac6037db7f5180f4044527461894f24b493b9b47c87efd0795"
+    },
+    {
+      "internal_part": 24,
+      "display_number": 24,
+      "old": "024_平步青云（中）_第十五章_上_中英对照.txt",
+      "new": "024_平步青云（中）_第十五章_上_中英对照.txt",
+      "sha256_before": "a2bbacb895e2329873b19bd21813b8b3c12c0970549ceb95e77b3e9345d22fae"
+    },
+    {
+      "internal_part": 25,
+      "display_number": 25,
+      "old": "025_平步青云（中）_第十五章_中_纯英文.txt",
+      "new": "025_平步青云（中）_第十五章_中_纯英文.txt",
+      "sha256_before": "5a5c9b0c1e5c4938384f3c0589e1efd508ce9715b49849e8b833cd0ca38eddde"
+    },
+    {
+      "internal_part": 25,
+      "display_number": 25,
+      "old": "025_平步青云（中）_第十五章_中_中英对照.txt",
+      "new": "025_平步青云（中）_第十五章_中_中英对照.txt",
+      "sha256_before": "cd6c752d08348f613b250c4594c5b71aeabe08b0a154df1b5a755e1cc8ec227f"
+    },
+    {
+      "internal_part": 26,
+      "display_number": 26,
+      "old": "026_平步青云（中）_第十五章_下_纯英文.txt",
+      "new": "026_平步青云（中）_第十五章_下_纯英文.txt",
+      "sha256_before": "e55cc17e9959aab9427dbbe17a05f6bdc9beb27dd0376734b1c9fd4ac038b5be"
+    },
+    {
+      "internal_part": 26,
+      "display_number": 26,
+      "old": "026_平步青云（中）_第十五章_下_中英对照.txt",
+      "new": "026_平步青云（中）_第十五章_下_中英对照.txt",
+      "sha256_before": "c0175617d2f50db7f84ea33abb4ca6324b4bb476be671f477b8e6ea6b6aa3644"
+    },
+    {
+      "internal_part": 27,
+      "display_number": 27,
+      "old": "027_平步青云（中）_第十六章_上_纯英文.txt",
+      "new": "027_平步青云（中）_第十六章_上_纯英文.txt",
+      "sha256_before": "a34bdc67037d2866fe923d8266311e1c0b69bd1fbad5c714299fe1770882a9f2"
+    },
+    {
+      "internal_part": 27,
+      "display_number": 27,
+      "old": "027_平步青云（中）_第十六章_上_中英对照.txt",
+      "new": "027_平步青云（中）_第十六章_上_中英对照.txt",
+      "sha256_before": "2c3b6488ff6c24f586359fed580ee3c22d5f693f2c1c0d12e5f61f9fd3e8d221"
+    },
+    {
+      "internal_part": 28,
+      "display_number": 28,
+      "old": "028_平步青云（中）_第十六章_下_纯英文.txt",
+      "new": "028_平步青云（中）_第十六章_下_纯英文.txt",
+      "sha256_before": "2762c3e5cdbe5c76c9f3262c2db75e975e4d68b6dcf0fc434d0caa3ef990e279"
+    },
+    {
+      "internal_part": 28,
+      "display_number": 28,
+      "old": "028_平步青云（中）_第十六章_下_中英对照.txt",
+      "new": "028_平步青云（中）_第十六章_下_中英对照.txt",
+      "sha256_before": "2e0fa01284496ad20000549a4ed068ac09d9fbf5140a931e06e0b2e2e8d53509"
+    },
+    {
+      "internal_part": 29,
+      "display_number": 29,
+      "old": "029_平步青云（中）_第十七章_上_纯英文.txt",
+      "new": "029_平步青云（中）_第十七章_上_纯英文.txt",
+      "sha256_before": "4bd87b64b55eebbc9b1de13eb1d2c6523287f986913ed5b2da12fb83ef63cf79"
+    },
+    {
+      "internal_part": 29,
+      "display_number": 29,
+      "old": "029_平步青云（中）_第十七章_上_中英对照.txt",
+      "new": "029_平步青云（中）_第十七章_上_中英对照.txt",
+      "sha256_before": "2be83f7f036474939b33b19912da28a83333b38f161fde790aa41c9b1e282ff0"
+    },
+    {
+      "internal_part": 30,
+      "display_number": 30,
+      "old": "030_平步青云（中）_第十七章_下_纯英文.txt",
+      "new": "030_平步青云（中）_第十七章_下_纯英文.txt",
+      "sha256_before": "f4ac6fb53eda269261a208ff8f594ccb7aed4b409c6c3d07c872e9893cbb9ad9"
+    },
+    {
+      "internal_part": 30,
+      "display_number": 30,
+      "old": "030_平步青云（中）_第十七章_下_中英对照.txt",
+      "new": "030_平步青云（中）_第十七章_下_中英对照.txt",
+      "sha256_before": "d8ee45c34d2d26e435c7259fa8e9bfd7a453cb2ad910599a4be32719507fcfc9"
+    },
+    {
+      "internal_part": 31,
+      "display_number": 31,
+      "old": "031_平步青云（中）_第十八章_上_纯英文.txt",
+      "new": "031_平步青云（中）_第十八章_上_纯英文.txt",
+      "sha256_before": "03a7bf44d2d9fa5aabaf43c3919eb20bdf56adedc19c4ac2cbfce3a73cb0be28"
+    },
+    {
+      "internal_part": 31,
+      "display_number": 31,
+      "old": "031_平步青云（中）_第十八章_上_中英对照.txt",
+      "new": "031_平步青云（中）_第十八章_上_中英对照.txt",
+      "sha256_before": "961d1efac73729522e21196e3913c2599bad4e9cf92937483ff1f0fb200e48a7"
+    },
+    {
+      "internal_part": 32,
+      "display_number": 32,
+      "old": "032_平步青云（中）_第十八章_下_纯英文.txt",
+      "new": "032_平步青云（中）_第十八章_下_纯英文.txt",
+      "sha256_before": "b1fb69b849f3b38072e1cf3f4f2e44e22c2cd42705416c44300f9ca01e758186"
+    },
+    {
+      "internal_part": 32,
+      "display_number": 32,
+      "old": "032_平步青云（中）_第十八章_下_中英对照.txt",
+      "new": "032_平步青云（中）_第十八章_下_中英对照.txt",
+      "sha256_before": "27651aebf731c1552c3767044ae8906a5cd514f3ae4e211c32e1869173a6c7ce"
+    },
+    {
+      "internal_part": 33,
+      "display_number": 33,
+      "old": "033_平步青云（中）_第十九章_上_纯英文.txt",
+      "new": "033_平步青云（中）_第十九章_上_纯英文.txt",
+      "sha256_before": "5152f72046197bea62b3407af9b5130e54587036b0286969388a5d627e41b36a"
+    },
+    {
+      "internal_part": 33,
+      "display_number": 33,
+      "old": "033_平步青云（中）_第十九章_上_中英对照.txt",
+      "new": "033_平步青云（中）_第十九章_上_中英对照.txt",
+      "sha256_before": "e4399414a4b51bf07bcf5b21ac3bd94ec73fd0b6ce35ce2bd2d9d1d9a31d2a1b"
+    },
+    {
+      "internal_part": 34,
+      "display_number": 34,
+      "old": "034_平步青云（中）_第十九章_下_纯英文.txt",
+      "new": "034_平步青云（中）_第十九章_下_纯英文.txt",
+      "sha256_before": "93dbf7bfb4267f4c09abc625e70223dc39b09f14b5a214d05a2272cf5c06d3f4"
+    },
+    {
+      "internal_part": 34,
+      "display_number": 34,
+      "old": "034_平步青云（中）_第十九章_下_中英对照.txt",
+      "new": "034_平步青云（中）_第十九章_下_中英对照.txt",
+      "sha256_before": "affb8912404de1c9a2a7a1aae630735c68e89efc70f25d482d07dc5ddceb0451"
+    },
+    {
+      "internal_part": 35,
+      "display_number": 35,
+      "old": "035_平步青云（中）_第二十章_上_纯英文.txt",
+      "new": "035_平步青云（中）_第二十章_上_纯英文.txt",
+      "sha256_before": "ca153bcf54908e908772d2ebee2fd6f45b9ebad0cdbce9f2cc7a0c950ccf217a"
+    },
+    {
+      "internal_part": 35,
+      "display_number": 35,
+      "old": "035_平步青云（中）_第二十章_上_中英对照.txt",
+      "new": "035_平步青云（中）_第二十章_上_中英对照.txt",
+      "sha256_before": "819a91e435ee07b19685fb48493fef653bec770ace86d8a7de136ba59d78c4d3"
+    },
+    {
+      "internal_part": 36,
+      "display_number": 36,
+      "old": "036_平步青云（中）_第二十章_下_纯英文.txt",
+      "new": "036_平步青云（中）_第二十章_下_纯英文.txt",
+      "sha256_before": "c60297c8e18ee3ad5e1e138be78506185e6cf0b6255c434d9b77191ac86d01a4"
+    },
+    {
+      "internal_part": 36,
+      "display_number": 36,
+      "old": "036_平步青云（中）_第二十章_下_中英对照.txt",
+      "new": "036_平步青云（中）_第二十章_下_中英对照.txt",
+      "sha256_before": "83d04058bf6af123be838895d80773beedec4c44bc52efcf8a69734a0cc9825b"
+    },
+    {
+      "internal_part": 37,
+      "display_number": 37,
+      "old": "037_平步青云（中）_第二十一章_上_纯英文.txt",
+      "new": "037_平步青云（中）_第二十一章_上_纯英文.txt",
+      "sha256_before": "74876b638426bd79614315b1d83121857fde135e75c1b43d44c641efa202f0fc"
+    },
+    {
+      "internal_part": 37,
+      "display_number": 37,
+      "old": "037_平步青云（中）_第二十一章_上_中英对照.txt",
+      "new": "037_平步青云（中）_第二十一章_上_中英对照.txt",
+      "sha256_before": "5195857bdab77cb23f1aeabbb1deaae831debfbda83c753993a8b3be0cace57c"
+    },
+    {
+      "internal_part": 38,
+      "display_number": 38,
+      "old": "038_平步青云（中）_第二十一章_下_纯英文.txt",
+      "new": "038_平步青云（中）_第二十一章_下_纯英文.txt",
+      "sha256_before": "2c5040af0504be81906ca3e23972f1073ea462b93753331aa3322e1491cb66fe"
+    },
+    {
+      "internal_part": 38,
+      "display_number": 38,
+      "old": "038_平步青云（中）_第二十一章_下_中英对照.txt",
+      "new": "038_平步青云（中）_第二十一章_下_中英对照.txt",
+      "sha256_before": "d1d27abaf88810c32927bb1e16d8153923343728e49b3f0aefda3c65f578730f"
+    },
+    {
+      "internal_part": 39,
+      "display_number": 39,
+      "old": "039_平步青云（下）_第二十二章_上_纯英文.txt",
+      "new": "039_平步青云（下）_第二十二章_上_纯英文.txt",
+      "sha256_before": "2654156f7e198311adfc2968b4e22fcff504ae298642a02320330743413374da"
+    },
+    {
+      "internal_part": 39,
+      "display_number": 39,
+      "old": "039_平步青云（下）_第二十二章_上_中英对照.txt",
+      "new": "039_平步青云（下）_第二十二章_上_中英对照.txt",
+      "sha256_before": "8e47ec55dc5be933066ec776b272e5e4f9459bdd28135de7bb528501ae93fbba"
+    },
+    {
+      "internal_part": 40,
+      "display_number": 40,
+      "old": "040_平步青云（下）_第二十二章_中_纯英文.txt",
+      "new": "040_平步青云（下）_第二十二章_中_纯英文.txt",
+      "sha256_before": "a625d13a6cebf3253ee6d0c4d0de22bd66c8e17e855189271f0f69d61ac691e0"
+    },
+    {
+      "internal_part": 40,
+      "display_number": 40,
+      "old": "040_平步青云（下）_第二十二章_中_中英对照.txt",
+      "new": "040_平步青云（下）_第二十二章_中_中英对照.txt",
+      "sha256_before": "c7fadaa9d341f67a9cdb3795461b22206a62f8feccdee835663a8cece2a92e09"
+    },
+    {
+      "internal_part": 41,
+      "display_number": 41,
+      "old": "041_平步青云（下）_第二十二章_下_纯英文.txt",
+      "new": "041_平步青云（下）_第二十二章_下_纯英文.txt",
+      "sha256_before": "da08ab0395724d280b35bfdcbfd4abaf4dcb54d15a33ef6a5eace872e938e35f"
+    },
+    {
+      "internal_part": 41,
+      "display_number": 41,
+      "old": "041_平步青云（下）_第二十二章_下_中英对照.txt",
+      "new": "041_平步青云（下）_第二十二章_下_中英对照.txt",
+      "sha256_before": "a8be440c878f231f84185fb082715de6a32b618e5feb01780d41e1627a7a3dd5"
+    },
+    {
+      "internal_part": 42,
+      "display_number": 42,
+      "old": "042_平步青云（下）_第二十三章起连续正文_一_纯英文.txt",
+      "new": "042_平步青云（下）_第二十三章起连续正文_一_纯英文.txt",
+      "sha256_before": "8f61f8b965fe838ef1a0196afd7abfd79fdae1349f3ce25f2e71158c8c6c274c"
+    },
+    {
+      "internal_part": 42,
+      "display_number": 42,
+      "old": "042_平步青云（下）_第二十三章起连续正文_一_中英对照.txt",
+      "new": "042_平步青云（下）_第二十三章起连续正文_一_中英对照.txt",
+      "sha256_before": "5bcb58262487c132446ed3d6266375a2676c71483a5ddb2b64d5e6bbec342af7"
+    },
+    {
+      "internal_part": 43,
+      "display_number": 43,
+      "old": "043_平步青云（下）_第二十三章起连续正文_二_纯英文.txt",
+      "new": "043_平步青云（下）_第二十三章起连续正文_二_纯英文.txt",
+      "sha256_before": "e8cc79f8ddc5d17d78502dc02a80de54c3b715b2d2396f3ed759237eed54a459"
+    },
+    {
+      "internal_part": 43,
+      "display_number": 43,
+      "old": "043_平步青云（下）_第二十三章起连续正文_二_中英对照.txt",
+      "new": "043_平步青云（下）_第二十三章起连续正文_二_中英对照.txt",
+      "sha256_before": "fb425409853c02a8e77b5e22ec01c50c1db6b44e332fe049ecb3cf89de7e19a8"
+    },
+    {
+      "internal_part": 44,
+      "display_number": 44,
+      "old": "044_平步青云（下）_第二十三章起连续正文_三_纯英文.txt",
+      "new": "044_平步青云（下）_第二十三章起连续正文_三_纯英文.txt",
+      "sha256_before": "3e69daa84cd06c3d2879edec7e0d2232ff74db2c1bf0fee6bf96a5dddd24faa2"
+    },
+    {
+      "internal_part": 44,
+      "display_number": 44,
+      "old": "044_平步青云（下）_第二十三章起连续正文_三_中英对照.txt",
+      "new": "044_平步青云（下）_第二十三章起连续正文_三_中英对照.txt",
+      "sha256_before": "ed4155ee7933ae7c07aae5a618cb5b14ca6bd190b4ba1a5b5486eb2775f3b8dc"
+    },
+    {
+      "internal_part": 45,
+      "display_number": 45,
+      "old": "045_平步青云（下）_第二十三章起连续正文_四_纯英文.txt",
+      "new": "045_平步青云（下）_第二十三章起连续正文_四_纯英文.txt",
+      "sha256_before": "ec401b09be229c9a1a038b4085495a646e36a13dd5e9bc889eaf0ed6b96a2078"
+    },
+    {
+      "internal_part": 45,
+      "display_number": 45,
+      "old": "045_平步青云（下）_第二十三章起连续正文_四_中英对照.txt",
+      "new": "045_平步青云（下）_第二十三章起连续正文_四_中英对照.txt",
+      "sha256_before": "032ec863660969ec6696752dec0ce374b5e9ff02ff67454f0f336d3a6a8c44dc"
+    },
+    {
+      "internal_part": 46,
+      "display_number": 46,
+      "old": "046_平步青云（下）_第二十五章_上_纯英文.txt",
+      "new": "046_平步青云（下）_第二十五章_上_纯英文.txt",
+      "sha256_before": "91df55e727b86bdbe988c12edc4f50ac375729436d8c3b903208078c3ce35189"
+    },
+    {
+      "internal_part": 46,
+      "display_number": 46,
+      "old": "046_平步青云（下）_第二十五章_上_中英对照.txt",
+      "new": "046_平步青云（下）_第二十五章_上_中英对照.txt",
+      "sha256_before": "cbf36f702e0ebd1e68ca426621d27bf4f6e4465e299528745320c8e1a554a529"
+    },
+    {
+      "internal_part": 47,
+      "display_number": 47,
+      "old": "047_平步青云（下）_第二十五章_中_纯英文.txt",
+      "new": "047_平步青云（下）_第二十五章_中_纯英文.txt",
+      "sha256_before": "521dd432af327a16507fed1ad010cf8733efa46ef32d49227a740fc7e9a068e5"
+    },
+    {
+      "internal_part": 47,
+      "display_number": 47,
+      "old": "047_平步青云（下）_第二十五章_中_中英对照.txt",
+      "new": "047_平步青云（下）_第二十五章_中_中英对照.txt",
+      "sha256_before": "292f4857b0c71f0665a6cf266e31938517106c2b695a913151cbe92dba06ddd3"
+    },
+    {
+      "internal_part": 48,
+      "display_number": 48,
+      "old": "048_平步青云（下）_第二十五章_下_纯英文.txt",
+      "new": "048_平步青云（下）_第二十五章_下_纯英文.txt",
+      "sha256_before": "83037c884ada234f466a79e0b9ab8dd23dd0a6620c670f67df79937240ae7b9e"
+    },
+    {
+      "internal_part": 48,
+      "display_number": 48,
+      "old": "048_平步青云（下）_第二十五章_下_中英对照.txt",
+      "new": "048_平步青云（下）_第二十五章_下_中英对照.txt",
+      "sha256_before": "59153f449fcb11d3a01deda0cf6b267fa782f25e13895c6da527e347d7f4d477"
+    },
+    {
+      "internal_part": 49,
+      "display_number": 49,
+      "old": "049_平步青云（下）_第二十六章_上_纯英文.txt",
+      "new": "049_平步青云（下）_第二十六章_上_纯英文.txt",
+      "sha256_before": "f849cbde322a3fa39caeb2a133a8a5a7df3a7f7f622a4f92a30756e02dd7d20c"
+    },
+    {
+      "internal_part": 49,
+      "display_number": 49,
+      "old": "049_平步青云（下）_第二十六章_上_中英对照.txt",
+      "new": "049_平步青云（下）_第二十六章_上_中英对照.txt",
+      "sha256_before": "677ed6cb0770ec921af8318c3cb466b61a746b90b71e56be1e2674d8180d0ea4"
+    },
+    {
+      "internal_part": 50,
+      "display_number": 50,
+      "old": "050_平步青云（下）_第二十六章_下_纯英文.txt",
+      "new": "050_平步青云（下）_第二十六章_下_纯英文.txt",
+      "sha256_before": "043fc2a2c52fb6d1cf9f5a3423ef4f16f89247b47429d13d4c25372519944565"
+    },
+    {
+      "internal_part": 50,
+      "display_number": 50,
+      "old": "050_平步青云（下）_第二十六章_下_中英对照.txt",
+      "new": "050_平步青云（下）_第二十六章_下_中英对照.txt",
+      "sha256_before": "d316f431d99736b2397ea2dfb3dbf0080f0835475da8f2273844cf64a759c4d7"
+    },
+    {
+      "internal_part": 51,
+      "display_number": 51,
+      "old": "051_平步青云（下）_第二十七章_上_纯英文.txt",
+      "new": "051_平步青云（下）_第二十七章_上_纯英文.txt",
+      "sha256_before": "1cd274299575a2dce24a00f79f7c4412cb92f6c19a549dfee7f1660cf34c872c"
+    },
+    {
+      "internal_part": 51,
+      "display_number": 51,
+      "old": "051_平步青云（下）_第二十七章_上_中英对照.txt",
+      "new": "051_平步青云（下）_第二十七章_上_中英对照.txt",
+      "sha256_before": "9dc58199a5863be18a42b756a8d051c32a7ab0e635de045971dbcc6e29e1eb30"
+    },
+    {
+      "internal_part": 52,
+      "display_number": 52,
+      "old": "052_平步青云（下）_第二十七章_中_纯英文.txt",
+      "new": "052_平步青云（下）_第二十七章_中_纯英文.txt",
+      "sha256_before": "a472b28799eb16a4030f15509af06d9a6d41a32e2e98da9a894576b439fd8244"
+    },
+    {
+      "internal_part": 52,
+      "display_number": 52,
+      "old": "052_平步青云（下）_第二十七章_中_中英对照.txt",
+      "new": "052_平步青云（下）_第二十七章_中_中英对照.txt",
+      "sha256_before": "01b52b85214541b7d947ac26632c7d349ef284f13e23f5a63a5ba29f56c33dc7"
+    },
+    {
+      "internal_part": 53,
+      "display_number": 53,
+      "old": "053_平步青云（下）_第二十七章_下_纯英文.txt",
+      "new": "053_平步青云（下）_第二十七章_下_纯英文.txt",
+      "sha256_before": "18f4db8eefa1fe4e50b1c40dc80794109a1491fe47989d46aac88af9a4b10a61"
+    },
+    {
+      "internal_part": 53,
+      "display_number": 53,
+      "old": "053_平步青云（下）_第二十七章_下_中英对照.txt",
+      "new": "053_平步青云（下）_第二十七章_下_中英对照.txt",
+      "sha256_before": "808ff47a78c7216fcf9c8a21817fcfbaa1af94db0f22c4f4c87f99538d3b0bcb"
+    },
+    {
+      "internal_part": 54,
+      "display_number": 54,
+      "old": "054_平步青云（下）_第二十八章_上_纯英文.txt",
+      "new": "054_平步青云（下）_第二十八章_上_纯英文.txt",
+      "sha256_before": "b90a416de040b5cfcf9ab9fb5a3c68bfd724f7ee0196cba55e2cee5a49686896"
+    },
+    {
+      "internal_part": 54,
+      "display_number": 54,
+      "old": "054_平步青云（下）_第二十八章_上_中英对照.txt",
+      "new": "054_平步青云（下）_第二十八章_上_中英对照.txt",
+      "sha256_before": "20b26a12fedc6af646d0d81c2e4099449d3dbfacc0fe08108e9420b7ef9649c5"
+    },
+    {
+      "internal_part": 55,
+      "display_number": 55,
+      "old": "055_平步青云（下）_第二十八章_中_纯英文.txt",
+      "new": "055_平步青云（下）_第二十八章_中_纯英文.txt",
+      "sha256_before": "2cbe980a5cd88ddd93266aac73f71f1fbda12e3fcc0b16b1e042256afeac60fb"
+    },
+    {
+      "internal_part": 55,
+      "display_number": 55,
+      "old": "055_平步青云（下）_第二十八章_中_中英对照.txt",
+      "new": "055_平步青云（下）_第二十八章_中_中英对照.txt",
+      "sha256_before": "63551bce81a7c6b316f6062fe026839ae4b3caf5fc28fcfab1d5f8a721624582"
+    },
+    {
+      "internal_part": 56,
+      "display_number": 56,
+      "old": "056_平步青云（下）_第二十八章_下_纯英文.txt",
+      "new": "056_平步青云（下）_第二十八章_下_纯英文.txt",
+      "sha256_before": "ac300ebfd07ec7ca04074d75ebd17198e28cfcb96acc8efdf801fb14f7c80eb9"
+    },
+    {
+      "internal_part": 56,
+      "display_number": 56,
+      "old": "056_平步青云（下）_第二十八章_下_中英对照.txt",
+      "new": "056_平步青云（下）_第二十八章_下_中英对照.txt",
+      "sha256_before": "d9c515c5622bb8e6ba012aea1f2d07c7b944037a9f3346eaedc5e6bbfbad45b5"
+    },
+    {
+      "internal_part": 57,
+      "display_number": 57,
+      "old": "057_平步青云（下）_第二十九章_上_纯英文.txt",
+      "new": "057_平步青云（下）_第二十九章_上_纯英文.txt",
+      "sha256_before": "3f1a02bd0bab6b113f2d637fe8abaa43643827cf52faac860318aab950853669"
+    },
+    {
+      "internal_part": 57,
+      "display_number": 57,
+      "old": "057_平步青云（下）_第二十九章_上_中英对照.txt",
+      "new": "057_平步青云（下）_第二十九章_上_中英对照.txt",
+      "sha256_before": "4d1e21ffd4eedd69e49f0832fa1ff0f297dcc1888d7d1fa0b8b827771e7f7820"
+    },
+    {
+      "internal_part": 58,
+      "display_number": 58,
+      "old": "058_平步青云（下）_第二十九章_中_纯英文.txt",
+      "new": "058_平步青云（下）_第二十九章_中_纯英文.txt",
+      "sha256_before": "acee9f8c2b4936007ec51be0e34c21b11e78996dc82e3593913ce1f9ae8d61a7"
+    },
+    {
+      "internal_part": 58,
+      "display_number": 58,
+      "old": "058_平步青云（下）_第二十九章_中_中英对照.txt",
+      "new": "058_平步青云（下）_第二十九章_中_中英对照.txt",
+      "sha256_before": "1f8d3e22cc54c484db49f93de948b33446448d572e5a9453e1693515ca0b5128"
+    },
+    {
+      "internal_part": 59,
+      "display_number": 59,
+      "old": "059_平步青云（下）_第二十九章_下_纯英文.txt",
+      "new": "059_平步青云（下）_第二十九章_下_纯英文.txt",
+      "sha256_before": "e90502ebb506b582f987f42779f566ba89a910cfe46c48f58e7dbc0b0e707ff8"
+    },
+    {
+      "internal_part": 59,
+      "display_number": 59,
+      "old": "059_平步青云（下）_第二十九章_下_中英对照.txt",
+      "new": "059_平步青云（下）_第二十九章_下_中英对照.txt",
+      "sha256_before": "41c0409546468f6a8ecf38eab864b485a8cae2ecc3dce5396aaa4d1a140c36bb"
+    },
+    {
+      "internal_part": 60,
+      "display_number": 60,
+      "old": "060_平步青云（下）_第三十章_上_纯英文.txt",
+      "new": "060_平步青云（下）_第三十章_上_纯英文.txt",
+      "sha256_before": "5bde070ef893b38bc16c1e8cb2417a6146ba28707e6d46b35d98627e5f6804b3"
+    },
+    {
+      "internal_part": 60,
+      "display_number": 60,
+      "old": "060_平步青云（下）_第三十章_上_中英对照.txt",
+      "new": "060_平步青云（下）_第三十章_上_中英对照.txt",
+      "sha256_before": "a347d90d924330a6e7eeda0e072208cfbae1db2d598d33b18268753796464a4b"
+    },
+    {
+      "internal_part": 61,
+      "display_number": 61,
+      "old": "061_平步青云（下）_第三十章_下_纯英文.txt",
+      "new": "061_平步青云（下）_第三十章_下_纯英文.txt",
+      "sha256_before": "5ba9556202f72502ccf22077adc84ac53e96e80d1695b68ec4f95cef93b17569"
+    },
+    {
+      "internal_part": 61,
+      "display_number": 61,
+      "old": "061_平步青云（下）_第三十章_下_中英对照.txt",
+      "new": "061_平步青云（下）_第三十章_下_中英对照.txt",
+      "sha256_before": "b08f848f7f045549075a5130081c6dcef5a9bea4b8f735021a73e1bc71871542"
+    },
+    {
+      "internal_part": 62,
+      "display_number": 62,
+      "old": "062_平步青云（下）_第三十一章_上_纯英文.txt",
+      "new": "062_平步青云（下）_第三十一章_上_纯英文.txt",
+      "sha256_before": "f3d815a17785770d35ca62b607e135176af0b9aa6110e4022cad0dd0894e4785"
+    },
+    {
+      "internal_part": 62,
+      "display_number": 62,
+      "old": "062_平步青云（下）_第三十一章_上_中英对照.txt",
+      "new": "062_平步青云（下）_第三十一章_上_中英对照.txt",
+      "sha256_before": "1b3c5dfa1abdb54fc29523f8befc03ca4a7b93ff918a8f3f06faf944296d1905"
+    },
+    {
+      "internal_part": 63,
+      "display_number": 63,
+      "old": "063_平步青云（下）_第三十一章_下及编后小语_纯英文.txt",
+      "new": "063_平步青云（下）_第三十一章_下及编后小语_纯英文.txt",
+      "sha256_before": "ad331fed9ada215a04af3e1a131d865bf2f8f90f293371d062560475015e2bce"
+    },
+    {
+      "internal_part": 63,
+      "display_number": 63,
+      "old": "063_平步青云（下）_第三十一章_下及编后小语_中英对照.txt",
+      "new": "063_平步青云（下）_第三十一章_下及编后小语_中英对照.txt",
+      "sha256_before": "aff7c395d3be2e4a1b37704933d523b9a3ecc8e78000313afa10a6c884d8a2d5"
+    },
+    {
+      "internal_part": 64,
+      "display_number": 113,
+      "old": "064_灯火楼台_内容简介与前记_纯英文.txt",
+      "new": "113_灯火楼台_内容简介与前记_纯英文.txt",
+      "sha256_before": "f67808f2b79770b8bbddefe2d91a478049efbc58205fbc249c6455a57ae6d842"
+    },
+    {
+      "internal_part": 64,
+      "display_number": 113,
+      "old": "064_灯火楼台_内容简介与前记_中英对照.txt",
+      "new": "113_灯火楼台_内容简介与前记_中英对照.txt",
+      "sha256_before": "98fc8dfda4663b5dc2254b00437bcc3f5391618d53aaeb07da75746466806d2f"
+    },
+    {
+      "internal_part": 65,
+      "display_number": 114,
+      "old": "065_灯火楼台_第一章_上_纯英文.txt",
+      "new": "114_灯火楼台_第一章_上_纯英文.txt",
+      "sha256_before": "855540492786ee66b9fa5661fb30ab684f7fa1982050a1c1fc53e368591c6cc2"
+    },
+    {
+      "internal_part": 65,
+      "display_number": 114,
+      "old": "065_灯火楼台_第一章_上_中英对照.txt",
+      "new": "114_灯火楼台_第一章_上_中英对照.txt",
+      "sha256_before": "fdf411c09c7fe7536ca45fca1ce6102c89479ee10a5364cfc5df6fe192d5164e"
+    },
+    {
+      "internal_part": 66,
+      "display_number": 115,
+      "old": "066_灯火楼台_第一章_下_纯英文.txt",
+      "new": "115_灯火楼台_第一章_下_纯英文.txt",
+      "sha256_before": "aa536aab932f1c6762105b0bbbe8ff44de28103cd40c3889dae99375e49269be"
+    },
+    {
+      "internal_part": 66,
+      "display_number": 115,
+      "old": "066_灯火楼台_第一章_下_中英对照.txt",
+      "new": "115_灯火楼台_第一章_下_中英对照.txt",
+      "sha256_before": "569d17b33483c97a6e56f043742c28f12d2d5365c783b040cd5f920e44ad8e6e"
+    },
+    {
+      "internal_part": 67,
+      "display_number": 116,
+      "old": "067_灯火楼台_第二章_上_纯英文.txt",
+      "new": "116_灯火楼台_第二章_上_纯英文.txt",
+      "sha256_before": "964e7f8fd242df1accf2cfdfd4825ec54d5a0a82f9cfa9abb24241771e893f00"
+    },
+    {
+      "internal_part": 67,
+      "display_number": 116,
+      "old": "067_灯火楼台_第二章_上_中英对照.txt",
+      "new": "116_灯火楼台_第二章_上_中英对照.txt",
+      "sha256_before": "e8efcf4bae9a3d425fda79adcc2ef19e0d65afecb2e35dc708e45b85389b7fe1"
+    },
+    {
+      "internal_part": 68,
+      "display_number": 117,
+      "old": "068_灯火楼台_第二章_下_纯英文.txt",
+      "new": "117_灯火楼台_第二章_下_纯英文.txt",
+      "sha256_before": "70ed08a3e326f3979120664d2094541ec2a7ac167b87e130acf90f81b78d3bb1"
+    },
+    {
+      "internal_part": 68,
+      "display_number": 117,
+      "old": "068_灯火楼台_第二章_下_中英对照.txt",
+      "new": "117_灯火楼台_第二章_下_中英对照.txt",
+      "sha256_before": "2873545827d8e6a37d2fca33520ff5b4e0a62df7eaeb422f9d062af02a020699"
+    },
+    {
+      "internal_part": 69,
+      "display_number": 118,
+      "old": "069_灯火楼台_第三章_上_纯英文.txt",
+      "new": "118_灯火楼台_第三章_上_纯英文.txt",
+      "sha256_before": "e4f076bb4f1cd36f6e84bc2579ab55f4bc2ad589c0469d82efc139b311fe7719"
+    },
+    {
+      "internal_part": 69,
+      "display_number": 118,
+      "old": "069_灯火楼台_第三章_上_中英对照.txt",
+      "new": "118_灯火楼台_第三章_上_中英对照.txt",
+      "sha256_before": "452dea55bdd21dc6e0586581fe326378688822a156a394cf6ba819b864806ad4"
+    },
+    {
+      "internal_part": 70,
+      "display_number": 119,
+      "old": "070_灯火楼台_第三章_下_纯英文.txt",
+      "new": "119_灯火楼台_第三章_下_纯英文.txt",
+      "sha256_before": "3037f284f6c35bac9ba41a3ea83cfec3bcf8149d9bc9bc37233332bae241c6f6"
+    },
+    {
+      "internal_part": 70,
+      "display_number": 119,
+      "old": "070_灯火楼台_第三章_下_中英对照.txt",
+      "new": "119_灯火楼台_第三章_下_中英对照.txt",
+      "sha256_before": "e0940c5e317411a039ac60e0e8989889f8e1d9d7a93bf3f22e6b9305252c1fd8"
+    },
+    {
+      "internal_part": 71,
+      "display_number": 120,
+      "old": "071_灯火楼台_第四章_上_纯英文.txt",
+      "new": "120_灯火楼台_第四章_上_纯英文.txt",
+      "sha256_before": "e4cb48eaf09d1f296c95e7ba85ef8950730185f17e678edd90ce69093129ffdf"
+    },
+    {
+      "internal_part": 71,
+      "display_number": 120,
+      "old": "071_灯火楼台_第四章_上_中英对照.txt",
+      "new": "120_灯火楼台_第四章_上_中英对照.txt",
+      "sha256_before": "4c2e6dedbebc5af607020c104526132dc868f526031b6c8c3274d062ba62580f"
+    },
+    {
+      "internal_part": 72,
+      "display_number": 121,
+      "old": "072_灯火楼台_第四章_下_纯英文.txt",
+      "new": "121_灯火楼台_第四章_下_纯英文.txt",
+      "sha256_before": "366eef31454929cb30145a8b26539fd3af2091800895f895bf3034a9cc1d3898"
+    },
+    {
+      "internal_part": 72,
+      "display_number": 121,
+      "old": "072_灯火楼台_第四章_下_中英对照.txt",
+      "new": "121_灯火楼台_第四章_下_中英对照.txt",
+      "sha256_before": "e7fba5da51339d655424808b4c8c186242eb9e328ca8b3902d643bbd1a46f902"
+    },
+    {
+      "internal_part": 73,
+      "display_number": 122,
+      "old": "073_灯火楼台_第五章_一_纯英文.txt",
+      "new": "122_灯火楼台_第五章_一_纯英文.txt",
+      "sha256_before": "1e7bec7e0a20a72cc13f4bf5237921b49732bcc073ad3cf416d4f9c12685d1ee"
+    },
+    {
+      "internal_part": 73,
+      "display_number": 122,
+      "old": "073_灯火楼台_第五章_一_中英对照.txt",
+      "new": "122_灯火楼台_第五章_一_中英对照.txt",
+      "sha256_before": "90aa777dc8dc1f9d7c74eec5465730cbe1dade1d2a9232db084371c665143045"
+    },
+    {
+      "internal_part": 74,
+      "display_number": 123,
+      "old": "074_灯火楼台_第五章_二_纯英文.txt",
+      "new": "123_灯火楼台_第五章_二_纯英文.txt",
+      "sha256_before": "b4fb58c158534a67278db1ef9b98022834142bd4d6e6f2cae692ea189edf4e71"
+    },
+    {
+      "internal_part": 74,
+      "display_number": 123,
+      "old": "074_灯火楼台_第五章_二_中英对照.txt",
+      "new": "123_灯火楼台_第五章_二_中英对照.txt",
+      "sha256_before": "fadf439c7792ba690e3682a60e57a43befbea053aa451b3d559736a7a288cf98"
+    },
+    {
+      "internal_part": 75,
+      "display_number": 124,
+      "old": "075_灯火楼台_第五章_三_纯英文.txt",
+      "new": "124_灯火楼台_第五章_三_纯英文.txt",
+      "sha256_before": "0ff34556d71800e75ad97a7fd3ad83381737a9f0056f579512b02511baffe769"
+    },
+    {
+      "internal_part": 75,
+      "display_number": 124,
+      "old": "075_灯火楼台_第五章_三_中英对照.txt",
+      "new": "124_灯火楼台_第五章_三_中英对照.txt",
+      "sha256_before": "e2b6208b77ad7ea4809a6decf138a7956a95f50d427428745701383bec943b3d"
+    },
+    {
+      "internal_part": 76,
+      "display_number": 125,
+      "old": "076_灯火楼台_第五章_四_纯英文.txt",
+      "new": "125_灯火楼台_第五章_四_纯英文.txt",
+      "sha256_before": "3fc388ebc12df8310fba66f2cdc6eccd6391bd05395e1d879effac4a0a194488"
+    },
+    {
+      "internal_part": 76,
+      "display_number": 125,
+      "old": "076_灯火楼台_第五章_四_中英对照.txt",
+      "new": "125_灯火楼台_第五章_四_中英对照.txt",
+      "sha256_before": "54fc9b3a08a3b7545323f95ad3429ca8ce613227a37f864c1009b4c9726031b2"
+    },
+    {
+      "internal_part": 77,
+      "display_number": 126,
+      "old": "077_灯火楼台_第六章_上_纯英文.txt",
+      "new": "126_灯火楼台_第六章_上_纯英文.txt",
+      "sha256_before": "b053e989e10b4da4145117fb20d604eb50ec84de6db17597895e04dde1023fb2"
+    },
+    {
+      "internal_part": 77,
+      "display_number": 126,
+      "old": "077_灯火楼台_第六章_上_中英对照.txt",
+      "new": "126_灯火楼台_第六章_上_中英对照.txt",
+      "sha256_before": "b08ee7cdf1a4d8c0c0f56118710141658165948e3a418d054760d7172d7028d8"
+    },
+    {
+      "internal_part": 78,
+      "display_number": 127,
+      "old": "078_灯火楼台_第六章_中_纯英文.txt",
+      "new": "127_灯火楼台_第六章_中_纯英文.txt",
+      "sha256_before": "17817832ad5c9d385893e8763c38580302ab74650111094f392baa0ed1764af8"
+    },
+    {
+      "internal_part": 78,
+      "display_number": 127,
+      "old": "078_灯火楼台_第六章_中_中英对照.txt",
+      "new": "127_灯火楼台_第六章_中_中英对照.txt",
+      "sha256_before": "05f8e318e6de7f3a062c5dcd6adf9d780f64cb3badba204f9fc0e9e1f389dfd5"
+    },
+    {
+      "internal_part": 79,
+      "display_number": 128,
+      "old": "079_灯火楼台_第六章_下_纯英文.txt",
+      "new": "128_灯火楼台_第六章_下_纯英文.txt",
+      "sha256_before": "3a65ceaa007e1a4053d24c7d2e184a5ef21c15087b14acfee42907303c87b092"
+    },
+    {
+      "internal_part": 79,
+      "display_number": 128,
+      "old": "079_灯火楼台_第六章_下_中英对照.txt",
+      "new": "128_灯火楼台_第六章_下_中英对照.txt",
+      "sha256_before": "eb4b70b6ef0e992b3aa4f859954d4d67ea1319d410bafc77bd01bf3fd90f173d"
+    },
+    {
+      "internal_part": 80,
+      "display_number": 129,
+      "old": "080_灯火楼台_第七章_纯英文.txt",
+      "new": "129_灯火楼台_第七章_纯英文.txt",
+      "sha256_before": "699b364f6a6abc72282196b723aa22b3097000b2ff00e76d4056058e65e64cc9"
+    },
+    {
+      "internal_part": 80,
+      "display_number": 129,
+      "old": "080_灯火楼台_第七章_中英对照.txt",
+      "new": "129_灯火楼台_第七章_中英对照.txt",
+      "sha256_before": "83535b16bc3b877a406ccc2aaf52797dd146bd61e6352619b2fdc6c1e5789a45"
+    },
+    {
+      "internal_part": 81,
+      "display_number": 157,
+      "old": "081_烟消云散_第一章_一_纯英文.txt",
+      "new": "157_烟消云散_第一章_一_纯英文.txt",
+      "sha256_before": "592e89ee1f3018c68291fb49cb8fd497753e3887e4eb9f25aacf7d06ab38c073"
+    },
+    {
+      "internal_part": 81,
+      "display_number": 157,
+      "old": "081_烟消云散_第一章_一_中英对照.txt",
+      "new": "157_烟消云散_第一章_一_中英对照.txt",
+      "sha256_before": "4954408017e66df892792ebf151bcc789ce1630a888b9b50cb9ba8ed657e3591"
+    },
+    {
+      "internal_part": 82,
+      "display_number": 158,
+      "old": "082_烟消云散_第一章_二_纯英文.txt",
+      "new": "158_烟消云散_第一章_二_纯英文.txt",
+      "sha256_before": "5e49f5585d8645af64c634f31a9d35197e2315f6a1cbfd4c7599d14d7e97b71d"
+    },
+    {
+      "internal_part": 82,
+      "display_number": 158,
+      "old": "082_烟消云散_第一章_二_中英对照.txt",
+      "new": "158_烟消云散_第一章_二_中英对照.txt",
+      "sha256_before": "1ba5554df6e9405bc4c3abd9437f9fbd9088fc1e3253f7966705f26f4843a378"
+    },
+    {
+      "internal_part": 83,
+      "display_number": 159,
+      "old": "083_烟消云散_第一章_三_纯英文.txt",
+      "new": "159_烟消云散_第一章_三_纯英文.txt",
+      "sha256_before": "e8fc9b7b9f6987c76129fa618f2cc83649843eace098505c884577691b3692da"
+    },
+    {
+      "internal_part": 83,
+      "display_number": 159,
+      "old": "083_烟消云散_第一章_三_中英对照.txt",
+      "new": "159_烟消云散_第一章_三_中英对照.txt",
+      "sha256_before": "c4661fad7f8cdb7b93ad9561700b2647fae11e4b23661515f55a051d6a94b1f7"
+    },
+    {
+      "internal_part": 84,
+      "display_number": 160,
+      "old": "084_烟消云散_第二章_上_纯英文.txt",
+      "new": "160_烟消云散_第二章_上_纯英文.txt",
+      "sha256_before": "a1654a1f16f232f2948396b45905fa09251fc31dae264e10f46a8f37b33e9fa2"
+    },
+    {
+      "internal_part": 84,
+      "display_number": 160,
+      "old": "084_烟消云散_第二章_上_中英对照.txt",
+      "new": "160_烟消云散_第二章_上_中英对照.txt",
+      "sha256_before": "4e2da1e10111ab4bb82ca9839ff01e823bf761fd88a9d788b336bd2edce70063"
+    },
+    {
+      "internal_part": 85,
+      "display_number": 161,
+      "old": "085_烟消云散_第二章_下_纯英文.txt",
+      "new": "161_烟消云散_第二章_下_纯英文.txt",
+      "sha256_before": "9dade12b9b4c50171630e04554ad4ea26eda4b5ab1f5bb4b9785fcab8707564a"
+    },
+    {
+      "internal_part": 85,
+      "display_number": 161,
+      "old": "085_烟消云散_第二章_下_中英对照.txt",
+      "new": "161_烟消云散_第二章_下_中英对照.txt",
+      "sha256_before": "9b5d37ca8c6e89ecfedd5a729536324aa22f96305c64b9c81d16fb30e6a6442b"
+    },
+    {
+      "internal_part": 86,
+      "display_number": 162,
+      "old": "086_烟消云散_第三章_纯英文.txt",
+      "new": "162_烟消云散_第三章_纯英文.txt",
+      "sha256_before": "9ef14fc153d91e3a47caf33bf1e0d1dda5cf9d3037919568c3df23e3e14b7f7c"
+    },
+    {
+      "internal_part": 86,
+      "display_number": 162,
+      "old": "086_烟消云散_第三章_中英对照.txt",
+      "new": "162_烟消云散_第三章_中英对照.txt",
+      "sha256_before": "2af4aa070541dcf7dcaf86ef9bdfb4cf35883befb6b30e595b74ddfec4421335"
+    },
+    {
+      "internal_part": 87,
+      "display_number": 163,
+      "old": "087_烟消云散_第四章_上_纯英文.txt",
+      "new": "163_烟消云散_第四章_上_纯英文.txt",
+      "sha256_before": "7b0ed718c9d4c01badb58ec6215cc4c542513d95238f63498196e07816827a1b"
+    },
+    {
+      "internal_part": 87,
+      "display_number": 163,
+      "old": "087_烟消云散_第四章_上_中英对照.txt",
+      "new": "163_烟消云散_第四章_上_中英对照.txt",
+      "sha256_before": "7c6ce42eea0908a1d37de7e88df0c68234e589d24e139a5577875880086d3ad2"
+    },
+    {
+      "internal_part": 88,
+      "display_number": 164,
+      "old": "088_烟消云散_第四章_下_纯英文.txt",
+      "new": "164_烟消云散_第四章_下_纯英文.txt",
+      "sha256_before": "53b05d20fb15992a6f33e1b5c6f5febe037d1f30436bc6f857ccdb9f2c289477"
+    },
+    {
+      "internal_part": 88,
+      "display_number": 164,
+      "old": "088_烟消云散_第四章_下_中英对照.txt",
+      "new": "164_烟消云散_第四章_下_中英对照.txt",
+      "sha256_before": "bb7e83df1f2355e6978d91349bfa641eed378f8adc0b16a7de49be47a7930df5"
+    },
+    {
+      "internal_part": 89,
+      "display_number": 165,
+      "old": "089_烟消云散_第五章_纯英文.txt",
+      "new": "165_烟消云散_第五章_纯英文.txt",
+      "sha256_before": "641a87092ac2b1acefbe6a2d4eb880f0ff8c557ce109d67e1b8db41ef73f5fe7"
+    },
+    {
+      "internal_part": 89,
+      "display_number": 165,
+      "old": "089_烟消云散_第五章_中英对照.txt",
+      "new": "165_烟消云散_第五章_中英对照.txt",
+      "sha256_before": "4dcca7973dbc8706131f68872a7bdcc8e98486e69531657b5412772b1b2fee21"
+    },
+    {
+      "internal_part": 90,
+      "display_number": 166,
+      "old": "090_烟消云散_第六章_上_纯英文.txt",
+      "new": "166_烟消云散_第六章_上_纯英文.txt",
+      "sha256_before": "54efca92182026bdfafb9282866de7898dc79890b160644536855ee63116fa18"
+    },
+    {
+      "internal_part": 90,
+      "display_number": 166,
+      "old": "090_烟消云散_第六章_上_中英对照.txt",
+      "new": "166_烟消云散_第六章_上_中英对照.txt",
+      "sha256_before": "dff6a81559da12e669d98bb9c16934ada96c16a14bc09d0196c8829cae8d1e87"
+    },
+    {
+      "internal_part": 91,
+      "display_number": 167,
+      "old": "091_烟消云散_第六章_下_纯英文.txt",
+      "new": "167_烟消云散_第六章_下_纯英文.txt",
+      "sha256_before": "e38f92d88a2cf56e5527baa9100f190b4dfd7c07dc3e79aa4dab9ad27918d578"
+    },
+    {
+      "internal_part": 91,
+      "display_number": 167,
+      "old": "091_烟消云散_第六章_下_中英对照.txt",
+      "new": "167_烟消云散_第六章_下_中英对照.txt",
+      "sha256_before": "3707ed2ef34391180a97d6644db00a7eaa3d215665ec74a47d978195d7ff60b8"
+    },
+    {
+      "internal_part": 92,
+      "display_number": 168,
+      "old": "092_烟消云散_第七章_一_纯英文.txt",
+      "new": "168_烟消云散_第七章_一_纯英文.txt",
+      "sha256_before": "36f4b07608dd71ae6793cf11151d92c1fc9780247a67eb5c85824f2b718236f3"
+    },
+    {
+      "internal_part": 92,
+      "display_number": 168,
+      "old": "092_烟消云散_第七章_一_中英对照.txt",
+      "new": "168_烟消云散_第七章_一_中英对照.txt",
+      "sha256_before": "da7cb0ac33a41b1cbc7c448649691f79ddf48dad2a3c57a73fd1a7bb0e0d86ff"
+    },
+    {
+      "internal_part": 93,
+      "display_number": 169,
+      "old": "093_烟消云散_第七章_二_纯英文.txt",
+      "new": "169_烟消云散_第七章_二_纯英文.txt",
+      "sha256_before": "1b20ef7871a7240841aef770476737bfa5100e7eede4e1bcbcd21063484cee6f"
+    },
+    {
+      "internal_part": 93,
+      "display_number": 169,
+      "old": "093_烟消云散_第七章_二_中英对照.txt",
+      "new": "169_烟消云散_第七章_二_中英对照.txt",
+      "sha256_before": "e7013ee2d64858814013f088ea5d4d86e24c30401b4433cfc18a684a12257c4c"
+    },
+    {
+      "internal_part": 94,
+      "display_number": 170,
+      "old": "094_烟消云散_第七章_三_纯英文.txt",
+      "new": "170_烟消云散_第七章_三_纯英文.txt",
+      "sha256_before": "e5140d1d2c708490c4fd4f4840ecde3e8960319a36c792ccc34ba4655037365a"
+    },
+    {
+      "internal_part": 94,
+      "display_number": 170,
+      "old": "094_烟消云散_第七章_三_中英对照.txt",
+      "new": "170_烟消云散_第七章_三_中英对照.txt",
+      "sha256_before": "563fee28a0411de36806ce6abeb6dcddbcb0bd742142d6ab3657ebc096cdde97"
+    },
+    {
+      "internal_part": 95,
+      "display_number": 171,
+      "old": "095_烟消云散_第八章_上_纯英文.txt",
+      "new": "171_烟消云散_第八章_上_纯英文.txt",
+      "sha256_before": "5cdae4122662c773b4b7bbc034152d1e09908d6b9fd4582c5376e23ecb51bb1b"
+    },
+    {
+      "internal_part": 95,
+      "display_number": 171,
+      "old": "095_烟消云散_第八章_上_中英对照.txt",
+      "new": "171_烟消云散_第八章_上_中英对照.txt",
+      "sha256_before": "a294e06c0e6f7a5a0b33165dc09d8fd574843580b12a558b410bb9c6c2c53383"
+    },
+    {
+      "internal_part": 96,
+      "display_number": 172,
+      "old": "096_烟消云散_第八章_下_纯英文.txt",
+      "new": "172_烟消云散_第八章_下_纯英文.txt",
+      "sha256_before": "7da418f725732b16279014ff7fdbeae05f3fc825f3ecda3614a5e0a0db9fdc62"
+    },
+    {
+      "internal_part": 96,
+      "display_number": 172,
+      "old": "096_烟消云散_第八章_下_中英对照.txt",
+      "new": "172_烟消云散_第八章_下_中英对照.txt",
+      "sha256_before": "0b169a3af50084ca95de0c73644e49086465581a7b08fadcee51f0fa9efba6b3"
+    },
+    {
+      "internal_part": 97,
+      "display_number": 173,
+      "old": "097_烟消云散_第九章_纯英文.txt",
+      "new": "173_烟消云散_第九章_纯英文.txt",
+      "sha256_before": "6330566fe25db51350123e5d0e58faab360c3056e7d5672e42066f72644d3d04"
+    },
+    {
+      "internal_part": 97,
+      "display_number": 173,
+      "old": "097_烟消云散_第九章_中英对照.txt",
+      "new": "173_烟消云散_第九章_中英对照.txt",
+      "sha256_before": "b80f45cff792b316708a706dbb03d90cb2e120c38ba7128003ff54f81c9c2038"
+    },
+    {
+      "internal_part": 98,
+      "display_number": 174,
+      "old": "098_烟消云散_第十章_纯英文.txt",
+      "new": "174_烟消云散_第十章_纯英文.txt",
+      "sha256_before": "6ec44c841b32c3719e7db4ce987c890b4e983c6ea4d605b411ffa8830460360e"
+    },
+    {
+      "internal_part": 98,
+      "display_number": 174,
+      "old": "098_烟消云散_第十章_中英对照.txt",
+      "new": "174_烟消云散_第十章_中英对照.txt",
+      "sha256_before": "137e09678dbc44fcae5747b4c7426047595530700e00f1fa23339ebc1e50e613"
+    },
+    {
+      "internal_part": 99,
+      "display_number": 175,
+      "old": "099_烟消云散_第十一章_纯英文.txt",
+      "new": "175_烟消云散_第十一章_纯英文.txt",
+      "sha256_before": "fa40b796cd722b2f4d1f51024d17fabcbbe27164bae489fb230e5c1e90dbe4c4"
+    },
+    {
+      "internal_part": 99,
+      "display_number": 175,
+      "old": "099_烟消云散_第十一章_中英对照.txt",
+      "new": "175_烟消云散_第十一章_中英对照.txt",
+      "sha256_before": "7cdbfbd0a7da8f591089fc4f77cb7ac05201bddfbfb60f121b20a941a7d29f07"
+    },
+    {
+      "internal_part": 100,
+      "display_number": 176,
+      "old": "100_烟消云散_第十二章_纯英文.txt",
+      "new": "176_烟消云散_第十二章_纯英文.txt",
+      "sha256_before": "047a101f689b325054baeb856f978b205ee94cb2d38a88914157572dfb46f061"
+    },
+    {
+      "internal_part": 100,
+      "display_number": 176,
+      "old": "100_烟消云散_第十二章_中英对照.txt",
+      "new": "176_烟消云散_第十二章_中英对照.txt",
+      "sha256_before": "a9ef56b84b2b7b32cb3d188b6a21231a753e2ac912d1778ecc9e701a28d8790a"
+    },
+    {
+      "internal_part": 101,
+      "display_number": 177,
+      "old": "101_烟消云散_第十三章_纯英文.txt",
+      "new": "177_烟消云散_第十三章_纯英文.txt",
+      "sha256_before": "26efd269b0390d78d18819bf60820f3921a3262404a2ece83795a243fa7b50d4"
+    },
+    {
+      "internal_part": 101,
+      "display_number": 177,
+      "old": "101_烟消云散_第十三章_中英对照.txt",
+      "new": "177_烟消云散_第十三章_中英对照.txt",
+      "sha256_before": "12d8792ac81efa7d27cd755d8f319596788e87ba70401081ea8c2fce7c302e57"
+    },
+    {
+      "internal_part": 102,
+      "display_number": 178,
+      "old": "102_后记及附载声明_纯英文.txt",
+      "new": "178_后记及附载声明_纯英文.txt",
+      "sha256_before": "c74400fdd66103c1cf783938a3649f828b08391b42030dce0218106b36049b55"
+    },
+    {
+      "internal_part": 102,
+      "display_number": 178,
+      "old": "102_后记及附载声明_中英对照.txt",
+      "new": "178_后记及附载声明_中英对照.txt",
+      "sha256_before": "00f67d786ba18a5ca713bd3bcd105fff522b2c8d12573ecb1ac4ae9db1ddc599"
+    },
+    {
+      "internal_part": 103,
+      "display_number": 64,
+      "old": "103_红顶商人_第一章_一_纯英文.txt",
+      "new": "064_红顶商人_第一章_一_纯英文.txt",
+      "sha256_before": "eeb7a44ffed1513943556d870531cb5326324fafd34e652d0549fd57b1e5e878"
+    },
+    {
+      "internal_part": 103,
+      "display_number": 64,
+      "old": "103_红顶商人_第一章_一_中英对照.txt",
+      "new": "064_红顶商人_第一章_一_中英对照.txt",
+      "sha256_before": "fb309ef80a8cb1580be53d7278152ef7fd630e3826c46c387bed5369e6ff0381"
+    },
+    {
+      "internal_part": 104,
+      "display_number": 65,
+      "old": "104_红顶商人_第一章_二_纯英文.txt",
+      "new": "065_红顶商人_第一章_二_纯英文.txt",
+      "sha256_before": "5da91ad2eab427f0829ad8c665d36f8d70c9b4fa245ed9d0178d103dd277aca7"
+    },
+    {
+      "internal_part": 104,
+      "display_number": 65,
+      "old": "104_红顶商人_第一章_二_中英对照.txt",
+      "new": "065_红顶商人_第一章_二_中英对照.txt",
+      "sha256_before": "c0a4ec3a28df116ddab1c271835820bfe65bd7b84c7486414baedc3937dc03a9"
+    },
+    {
+      "internal_part": 105,
+      "display_number": 66,
+      "old": "105_红顶商人_第一章_三_纯英文.txt",
+      "new": "066_红顶商人_第一章_三_纯英文.txt",
+      "sha256_before": "9fe486701c34471cfc18c8b64c9ba09750a42eac36d4b2622e64f8b51b3eb8db"
+    },
+    {
+      "internal_part": 105,
+      "display_number": 66,
+      "old": "105_红顶商人_第一章_三_中英对照.txt",
+      "new": "066_红顶商人_第一章_三_中英对照.txt",
+      "sha256_before": "cf34d626a0f1e25760f31b4aeca29588f3fe5116aad891b7a61a07cda5fc058f"
+    },
+    {
+      "internal_part": 106,
+      "display_number": 67,
+      "old": "106_红顶商人_第一章_四_纯英文.txt",
+      "new": "067_红顶商人_第一章_四_纯英文.txt",
+      "sha256_before": "9e68a4828e5a8197eb1a5aaf53c0a24c815a133d2cbc980456d3bd1ba648a6c2"
+    },
+    {
+      "internal_part": 106,
+      "display_number": 67,
+      "old": "106_红顶商人_第一章_四_中英对照.txt",
+      "new": "067_红顶商人_第一章_四_中英对照.txt",
+      "sha256_before": "ca4f29dab6aa96a9ad0fada06e3ae6e86e6bd89ddf6594a3a1011fef7d4d3cd1"
+    },
+    {
+      "internal_part": 107,
+      "display_number": 68,
+      "old": "107_红顶商人_第一章_五_纯英文.txt",
+      "new": "068_红顶商人_第一章_五_纯英文.txt",
+      "sha256_before": "40e5089c755e193f352d043546b4218f3ea56bedab8be2297aaac6c70a63759e"
+    },
+    {
+      "internal_part": 107,
+      "display_number": 68,
+      "old": "107_红顶商人_第一章_五_中英对照.txt",
+      "new": "068_红顶商人_第一章_五_中英对照.txt",
+      "sha256_before": "25abcabdfc83bbaa7b8a31738016317de080cffd2643aacccb2bf692b34f8932"
+    },
+    {
+      "internal_part": 108,
+      "display_number": 69,
+      "old": "108_红顶商人_第一章_六_纯英文.txt",
+      "new": "069_红顶商人_第一章_六_纯英文.txt",
+      "sha256_before": "d2d3d59baca337b7cad4c3bf2cb3e8bcb11285f7b9e4171ea783a4d9ea38d931"
+    },
+    {
+      "internal_part": 108,
+      "display_number": 69,
+      "old": "108_红顶商人_第一章_六_中英对照.txt",
+      "new": "069_红顶商人_第一章_六_中英对照.txt",
+      "sha256_before": "d9ceb05fdbe5a608e77a7621ff64045b1362c74479dc0e38df6139d8eddfc7be"
+    },
+    {
+      "internal_part": 109,
+      "display_number": 70,
+      "old": "109_红顶商人_第二章_一_纯英文.txt",
+      "new": "070_红顶商人_第二章_一_纯英文.txt",
+      "sha256_before": "cc7469b53e0319e8a3a386130f82f82fe84718e98f767db4685b2a1190160e86"
+    },
+    {
+      "internal_part": 109,
+      "display_number": 70,
+      "old": "109_红顶商人_第二章_一_中英对照.txt",
+      "new": "070_红顶商人_第二章_一_中英对照.txt",
+      "sha256_before": "ee15c6094e44eceb57d581bba696bcdc55e0371fb46c6cff04b0675df4301b5f"
+    },
+    {
+      "internal_part": 110,
+      "display_number": 71,
+      "old": "110_红顶商人_第二章_二_纯英文.txt",
+      "new": "071_红顶商人_第二章_二_纯英文.txt",
+      "sha256_before": "274eac71149cc6695b1e67090dbd8e32b84f791fc8e3ec008eaa45701ceb999c"
+    },
+    {
+      "internal_part": 110,
+      "display_number": 71,
+      "old": "110_红顶商人_第二章_二_中英对照.txt",
+      "new": "071_红顶商人_第二章_二_中英对照.txt",
+      "sha256_before": "7ee3646dd4b724136ce912e8484e818a2234248e113ca636379f4ae21ad6a50b"
+    },
+    {
+      "internal_part": 111,
+      "display_number": 72,
+      "old": "111_红顶商人_第二章_三_纯英文.txt",
+      "new": "072_红顶商人_第二章_三_纯英文.txt",
+      "sha256_before": "8e189a65f722ed0a8c930e1c1d74c4143a66d4fd13e50e892283b568a1d1c3a8"
+    },
+    {
+      "internal_part": 111,
+      "display_number": 72,
+      "old": "111_红顶商人_第二章_三_中英对照.txt",
+      "new": "072_红顶商人_第二章_三_中英对照.txt",
+      "sha256_before": "ac1b5e83f600708e9b7e7023d28a955ebe5a8a58bd5bbc717ea094bb4e4def34"
+    },
+    {
+      "internal_part": 112,
+      "display_number": 73,
+      "old": "112_红顶商人_第二章_四_纯英文.txt",
+      "new": "073_红顶商人_第二章_四_纯英文.txt",
+      "sha256_before": "e083b1e24c164c3f6feb5000f77ff777a0af45b0bf045f3a6580e1fef1b782b7"
+    },
+    {
+      "internal_part": 112,
+      "display_number": 73,
+      "old": "112_红顶商人_第二章_四_中英对照.txt",
+      "new": "073_红顶商人_第二章_四_中英对照.txt",
+      "sha256_before": "bfdbe320cf8f50b596276545b66adbfd070ea96668e8e0980f266dee1d83ec14"
+    },
+    {
+      "internal_part": 113,
+      "display_number": 74,
+      "old": "113_红顶商人_第三章_一_纯英文.txt",
+      "new": "074_红顶商人_第三章_一_纯英文.txt",
+      "sha256_before": "d575a194f7ed92b27d03c8dd3c45fd53eecf6094de547ff3de653b56e1919a44"
+    },
+    {
+      "internal_part": 113,
+      "display_number": 74,
+      "old": "113_红顶商人_第三章_一_中英对照.txt",
+      "new": "074_红顶商人_第三章_一_中英对照.txt",
+      "sha256_before": "fb1a18f513d57a139c8b4886c46119c2bec67f54b1ed1a2e551643dfcaa46232"
+    },
+    {
+      "internal_part": 114,
+      "display_number": 75,
+      "old": "114_红顶商人_第三章_二_纯英文.txt",
+      "new": "075_红顶商人_第三章_二_纯英文.txt",
+      "sha256_before": "9d22e929c497270e7cc5291cfcf0440454391b95db64a93c742ffeae818f303c"
+    },
+    {
+      "internal_part": 114,
+      "display_number": 75,
+      "old": "114_红顶商人_第三章_二_中英对照.txt",
+      "new": "075_红顶商人_第三章_二_中英对照.txt",
+      "sha256_before": "3667da834cad7c03a13c7256b87a9cdaf055e8b7b8c0f9ac0c5b978eca853331"
+    },
+    {
+      "internal_part": 115,
+      "display_number": 76,
+      "old": "115_红顶商人_第三章_三_纯英文.txt",
+      "new": "076_红顶商人_第三章_三_纯英文.txt",
+      "sha256_before": "d647d5aef61c40c182c3de157e04b496daabdf442e8b0c12b2257c5e125466e8"
+    },
+    {
+      "internal_part": 115,
+      "display_number": 76,
+      "old": "115_红顶商人_第三章_三_中英对照.txt",
+      "new": "076_红顶商人_第三章_三_中英对照.txt",
+      "sha256_before": "730785bb563b11636e4447d95135f3c6b6f929169084fd77bad05365c35b7eb6"
+    },
+    {
+      "internal_part": 116,
+      "display_number": 77,
+      "old": "116_红顶商人_第三章_四_纯英文.txt",
+      "new": "077_红顶商人_第三章_四_纯英文.txt",
+      "sha256_before": "4dd83dca907383f244bcc640fc19abf59a3cab95d7a49bd3763fb558ddfd45b8"
+    },
+    {
+      "internal_part": 116,
+      "display_number": 77,
+      "old": "116_红顶商人_第三章_四_中英对照.txt",
+      "new": "077_红顶商人_第三章_四_中英对照.txt",
+      "sha256_before": "d30140b37656265c9f0839107dd16c5bb3fd622633a526166955a10b83736931"
+    },
+    {
+      "internal_part": 117,
+      "display_number": 78,
+      "old": "117_红顶商人_第四章_一_纯英文.txt",
+      "new": "078_红顶商人_第四章_一_纯英文.txt",
+      "sha256_before": "c5867a683237a68324601d47245afb6bfc5ff152294b8fb64939b0f15af7ac05"
+    },
+    {
+      "internal_part": 117,
+      "display_number": 78,
+      "old": "117_红顶商人_第四章_一_中英对照.txt",
+      "new": "078_红顶商人_第四章_一_中英对照.txt",
+      "sha256_before": "a4a76c9889ae1489e5348efab6b0682829e8c9a5b7be4243bfeb65873cf4ac1e"
+    },
+    {
+      "internal_part": 118,
+      "display_number": 79,
+      "old": "118_红顶商人_第四章_二_纯英文.txt",
+      "new": "079_红顶商人_第四章_二_纯英文.txt",
+      "sha256_before": "f8fe6fbc60f6846d137c4353505d26e17ffe66f5cc45c5e7c2fa50b1b200ade0"
+    },
+    {
+      "internal_part": 118,
+      "display_number": 79,
+      "old": "118_红顶商人_第四章_二_中英对照.txt",
+      "new": "079_红顶商人_第四章_二_中英对照.txt",
+      "sha256_before": "0b99e4a01c1a5c8a21e94838d6f5bb962b49174ad24bac8f65ab591167f71835"
+    },
+    {
+      "internal_part": 119,
+      "display_number": 80,
+      "old": "119_红顶商人_第五章_一_纯英文.txt",
+      "new": "080_红顶商人_第五章_一_纯英文.txt",
+      "sha256_before": "6ffefc082b686f1e7182bf28b4ea3f3a10f39f7430868033c4193059238494a8"
+    },
+    {
+      "internal_part": 119,
+      "display_number": 80,
+      "old": "119_红顶商人_第五章_一_中英对照.txt",
+      "new": "080_红顶商人_第五章_一_中英对照.txt",
+      "sha256_before": "cfb0f82a1479b3dfe267923460e9a5e3efcead5a34f9692ae5e9d7be23f2a2df"
+    },
+    {
+      "internal_part": 120,
+      "display_number": 81,
+      "old": "120_红顶商人_第五章_二_纯英文.txt",
+      "new": "081_红顶商人_第五章_二_纯英文.txt",
+      "sha256_before": "9661c18d4000f11d781ada820d0311dafb6798f0f3bb0005cb9fd112878115f7"
+    },
+    {
+      "internal_part": 120,
+      "display_number": 81,
+      "old": "120_红顶商人_第五章_二_中英对照.txt",
+      "new": "081_红顶商人_第五章_二_中英对照.txt",
+      "sha256_before": "c21b7e16f2cb99943d468095a776990e10c3262191619583ff7b67ceb6f0984d"
+    },
+    {
+      "internal_part": 121,
+      "display_number": 82,
+      "old": "121_红顶商人_第五章_三_纯英文.txt",
+      "new": "082_红顶商人_第五章_三_纯英文.txt",
+      "sha256_before": "b7be890e5ce7928ad384e8806ad89d315c581e34129cf748fac5f4a4d5496fcd"
+    },
+    {
+      "internal_part": 121,
+      "display_number": 82,
+      "old": "121_红顶商人_第五章_三_中英对照.txt",
+      "new": "082_红顶商人_第五章_三_中英对照.txt",
+      "sha256_before": "8279f7010c9436b5f5de1eaa9fc0b7c894e023c46df9b34ed2dcb2e22119ef3f"
+    },
+    {
+      "internal_part": 122,
+      "display_number": 83,
+      "old": "122_红顶商人_第六章_一_纯英文.txt",
+      "new": "083_红顶商人_第六章_一_纯英文.txt",
+      "sha256_before": "8318b76d149623912744e07a3e4cb4de35f4bf85e078bf162ef9e98cbf33980e"
+    },
+    {
+      "internal_part": 122,
+      "display_number": 83,
+      "old": "122_红顶商人_第六章_一_中英对照.txt",
+      "new": "083_红顶商人_第六章_一_中英对照.txt",
+      "sha256_before": "a08bfcdc8ca7b8435cc328971f96f3479b809770bca93295db7cb732e1621506"
+    },
+    {
+      "internal_part": 123,
+      "display_number": 84,
+      "old": "123_红顶商人_第六章_二_纯英文.txt",
+      "new": "084_红顶商人_第六章_二_纯英文.txt",
+      "sha256_before": "d60b06594a74d77f54c581742544264436af56ec43e347d40245dfc33d04dc61"
+    },
+    {
+      "internal_part": 123,
+      "display_number": 84,
+      "old": "123_红顶商人_第六章_二_中英对照.txt",
+      "new": "084_红顶商人_第六章_二_中英对照.txt",
+      "sha256_before": "c96f89bcb75a218dbe6dd1b989c2fe5cc750ac1a00b82d22b10307049eefb3bd"
+    },
+    {
+      "internal_part": 124,
+      "display_number": 85,
+      "old": "124_红顶商人_第六章_三_纯英文.txt",
+      "new": "085_红顶商人_第六章_三_纯英文.txt",
+      "sha256_before": "7ac41bc01c7810f23149001a0e312c8ea4f5e5382a42d3da81a81717354a458d"
+    },
+    {
+      "internal_part": 124,
+      "display_number": 85,
+      "old": "124_红顶商人_第六章_三_中英对照.txt",
+      "new": "085_红顶商人_第六章_三_中英对照.txt",
+      "sha256_before": "ad5407ac74040f8c98812258d9950541493f1845663997652c9c7da5277bcb78"
+    },
+    {
+      "internal_part": 125,
+      "display_number": 86,
+      "old": "125_红顶商人_第六章_四_纯英文.txt",
+      "new": "086_红顶商人_第六章_四_纯英文.txt",
+      "sha256_before": "65b784fb0be4480465b7bed6aa2db5c25c6eef607d9ed9cec53c020eedf5fc07"
+    },
+    {
+      "internal_part": 125,
+      "display_number": 86,
+      "old": "125_红顶商人_第六章_四_中英对照.txt",
+      "new": "086_红顶商人_第六章_四_中英对照.txt",
+      "sha256_before": "5e913b96c22ee9617d02753f72b4e609d313792dd9ff17d46dd0e09da5b85a91"
+    },
+    {
+      "internal_part": 126,
+      "display_number": 87,
+      "old": "126_红顶商人_第六章_五_纯英文.txt",
+      "new": "087_红顶商人_第六章_五_纯英文.txt",
+      "sha256_before": "0f9f3f6be301afa0d32e8020dbdede6f2c5fd86407315416ccc40165eaf58f03"
+    },
+    {
+      "internal_part": 126,
+      "display_number": 87,
+      "old": "126_红顶商人_第六章_五_中英对照.txt",
+      "new": "087_红顶商人_第六章_五_中英对照.txt",
+      "sha256_before": "d8f7f532d7d5abfdd9501771699199aae20522533022171e5fe726ddf3414f4d"
+    },
+    {
+      "internal_part": 127,
+      "display_number": 88,
+      "old": "127_红顶商人_第七章_一_纯英文.txt",
+      "new": "088_红顶商人_第七章_一_纯英文.txt",
+      "sha256_before": "943edc5c81f380577e5307c900d9264a8e4394e51388ac195129bf4b8eb1c8eb"
+    },
+    {
+      "internal_part": 127,
+      "display_number": 88,
+      "old": "127_红顶商人_第七章_一_中英对照.txt",
+      "new": "088_红顶商人_第七章_一_中英对照.txt",
+      "sha256_before": "b9be277c9650828122fd383c9a037a1d5f453c59b0655ebf8a77155aaa3dcae4"
+    },
+    {
+      "internal_part": 128,
+      "display_number": 89,
+      "old": "128_红顶商人_第七章_二_纯英文.txt",
+      "new": "089_红顶商人_第七章_二_纯英文.txt",
+      "sha256_before": "9d649292da145be41402c9b04ad2da20edd6ce854cccbe48ef8ed73e1f284806"
+    },
+    {
+      "internal_part": 128,
+      "display_number": 89,
+      "old": "128_红顶商人_第七章_二_中英对照.txt",
+      "new": "089_红顶商人_第七章_二_中英对照.txt",
+      "sha256_before": "56cf5f2ac107b2bd749c6af6ff10a6ba1ad414bb5631a3df12e9276e6a0be09b"
+    },
+    {
+      "internal_part": 129,
+      "display_number": 90,
+      "old": "129_红顶商人_第七章_三_纯英文.txt",
+      "new": "090_红顶商人_第七章_三_纯英文.txt",
+      "sha256_before": "663c92cb78d0db2ecc18603de24d45f6e861bdf5de3f785020679555c9dbdc8c"
+    },
+    {
+      "internal_part": 129,
+      "display_number": 90,
+      "old": "129_红顶商人_第七章_三_中英对照.txt",
+      "new": "090_红顶商人_第七章_三_中英对照.txt",
+      "sha256_before": "b005acb4e373a84d9fe42cf4459bd1d73983dbf85cedb8ae1dd7192804330587"
+    },
+    {
+      "internal_part": 130,
+      "display_number": 91,
+      "old": "130_红顶商人_第七章_四_纯英文.txt",
+      "new": "091_红顶商人_第七章_四_纯英文.txt",
+      "sha256_before": "cc654ead9ad5824f3955f243c7e466d0beb5dd7974fa5187e7b97ebcd6006a89"
+    },
+    {
+      "internal_part": 130,
+      "display_number": 91,
+      "old": "130_红顶商人_第七章_四_中英对照.txt",
+      "new": "091_红顶商人_第七章_四_中英对照.txt",
+      "sha256_before": "e2f2014014724e499a33cd7b7d05209a23eefac631eb4d18621036037afdb343"
+    },
+    {
+      "internal_part": 131,
+      "display_number": 92,
+      "old": "131_红顶商人_第八章_一_纯英文.txt",
+      "new": "092_红顶商人_第八章_一_纯英文.txt",
+      "sha256_before": "c3fbc8addb4fc76739fedc0e1a2d7e3433036e89b055362c5f91a456e64ffb9e"
+    },
+    {
+      "internal_part": 131,
+      "display_number": 92,
+      "old": "131_红顶商人_第八章_一_中英对照.txt",
+      "new": "092_红顶商人_第八章_一_中英对照.txt",
+      "sha256_before": "d8200169a683c29959045f790153927deab1b38e69b9aafc54540dc697808f69"
+    },
+    {
+      "internal_part": 132,
+      "display_number": 93,
+      "old": "132_红顶商人_第八章_二_纯英文.txt",
+      "new": "093_红顶商人_第八章_二_纯英文.txt",
+      "sha256_before": "fdcdc2b9154fc81153dedb2d5bf69e2b7554c30db163f500c00de3fe2299d206"
+    },
+    {
+      "internal_part": 132,
+      "display_number": 93,
+      "old": "132_红顶商人_第八章_二_中英对照.txt",
+      "new": "093_红顶商人_第八章_二_中英对照.txt",
+      "sha256_before": "2e3a31061a8061c28199d571d4b3d4a61fab10ad9a9490bb15eb27c90d3d911d"
+    },
+    {
+      "internal_part": 133,
+      "display_number": 94,
+      "old": "133_红顶商人_第八章_三_纯英文.txt",
+      "new": "094_红顶商人_第八章_三_纯英文.txt",
+      "sha256_before": "cc805907b0313ae1f548025ca032c5328af785229ff88ee8f1afab54f15051bb"
+    },
+    {
+      "internal_part": 133,
+      "display_number": 94,
+      "old": "133_红顶商人_第八章_三_中英对照.txt",
+      "new": "094_红顶商人_第八章_三_中英对照.txt",
+      "sha256_before": "6e781d84fa3685958dda61f18bd3e8fc8f81b01e63bd39a2aad1fc690578b43c"
+    },
+    {
+      "internal_part": 134,
+      "display_number": 95,
+      "old": "134_红顶商人_第八章_四_纯英文.txt",
+      "new": "095_红顶商人_第八章_四_纯英文.txt",
+      "sha256_before": "500284abdd228e1281b13b706fc9e6b8eedff76a72781bc38d63a9b6186ed344"
+    },
+    {
+      "internal_part": 134,
+      "display_number": 95,
+      "old": "134_红顶商人_第八章_四_中英对照.txt",
+      "new": "095_红顶商人_第八章_四_中英对照.txt",
+      "sha256_before": "7935439c9cb508ef59ecef214f55057993548bd773519415ef5ee1c8bae77603"
+    },
+    {
+      "internal_part": 135,
+      "display_number": 96,
+      "old": "135_红顶商人_第八章_五_纯英文.txt",
+      "new": "096_红顶商人_第八章_五_纯英文.txt",
+      "sha256_before": "ae996abd7eeb5c9d6ffadb345e28c2af94d565f9b67add82734b01d179bbad3a"
+    },
+    {
+      "internal_part": 135,
+      "display_number": 96,
+      "old": "135_红顶商人_第八章_五_中英对照.txt",
+      "new": "096_红顶商人_第八章_五_中英对照.txt",
+      "sha256_before": "49a193828818ea27a6389197df4e00e702ca0d4b104ea4f970431299a7754b19"
+    },
+    {
+      "internal_part": 136,
+      "display_number": 97,
+      "old": "136_红顶商人_第八章_六_纯英文.txt",
+      "new": "097_红顶商人_第八章_六_纯英文.txt",
+      "sha256_before": "f75c0446b3086831c772a48b6cf88750151f0e1681c244654728abaae0c64a47"
+    },
+    {
+      "internal_part": 136,
+      "display_number": 97,
+      "old": "136_红顶商人_第八章_六_中英对照.txt",
+      "new": "097_红顶商人_第八章_六_中英对照.txt",
+      "sha256_before": "9d7d678f854c25bd3b0f6862c953a4843dd283850252f3dad3779bd2839b5bb3"
+    },
+    {
+      "internal_part": 137,
+      "display_number": 98,
+      "old": "137_红顶商人_第八章_七_纯英文.txt",
+      "new": "098_红顶商人_第八章_七_纯英文.txt",
+      "sha256_before": "1b23e20ef2060af80447d943f95cffef4c9901f48f5f852531087b3528776337"
+    },
+    {
+      "internal_part": 137,
+      "display_number": 98,
+      "old": "137_红顶商人_第八章_七_中英对照.txt",
+      "new": "098_红顶商人_第八章_七_中英对照.txt",
+      "sha256_before": "2ed77270d2808bc474a4d5c5db2e4a7e849486a654251abd08445f5a93d95412"
+    },
+    {
+      "internal_part": 138,
+      "display_number": 99,
+      "old": "138_红顶商人_第八章_八_纯英文.txt",
+      "new": "099_红顶商人_第八章_八_纯英文.txt",
+      "sha256_before": "eb330b34f0ca3d5c99ec4da0715b46b34991a72721a1fc63b1afdffb4549f9da"
+    },
+    {
+      "internal_part": 138,
+      "display_number": 99,
+      "old": "138_红顶商人_第八章_八_中英对照.txt",
+      "new": "099_红顶商人_第八章_八_中英对照.txt",
+      "sha256_before": "eb2e251489674ee7c74cce6c8470c7342949f20c682c4e0519c67b0d481c570e"
+    },
+    {
+      "internal_part": 139,
+      "display_number": 100,
+      "old": "139_红顶商人_第八章_九_纯英文.txt",
+      "new": "100_红顶商人_第八章_九_纯英文.txt",
+      "sha256_before": "e0fe338364a417d37585d7ec3f497953f8148bf44dfe3fffa0579924bad96b41"
+    },
+    {
+      "internal_part": 139,
+      "display_number": 100,
+      "old": "139_红顶商人_第八章_九_中英对照.txt",
+      "new": "100_红顶商人_第八章_九_中英对照.txt",
+      "sha256_before": "e2a850ad3f263c5f14e1adcac857a3236c6d71bf0ce093bfa72c299a9346f655"
+    },
+    {
+      "internal_part": 140,
+      "display_number": 101,
+      "old": "140_红顶商人_第九章_一_纯英文.txt",
+      "new": "101_红顶商人_第九章_一_纯英文.txt",
+      "sha256_before": "13ac9815daee86a8713b5da7ce64ba7db85f2a13d11655deb45e0b2b6fbfca5c"
+    },
+    {
+      "internal_part": 140,
+      "display_number": 101,
+      "old": "140_红顶商人_第九章_一_中英对照.txt",
+      "new": "101_红顶商人_第九章_一_中英对照.txt",
+      "sha256_before": "61e9cdcaef1d94762c956d394ea01cb0a442f942d1f2a3e57a95a3e11cb41ffb"
+    },
+    {
+      "internal_part": 141,
+      "display_number": 102,
+      "old": "141_红顶商人_第九章_二_纯英文.txt",
+      "new": "102_红顶商人_第九章_二_纯英文.txt",
+      "sha256_before": "6a71120e917157322ff38035141b0b6fe4ebbe9c5cce41e51f98b4a639659b5e"
+    },
+    {
+      "internal_part": 141,
+      "display_number": 102,
+      "old": "141_红顶商人_第九章_二_中英对照.txt",
+      "new": "102_红顶商人_第九章_二_中英对照.txt",
+      "sha256_before": "6b311ae49551c8d6ebe0c34f8b6347534dc1143d088e93553642bc473e794ac8"
+    },
+    {
+      "internal_part": 142,
+      "display_number": 103,
+      "old": "142_红顶商人_第九章_三_纯英文.txt",
+      "new": "103_红顶商人_第九章_三_纯英文.txt",
+      "sha256_before": "4e71eef4eecbcabefd39c4c24371add95fa6e68f4edaf3b2166913ae5a41f7c3"
+    },
+    {
+      "internal_part": 142,
+      "display_number": 103,
+      "old": "142_红顶商人_第九章_三_中英对照.txt",
+      "new": "103_红顶商人_第九章_三_中英对照.txt",
+      "sha256_before": "a07f8ef061881bb127850d0337a60a098d5d3f659c5b01dd45bf62c3b880eabf"
+    },
+    {
+      "internal_part": 143,
+      "display_number": 104,
+      "old": "143_红顶商人_第九章_四_纯英文.txt",
+      "new": "104_红顶商人_第九章_四_纯英文.txt",
+      "sha256_before": "e6efd4e78661eab21df7cf7fd64051c7931f7473408c578e36ee48cbef804db8"
+    },
+    {
+      "internal_part": 143,
+      "display_number": 104,
+      "old": "143_红顶商人_第九章_四_中英对照.txt",
+      "new": "104_红顶商人_第九章_四_中英对照.txt",
+      "sha256_before": "e85286f7e35c3cad4960c034bc47ee825941eab11b37c07f8f374e6b2946df06"
+    },
+    {
+      "internal_part": 144,
+      "display_number": 105,
+      "old": "144_红顶商人_第九章_五_纯英文.txt",
+      "new": "105_红顶商人_第九章_五_纯英文.txt",
+      "sha256_before": "0846d96175cde8d8c229c7471e0bd17e0be50a10f0a9aaa2b42be413d5e7cc81"
+    },
+    {
+      "internal_part": 144,
+      "display_number": 105,
+      "old": "144_红顶商人_第九章_五_中英对照.txt",
+      "new": "105_红顶商人_第九章_五_中英对照.txt",
+      "sha256_before": "cf2063b565670a1bf2411d0f48f42dbe0310c3fc5bdda8aa9aaf3492fbe8531e"
+    },
+    {
+      "internal_part": 145,
+      "display_number": 106,
+      "old": "145_红顶商人_第九章_六_纯英文.txt",
+      "new": "106_红顶商人_第九章_六_纯英文.txt",
+      "sha256_before": "1e9acbd073ed6b9e3fe9c93c832ff951bd758c2adeb74f43f26056ac996ba4a8"
+    },
+    {
+      "internal_part": 145,
+      "display_number": 106,
+      "old": "145_红顶商人_第九章_六_中英对照.txt",
+      "new": "106_红顶商人_第九章_六_中英对照.txt",
+      "sha256_before": "0218cf2066c4180e2d62bff061ff7b073f6e3bb092de70034475c9d43df7d081"
+    },
+    {
+      "internal_part": 146,
+      "display_number": 107,
+      "old": "146_红顶商人_第九章_七_纯英文.txt",
+      "new": "107_红顶商人_第九章_七_纯英文.txt",
+      "sha256_before": "49db0ea00386c94b5aa2874b89daab589a2ce9b0ea347a6b6c3f8f9a2fb951c4"
+    },
+    {
+      "internal_part": 146,
+      "display_number": 107,
+      "old": "146_红顶商人_第九章_七_中英对照.txt",
+      "new": "107_红顶商人_第九章_七_中英对照.txt",
+      "sha256_before": "19fe55d8fcb395a290496ea5817dc2e1ac8b24566816c95e9d07a2939d207f95"
+    },
+    {
+      "internal_part": 147,
+      "display_number": 108,
+      "old": "147_红顶商人_第十章_一_纯英文.txt",
+      "new": "108_红顶商人_第十章_一_纯英文.txt",
+      "sha256_before": "50dfb67ae4431eadeaf2cf33a85e6fc36107ed37922212d37cc76cb548d3315f"
+    },
+    {
+      "internal_part": 147,
+      "display_number": 108,
+      "old": "147_红顶商人_第十章_一_中英对照.txt",
+      "new": "108_红顶商人_第十章_一_中英对照.txt",
+      "sha256_before": "22b88fe5628afb0274aa7b54d8c7084bffefaddd0b69d2b30d71549ad8590543"
+    },
+    {
+      "internal_part": 148,
+      "display_number": 109,
+      "old": "148_红顶商人_第十章_二_纯英文.txt",
+      "new": "109_红顶商人_第十章_二_纯英文.txt",
+      "sha256_before": "556d31468ab36f8d96dc7d5a7a9ce8135c45c50bc1753d315cc0bc9f38aee939"
+    },
+    {
+      "internal_part": 148,
+      "display_number": 109,
+      "old": "148_红顶商人_第十章_二_中英对照.txt",
+      "new": "109_红顶商人_第十章_二_中英对照.txt",
+      "sha256_before": "4814fcd48f3e2be0c63958b3671ef1afc2760b7a4794d67102288f2f6843027d"
+    },
+    {
+      "internal_part": 149,
+      "display_number": 110,
+      "old": "149_红顶商人_第十章_三_纯英文.txt",
+      "new": "110_红顶商人_第十章_三_纯英文.txt",
+      "sha256_before": "7fb0e890fe20f2bc4023baa0f063858a82b99441b5c10a934cee43c790ef6dc8"
+    },
+    {
+      "internal_part": 149,
+      "display_number": 110,
+      "old": "149_红顶商人_第十章_三_中英对照.txt",
+      "new": "110_红顶商人_第十章_三_中英对照.txt",
+      "sha256_before": "7ba15e2b8f9bc3ac04be691be383128361c7ab8887620ef35f1837ad00644ecc"
+    },
+    {
+      "internal_part": 150,
+      "display_number": 111,
+      "old": "150_红顶商人_第十一章_一_纯英文.txt",
+      "new": "111_红顶商人_第十一章_一_纯英文.txt",
+      "sha256_before": "708e44e8550a20446938aad31102d176001ac9acb3a7c2c129ab1c6de9d58c37"
+    },
+    {
+      "internal_part": 150,
+      "display_number": 111,
+      "old": "150_红顶商人_第十一章_一_中英对照.txt",
+      "new": "111_红顶商人_第十一章_一_中英对照.txt",
+      "sha256_before": "e2ee525adb214690fd0ed4505b30e4f2d597c83c5ad0255df9fddb806ce26c66"
+    },
+    {
+      "internal_part": 151,
+      "display_number": 112,
+      "old": "151_红顶商人_第十一章_二_纯英文.txt",
+      "new": "112_红顶商人_第十一章_二_纯英文.txt",
+      "sha256_before": "8cbfcc400cfe5705b6019c12b40ac441bb4a42f26416f501d29e28c6f4036fce"
+    },
+    {
+      "internal_part": 151,
+      "display_number": 112,
+      "old": "151_红顶商人_第十一章_二_中英对照.txt",
+      "new": "112_红顶商人_第十一章_二_中英对照.txt",
+      "sha256_before": "3bded8fff7276f08d47c0096dfdf6bdb1ac4559b5c65ae42941c1474eb40afb5"
+    },
+    {
+      "internal_part": 152,
+      "display_number": 130,
+      "old": "152_萧瑟洋场_第一章_一_纯英文.txt",
+      "new": "130_萧瑟洋场_第一章_一_纯英文.txt",
+      "sha256_before": "a4134c581c9e3d24e59f847382b6eeb8614c8514b32b7765e9a8e51816d05ba5"
+    },
+    {
+      "internal_part": 152,
+      "display_number": 130,
+      "old": "152_萧瑟洋场_第一章_一_中英对照.txt",
+      "new": "130_萧瑟洋场_第一章_一_中英对照.txt",
+      "sha256_before": "4dfc221935a003b5019188c59334f3661efed819aa15655305bdd42a1da67cd8"
+    },
+    {
+      "internal_part": 153,
+      "display_number": 131,
+      "old": "153_萧瑟洋场_第一章_二_纯英文.txt",
+      "new": "131_萧瑟洋场_第一章_二_纯英文.txt",
+      "sha256_before": "4898bbfdbcbbc03091bde00a385f51c9257013c5595a7ea31339a65372a3d635"
+    },
+    {
+      "internal_part": 153,
+      "display_number": 131,
+      "old": "153_萧瑟洋场_第一章_二_中英对照.txt",
+      "new": "131_萧瑟洋场_第一章_二_中英对照.txt",
+      "sha256_before": "28a4a42665621fae33a1badb1ffad2727f5e0e516963ef75bf6799ee2d238926"
+    },
+    {
+      "internal_part": 154,
+      "display_number": 132,
+      "old": "154_萧瑟洋场_第一章_三_纯英文.txt",
+      "new": "132_萧瑟洋场_第一章_三_纯英文.txt",
+      "sha256_before": "7c0828cd155a0e03f9c82f92e6ed01f91114917c8f31ced19c731ec8299d17a6"
+    },
+    {
+      "internal_part": 154,
+      "display_number": 132,
+      "old": "154_萧瑟洋场_第一章_三_中英对照.txt",
+      "new": "132_萧瑟洋场_第一章_三_中英对照.txt",
+      "sha256_before": "56ab536b0ecf8ebc36e152309014630a9add670097a667c2e1427336f9540843"
+    },
+    {
+      "internal_part": 155,
+      "display_number": 133,
+      "old": "155_萧瑟洋场_第一章_四_纯英文.txt",
+      "new": "133_萧瑟洋场_第一章_四_纯英文.txt",
+      "sha256_before": "67fcc503c163d2d4cc1706aea3e28c5246197854efe1aa667934e3974fa1d71a"
+    },
+    {
+      "internal_part": 155,
+      "display_number": 133,
+      "old": "155_萧瑟洋场_第一章_四_中英对照.txt",
+      "new": "133_萧瑟洋场_第一章_四_中英对照.txt",
+      "sha256_before": "9a4d019a1e1d60b58406f2c0e46d60638b0aa0a0db8e16b288d9f38314347f54"
+    },
+    {
+      "internal_part": 156,
+      "display_number": 134,
+      "old": "156_萧瑟洋场_第二章_一_纯英文.txt",
+      "new": "134_萧瑟洋场_第二章_一_纯英文.txt",
+      "sha256_before": "3403c902e6ef7c2be399bbe59f691759c7918d060eba4eda1276419c509b32db"
+    },
+    {
+      "internal_part": 156,
+      "display_number": 134,
+      "old": "156_萧瑟洋场_第二章_一_中英对照.txt",
+      "new": "134_萧瑟洋场_第二章_一_中英对照.txt",
+      "sha256_before": "8b889d93b7cb67a77fa1a738c9ca73d708b878a58381ff315aca4236d9cc10bd"
+    },
+    {
+      "internal_part": 157,
+      "display_number": 135,
+      "old": "157_萧瑟洋场_第二章_二_纯英文.txt",
+      "new": "135_萧瑟洋场_第二章_二_纯英文.txt",
+      "sha256_before": "aa421879b86d1e0774d6dec6672b41a8541621752e5c650a47673cd64ee15b04"
+    },
+    {
+      "internal_part": 157,
+      "display_number": 135,
+      "old": "157_萧瑟洋场_第二章_二_中英对照.txt",
+      "new": "135_萧瑟洋场_第二章_二_中英对照.txt",
+      "sha256_before": "2c32af24ce027a9c027ec614ee4a6f184ac2444ff3268f0acb0546a3caac3ced"
+    },
+    {
+      "internal_part": 158,
+      "display_number": 136,
+      "old": "158_萧瑟洋场_第二章_三_纯英文.txt",
+      "new": "136_萧瑟洋场_第二章_三_纯英文.txt",
+      "sha256_before": "9c713d344221ae611c4bd6055d9996cf7a8cf74fbc3e347d0d1b848c3749a540"
+    },
+    {
+      "internal_part": 158,
+      "display_number": 136,
+      "old": "158_萧瑟洋场_第二章_三_中英对照.txt",
+      "new": "136_萧瑟洋场_第二章_三_中英对照.txt",
+      "sha256_before": "cc17fb36f52ef1cdfb7e93842b239b4d759c4c8a011423fb25ff1382db0d93f3"
+    },
+    {
+      "internal_part": 159,
+      "display_number": 137,
+      "old": "159_萧瑟洋场_第二章_四_纯英文.txt",
+      "new": "137_萧瑟洋场_第二章_四_纯英文.txt",
+      "sha256_before": "185b455c15922cce236cd407cc94c4b95b7baacd69f4b697226330dee82b1550"
+    },
+    {
+      "internal_part": 159,
+      "display_number": 137,
+      "old": "159_萧瑟洋场_第二章_四_中英对照.txt",
+      "new": "137_萧瑟洋场_第二章_四_中英对照.txt",
+      "sha256_before": "196c6e0134b2f3ce892c9e7ba98dc33c4534e6a3958f472c99028332597588fa"
+    },
+    {
+      "internal_part": 160,
+      "display_number": 138,
+      "old": "160_萧瑟洋场_第二章_五_纯英文.txt",
+      "new": "138_萧瑟洋场_第二章_五_纯英文.txt",
+      "sha256_before": "884c3bdd29dbd3faae40a3ec9b3d67a272590421ad2186df9cd740768c3876d5"
+    },
+    {
+      "internal_part": 160,
+      "display_number": 138,
+      "old": "160_萧瑟洋场_第二章_五_中英对照.txt",
+      "new": "138_萧瑟洋场_第二章_五_中英对照.txt",
+      "sha256_before": "954ac6a4642285a4a520ba9b770fd712d86484117cf5881362070b06d5835528"
+    },
+    {
+      "internal_part": 161,
+      "display_number": 139,
+      "old": "161_萧瑟洋场_第二章_六_纯英文.txt",
+      "new": "139_萧瑟洋场_第二章_六_纯英文.txt",
+      "sha256_before": "25a8b39a47262877d79d4e1a5c081bb7004de3e77251f229fff3a00597c38b4d"
+    },
+    {
+      "internal_part": 161,
+      "display_number": 139,
+      "old": "161_萧瑟洋场_第二章_六_中英对照.txt",
+      "new": "139_萧瑟洋场_第二章_六_中英对照.txt",
+      "sha256_before": "da222bf68b98b3cc18fd02debd8d61b0ddd5c6080d808417b45fa39c00970ddf"
+    },
+    {
+      "internal_part": 162,
+      "display_number": 140,
+      "old": "162_萧瑟洋场_第三章_一_纯英文.txt",
+      "new": "140_萧瑟洋场_第三章_一_纯英文.txt",
+      "sha256_before": "97b0a51b6e29cab4e0285921649f90bef683c3bbeaf91fbc5acecdff7ad2a8d0"
+    },
+    {
+      "internal_part": 162,
+      "display_number": 140,
+      "old": "162_萧瑟洋场_第三章_一_中英对照.txt",
+      "new": "140_萧瑟洋场_第三章_一_中英对照.txt",
+      "sha256_before": "05aee70b6e18220891ddfdc74492adcbf02b4430de695e43c4961f8177ef676e"
+    },
+    {
+      "internal_part": 163,
+      "display_number": 141,
+      "old": "163_萧瑟洋场_第三章_二_纯英文.txt",
+      "new": "141_萧瑟洋场_第三章_二_纯英文.txt",
+      "sha256_before": "287cce373fd710113f423feab24854da75c0978d28b231d2732708eb2e8df21f"
+    },
+    {
+      "internal_part": 163,
+      "display_number": 141,
+      "old": "163_萧瑟洋场_第三章_二_中英对照.txt",
+      "new": "141_萧瑟洋场_第三章_二_中英对照.txt",
+      "sha256_before": "3d711358da78a31d5e098f46857f663cc4df31aea123aa21c53752e920cc0c75"
+    },
+    {
+      "internal_part": 164,
+      "display_number": 142,
+      "old": "164_萧瑟洋场_第三章_三_纯英文.txt",
+      "new": "142_萧瑟洋场_第三章_三_纯英文.txt",
+      "sha256_before": "b817d8052cbc3f4117cb2accdafca9fe9030d9011a9e92209d534eb2939f0ca4"
+    },
+    {
+      "internal_part": 164,
+      "display_number": 142,
+      "old": "164_萧瑟洋场_第三章_三_中英对照.txt",
+      "new": "142_萧瑟洋场_第三章_三_中英对照.txt",
+      "sha256_before": "3d91d8028c49a72017ba008e22b57461bd49bc32741aebc3ebf395a800b5fe25"
+    },
+    {
+      "internal_part": 165,
+      "display_number": 143,
+      "old": "165_萧瑟洋场_第三章_四_纯英文.txt",
+      "new": "143_萧瑟洋场_第三章_四_纯英文.txt",
+      "sha256_before": "14f046a5a9b8e45da5890df10cb10d54e590240697ddfcc8ac5ab4709c68e740"
+    },
+    {
+      "internal_part": 165,
+      "display_number": 143,
+      "old": "165_萧瑟洋场_第三章_四_中英对照.txt",
+      "new": "143_萧瑟洋场_第三章_四_中英对照.txt",
+      "sha256_before": "da6d725191ae3b67e5e49cd5f017172f563d46dcc2960bb7415fbca91a788932"
+    },
+    {
+      "internal_part": 166,
+      "display_number": 144,
+      "old": "166_萧瑟洋场_第四章_一_纯英文.txt",
+      "new": "144_萧瑟洋场_第四章_一_纯英文.txt",
+      "sha256_before": "206ab4daa16dff8c16a9e9cfb0104b877108833d79c397434c5a17f54d1e5908"
+    },
+    {
+      "internal_part": 166,
+      "display_number": 144,
+      "old": "166_萧瑟洋场_第四章_一_中英对照.txt",
+      "new": "144_萧瑟洋场_第四章_一_中英对照.txt",
+      "sha256_before": "735003d45fd4117f9b443a59a073c6460be178fd4ca13a388898c150bddae12b"
+    },
+    {
+      "internal_part": 167,
+      "display_number": 145,
+      "old": "167_萧瑟洋场_第四章_二_纯英文.txt",
+      "new": "145_萧瑟洋场_第四章_二_纯英文.txt",
+      "sha256_before": "ffb870f5b02e7353e49fb7775b8e102e7f8d5e8af7befb5a6d7be8990a027ff1"
+    },
+    {
+      "internal_part": 167,
+      "display_number": 145,
+      "old": "167_萧瑟洋场_第四章_二_中英对照.txt",
+      "new": "145_萧瑟洋场_第四章_二_中英对照.txt",
+      "sha256_before": "734cbf36c9269f93e08270897a1c0d4bbabbe1838a299b4e6ad355d686d600e7"
+    },
+    {
+      "internal_part": 168,
+      "display_number": 146,
+      "old": "168_萧瑟洋场_第五章_一_纯英文.txt",
+      "new": "146_萧瑟洋场_第五章_一_纯英文.txt",
+      "sha256_before": "f24ea195f0c1718565a2dc2e2cd06f21f730a593464554e962a27b574f2828e3"
+    },
+    {
+      "internal_part": 168,
+      "display_number": 146,
+      "old": "168_萧瑟洋场_第五章_一_中英对照.txt",
+      "new": "146_萧瑟洋场_第五章_一_中英对照.txt",
+      "sha256_before": "0d0d374b438e379000848272d897c16d98ac7b6c90c6c27c7c983b5b3e441d17"
+    },
+    {
+      "internal_part": 169,
+      "display_number": 147,
+      "old": "169_萧瑟洋场_第五章_二_纯英文.txt",
+      "new": "147_萧瑟洋场_第五章_二_纯英文.txt",
+      "sha256_before": "325bd4e9cfe02b65a82bd63721979fb2c2e6b930724453c4b02c8819846f4708"
+    },
+    {
+      "internal_part": 169,
+      "display_number": 147,
+      "old": "169_萧瑟洋场_第五章_二_中英对照.txt",
+      "new": "147_萧瑟洋场_第五章_二_中英对照.txt",
+      "sha256_before": "8797266cc9f48b2b69d66716f74cfe6944b8ea7aed623903a7914c8c2ba1f017"
+    },
+    {
+      "internal_part": 170,
+      "display_number": 148,
+      "old": "170_萧瑟洋场_第五章_三_纯英文.txt",
+      "new": "148_萧瑟洋场_第五章_三_纯英文.txt",
+      "sha256_before": "3f3a181b5d63b604bcefa1865312eadf4c787dc32beda0481b248166c59105ae"
+    },
+    {
+      "internal_part": 170,
+      "display_number": 148,
+      "old": "170_萧瑟洋场_第五章_三_中英对照.txt",
+      "new": "148_萧瑟洋场_第五章_三_中英对照.txt",
+      "sha256_before": "58ad8fe56fdcb4679fca408aa3aae6319b4ab2d1eeff9eb00a07d17a637839a5"
+    },
+    {
+      "internal_part": 171,
+      "display_number": 149,
+      "old": "171_萧瑟洋场_第六章_一_纯英文.txt",
+      "new": "149_萧瑟洋场_第六章_一_纯英文.txt",
+      "sha256_before": "b86f66ccf6f83b095092aac9591155cd9988c15906ef36bf66621cd1eaa71f12"
+    },
+    {
+      "internal_part": 171,
+      "display_number": 149,
+      "old": "171_萧瑟洋场_第六章_一_中英对照.txt",
+      "new": "149_萧瑟洋场_第六章_一_中英对照.txt",
+      "sha256_before": "94c6cf069d9d6a394f91e0ae310b5b90ca74dfec714b053d6b582e43c9f79eea"
+    },
+    {
+      "internal_part": 172,
+      "display_number": 150,
+      "old": "172_萧瑟洋场_第六章_二_纯英文.txt",
+      "new": "150_萧瑟洋场_第六章_二_纯英文.txt",
+      "sha256_before": "e99f03e30c47623298b10f65b33b69fcb174515a0d9cb5b4b193c2663bbc93bb"
+    },
+    {
+      "internal_part": 172,
+      "display_number": 150,
+      "old": "172_萧瑟洋场_第六章_二_中英对照.txt",
+      "new": "150_萧瑟洋场_第六章_二_中英对照.txt",
+      "sha256_before": "503f8415204bb78aef785e1f28f0917a07347780f4ab54e34029111485c80136"
+    },
+    {
+      "internal_part": 173,
+      "display_number": 151,
+      "old": "173_萧瑟洋场_第七章_一_纯英文.txt",
+      "new": "151_萧瑟洋场_第七章_一_纯英文.txt",
+      "sha256_before": "58503272dd8fe01e0ac5df40c5f3b923f9cd1f576fd7376c6ab0131d3dcdf459"
+    },
+    {
+      "internal_part": 173,
+      "display_number": 151,
+      "old": "173_萧瑟洋场_第七章_一_中英对照.txt",
+      "new": "151_萧瑟洋场_第七章_一_中英对照.txt",
+      "sha256_before": "ad7f23ac7f1783f3503dfb7c0853e4d42f5d8e878c3b6d6278199ac138ba26df"
+    },
+    {
+      "internal_part": 174,
+      "display_number": 152,
+      "old": "174_萧瑟洋场_第七章_二_纯英文.txt",
+      "new": "152_萧瑟洋场_第七章_二_纯英文.txt",
+      "sha256_before": "8107adc225d794ada9080aae3fe17698814c57538c72a42f873a790fb3b25165"
+    },
+    {
+      "internal_part": 174,
+      "display_number": 152,
+      "old": "174_萧瑟洋场_第七章_二_中英对照.txt",
+      "new": "152_萧瑟洋场_第七章_二_中英对照.txt",
+      "sha256_before": "e402bf337a31e52a698f6d521b4e7af19911f76d73c56244400ac195b4a59bd8"
+    },
+    {
+      "internal_part": 175,
+      "display_number": 153,
+      "old": "175_萧瑟洋场_第七章_三_纯英文.txt",
+      "new": "153_萧瑟洋场_第七章_三_纯英文.txt",
+      "sha256_before": "fa5c63535292b41781cfcbc34f1c7a1552cd428b3813922cb93ccd9362aee4e1"
+    },
+    {
+      "internal_part": 175,
+      "display_number": 153,
+      "old": "175_萧瑟洋场_第七章_三_中英对照.txt",
+      "new": "153_萧瑟洋场_第七章_三_中英对照.txt",
+      "sha256_before": "b55a194f1a89a167a97cba3b7f372fda07e2067500eba71c15567bcabfb3f59b"
+    },
+    {
+      "internal_part": 176,
+      "display_number": 154,
+      "old": "176_萧瑟洋场_第七章_四_纯英文.txt",
+      "new": "154_萧瑟洋场_第七章_四_纯英文.txt",
+      "sha256_before": "12785e2f8e08389193fe24915944e5111fec97ab98cf51dc6cba21082a78cc05"
+    },
+    {
+      "internal_part": 176,
+      "display_number": 154,
+      "old": "176_萧瑟洋场_第七章_四_中英对照.txt",
+      "new": "154_萧瑟洋场_第七章_四_中英对照.txt",
+      "sha256_before": "591cdd82e85f35a488e9611977225fb3caadf7c743a7104ba04c94b9eabac01e"
+    },
+    {
+      "internal_part": 177,
+      "display_number": 155,
+      "old": "177_萧瑟洋场_第七章_五_纯英文.txt",
+      "new": "155_萧瑟洋场_第七章_五_纯英文.txt",
+      "sha256_before": "918ce018d0fded85aa4d40144acbfb1cb3d291267f22137aff014093d93cec96"
+    },
+    {
+      "internal_part": 177,
+      "display_number": 155,
+      "old": "177_萧瑟洋场_第七章_五_中英对照.txt",
+      "new": "155_萧瑟洋场_第七章_五_中英对照.txt",
+      "sha256_before": "29cbdfa0fe6fa553e6d647c420f21d68f356f26af332ffe485f8388549f091a5"
+    },
+    {
+      "internal_part": 178,
+      "display_number": 156,
+      "old": "178_萧瑟洋场_第七章_六_纯英文.txt",
+      "new": "156_萧瑟洋场_第七章_六_纯英文.txt",
+      "sha256_before": "8b7c93f4487ccf78bd686d8ea5a14c7542c06773224270cbff729f570fa38585"
+    },
+    {
+      "internal_part": 178,
+      "display_number": 156,
+      "old": "178_萧瑟洋场_第七章_六_中英对照.txt",
+      "new": "156_萧瑟洋场_第七章_六_中英对照.txt",
+      "sha256_before": "9ec82165c3001143046fe2f3a6add4a2978d51a22ef14c0e8f350055b254f671"
+    },
+    {
+      "old": "103_红顶商人_完整本_纯英文.txt",
+      "new": "064_红顶商人_完整本_纯英文.txt",
+      "sha256_before": "dd1a1adb2d638bada079d9384d3ec3b1a84a71bdbf100bd9fc07ae34ca28e008"
+    },
+    {
+      "old": "103_红顶商人_完整本_中英对照.txt",
+      "new": "064_红顶商人_完整本_中英对照.txt",
+      "sha256_before": "df58166b8800737e3b97f4ba150740172a0099295882be2ef67338e76d2bab66"
+    },
+    {
+      "old": "152_萧瑟洋场_完整本_纯英文.txt",
+      "new": "130_萧瑟洋场_完整本_纯英文.txt",
+      "sha256_before": "bd1fa8be49d31c67219ce390c6aa8f64b66f2c8a62448e684c93ca87458a59ee"
+    },
+    {
+      "old": "152_萧瑟洋场_完整本_中英对照.txt",
+      "new": "130_萧瑟洋场_完整本_中英对照.txt",
+      "sha256_before": "c7850338c97d0bd5ba90bb8370313eaaa7086ffb47a3ab61a2381e213f6bd2e1"
+    }
+  ],
+  "alignment_body_hashes": {
+    ".translation/part_029_alignment.json": "427eee077afe27ec7555b5293effc64d1c789a85fbea4c0f4f328bcba0e4efd7",
+    ".translation/part_058_alignment.json": "3dce4ff794c1bfa4f85dd1904bb4bb07d1f8e3bdf3cd5843a4627f9603dad0a3",
+    ".translation/part_050_alignment.json": "56372f7ae0661a82a708ad81088984a1f96d6f54f06c3eeb24339104f4944778",
+    ".translation/part_045_alignment.json": "1ee7b56a1c9eb27a75d1942ede9ae51cd3745f8c3a5ed15920ee4fcb5a87350f",
+    ".translation/part_034_alignment.json": "d17dda4f841560e1e7b351c2f52ebd01eefc9dc08899ced8dc147e8ec584f3e9",
+    ".translation/part_021_alignment.json": "ce3fa30469b94009c5c98393035d11df98073ba3e2c3c533fd2407f79bfcd87c",
+    ".translation/part_042_alignment.json": "7695ad39b24058363959f7156caf6c6ce3800455b8326f0d967ca1c80d01c571",
+    ".translation/part_057_alignment.json": "8f3bc0d72a60bc33f72e0e2c8a4980a514b8c0b2af68b6a5129ae49654488368",
+    ".translation/part_026_alignment.json": "1c83fd3a2578af4c129fde257a56e04b70801cefff9744c90a2252b43a3007a0",
+    ".translation/part_033_alignment.json": "85bc8b80c73f1fd501589de05fc9da8a16d3fffbddb730e778a1d04db76e89d7",
+    ".translation/part_056_alignment.json": "4c59fe92982ba705584f4cd630df8a42bbdc6a850a3ebba9e3729f1a4e8087e2",
+    ".translation/part_043_alignment.json": "193ca900657c9f559290acb742d66f03e1a235b7301e16d66ac6a8297517ab4b",
+    ".translation/part_032_alignment.json": "e4fb836e817d8560a177ca4fa90b238cc329a9a4f2612c82bb0c71a58d34e8c3",
+    ".translation/part_027_alignment.json": "65e743df11863fca98d433203eeec70193227a689ab1ea8ae893af6efa80ffaf",
+    ".translation/part_044_alignment.json": "ca1a568484f723e4b9218c8ac9406825d15450175ddbececcae128ea073be71b",
+    ".translation/part_051_alignment.json": "b1ca2250f860bd4098064c0188e936493db2483b07f4d9451ec2f525141a22f3",
+    ".translation/part_020_alignment.json": "39a0f2b69ad239b1d2a51e75d1afaa095dcf9d5efd550a8b0e481f3eceda3e23",
+    ".translation/part_035_alignment.json": "398975579a479a9858121b861d2551c052492d2925381b997ac6112f0ec36ca7",
+    ".translation/part_028_alignment.json": "d234398209892cc6fde64eb2fd4932a995c07abc393776d1eb832b52803c517b",
+    ".translation/part_059_alignment.json": "f733a63ec49db4a77d5ca1cc36a681dd5efe3a57797d56a9d1853222a7ca2695",
+    ".translation/part_022_alignment.json": "5b88de0d48f1488902bbe393e88d2c3807a546373e679272c4ebf2188358d86e",
+    ".translation/part_037_alignment.json": "948afa5ca27cf657b66656c19ee9bce506cce24070ea43e1cb2367b497191a6c",
+    ".translation/part_046_alignment.json": "5c72cd9b0b7707c725347092a450132893bb6996ba9a2cebb5727a484b4a1317",
+    ".translation/part_053_alignment.json": "0015f32fe858d0828382664a2b456ecce1bb6b685e58d27f190272f1b52506cf",
+    ".translation/part_030_alignment.json": "b888d9e173d0d85120c37a470f71033da5d426e9674f487e5a98bafc6f1a9b24",
+    ".translation/part_025_alignment.json": "26d1ea672ecd2a1e7e7ed0c4826b5e06a2bd9db147811a9b3f4650601121cd24",
+    ".translation/part_054_alignment.json": "dc1727aee4212c3d223ef215bf53624149b577456b9167b619fd0768121cdfa8",
+    ".translation/part_041_alignment.json": "3132688c4befe1842492f7fcf92e614853ecaf9a1851867d4988d061af599776",
+    ".translation/part_049_alignment.json": "eb162627c7b6baa3f95d32594ae6febce4b047c975da9a204dc72d9a62dd4866",
+    ".translation/part_038_alignment.json": "2ae70e8e44257f886d40da8f96e8a4d98b138fba93be4743a86c3490dd294245",
+    ".translation/part_048_alignment.json": "5d682bdc9a89c72f6ef0cc9f5e7667796c736ce70a853f9c4c0e815518d19b98",
+    ".translation/part_039_alignment.json": "12dac5fad23891d3f123033695afb4f2431c9f9ff09af16472166569950d0e5c",
+    ".translation/part_024_alignment.json": "5fe00db16474b77bf67f3b88f7fc6c8f73bc1902407a5ccec862431943e88ec3",
+    ".translation/part_031_alignment.json": "81cc8b2331b954a630a17b992d43b1896c539d01461c34f0735b220635abe5ac",
+    ".translation/part_040_alignment.json": "c5a759a656aba23b660a0122fe1b2f5b4aa0b77502189983c98ec3110bd40d64",
+    ".translation/part_055_alignment.json": "60aa0d3c88f219d9f4c7407cbabe2ee14fa6f07b70a86e9d984888596bf61717",
+    ".translation/part_036_alignment.json": "dab10bf15357b16bca8d5eab867a82bb0b000e24c23124f6e9eaeddfe84f981e",
+    ".translation/part_023_alignment.json": "bdf06b43680aa1be5f1eb0dfde68c24675ec593384cc59434fbbaf6f7b584f85",
+    ".translation/part_052_alignment.json": "09bb6ba14555f04ba6bcfaf9f7da79a8e72fb11ffc5f009d60001f80d80f75a1",
+    ".translation/part_047_alignment.json": "e99095d305e6a87704b1cf76d3d3f25c2fb707f3f21580cb0a237e6bc83abeeb",
+    ".translation/part_091_alignment.json": "98af07fd2a9a5b799a20eb6b177caa7cb89f419871da91409c55f71f92001397",
+    ".translation/part_084_alignment.json": "5302c918f0c1404fda2e5d4569aafd4350f5883f2d5403b144215c5188d6caab",
+    ".translation/part_099_alignment.json": "ebb999012d34ec1394c33fa31ec63288f6366c35db5a8ce98a4a51bfe83b8139",
+    ".translation/part_101_alignment.json": "5acbad799a250964a40176486c9ebc27f3d43b951abca31e7156d89af1444f11",
+    ".translation/part_002_alignment.json": "847b8f81bc409a1ed5b4f53f902391cf513769b969892d65a424351fb58e2b78",
+    ".translation/part_017_alignment.json": "4d719916c2c57ff8a87ce9fbb108e9c64464c08b6419e4e768402f1a70e4be07",
+    ".translation/part_066_alignment.json": "15e9f0cfa7eabaaf26505f300530a3a083f8bce1eb97b82e6dae18fae8851c9f",
+    ".translation/part_073_alignment.json": "f4f796842a3ed8e1f0ad4392d29e127e7653a62b03a639ba2e4852a675c59803",
+    ".translation/part_069_alignment.json": "22a306933c5943ce2964e5267c409f77a39a4088012d3974c4edba7dd994aab9",
+    ".translation/part_083_alignment.json": "182d1177260d8910c98f8c55bacede997acdfb0b14a99ebb8f0fb4e741ca1c54",
+    ".translation/part_096_alignment.json": "1de4e9a9596bb45212cf2f927627e2118edd80d8e71261f80d4705925b221335",
+    ".translation/part_018_alignment.json": "12b13a34bfe7dd63959f0b9bc274bd79b2a47a8b6c61f0aa484590bffd30af0c",
+    ".translation/part_010_alignment.json": "5f92ac99fcd11f2bd4577d5f669e870f0a85f5d6fcc4bc01b86655366adee516",
+    ".translation/part_005_alignment.json": "4a75fddcbbf12424ded7907cc558feed63bcb7099904ffefd19d73e97d150a06",
+    ".translation/part_074_alignment.json": "78734c3400f8b733b2f4130167a2c7e59c6568416d29e7cae69e1ca1e840dc98",
+    ".translation/part_061_alignment.json": "e6097141af6f559d9fede8703eefca562e7c4525370456b09b708dd271c5f07e",
+    ".translation/part_004_alignment.json": "86ce25a90b93b788c881ff02f455beaebb998a5609d508fe5bfc3aa791be4562",
+    ".translation/part_011_alignment.json": "905cd3c3bada94da150c35c34bc53046cf4d106b8fd67cd9538acfac66133a71",
+    ".translation/part_060_alignment.json": "8cca064bcdac04d9c262ff3ba9cafc074c2f84baadb30b96a01a510c0654f926",
+    ".translation/part_075_alignment.json": "a656f4431abad38ece9e979c57f9ea76ddba4eb5b52df5a7a197e01f223b2fdb",
+    ".translation/part_068_alignment.json": "9be8aa7b70219f8a563ec17929bd6f65c4a837b65dee86907d2332be8c1fe725",
+    ".translation/part_019_alignment.json": "45586b3c496499976d747a8054a29b278a1209bce13302939b34da9ca5ce4df5",
+    ".translation/part_097_alignment.json": "16cbc3853659227d3b869452a4c98a225aa1a9dca855874ed9bc33dcd512b067",
+    ".translation/part_082_alignment.json": "eb8f70f88bca2b4497e4065abd4bab9a988e963062f66e9a6e5750a1f424b24b",
+    ".translation/part_016_alignment.json": "fa9ac685366ee06d291f94a60b6bc69611e084340a002faefc10a42986276a12",
+    ".translation/part_003_alignment.json": "8d055576cf9cbf3265829e9a9d7d9c5707373835a55ed64e884df29e56030019",
+    ".translation/part_100_alignment.json": "18f73c7dbcd84e72fb10ea140671567ecb6e823df734d226b840e10785b705f9",
+    ".translation/part_098_alignment.json": "74ce8ac0250b5047cdd4c5c8f5cb2bb995c69273f72881eef4a251f94150289b",
+    ".translation/part_072_alignment.json": "eb6c7397eb08c53ea315419b24aa3095353366a6352547debadcb933b1e9060e",
+    ".translation/part_067_alignment.json": "23041315855ebecbc66e070af664a3ad23c1297a05306c1b6bb101872fc98918",
+    ".translation/part_085_alignment.json": "e8a6bdb627ca66303c0a0ae2bf3ee534af8476dc7e18de83c25311b7f84274ce",
+    ".translation/part_090_alignment.json": "047b9311610656b4e40a194b0ddfd269b3e0a5c5e3c2ecdfd6ba3255b3c0ca7f",
+    ".translation/part_070_alignment.json": "68b7527ba291dd5930474ff02c5dd3482007dd406d8949ad9ae39bc664102e8f",
+    ".translation/part_065_alignment.json": "2386338597a70d111ced944bcc2ac172b541910c3bf34451cad40a0e07754a50",
+    ".translation/part_102_alignment.json": "6a3ed9e7feec5e9bb8eb992df3adf7d97e04d99985f7d20a12afe34a450e9f60",
+    ".translation/part_014_alignment.json": "98520fb123a60db097a59c9ae05dbc9f11a4c70213aa5ccafc9ac4f4cda120d0",
+    ".translation/part_001_alignment.json": "9048d9dea8d007b4d698952e77e91a011f8cd549e6482fd654aa714a85243117",
+    ".translation/part_009_alignment.json": "1652a48bf5492b7307b88035443ffc6734cf79fc73f2c85f0a109d27cddfdb8a",
+    ".translation/part_087_alignment.json": "1e592d606aeebf704511e6aa16fc8a067a196bcff43f22e5b46d74bde9d5a44e",
+    ".translation/part_092_alignment.json": "67633b5114d5a799649bdeb235d17a2339950c7900e82ebabb68f7c8420fdb9a",
+    ".translation/part_078_alignment.json": "99f8be703db3101b79e968f6680eebeb8b87068c60d599a5af93c70cc226c37f",
+    ".translation/part_062_alignment.json": "b576d98887f7c6e34e1a60f6d699f1e60ef4ff9c37d9d991fe7c47ad90593d54",
+    ".translation/part_077_alignment.json": "04c8cbf42f31d69b872631f7fd9cadc8f487472c8dac842c2e0f36759b726ae8",
+    ".translation/part_006_alignment.json": "d430cc7f7ff7a47e3a33334ace5030ddbbf55a57004dab22c8b78bf886328269",
+    ".translation/part_013_alignment.json": "6217a5598bd1b2e897a991e7cccc610c40e9e018a80914fdb97bc0ad1d08601d",
+    ".translation/part_088_alignment.json": "a3d4752ce24e47c3c072e7857266939c172e2d673e7aa63483f79d4ddae7b240",
+    ".translation/part_095_alignment.json": "dc5b7574ed1037d2993c1a18e6b62d826c04c88d2ff44fe2f4d89654734d9d11",
+    ".translation/part_080_alignment.json": "f44f7cbe3aea42c9b082e6fdaf6f8816329c4c23daea7ff5ceeb61bfb814d708",
+    ".translation/part_081_alignment.json": "e13e7b9cbda45b89fe2ccd6c19bbf740afacdb62a15db20290ca0f83d6a35b79",
+    ".translation/part_094_alignment.json": "2a34ef949553e1c446bbd76c7c001cdeef7039a9b8df8b23985828a7bdbaa01c",
+    ".translation/part_076_alignment.json": "b88cc3a257012a5bb4c11edf7b27dcd48c998c5b322eaa8d42b51b2eab51b805",
+    ".translation/part_063_alignment.json": "ec67509d904a1f56915c1513ea3ad05a1b00d6dac0a9a468139bbdf6d333bf43",
+    ".translation/part_089_alignment.json": "c754c8c2058c4e5c2ebce1d7e3a04a2cebf4e766137f91e85484919fe6761717",
+    ".translation/part_012_alignment.json": "58125239402bc12881de4e8f673df01bcf73d3ff1b35a3f0fdfdd0d0132b796c",
+    ".translation/part_007_alignment.json": "18395c36a1215a68397cdb78bdc388d704985d02329de860ee9efaa22a9c6d17",
+    ".translation/part_093_alignment.json": "22daf676e40834eb394dc2130d1b8e0eef4cb056f2140d9706a7841d4f52b59e",
+    ".translation/part_086_alignment.json": "78455639d709a9e18552f60c93ed3196b9efb577619978e1c6094830f70f5557",
+    ".translation/part_008_alignment.json": "c36e77e50a9d655295d3096b02665079b400e51203b4c067b7cb225e0863fe09",
+    ".translation/part_079_alignment.json": "6198d9a59d6a1dc956683951e4c8d6593d3a29be200cbd790d4e9d2c0dcbd6bb",
+    ".translation/part_064_alignment.json": "77300ad3999b9ac68b29e432873705c0f5e46bd694eb81af402960d9ecdc72ba",
+    ".translation/part_071_alignment.json": "736a04856bd6fc9214c99076b85277bd3ce72e3fb7f49ed9411a9a6026835a83",
+    ".translation/part_015_alignment.json": "75c02d81b5216c6b7b8fd5b24fea19526e6ce101dc737c598400d9e183e8d58a",
+    ".translation-supplement/part_146_alignment.json": "e0126b823cd5f661ad80d5943f9194ff7021a4d8f57bd6c960936c4c9b31ea7a",
+    ".translation-supplement/part_153_alignment.json": "87680f5d312e4daa6df3e4036570cabba23bf308ad7988da67426fa37ec79055",
+    ".translation-supplement/part_122_alignment.json": "e894d9996276effd9f0760b111aff4c80cd5865541af57a643803a7e1a01d589",
+    ".translation-supplement/part_137_alignment.json": "880f1d6c449557bbbefb1ac8e2e93da33b0e72df48fbcf49876172091960572b",
+    ".translation-supplement/part_138_alignment.json": "8c6acb7e35ec6e98191973bf63cfd34848ce665512b056537fc0f30311de4801",
+    ".translation-supplement/part_149_alignment.json": "9bc975a7dd72f4b191c1d5509a27b494ce539ffab9f8843871cb4b283167f1e4",
+    ".translation-supplement/part_154_alignment.json": "fe38075e4b6c9132117620ff537ae3e1cc70b7f867c7c0bcab48248d5f7f088c",
+    ".translation-supplement/part_141_alignment.json": "95942e751dbb7adcc41eaaa9952166144554fe25fcccc7af7722349d98811a37",
+    ".translation-supplement/part_130_alignment.json": "75f25d780a70dabfa8893df4af2730c2ac186089eb45e15c649dbebe7f37e829",
+    ".translation-supplement/part_125_alignment.json": "c1708718e71e4bffad9a20a9d49ecf17c6f5587de72a4b30568bf2af18fb5f60",
+    ".translation-supplement/part_140_alignment.json": "f3af20fd7acfe0798479104642cedc59f1515e9eac3ea0db2e213905ecf84f76",
+    ".translation-supplement/part_155_alignment.json": "e8d9ef536cfabf2bf3b56e7c7bc2dceb5e349959ea18ad0853e4b6d24e8952e0",
+    ".translation-supplement/part_124_alignment.json": "d7188f120126d29bd0def414bd5f0af5449f816f3cc7da2cd869f655a0a891ce",
+    ".translation-supplement/part_131_alignment.json": "97428927d2779ceab0b5ac03868e0fd8e31a6b6c18799d5b28ec2df8f5fd958a",
+    ".translation-supplement/part_139_alignment.json": "4bbdc3eb6fffc53a0c32f66cd5b4bf09b20bc5d009d001cba8736301178fde7c",
+    ".translation-supplement/part_148_alignment.json": "2e1352feb52d6db37549f5bd901efc1fd0876d8e4b8968eafd07efa006f855cc",
+    ".translation-supplement/part_152_alignment.json": "d1a440d33744a3df779eec90a2a9724a1bea39a08d9baa53741d6078c602a1c8",
+    ".translation-supplement/part_147_alignment.json": "5451850fc963dd36a4b116b0ee8298fe2b5f1280d7876b4c555b8da6b0860db0",
+    ".translation-supplement/part_136_alignment.json": "9386060d6b921b50907e4df2d12fe3b52a8999bcbb086a491a6d4e842d25e094",
+    ".translation-supplement/part_123_alignment.json": "ddcd2073a70260d6fbde83e4a0aab2beeacd60cd36e6525b81a607935def285b",
+    ".translation-supplement/part_134_alignment.json": "b18b89be546931291bb144eb9e701f37272095e17191fcc8e51387ec8f981828",
+    ".translation-supplement/part_121_alignment.json": "4ae77f068b3363d04e551a945e7ba7a46a131bde4127dfaccb0a7bec68464191",
+    ".translation-supplement/part_150_alignment.json": "063b2b7ab00c7a0d55aa420be73c1708c1e5e716282b9e2eb74e1d1d7c7385b2",
+    ".translation-supplement/part_145_alignment.json": "11bd799a934e68eba41497ae77159e1a86d3da348d5ccd919fb2e885fb6ff3d3",
+    ".translation-supplement/part_158_alignment.json": "4ee1768a4330b1f44a8a285af83764bea6d77c71e481696e3cc1fdb1c580034f",
+    ".translation-supplement/part_129_alignment.json": "095fdf8444c180ab851a7f4256f0f534dfd847c8cf1cf7d41610f5b605c77b87",
+    ".translation-supplement/part_126_alignment.json": "62040deaf436b14557c6b04062f4614fa2386235fdb688482c906cdcf519c854",
+    ".translation-supplement/part_133_alignment.json": "63fb48b5860cf80a8273d7cb5f2d16d238e5fd63ffcf42f5f60522e8cfe08190",
+    ".translation-supplement/part_142_alignment.json": "08eb9f0692b84a9d2cadc6bb27fd0bd3a9698da03b3d71b7b4fb9e87e6a1e8f4",
+    ".translation-supplement/part_157_alignment.json": "5f28123adc5c398ef254104784b383649bed364218247c68856cdf0f1d00ad8e",
+    ".translation-supplement/part_132_alignment.json": "bdf6d931411ac28b1c569dab1315c56a5a8c4092eedbbd7bbfbeded7e090f32f",
+    ".translation-supplement/part_127_alignment.json": "ff8a62815b26480973de4fe6a907dd7040512a04dd3528d3a30abc54dc09ba48",
+    ".translation-supplement/part_156_alignment.json": "6510d45ea1df172a20a51a26781f0be951fe1cd61dcd885ea66715df9c0abd6c",
+    ".translation-supplement/part_143_alignment.json": "fa0044287223824be6338f86967d33b3185208bb7284dc2964d819263f497884",
+    ".translation-supplement/part_159_alignment.json": "3492f6ce493f073fa4c1106d363aff0b96edda93bf92d221ce251e2abfceb8c3",
+    ".translation-supplement/part_128_alignment.json": "19aef97576dc11fda6176b7fdefafa3b17815351fff5dcc595b96fd060ac4df6",
+    ".translation-supplement/part_120_alignment.json": "ff9c1f33d2bac3efa14b9bc71d441c52855628f8dd0f57d699471d47c8e2fce5",
+    ".translation-supplement/part_135_alignment.json": "025d71bab5a11960e260db7b967dc524337aa264af881146ea94116f8655b53b",
+    ".translation-supplement/part_144_alignment.json": "ac6e6dd68e0191ff74fa8cfbce7b8ea89580e48a56eb9a27debd7f549e763bc3",
+    ".translation-supplement/part_151_alignment.json": "d108b92d1da82554715c7e6698f580a2f11ad34047e4b97de21662bb3361970c",
+    ".translation-supplement/part_178_alignment.json": "88c0877c83f3d0c2bcef8d1c929e0b2a84a366bc36a2223f5fc8c5039142d81e",
+    ".translation-supplement/part_109_alignment.json": "9b537b309241db9ee6c0460599739d84e95fcea3804dbf3943ec387b52eb10b1",
+    ".translation-supplement/part_114_alignment.json": "b9a6953d88267edea7b0146cd48ef38badcffbc4c04517aff6293bd14b6f3403",
+    ".translation-supplement/part_170_alignment.json": "fd7f5555b08fa2ed2529df92af01e3bc9184c77895d17f9dd74ab3f8d4a9b53c",
+    ".translation-supplement/part_165_alignment.json": "ad73d2735a7be66ec3646bb0b5be82ca829ff6c02f2a522471dc3147e27ce70e",
+    ".translation-supplement/part_106_alignment.json": "ad7c19e703a792cd4d3f53240e7903dd90f31ac0c2353516a12f05ebf341cb18",
+    ".translation-supplement/part_113_alignment.json": "6479ad8ee4cb5769a24be774de4ccd2aaacdc9aea29055be265e1795f8455491",
+    ".translation-supplement/part_162_alignment.json": "d317d693e0078457c302386a7fe8ef22afba38261b4eb4ae1f7ffb1a5856031a",
+    ".translation-supplement/part_177_alignment.json": "b94c097c9d3169af8c19a997e0507b9f7461a2eab53ca4f8abf0ec631dec88ca",
+    ".translation-supplement/part_112_alignment.json": "9b550549d1ddf38d5a543a3241dd93b114b03accfb94adab603a59794840f18a",
+    ".translation-supplement/part_107_alignment.json": "1845cc2c05a7766c2aa919b8f9d42b67db15ba45ed5fd129380d6629e86e6f4a",
+    ".translation-supplement/part_176_alignment.json": "f41d154a35cc07ea24741776b4849e35fb407df5dba721ab8afda0e8fbc6695b",
+    ".translation-supplement/part_163_alignment.json": "4bd44076cc28a2cd5d6a677d6827952c9c1b2432591a069b0d7a06c578ab7777",
+    ".translation-supplement/part_115_alignment.json": "6622b1e869f060927f455378cef3ac6b5fc2388c36b56189120e3857217c4b21",
+    ".translation-supplement/part_164_alignment.json": "78dd3a529b17c5d31bcedbc9b369217d8ef161bfd9c820f6a49c3af802a18bfb",
+    ".translation-supplement/part_171_alignment.json": "d86ab3c4804173c5c429ad187f020c081089155bc5deba3af9927d09fe897963",
+    ".translation-supplement/part_108_alignment.json": "d9ec4fc4750ed11dc22e4fa9933e92f5940657786f1f9b2faa34e569fa7df754",
+    ".translation-supplement/part_166_alignment.json": "ba6c90fea01283eaffec6751d2a80a4e6f446be660fe5a37e02e87252384367f",
+    ".translation-supplement/part_173_alignment.json": "c4703bf90c6ba20d633ee4e205c19677689b4873d348063c5e34380a95bf308d",
+    ".translation-supplement/part_117_alignment.json": "e7ceb411a99c23235cf2d5eb0431493adfe18bf858624ab901d7b0c4388ebfd9",
+    ".translation-supplement/part_174_alignment.json": "5091b87419facc9f60d22af54a99270de2b4293bc21108aaef54a5e800c246a2",
+    ".translation-supplement/part_161_alignment.json": "86c729fec045a464559bca9dceb2ccb32dc134750131683c6070847966b4d926",
+    ".translation-supplement/part_110_alignment.json": "25ee78db88c43c13afc98a3bc97bc68ddf95aba598d19489dcd6716062ac4f76",
+    ".translation-supplement/part_105_alignment.json": "534135daaba3bcfac91c5a3d8dbd768e7a27eb2d8d0d9c73fe2ffdc337f064c5",
+    ".translation-supplement/part_118_alignment.json": "fca181025fa0e131fd8e9205a88651a8aacbceb599a3548fbd465654dd649183",
+    ".translation-supplement/part_169_alignment.json": "38c51bcc866101fa9115c58beddd82889753ddf888702eec3d272d2907b837fa",
+    ".translation-supplement/part_119_alignment.json": "572f7f5cb7b1ec7587d805c0a4b3bc6ce5f55739b3620992a73fdb66fb5939b4",
+    ".translation-supplement/part_168_alignment.json": "1e9ec5e8a6a4a07950055c3fd26b29d0b46a6ce243062c635b8820ebcc21855b",
+    ".translation-supplement/part_160_alignment.json": "924f912d70447e22ab9c890732e69da692b99e0059fe746b42854d7b835bb5f0",
+    ".translation-supplement/part_175_alignment.json": "a99be42ce26fafabe9c4506455bd9e63d95924f6219bf9af0fd95dd473e50526",
+    ".translation-supplement/part_104_alignment.json": "7be43b840ea0efdc7e8f6b555078b38dc4d33787f283dc7045d2245fadfbffd1",
+    ".translation-supplement/part_111_alignment.json": "e41073b3055ecfefd3a684bb092959301a492a974e75e41de3daaf71a471bf00",
+    ".translation-supplement/part_172_alignment.json": "79539f2aa58a62242894e45b12ce11113cfc3b2c8340b55b9a3363a501a74e5a",
+    ".translation-supplement/part_167_alignment.json": "06bcc96e39530e3445515a44178fcfd572a9761da04f5dee07679e725ad82d03",
+    ".translation-supplement/part_116_alignment.json": "e2959d45fbccb6f962e1a7273d305e95acd107ac614fa701b86b6b4a6551c485",
+    ".translation-supplement/part_103_alignment.json": "9f39bde1567ca10e7384537a20480e8045994fe33ed856199bef62339d12ef79"
+  },
+  "ranges": {
+    "平步青云（上）": [
+      1,
+      17
+    ],
+    "平步青云（中）": [
+      18,
+      38
+    ],
+    "平步青云（下）": [
+      39,
+      63
+    ],
+    "红顶商人": [
+      64,
+      112
+    ],
+    "灯火楼台": [
+      113,
+      129
+    ],
+    "萧瑟洋场": [
+      130,
+      156
+    ],
+    "烟消云散及后记": [
+      157,
+      178
+    ]
+  },
+  "verified_after_rebuild": true,
+  "combined_outputs": [
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/064_红顶商人_完整本_纯英文.txt",
+      "sha256": "dd1a1adb2d638bada079d9384d3ec3b1a84a71bdbf100bd9fc07ae34ca28e008"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/064_红顶商人_完整本_中英对照.txt",
+      "sha256": "c6fde3b96bc92db9a4ff6981ce6f3f392c9956f50442ae565039e4176382c124"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/130_萧瑟洋场_完整本_纯英文.txt",
+      "sha256": "bd1fa8be49d31c67219ce390c6aa8f64b66f2c8a62448e684c93ca87458a59ee"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/130_萧瑟洋场_完整本_中英对照.txt",
+      "sha256": "2615b1426396c905347fd28c0ad21cbde22115e88a7274f4be219df05ccf54f2"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/胡雪岩_纯英文.txt",
+      "sha256": "69a85b608bcd08151b6c43e49364b116aafdb88580b5ac66d7715966a1ac6967"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/胡雪岩_中英对照.txt",
+      "sha256": "a762548ec9bc31a45ebdaa2f0f49be8e790a5b9a2b4c9e82947f966becd58e01"
+    }
+  ],
+  "notes_references_synchronized": true
+}

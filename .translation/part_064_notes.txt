@@ -1,0 +1,21 @@
+本批为输入文本下一部《灯火楼台》的内容简介与前记，范围26916—26942，末非空行26941；9个语义段、14个非空源行。26916独立“内容简介”、26927行首“前记”交由排版处理，不混入英文正文。此处所译均为提供的简介／作者前记，第一人称“my novels”属于高阳，不是译者。26943书名与26945第一章正文留下一批。
+
+专名与处理
+书名沿第001批The Red-Topped Merchant、Towers of Light；新增《萧瑟洋场》暂译The Desolate Foreign Settlement，只是本译稿书名，不声称为其他已出版英译本的正式名称。Hu Guangyong字Xueyan沿既有。Zuo Zongtang左宗棠、Tan Zhonglin谭钟麟、Liu Jintang刘锦棠、Yang Changjun杨昌浚；Jixi绩溪、Yuanbao Street元宝街、Shaanxi陕西与Gansu甘肃。Grand Council军机处、Zongli Yamen总理各国事务衙门、Grand Secretary of the Eastern Pavilion东阁大学士、Ministry of War兵部。
+正一品为senior first rank，正二品为senior second rank，从二品为junior second rank；封典与加衔均说明为荣誉称号，不把胡写成实际任布政使。二等侯译marquisate of the second class。捐班说明contribution system，不简单写成科举进身。湘军Hunan Army，淮军Anhui Army。
+胡庆余堂沿Hu Qingyu Hall；同仁堂Tongren Hall。药名用Zhuge Marching Powder、Biwen Pills、Shenqu、Liushen Pills，保留药名指称，不新增药效、配方或使用建议。原文药品捐运、奖叙及战争评价都是前记内容，忠实保留其归属和叙述力度。
+原文26927“题材小”、26929及26939“左宗囊”、26929“候”、26933“六神九”、26935“赚买”“虽已”、26937“协商／协响／索响／闹响”、26939“请子／年问”、26941“仗差”等按明确上下文分别释为题材句末、左宗棠、侯、六神丸、购买／虽以、协饷／饷、请求／年间、钦差。26935“转运输将”按转运输送物资的语境译forwarding supplies，未重写中文原文。
+
+数字、时间与叙述层次
+1823—1885为源文生卒年份；一次借数百万与累计借款超过一千六百万是两个层次。九款功绩分前五后四，后四又分药、运、枪、饷，保持列举关系。光绪年号日期保留，月日标明传统阴历，不未经核实替换公历；各任命的前后顺序照前记，并未把后面尚未发生的会面写成已会见。
+简介对奢侈生活、商政关系的批评与前记对军功贡献的褒扬均属提供文本，不在翻译中统一立场或补充外部史论。前一篇编后小语与本篇简介／前记分开呈现，输入中的篇终不等于整份文件译完。
+
+综合精读提示
+阅读：辨认简介、出版介绍、作者前记三种声音；比较背景介绍、评价及引用奏折说法的区别。
+完形：关注besides、accordingly、respectively、not only...but also...的增加、结果、对应和并列关系。
+段落排序：人物与书系介绍→成功和危机→续作说明；前记从生涯高点转入九项功劳，再由奖叙转向赴京会面，末尾But为下一章留悬念。
+翻译：练习长定语、被动任命与同位语，核对官职和加衔、累计金额和单次金额；引文的主语与发话者不可混淆。
+写作：学习先概述再按类别举证的段落组织，以及提出评价后用具体事例支持的方法；历史人物的评价用作分析材料，避免未经辨析直接套用。
+
+独立逐段复核
+已将26916—26942全范围14条非空源行与9个英文语义段逐段比对，含简介、出版续作说明及作者前记，无遗漏或错位。实改26923“一次借银数百万”为in a single transaction，避免at a time暗示每次／反复借同额；“互相倾轧、利用”保留rivalries and mutual manipulation，不误作相互依赖。药名按015与032统一Zhuge Marching Powder、Biwen Pills。核对九款／前五后四、累计借款逾一千六百万、正从品秩、捐班与加衔、邀请会面未实行，均与源文一致；未外查改史，未新增安全删改。

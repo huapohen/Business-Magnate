@@ -1,0 +1,103 @@
+{
+  "status": "complete",
+  "supplement_parts": 76,
+  "numbered_translation_files": 356,
+  "standalone_and_whole_book_files": 6,
+  "all_translation_files": 362,
+  "source_character_coverage_percent": 100.0,
+  "new_books": {
+    "red": {
+      "source_nonempty_lines": 2396,
+      "chapter_headings": 11,
+      "english_words_approx": 152815,
+      "reading_paragraphs": 713
+    },
+    "desolate": {
+      "source_nonempty_lines": 1439,
+      "chapter_headings": 7,
+      "english_words_approx": 78507,
+      "reading_paragraphs": 404
+    }
+  },
+  "pingbu_filename_counts": {
+    "上": 34,
+    "中": 42,
+    "下": 50
+  },
+  "combined_english_words_approx": 884613,
+  "checks": [
+    "Original input SHA-256 unchanged",
+    "New source partitions contiguous and exhaustive",
+    "Every nonempty new source line covered exactly once",
+    "All 18 new chapter headings present in order",
+    "178 installments in both editions with expected filenames only",
+    "English-only outputs contain no CJK, private-use glyphs or replacement characters",
+    "No visible paragraph IDs or Chinese/English language labels",
+    "Combined narrative order verified",
+    "English identity in paired editions verified by both renderers",
+    "Rebuilding old source preserves all five parts",
+    "Display numbering001–178 follows book order; old filenames removed; all178 aligned story bodies unchanged"
+  ],
+  "combined_outputs": [
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/064_红顶商人_完整本_纯英文.txt",
+      "sha256": "dd1a1adb2d638bada079d9384d3ec3b1a84a71bdbf100bd9fc07ae34ca28e008"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/064_红顶商人_完整本_中英对照.txt",
+      "sha256": "c6fde3b96bc92db9a4ff6981ce6f3f392c9956f50442ae565039e4176382c124"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/130_萧瑟洋场_完整本_纯英文.txt",
+      "sha256": "bd1fa8be49d31c67219ce390c6aa8f64b66f2c8a62448e684c93ca87458a59ee"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/130_萧瑟洋场_完整本_中英对照.txt",
+      "sha256": "2615b1426396c905347fd28c0ad21cbde22115e88a7274f4be219df05ccf54f2"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/胡雪岩_纯英文.txt",
+      "sha256": "69a85b608bcd08151b6c43e49364b116aafdb88580b5ac66d7715966a1ac6967"
+    },
+    {
+      "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/胡雪岩_中英对照.txt",
+      "sha256": "a762548ec9bc31a45ebdaa2f0f49be8e790a5b9a2b4c9e82947f966becd58e01"
+    }
+  ],
+  "remote_updated": true,
+  "filename_reading_order": {
+    "平步青云（上）": [
+      1,
+      17
+    ],
+    "平步青云（中）": [
+      18,
+      38
+    ],
+    "平步青云（下）": [
+      39,
+      63
+    ],
+    "红顶商人": [
+      64,
+      112
+    ],
+    "灯火楼台": [
+      113,
+      129
+    ],
+    "萧瑟洋场": [
+      130,
+      156
+    ],
+    "烟消云散及后记": [
+      157,
+      178
+    ]
+  },
+  "renumbering_body_unchanged_verified": true,
+  "notes_references_synchronized": true,
+  "remote_commit": "b073b5f6b7966b85b96f80b451aadd0b1092168c",
+  "remote_verified": true,
+  "remote_verified_at": "2026-10-17T10:18:45.477106+00:00"
+}

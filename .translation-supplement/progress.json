@@ -1,0 +1,1161 @@
+{
+  "status": "complete",
+  "completed_parts": [
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178
+  ],
+  "remaining_parts": [],
+  "total_parts": 76,
+  "parts": [
+    {
+      "number": 103,
+      "book": "red",
+      "chapter": 1,
+      "source_lines": [
+        1,
+        110
+      ],
+      "source_characters": 4859,
+      "reading_paragraphs": 19,
+      "english_words": 3323
+    },
+    {
+      "number": 104,
+      "book": "red",
+      "chapter": 1,
+      "source_lines": [
+        111,
+        220
+      ],
+      "source_characters": 4855,
+      "reading_paragraphs": 18,
+      "english_words": 3575
+    },
+    {
+      "number": 105,
+      "book": "red",
+      "chapter": 1,
+      "source_lines": [
+        221,
+        312
+      ],
+      "source_characters": 4877,
+      "reading_paragraphs": 23,
+      "english_words": 3523
+    },
+    {
+      "number": 106,
+      "book": "red",
+      "chapter": 1,
+      "source_lines": [
+        313,
+        418
+      ],
+      "source_characters": 4883,
+      "reading_paragraphs": 20,
+      "english_words": 3397
+    },
+    {
+      "number": 107,
+      "book": "red",
+      "chapter": 1,
+      "source_lines": [
+        419,
+        526
+      ],
+      "source_characters": 4810,
+      "reading_paragraphs": 16,
+      "english_words": 3074
+    },
+    {
+      "number": 108,
+      "book": "red",
+      "chapter": 1,
+      "source_lines": [
+        527,
+        660
+      ],
+      "source_characters": 6483,
+      "reading_paragraphs": 20,
+      "english_words": 4144
+    },
+    {
+      "number": 109,
+      "book": "red",
+      "chapter": 2,
+      "source_lines": [
+        661,
+        752
+      ],
+      "source_characters": 4821,
+      "reading_paragraphs": 12,
+      "english_words": 3304
+    },
+    {
+      "number": 110,
+      "book": "red",
+      "chapter": 2,
+      "source_lines": [
+        753,
+        848
+      ],
+      "source_characters": 4830,
+      "reading_paragraphs": 14,
+      "english_words": 3219
+    },
+    {
+      "number": 111,
+      "book": "red",
+      "chapter": 2,
+      "source_lines": [
+        849,
+        968
+      ],
+      "source_characters": 4859,
+      "reading_paragraphs": 22,
+      "english_words": 3594
+    },
+    {
+      "number": 112,
+      "book": "red",
+      "chapter": 2,
+      "source_lines": [
+        969,
+        1018
+      ],
+      "source_characters": 3205,
+      "reading_paragraphs": 11,
+      "english_words": 2258
+    },
+    {
+      "number": 113,
+      "book": "red",
+      "chapter": 3,
+      "source_lines": [
+        1019,
+        1156
+      ],
+      "source_characters": 4882,
+      "reading_paragraphs": 15,
+      "english_words": 3171
+    },
+    {
+      "number": 114,
+      "book": "red",
+      "chapter": 3,
+      "source_lines": [
+        1157,
+        1258
+      ],
+      "source_characters": 5061,
+      "reading_paragraphs": 13,
+      "english_words": 3406
+    },
+    {
+      "number": 115,
+      "book": "red",
+      "chapter": 3,
+      "source_lines": [
+        1259,
+        1360
+      ],
+      "source_characters": 4838,
+      "reading_paragraphs": 15,
+      "english_words": 3142
+    },
+    {
+      "number": 116,
+      "book": "red",
+      "chapter": 3,
+      "source_lines": [
+        1361,
+        1424
+      ],
+      "source_characters": 2044,
+      "reading_paragraphs": 7,
+      "english_words": 1328
+    },
+    {
+      "number": 117,
+      "book": "red",
+      "chapter": 4,
+      "source_lines": [
+        1425,
+        1548
+      ],
+      "source_characters": 4957,
+      "reading_paragraphs": 18,
+      "english_words": 3402
+    },
+    {
+      "number": 118,
+      "book": "red",
+      "chapter": 4,
+      "source_lines": [
+        1549,
+        1634
+      ],
+      "source_characters": 4733,
+      "reading_paragraphs": 16,
+      "english_words": 3233
+    },
+    {
+      "number": 119,
+      "book": "red",
+      "chapter": 5,
+      "source_lines": [
+        1635,
+        1726
+      ],
+      "source_characters": 4838,
+      "reading_paragraphs": 12,
+      "english_words": 3275
+    },
+    {
+      "number": 120,
+      "book": "red",
+      "chapter": 5,
+      "source_lines": [
+        1727,
+        1804
+      ],
+      "source_characters": 4818,
+      "reading_paragraphs": 11,
+      "english_words": 2999
+    },
+    {
+      "number": 121,
+      "book": "red",
+      "chapter": 5,
+      "source_lines": [
+        1805,
+        1896
+      ],
+      "source_characters": 6256,
+      "reading_paragraphs": 20,
+      "english_words": 4088
+    },
+    {
+      "number": 122,
+      "book": "red",
+      "chapter": 6,
+      "source_lines": [
+        1897,
+        2016
+      ],
+      "source_characters": 4877,
+      "reading_paragraphs": 12,
+      "english_words": 3072
+    },
+    {
+      "number": 123,
+      "book": "red",
+      "chapter": 6,
+      "source_lines": [
+        2017,
+        2150
+      ],
+      "source_characters": 4868,
+      "reading_paragraphs": 13,
+      "english_words": 2889
+    },
+    {
+      "number": 124,
+      "book": "red",
+      "chapter": 6,
+      "source_lines": [
+        2151,
+        2240
+      ],
+      "source_characters": 4810,
+      "reading_paragraphs": 11,
+      "english_words": 2855
+    },
+    {
+      "number": 125,
+      "book": "red",
+      "chapter": 6,
+      "source_lines": [
+        2241,
+        2368
+      ],
+      "source_characters": 4833,
+      "reading_paragraphs": 12,
+      "english_words": 2828
+    },
+    {
+      "number": 126,
+      "book": "red",
+      "chapter": 6,
+      "source_lines": [
+        2369,
+        2470
+      ],
+      "source_characters": 6531,
+      "reading_paragraphs": 14,
+      "english_words": 4360
+    },
+    {
+      "number": 127,
+      "book": "red",
+      "chapter": 7,
+      "source_lines": [
+        2471,
+        2586
+      ],
+      "source_characters": 4950,
+      "reading_paragraphs": 18,
+      "english_words": 3202
+    },
+    {
+      "number": 128,
+      "book": "red",
+      "chapter": 7,
+      "source_lines": [
+        2587,
+        2672
+      ],
+      "source_characters": 4801,
+      "reading_paragraphs": 14,
+      "english_words": 2914
+    },
+    {
+      "number": 129,
+      "book": "red",
+      "chapter": 7,
+      "source_lines": [
+        2673,
+        2806
+      ],
+      "source_characters": 4854,
+      "reading_paragraphs": 18,
+      "english_words": 3201
+    },
+    {
+      "number": 130,
+      "book": "red",
+      "chapter": 7,
+      "source_lines": [
+        2807,
+        2950
+      ],
+      "source_characters": 5793,
+      "reading_paragraphs": 20,
+      "english_words": 3794
+    },
+    {
+      "number": 131,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        2951,
+        3080
+      ],
+      "source_characters": 4814,
+      "reading_paragraphs": 16,
+      "english_words": 3279
+    },
+    {
+      "number": 132,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3081,
+        3206
+      ],
+      "source_characters": 5039,
+      "reading_paragraphs": 17,
+      "english_words": 3051
+    },
+    {
+      "number": 133,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3207,
+        3308
+      ],
+      "source_characters": 4934,
+      "reading_paragraphs": 16,
+      "english_words": 3181
+    },
+    {
+      "number": 134,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3309,
+        3382
+      ],
+      "source_characters": 4906,
+      "reading_paragraphs": 13,
+      "english_words": 3091
+    },
+    {
+      "number": 135,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3383,
+        3502
+      ],
+      "source_characters": 4886,
+      "reading_paragraphs": 11,
+      "english_words": 3226
+    },
+    {
+      "number": 136,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3503,
+        3624
+      ],
+      "source_characters": 4858,
+      "reading_paragraphs": 11,
+      "english_words": 2968
+    },
+    {
+      "number": 137,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3625,
+        3714
+      ],
+      "source_characters": 4804,
+      "reading_paragraphs": 13,
+      "english_words": 2990
+    },
+    {
+      "number": 138,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3715,
+        3788
+      ],
+      "source_characters": 4829,
+      "reading_paragraphs": 10,
+      "english_words": 2936
+    },
+    {
+      "number": 139,
+      "book": "red",
+      "chapter": 8,
+      "source_lines": [
+        3789,
+        3856
+      ],
+      "source_characters": 3471,
+      "reading_paragraphs": 9,
+      "english_words": 2116
+    },
+    {
+      "number": 140,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        3857,
+        3930
+      ],
+      "source_characters": 4838,
+      "reading_paragraphs": 16,
+      "english_words": 3482
+    },
+    {
+      "number": 141,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        3931,
+        4012
+      ],
+      "source_characters": 4892,
+      "reading_paragraphs": 15,
+      "english_words": 3218
+    },
+    {
+      "number": 142,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        4013,
+        4078
+      ],
+      "source_characters": 4835,
+      "reading_paragraphs": 14,
+      "english_words": 3133
+    },
+    {
+      "number": 143,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        4079,
+        4156
+      ],
+      "source_characters": 4870,
+      "reading_paragraphs": 15,
+      "english_words": 2942
+    },
+    {
+      "number": 144,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        4157,
+        4238
+      ],
+      "source_characters": 4803,
+      "reading_paragraphs": 13,
+      "english_words": 2774
+    },
+    {
+      "number": 145,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        4239,
+        4316
+      ],
+      "source_characters": 4812,
+      "reading_paragraphs": 11,
+      "english_words": 2848
+    },
+    {
+      "number": 146,
+      "book": "red",
+      "chapter": 9,
+      "source_lines": [
+        4317,
+        4364
+      ],
+      "source_characters": 2460,
+      "reading_paragraphs": 7,
+      "english_words": 1377
+    },
+    {
+      "number": 147,
+      "book": "red",
+      "chapter": 10,
+      "source_lines": [
+        4365,
+        4432
+      ],
+      "source_characters": 4825,
+      "reading_paragraphs": 12,
+      "english_words": 3295
+    },
+    {
+      "number": 148,
+      "book": "red",
+      "chapter": 10,
+      "source_lines": [
+        4433,
+        4490
+      ],
+      "source_characters": 4982,
+      "reading_paragraphs": 12,
+      "english_words": 3090
+    },
+    {
+      "number": 149,
+      "book": "red",
+      "chapter": 10,
+      "source_lines": [
+        4491,
+        4550
+      ],
+      "source_characters": 3795,
+      "reading_paragraphs": 10,
+      "english_words": 2422
+    },
+    {
+      "number": 150,
+      "book": "red",
+      "chapter": 11,
+      "source_lines": [
+        4551,
+        4658
+      ],
+      "source_characters": 4808,
+      "reading_paragraphs": 12,
+      "english_words": 2850
+    },
+    {
+      "number": 151,
+      "book": "red",
+      "chapter": 11,
+      "source_lines": [
+        4659,
+        4791
+      ],
+      "source_characters": 6392,
+      "reading_paragraphs": 26,
+      "english_words": 3976
+    },
+    {
+      "number": 152,
+      "book": "desolate",
+      "chapter": 1,
+      "source_lines": [
+        1,
+        90
+      ],
+      "source_characters": 4880,
+      "reading_paragraphs": 21,
+      "english_words": 3779
+    },
+    {
+      "number": 153,
+      "book": "desolate",
+      "chapter": 1,
+      "source_lines": [
+        91,
+        196
+      ],
+      "source_characters": 4847,
+      "reading_paragraphs": 21,
+      "english_words": 3421
+    },
+    {
+      "number": 154,
+      "book": "desolate",
+      "chapter": 1,
+      "source_lines": [
+        197,
+        308
+      ],
+      "source_characters": 4864,
+      "reading_paragraphs": 19,
+      "english_words": 3259
+    },
+    {
+      "number": 155,
+      "book": "desolate",
+      "chapter": 1,
+      "source_lines": [
+        309,
+        374
+      ],
+      "source_characters": 2612,
+      "reading_paragraphs": 12,
+      "english_words": 1838
+    },
+    {
+      "number": 156,
+      "book": "desolate",
+      "chapter": 2,
+      "source_lines": [
+        375,
+        462
+      ],
+      "source_characters": 4823,
+      "reading_paragraphs": 16,
+      "english_words": 3169
+    },
+    {
+      "number": 157,
+      "book": "desolate",
+      "chapter": 2,
+      "source_lines": [
+        463,
+        572
+      ],
+      "source_characters": 4811,
+      "reading_paragraphs": 15,
+      "english_words": 3168
+    },
+    {
+      "number": 158,
+      "book": "desolate",
+      "chapter": 2,
+      "source_lines": [
+        573,
+        730
+      ],
+      "source_characters": 5145,
+      "reading_paragraphs": 18,
+      "english_words": 3200
+    },
+    {
+      "number": 159,
+      "book": "desolate",
+      "chapter": 2,
+      "source_lines": [
+        731,
+        854
+      ],
+      "source_characters": 4957,
+      "reading_paragraphs": 16,
+      "english_words": 2874
+    },
+    {
+      "number": 160,
+      "book": "desolate",
+      "chapter": 2,
+      "source_lines": [
+        855,
+        1002
+      ],
+      "source_characters": 4814,
+      "reading_paragraphs": 19,
+      "english_words": 2977
+    },
+    {
+      "number": 161,
+      "book": "desolate",
+      "chapter": 2,
+      "source_lines": [
+        1003,
+        1078
+      ],
+      "source_characters": 4063,
+      "reading_paragraphs": 12,
+      "english_words": 2491
+    },
+    {
+      "number": 162,
+      "book": "desolate",
+      "chapter": 3,
+      "source_lines": [
+        1079,
+        1174
+      ],
+      "source_characters": 4814,
+      "reading_paragraphs": 16,
+      "english_words": 3162
+    },
+    {
+      "number": 163,
+      "book": "desolate",
+      "chapter": 3,
+      "source_lines": [
+        1175,
+        1292
+      ],
+      "source_characters": 4804,
+      "reading_paragraphs": 16,
+      "english_words": 2947
+    },
+    {
+      "number": 164,
+      "book": "desolate",
+      "chapter": 3,
+      "source_lines": [
+        1293,
+        1388
+      ],
+      "source_characters": 4844,
+      "reading_paragraphs": 15,
+      "english_words": 2978
+    },
+    {
+      "number": 165,
+      "book": "desolate",
+      "chapter": 3,
+      "source_lines": [
+        1389,
+        1454
+      ],
+      "source_characters": 2911,
+      "reading_paragraphs": 11,
+      "english_words": 1855
+    },
+    {
+      "number": 166,
+      "book": "desolate",
+      "chapter": 4,
+      "source_lines": [
+        1455,
+        1586
+      ],
+      "source_characters": 4815,
+      "reading_paragraphs": 10,
+      "english_words": 2954
+    },
+    {
+      "number": 167,
+      "book": "desolate",
+      "chapter": 4,
+      "source_lines": [
+        1587,
+        1698
+      ],
+      "source_characters": 6518,
+      "reading_paragraphs": 13,
+      "english_words": 4109
+    },
+    {
+      "number": 168,
+      "book": "desolate",
+      "chapter": 5,
+      "source_lines": [
+        1699,
+        1810
+      ],
+      "source_characters": 4894,
+      "reading_paragraphs": 10,
+      "english_words": 2685
+    },
+    {
+      "number": 169,
+      "book": "desolate",
+      "chapter": 5,
+      "source_lines": [
+        1811,
+        1938
+      ],
+      "source_characters": 4893,
+      "reading_paragraphs": 11,
+      "english_words": 2682
+    },
+    {
+      "number": 170,
+      "book": "desolate",
+      "chapter": 5,
+      "source_lines": [
+        1939,
+        2054
+      ],
+      "source_characters": 5482,
+      "reading_paragraphs": 18,
+      "english_words": 3171
+    },
+    {
+      "number": 171,
+      "book": "desolate",
+      "chapter": 6,
+      "source_lines": [
+        2055,
+        2144
+      ],
+      "source_characters": 4835,
+      "reading_paragraphs": 13,
+      "english_words": 2624
+    },
+    {
+      "number": 172,
+      "book": "desolate",
+      "chapter": 6,
+      "source_lines": [
+        2145,
+        2274
+      ],
+      "source_characters": 5750,
+      "reading_paragraphs": 14,
+      "english_words": 2951
+    },
+    {
+      "number": 173,
+      "book": "desolate",
+      "chapter": 7,
+      "source_lines": [
+        2275,
+        2390
+      ],
+      "source_characters": 4851,
+      "reading_paragraphs": 13,
+      "english_words": 2575
+    },
+    {
+      "number": 174,
+      "book": "desolate",
+      "chapter": 7,
+      "source_lines": [
+        2391,
+        2502
+      ],
+      "source_characters": 4877,
+      "reading_paragraphs": 13,
+      "english_words": 2623
+    },
+    {
+      "number": 175,
+      "book": "desolate",
+      "chapter": 7,
+      "source_lines": [
+        2503,
+        2610
+      ],
+      "source_characters": 4891,
+      "reading_paragraphs": 14,
+      "english_words": 3053
+    },
+    {
+      "number": 176,
+      "book": "desolate",
+      "chapter": 7,
+      "source_lines": [
+        2611,
+        2724
+      ],
+      "source_characters": 4916,
+      "reading_paragraphs": 23,
+      "english_words": 3215
+    },
+    {
+      "number": 177,
+      "book": "desolate",
+      "chapter": 7,
+      "source_lines": [
+        2725,
+        2798
+      ],
+      "source_characters": 4809,
+      "reading_paragraphs": 13,
+      "english_words": 2641
+    },
+    {
+      "number": 178,
+      "book": "desolate",
+      "chapter": 7,
+      "source_lines": [
+        2799,
+        2877
+      ],
+      "source_characters": 3535,
+      "reading_paragraphs": 12,
+      "english_words": 2106
+    }
+  ],
+  "outputs": [
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/064_红顶商人_第一章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/064_红顶商人_第一章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/065_红顶商人_第一章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/065_红顶商人_第一章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/066_红顶商人_第一章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/066_红顶商人_第一章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/067_红顶商人_第一章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/067_红顶商人_第一章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/068_红顶商人_第一章_五_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/068_红顶商人_第一章_五_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/069_红顶商人_第一章_六_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/069_红顶商人_第一章_六_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/070_红顶商人_第二章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/070_红顶商人_第二章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/071_红顶商人_第二章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/071_红顶商人_第二章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/072_红顶商人_第二章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/072_红顶商人_第二章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/073_红顶商人_第二章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/073_红顶商人_第二章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/074_红顶商人_第三章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/074_红顶商人_第三章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/075_红顶商人_第三章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/075_红顶商人_第三章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/076_红顶商人_第三章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/076_红顶商人_第三章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/077_红顶商人_第三章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/077_红顶商人_第三章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/078_红顶商人_第四章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/078_红顶商人_第四章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/079_红顶商人_第四章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/079_红顶商人_第四章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/080_红顶商人_第五章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/080_红顶商人_第五章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/081_红顶商人_第五章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/081_红顶商人_第五章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/082_红顶商人_第五章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/082_红顶商人_第五章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/083_红顶商人_第六章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/083_红顶商人_第六章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/084_红顶商人_第六章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/084_红顶商人_第六章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/085_红顶商人_第六章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/085_红顶商人_第六章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/086_红顶商人_第六章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/086_红顶商人_第六章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/087_红顶商人_第六章_五_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/087_红顶商人_第六章_五_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/088_红顶商人_第七章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/088_红顶商人_第七章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/089_红顶商人_第七章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/089_红顶商人_第七章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/090_红顶商人_第七章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/090_红顶商人_第七章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/091_红顶商人_第七章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/091_红顶商人_第七章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/092_红顶商人_第八章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/092_红顶商人_第八章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/093_红顶商人_第八章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/093_红顶商人_第八章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/094_红顶商人_第八章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/094_红顶商人_第八章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/095_红顶商人_第八章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/095_红顶商人_第八章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/096_红顶商人_第八章_五_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/096_红顶商人_第八章_五_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/097_红顶商人_第八章_六_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/097_红顶商人_第八章_六_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/098_红顶商人_第八章_七_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/098_红顶商人_第八章_七_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/099_红顶商人_第八章_八_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/099_红顶商人_第八章_八_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/100_红顶商人_第八章_九_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/100_红顶商人_第八章_九_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/101_红顶商人_第九章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/101_红顶商人_第九章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/102_红顶商人_第九章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/102_红顶商人_第九章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/103_红顶商人_第九章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/103_红顶商人_第九章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/104_红顶商人_第九章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/104_红顶商人_第九章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/105_红顶商人_第九章_五_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/105_红顶商人_第九章_五_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/106_红顶商人_第九章_六_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/106_红顶商人_第九章_六_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/107_红顶商人_第九章_七_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/107_红顶商人_第九章_七_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/108_红顶商人_第十章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/108_红顶商人_第十章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/109_红顶商人_第十章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/109_红顶商人_第十章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/110_红顶商人_第十章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/110_红顶商人_第十章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/111_红顶商人_第十一章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/111_红顶商人_第十一章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/112_红顶商人_第十一章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/112_红顶商人_第十一章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/130_萧瑟洋场_第一章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/130_萧瑟洋场_第一章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/131_萧瑟洋场_第一章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/131_萧瑟洋场_第一章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/132_萧瑟洋场_第一章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/132_萧瑟洋场_第一章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/133_萧瑟洋场_第一章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/133_萧瑟洋场_第一章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/134_萧瑟洋场_第二章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/134_萧瑟洋场_第二章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/135_萧瑟洋场_第二章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/135_萧瑟洋场_第二章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/136_萧瑟洋场_第二章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/136_萧瑟洋场_第二章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/137_萧瑟洋场_第二章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/137_萧瑟洋场_第二章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/138_萧瑟洋场_第二章_五_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/138_萧瑟洋场_第二章_五_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/139_萧瑟洋场_第二章_六_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/139_萧瑟洋场_第二章_六_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/140_萧瑟洋场_第三章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/140_萧瑟洋场_第三章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/141_萧瑟洋场_第三章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/141_萧瑟洋场_第三章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/142_萧瑟洋场_第三章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/142_萧瑟洋场_第三章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/143_萧瑟洋场_第三章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/143_萧瑟洋场_第三章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/144_萧瑟洋场_第四章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/144_萧瑟洋场_第四章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/145_萧瑟洋场_第四章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/145_萧瑟洋场_第四章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/146_萧瑟洋场_第五章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/146_萧瑟洋场_第五章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/147_萧瑟洋场_第五章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/147_萧瑟洋场_第五章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/148_萧瑟洋场_第五章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/148_萧瑟洋场_第五章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/149_萧瑟洋场_第六章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/149_萧瑟洋场_第六章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/150_萧瑟洋场_第六章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/150_萧瑟洋场_第六章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/151_萧瑟洋场_第七章_一_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/151_萧瑟洋场_第七章_一_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/152_萧瑟洋场_第七章_二_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/152_萧瑟洋场_第七章_二_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/153_萧瑟洋场_第七章_三_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/153_萧瑟洋场_第七章_三_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/154_萧瑟洋场_第七章_四_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/154_萧瑟洋场_第七章_四_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/155_萧瑟洋场_第七章_五_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/155_萧瑟洋场_第七章_五_中英对照.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/156_萧瑟洋场_第七章_六_纯英文.txt",
+    "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/156_萧瑟洋场_第七章_六_中英对照.txt"
+  ],
+  "source_character_coverage_percent": 100.0,
+  "non_graphic_adaptations": [],
+  "checks_passed": [
+    "Source hashes unchanged",
+    "Every nonempty line covered exactly once within each completed part",
+    "English text identical in both editions",
+    "No visible paragraph IDs or language labels",
+    "English-only outputs contain no CJK",
+    "Source text preserved apart from documented watermark cleanup and safety adaptations"
+  ]
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "P001",
+    "global_id": "B086-P001",
+    "part": 86,
+    "source_start_line": 34039,
+    "source_end_line": 34043,
+    "source_heading_prefix": "三仗义执言",
+    "zh": "杭州府知府吴云，一名吴世荣，到任才一个多月，对于杭州的情形还不十分熟悉。德馨邀他一起去为阜康纾困，觉得有几句话，必须先要交代。“世荣兄，”他说：“杭州人名为‘杭铁头’，吃软不吃硬，硬碰的话，会搞得下不了台，以前巡抚、学政常有在杭州吃了亏的事，你总听说过？”“听说过‘万马无声听号令，一牛独坐看文章’。”吴世荣是听说有一个浙江学政，赋性刻薄，戏侮士子，孝试时怕彼此交头接耳，通同作弊，下令每人额上贴一张长纸条，一端黏在桌上，出了个试帖诗题是：“万马无声听号令，得瘏字。”这明明是骂人，哪知正当他高坐堂室，顾盼自喜时，有人突然拍案说道：“ ‘万马无声听号令’是上联，下联叫做‘一牛独坐看文章’。”顿时哄堂大笑，纸条当然都裂断。那学政才知道自取其辱，只好隐忍不言。",
+    "en": "Wu Yun, also known as Wu Shirong, had been Prefect of Hangzhou for little more than a month and was not yet thoroughly familiar with local conditions. Before taking him along to help Fukang out of its difficulties, Dexin felt there were a few things he must explain. “Brother Shirong,” he said, “Hangzhou people are known as ‘Iron Heads.’ They respond to kindness, but not to force. Confront them head-on and you may find yourself in a humiliating position. You must have heard how provincial governors and education commissioners have come to grief here?” “I have heard the story of ‘Ten thousand horses silently await commands; one ox sits alone appraising compositions.’” Wu had heard of a harsh Zhejiang education commissioner who delighted in humiliating scholars. To prevent candidates from whispering together and cheating during an examination, he ordered a long strip of paper pasted to each man’s forehead, with the other end fixed to his desk. Then he set a formal examination poem on the line “Ten thousand horses silently await commands,” prescribing the rhyme tu. This was plainly an insult. While he sat high in the examination hall, looking about him in self-satisfaction, someone suddenly slapped his desk and declared, “‘Ten thousand horses silently await commands’ is the first line of a couplet. The second is ‘One ox sits alone appraising compositions.’” The whole hall roared with laughter, and naturally the paper strips all snapped. Realising that he had brought the humiliation on himself, the commissioner could only swallow it in silence."
+  },
+  {
+    "id": "P002",
+    "global_id": "B086-P002",
+    "part": 86,
+    "source_start_line": 34045,
+    "source_end_line": 34061,
+    "source_heading_prefix": "",
+    "zh": "“老兄知道这个故事就好。今天请老兄一起去弹压，话是这么说，可不要把弹压二字，看得太认真了。”这话便不易明白了，吴世荣哈着腰说：“请大人指点。”“胡雪岩其人在杭州光复之初，对地方上有过大功德。洪杨之役，杭州受灾最重，可是复原得最快，这都是胡雪岩之功。”“喔，大人的意思是杭州人对胡雪岩是有感情的。”“不错。妒嫉他的人，只是少数，还有靠胡雪岩养家活口的人也很多。”既是靠胡雪岩养家活口，当然站在他这一边，而更要紧的一种关系是，决不愿见胡雪岩的事业倒闭，吴世荣恍然有悟，连边点头。“照此看来，风潮应该不会大。”德馨认为吴世荣很开窍，便用嘉许的语气说：“世荣兄目光如炬，明察秋毫，兄弟不胜佩服之至。”话中的成语，用得不甚恰当，不过类此情形吴世荣经过不是第一次，也听人说过，德馨虽有能员之称，书却读得不多，对属下好卖弄他腹中那“半瓶醋”的墨水，所以有时候不免酸气，偶尔还加上些戏词，那就是更酸且腐的一股怪味了。",
+    "en": "“It is just as well that you know the story. I have asked you to come with me today to keep order, but do not take that expression too literally.” This was harder to understand. Wu bowed slightly. “I should be grateful for Your Excellency’s guidance.” “When Hangzhou was first recovered, Hu Xueyan did a great deal for the city. During the rebellion of Hong and Yang, Hangzhou suffered the worst devastation, yet it recovered the fastest. That was all Hu’s doing.” “Ah. You mean that the people of Hangzhou feel warmly towards him.” “Exactly. Those who envy him are a minority. A great many people also depend on him for their living.” Anyone whose livelihood depended on Hu would naturally stand by him. More importantly, such people would have no wish to see his businesses fail. Understanding dawned on Wu, and he nodded repeatedly. “In that case, the disturbance ought not to be very serious.” Dexin thought him quick to grasp the point and said approvingly, “Your eyes are like torches, Brother Shirong, discerning the finest autumn down. My admiration is boundless.” His choice of literary expressions was not particularly apt, but Wu had encountered this sort of thing before. He had also heard that, capable an official though Dexin was reputed to be, he had read little. Before his subordinates, he liked to display his half-filled bottle of learning, which occasionally gave his speech a sour, pedantic flavour. When he added a line or two from the theatre, the mixture became stranger and staler still."
+  },
+  {
+    "id": "P003",
+    "global_id": "B086-P003",
+    "part": 86,
+    "source_start_line": 34063,
+    "source_end_line": 34079,
+    "source_heading_prefix": "",
+    "zh": "这样转变念头，便觉得无足为奇了，“大人谬奖了。”他接着问道：“府里跟大人一起去弹压，虽以安抚为主，但如真有不识轻重、意因鼓动风潮的，请大人明示，究以如何处置，方为恰当？”“总以逆来顺受为主。”“逆”到如何犹可“顺受”，此中应该有个分寸，“请大人明示！”他问：“倘有人胆敢冲撞，如之奈何？”“这冲撞么，”德馨沉吟了一会儿说：“谅他们也不敢！”吴世荣可以忍受他的语言不当，比拟不伦，但对这种滑头话觉得非打破砂锅问到底不可。“如果真有这样的情形呢？”吴世荣也降低了措词雅饰的层次：“俗语说不怕一万，只怕万一，不能不防。”“万一冲撞，自然是言语上头的事。你我何必跟小民一般见识？有道是忍得一时气，保得百年身；又道是不痴不聋，不作阿家翁。贵府是首府，就好象我们浙江的一个当家人一样。”能做到这样，需要有极大涵养，吴世荣自恐不易办到，但看德馨的意思，非常清楚，一切以平息风潮为主，至于手段，实在不必听他的，能迁就则迁就，不能迁就，还是得动用权威，只要大事化小，又不失体统，便算圆满。",
+    "en": "Remembering this, Wu ceased to find it surprising. “You are too generous, sir.” He went on, “When I accompany you to keep order, reassurance will of course be our chief purpose. But if some people fail to understand the gravity of the situation and deliberately stir up trouble, how should they be dealt with?” “Above all, we must accept provocation with good grace.” There ought to be some limit to how much provocation could be borne. “Please instruct me, sir. What if someone dares to insult or defy us?” “As for that…” Dexin considered for a moment. “I do not suppose they would dare!” Wu could put up with inappropriate language and ill-chosen comparisons. Such an evasive answer, however, required him to get to the bottom of the matter. “But what if it does happen?” He too abandoned some of the refinements of official speech. “As the saying goes, it is not the ten thousand ordinary cases we fear, but the one exception. We must be prepared.” “Any offence would naturally be a matter of words. Why should you and I lower ourselves to the level of the common people? Endure a moment’s anger and preserve yourself for a lifetime. And they say no man can be a father-in-law unless he knows how to play the fool and turn a deaf ear. Yours is the prefecture of the provincial capital. You are, as it were, the head of Zhejiang’s household.” Such forbearance required immense self-control, and Wu doubted his ability to practise it. Still, Dexin’s intention was clear: everything must serve the restoration of calm. As for the means, Wu need not really follow his advice. Yield where he could, use authority where he could not; if a major disturbance could be reduced to a minor one without loss of official dignity, that would be a satisfactory outcome."
+  },
+  {
+    "id": "P004",
+    "global_id": "B086-P004",
+    "part": 86,
+    "source_start_line": 34081,
+    "source_end_line": 34089,
+    "source_heading_prefix": "",
+    "zh": "他考虑了一下，觉得有一点不能不先说清楚，“回大人的话，为政之道，宽猛相济。不过何人可宽，何人可猛；何时该宽，何时该猛？一点都乱不得。照府里来想，今天的局面，大人作主，该猛应猛，交代严办，府里好比当家的家妇，少不得代下人求情，请从轻发落，这样一个红脸、一个白脸，这出戏才唱得下来。“他接着说：”倘或有那泼妇刁民，非临之以威不足以让他们就范，那时候府里派人锁拿，大人倒说要把他们放了，这样子府里就不知道该怎么办了。““不会，不会！”德馨连连说道：“我做红脸，你做白脸，你如果做红脸，我决不做白脸，总而言之，你当主角我‘扫边’，我一定捧着你把这出戏唱下来。”话很客气，但这一回去平息阜康风潮的主要责任，已轻轻套在他头上了。吴世荣心想，德馨真是个装傻卖乘的老狐狸！",
+    "en": "After some thought, Wu decided there was one point he must settle in advance. “Sir, government requires a balance of leniency and severity. But we must be quite clear about whom to treat leniently, whom severely, and when each is called for. As I see today’s situation, Your Excellency should direct proceedings and order stern measures where they are necessary. I shall be like the woman managing the household, pleading on behalf of the servants for lighter punishment. One of us plays the stern red face, the other the kindly white face: that is how we can carry the performance through. But suppose there are shrews or unruly fellows whom only a show of force will bring to heel. If I send men to put them in chains and you then order their release, I shall not know how to proceed.” “That will not happen!” Dexin assured him repeatedly. “I shall be the red face and you the white. If you take the red face, I certainly shall not take the white. In short, you will play the leading role and I the supporting part. I shall back you throughout the performance.” Courteous though this was, he had lightly slipped the chief responsibility for settling the Fukang disturbance onto Wu’s shoulders. What an old fox, Wu thought, playing the fool to get his own way!"
+  },
+  {
+    "id": "P005",
+    "global_id": "B086-P005",
+    "part": 86,
+    "source_start_line": 34091,
+    "source_end_line": 34097,
+    "source_heading_prefix": "",
+    "zh": "有此承诺吴世荣才比较放心，于是起身告辞，同时约好，他先回杭州府，摆齐“导子”先到清和坊阜康钱庄前面“伺候”，德馨随后动身。两人拟好辰光，先后来到阜康，人群恰如潮汐之有“子午潮”，日中甫过，上午来的未见分晓，坚持不去，得到信息的，在家吃罢午饭，纷纷赶到，杭州府与仁和、钱塘两县的差役，看看无从措手，都找相熟的店家吃茶歇脚，及至听得鸣锣喝道之声，听说吴知府到了，随后德藩台也要来，自然不能躲懒，好在经过休息，精神养足，一个个挺胸凸肚，迎风乱挥皮鞭，一阵阵呼呼作响，即时在人潮中开出一条路来。清和坊是一条大街，逼退人潮，阜康门前空出来一片空地，足容两乘大轿停放。谢云青是已经得到螺蛳太太的通知，官府会出面来料理，所以尽管门外人声如沸，又叫又骂，让人心惊肉跳，他却如老僧入定般，闭目养神，“心里在一层深一层地盘算，官府出面时，会如何安排，阜康应该如何应付。等盘算得差不多了，吴世荣也快到了。",
+    "en": "With this assurance, Wu felt easier. He rose to take his leave, agreeing to return to his prefectural office, assemble his ceremonial escort and go first to “await” Dexin outside Fukang in Qinghefang. Dexin would follow. They timed their departures and arrived one after the other. As a tide has its midnight and midday surges, so the crowd swelled just after noon. Those who had come in the morning still had no answer and refused to leave; others, hearing the news, finished lunch at home and hurried over. The runners from the Hangzhou prefectural office and the counties of Renhe and Qiantang, seeing no way to manage the situation, had gone to familiar shops for tea and a rest. But when gongs and shouted commands announced that Prefect Wu had arrived and Treasurer De was following, they could no longer shirk. Refreshed by their rest, they thrust out their chests and bellies and swung their whips through the air with a succession of swishes, clearing a path through the crowd. Qinghefang was a broad street. Once people had been driven back, there was room outside Fukang for two large sedan chairs. Xie Yunqing had already been informed by Madam Luosi that the authorities would intervene. Terrifying though the shouting and cursing outside might be, he sat with his eyes closed like an old monk in meditation, conserving his strength. Beneath that stillness, he was considering, layer upon layer, what the officials might arrange and how Fukang should respond. By the time he had thought it through, Wu was nearly there."
+  },
+  {
+    "id": "P006",
+    "global_id": "B086-P006",
+    "part": 86,
+    "source_start_line": 34099,
+    "source_end_line": 34119,
+    "source_heading_prefix": "",
+    "zh": "这要先迎了出去，如果知府上门，卸排门迎接，主顾一拥而入，就会搞得不可收拾，因此，他关照多派伙计，防守边门，然后悄悄溜了出去，一顶毡帽压到眉际，同时装做怕冷，手捂着嘴跟鼻子，幸喜没有人识破，到得导子近前，他拔脚便冲到轿前，轿子当然停住了。这叫“冲道”，差役照例先举鞭子护轿，然后另有人上前，看身分处理，倘苦是老百姓，可以请准了当街拖翻打屁股。谢云青衣冠楚楚，自然要客气些，喝问一声：“你是干什么的？”谢云青在轿前屈膝打千，口中说道：“阜康钱庄档手谢云青，向大人请安。”“喔，”吴世荣在轿中吩咐，“停轿。”“停轿”不是将轿子放下地，轿杠仍在轿夫肩上，不过有根带桠杈的枣木棍，撑住了轿杠，其名叫做“打杆子”。这时轿帘自然亦已揭起来了，吴世荣问道：“你就是谢云青？”“是。”“你们东家什么时候回来？”“今天晚上，一定可到。”吴世荣点点头说：“藩台马上也要来，我跟他在你店家坐一坐，好商量办法。“",
+    "en": "Xie had to go out to meet him first. If the prefect arrived at the door and the shutters were taken down to admit him, the customers would surge in and all control would be lost. Xie therefore ordered extra employees to guard the side entrance, then slipped out quietly. He pulled a felt hat down to his eyebrows and covered his mouth and nose with his hand, as though against the cold. Fortunately, nobody recognised him. On reaching the ceremonial escort, he suddenly ran forward to the sedan, which naturally came to a halt. This was called breaking into an official’s procession. The runners would first raise their whips to protect the chair; someone else would then come forward to determine the intruder’s status and deal with him accordingly. An ordinary person might, with permission, be thrown down in the street and beaten on the buttocks. Xie’s respectable clothes earned him more courtesy. “What are you doing?” a runner demanded. Xie bent one knee in a formal salute before the sedan. “Xie Yunqing, manager of Fukang Bank, pays his respects to Your Honour.” “Oh. Halt the chair,” Wu ordered from inside. This did not mean setting it on the ground. The poles remained on the bearers’ shoulders, but were supported by forked sticks of jujube wood, a practice known as propping the poles. The curtain was lifted. “You are Xie Yunqing?” “Yes, sir.” “When will your employer return?” “He is certain to arrive this evening.” Wu nodded. “The Treasurer will be here shortly. He and I shall sit in your bank and discuss what can be done.”"
+  },
+  {
+    "id": "P007",
+    "global_id": "B086-P007",
+    "part": 86,
+    "source_start_line": 34121,
+    "source_end_line": 34129,
+    "source_heading_prefix": "",
+    "zh": "接着，德馨亦已驾到，仍旧是由谢云青引领着，由边门进入阜康钱庄的客座。这里的陈设非常讲究，广东酸枝木嵌螺甸的家具，四壁是名人书画，上款差不多都是“雪岩观察大人雅属”，最触目的是正中高悬一幅淡彩贡宣的中堂，行书一首唐诗，字有碗口那么大，下款是“恭亲王书”，下铃一方朱文大印，印文“皇六子”三字，左右陪衬的一副对联是左宗棠的亲笔。客座很大，也很高，正中开着玻璃天窗，时方过午，阳光直射，照出中间一张极大的大理石面的八仙桌，桌上摆了八个大号的高脚盘，尽是精巧的茶食，但只有两碗细瓷银托的盖碗茶，自然是为德馨与吴世荣预备的。“赶紧收掉！”德馨一进来便指着桌上说：“让人见了不好。”“德大人说得是，”吴世荣深以为然，向谢云青说道：“德大人跟我今天不是来作客的。”“是，是。”谢云青指挥伙计，收去了高脚盘，请贵客落座，他自己站在两人之间，等候问话。",
+    "en": "Dexin arrived soon afterwards. Xie again led the way, taking them through the side entrance into Fukang’s reception room. It was furnished with great elegance: Guangdong rosewood inlaid with mother-of-pearl, and distinguished paintings and calligraphy on all four walls, most dedicated “To His Honour Circuit Intendant Xueyan, at his gracious request.” The most striking piece was a central scroll, hung high, on delicately tinted tribute-quality xuan paper. It bore a Tang poem in running script, each character as large as the mouth of a bowl, signed “Written by Prince Gong.” Below the signature was a large seal impression in red lettering, reading “The Emperor’s Sixth Son.” A couplet in Zuo Zongtang’s own hand hung on either side. The room was spacious and high, with a glass skylight in the centre. Just after noon, sunlight fell directly onto a huge square marble-topped table. Eight large raised dishes held delicate tea snacks; there were only two covered teacups of fine porcelain on silver stands, plainly prepared for Dexin and Wu. “Take those away at once!” Dexin said on entering, pointing at the table. “It will look bad if people see them.” Wu thoroughly agreed. “His Excellency is right,” he told Xie. “We have not come as guests today.” “Yes, of course.” Xie had the raised dishes removed, invited the visitors to sit and remained standing between them, awaiting their questions."
+  },
+  {
+    "id": "P008",
+    "global_id": "B086-P008",
+    "part": 86,
+    "source_start_line": 34131,
+    "source_end_line": 34149,
+    "source_heading_prefix": "",
+    "zh": "“不开门，总不是一回事。”德馨问吴世荣：“我看应该照常营业。”此言一出，晨世荣无以为答，谢云青更是一脸的苦恼。能够“照常营业”，为何不下排门？这话是真正的废话。德馨也发觉自己的话不通，便又补了一句：“不过，应该有个限制。”这才象话，吴世荣接口说道：“我看怎么限制，阜康总不至于库空如洗吧？”“不错，限制要看阜康的库存而定。”德馨问道：“你们库里有多少现银？”库存有四十余万，但谢云青不敢说实话，打一个对折答道：“二十万出头。”“有二十万现银，很可以挡一阵子。”德馨又问：“胡观察的事业很多，他处总还可以接济吧？”“回大人的话，我们东家的事业虽多，我只管钱庄，别处的情形不大清楚。”“别处银钱的收解，当然是跟阜康往来，你怎么会不清楚？”吴世荣说，语气微有斥责的意味。“回大人的话，”谢云青急忙解释，“我之不清楚是，不清楚别处有多少现银，不过就有也有限的，象间壁公济典，存银至多万把两，有大笔用途，都是临时到阜康来支。”",
+    "en": "“Keeping the doors closed will never do,” Dexin said to Wu. “I think business ought to continue as usual.” Wu had no answer, and Xie looked thoroughly distressed. If they could conduct business as usual, why had they not taken down the shutters? The remark was utterly pointless. Dexin realised this himself and added, “There should, however, be a limit.” That made more sense. Wu took it up. “We must consider what limit to impose. Surely Fukang’s vault is not entirely empty?” “Exactly. The limit must depend on the reserve.” Dexin asked Xie, “How much silver have you in the vault?” There were over four hundred thousand taels, but Xie dared not tell the truth. He halved the amount. “A little over two hundred thousand.” “Two hundred thousand in silver should hold things off for a while. Circuit Intendant Hu has many businesses. Surely the others can help?” “Sir, our employer does have many businesses, but I manage only the bank. I am not very familiar with the others’ affairs.” “Their receipts and payments must pass through Fukang. How can you be unfamiliar with them?” Wu asked with a note of reproof. Xie hurried to explain. “What I do not know, sir, is how much ready silver they have. In any case, it can only be a limited amount. Gongji Pawnshop next door, for example, holds at most ten thousand taels or so. Whenever it needs a large sum, it draws it from Fukang at the time.”"
+  },
+  {
+    "id": "P009",
+    "global_id": "B086-P009",
+    "part": 86,
+    "source_start_line": 34151,
+    "source_end_line": 34169,
+    "source_heading_prefix": "",
+    "zh": "“那么，”德馨问道：“你们开出去多少票子，总有帐吧？”“当然，当然！哪里好没有帐！”“好！我问你，你们开出去的票子，一万两以下的有多少？”“这要看帐。”谢云青告个罪，在旁边的椅子上坐下，叫伙计取帐薄来，一把算盘打得飞快，算好了来回报，“一共三十三万挂零。”“并不多嘛！”“大人，”谢云青说：“本号开出去的票子虽不多，可是别处地方就不知道了。譬如上海阜康开出去的票子，我们一样也有照兑的，”“啊，啊！”德馨恍然大悟，“难就难在这里。”这一来只好将限制提高。尽管德馨与吴世荣都希望五千两以下的银票，能够照兑，但谢云青却认为没有把握，如果限额放宽，以致存银兑罄，第二次宣布停兑，那一来后果更为严重。这是硬碰硬的毫无假借的事，最后还是照谢云青的要求，限额放低到一千两。接下来便要研究一千两以上银票的处理办法。",
+    "en": "“Then,” Dexin asked, “you must have records of the notes you have issued?” “Certainly, certainly! How could we not?” “Good. What is the total value of your notes for ten thousand taels or less?” “I must consult the accounts.” With an apology, Xie sat in a nearby chair and called for the ledgers. His fingers flew over an abacus. When he had finished, he reported, “A little over three hundred and thirty thousand taels in all.” “That is not very much!” “Sir, the notes we have issued here are not so very many, but I cannot say what there may be elsewhere. For instance, we also honour notes issued by Shanghai Fukang.” “Ah!” Dexin suddenly understood. “That is where the difficulty lies.” The restriction would have to be tighter. Dexin and Wu both hoped that notes for five thousand taels or less could be redeemed as usual, but Xie was not confident. If the limit was too generous, the reserve might be exhausted. A second announcement that redemption had stopped would have even more serious consequences. This was a hard, practical matter that allowed no compromise. In the end, they accepted Xie’s demand and lowered the limit to one thousand taels. They then had to consider what to do about notes above that amount."
+  },
+  {
+    "id": "P010",
+    "global_id": "B086-P010",
+    "part": 86,
+    "source_start_line": 34171,
+    "source_end_line": 34185,
+    "source_heading_prefix": "",
+    "zh": "“我们东家一定有办法的。”谢云青说：“阜康钱庄并没有倒，只为受市面的影响，一时周转不灵而已。”德馨想了一下说：“也不能说胡观察一回来，一切都会恢复正常，总也给他一个期限来筹划。这个期限不宜太长，但也不宜太短，三天如何？”吴世荣认为适宜，谢云青亦无意见，就算决定了。但这个决定如何传达给客户，却颇费斟酌，因为持有一千两以上银票的，都是大户，倘若鼓噪不服，该怎么办？必得预先想好应付之计，否则风潮马上就会爆发。“这要先疏通。”吴世荣说：“今天聚集在前面的，其中总有体面绅士，把他们邀进来，请大人当面开导，托他们带头劝导。同时出一张红告示，说明办法，这样双管齐下，比较妥当。”“此计甚好！”德馨点点头说：“不过体面绅士要借重，遇事失风的小人也不可不安抚，你我分头进行。”于是，谢云青派了两个能干的伙计，悄悄到左右邻居，借他们的楼窗，细看人潮中，有哪些人需要请进来谈的。要请进来的人，一共分三类，第一类是“体面绅士”，第二类是惯于起哄的“歪秀才”，第三类是素不安分“撩鬼儿”，——凡是不务正业，游手好闲，唯恐天下不乱，好从中浑水摸鱼，迹近地痞无赖的人，杭州人称之为“撩鬼儿”。",
+    "en": "“Our employer is sure to find a solution,” Xie said. “Fukang has not failed. It is only suffering a temporary shortage of funds because of market conditions.” Dexin considered this. “We cannot say that everything will return to normal the moment Circuit Intendant Hu arrives. He must be given some time to make arrangements. Not too long, but not too short either. How about three days?” Wu thought that suitable, and Xie had no objection. The decision was made. How to convey it to the customers, however, required careful thought. Those holding notes for more than a thousand taels were substantial clients. What if they protested and refused to accept the arrangement? They must prepare their response, or a disturbance would break out at once. “We must first win people over,” Wu said. “There must be some respectable gentlemen among the crowd outside. Let us invite them in, ask Your Excellency to reason with them personally, and have them take the lead in persuading the others. At the same time, we can post a red proclamation explaining the arrangements. That combined approach would be safer.” “An excellent stratagem!” Dexin nodded. “But while we enlist respectable gentlemen, we must also pacify the troublemakers who seize on every disturbance. You and I should divide the work.” Xie sent two capable employees quietly into the neighbouring shops on either side. From their upper windows, they could examine the crowd and identify people who should be invited in. There were three categories: respectable gentlemen; troublesome scholars accustomed to stirring up a crowd; and the habitually unruly fellows whom Hangzhou people called liaoguier—idlers who did no honest work and welcomed disorder as a chance to fish in troubled waters, men little different from local ruffians."
+  },
+  {
+    "id": "P011",
+    "global_id": "B086-P011",
+    "part": 86,
+    "source_start_line": 34187,
+    "source_end_line": 34187,
+    "source_heading_prefix": "",
+    "zh": "当这两名伙计分头出发时，德馨与吴世荣已经商定，由杭州府出面贴红告示，这种告示，照例用六言体，吴世荣是带了户房当办来的，就在阜康帐户拟稿呈阅。告示上写的是：“照得阜康钱庄，信誉素来卓著，联号遍设南北，调度绰绰有余，只为时世不靖，银根难得宽裕，周转一时不灵，无须张皇失措，兹奉宪台德谕：市面必求平静，小民升头应顾，阜康照常开门，银票亦可兑付，千两以下十足，逾千另作区处，阜康主人回杭，自能应付裕如，为期不过三日，难关即可度过，切望共体时艰，和衷共济应变，倘有不法小人，希冀浑水摸鱼，或者危言惑众，或者暗中煽动，一经拿获审实，国法不贷尔汝。本府苦口婆心，莫谓言之不须！切切此谕。”",
+    "en": "As the two employees set out separately, Dexin and Wu agreed that the red proclamation should be issued by the Hangzhou prefectural office. Such notices were conventionally written in lines of six characters. Wu had brought a clerk from the revenue section, who drafted it in Fukang’s accounts room for their approval: “Whereas Fukang Bank has long enjoyed a distinguished reputation, with affiliated establishments throughout north and south and ample means of transferring funds, present disorders alone have tightened the supply of silver and caused a temporary difficulty in meeting payments. There is no need for alarm. By instruction of His Excellency Treasurer De: the marketplace must remain tranquil, and the livelihoods of ordinary people must be considered. Fukang shall open as usual and its notes shall be redeemable. Those for a thousand taels or less shall be paid in full; those exceeding a thousand shall be dealt with separately. When the proprietor returns to Hangzhou, he will be able to meet his obligations with ease. Within no more than three days, the difficulty can be overcome. All are earnestly requested to recognise the hardships of the time and cooperate in meeting this emergency. Should lawless persons seek to profit from confusion, spread alarming falsehoods or secretly incite disturbance, once apprehended and found guilty they shall receive no indulgence from the law. This prefecture counsels you earnestly and patiently. Let none say that he was not warned. Take heed and obey.”"
+  },
+  {
+    "id": "P012",
+    "global_id": "B086-P012",
+    "part": 86,
+    "source_start_line": 34189,
+    "source_end_line": 34197,
+    "source_heading_prefix": "",
+    "zh": "德馨与吴世荣对这通六言告示的评价不同，德馨认为写得极好，但有两点要改，一是提存与兑银相同，皆以一千两为限，二是银很大紧，到处都一样，不独沪杭为然。但吴世荣一开头就有意见，说阜康信誉卓著，说胡雪岩一回来，必能应付裕如之类的话，不无过甚其词，有意袒护之嫌，倘或阜康真的倒闭了，出告示的人难免扶同欺骗之咎，因而主张重拟，要拟得切实，有什么说什么，才是负责的态度。“世荣兄！此言差矣！”德馨答说：“如今最要紧是稳定民心。不说阜康信誉卓著，难道说它摇摇欲坠？那一来不等于明告杭州百姓，赶紧来提存兑现？而且正好授人以柄。如果阜康真的挤倒了，胡观察会说：本来不过一时周转不灵，只为杭州府出了一张告示，才起的风潮。那时候，请问你我有何话说？”吴世荣无以为答，只勉强答说：“府里总觉得满话难说，将来替人受过犯不着。“",
+    "en": "The two officials differed in their judgement of this six-character proclamation. Dexin thought it excellent, but wanted two amendments: withdrawals of deposits should be subject to the same thousand-tael limit as the redemption of notes, and it should state that money was tight everywhere, not only in Shanghai and Hangzhou. Wu, however, objected from the outset. To praise Fukang’s reputation and declare that Hu could meet every obligation as soon as he returned seemed exaggerated and unduly protective. If Fukang really failed, those who issued the notice might be held responsible for assisting a fraud. He wanted it redrafted to state only what was known; that was the responsible course. “Brother Shirong, you are mistaken!” Dexin replied. “What matters most now is restoring confidence. If we do not say Fukang’s reputation is excellent, are we to say it is tottering? Would that not tell every person in Hangzhou to hurry and withdraw deposits or redeem notes? Worse, it would put a weapon into other people’s hands. If the run really brought Fukang down, Hu could say, ‘It was merely a temporary shortage of funds until the prefectural office issued its proclamation and started the panic.’ What answer could you or I make then?” Wu had none. He could only say reluctantly, “I still feel that sweeping assurances are dangerous. There is no reason to take the blame for someone else later.”"
+  },
+  {
+    "id": "P013",
+    "global_id": "B086-P013",
+    "part": 86,
+    "source_start_line": 34199,
+    "source_end_line": 34207,
+    "source_heading_prefix": "",
+    "zh": "“现在还谈不到个人犯得着，犯不着这一层。如今最要紧的是把局面稳下来。胡雪岩号称‘财神’，‘财神’落难，不是好事，会搞成一路哭的凄惨景象。世荣兄，你要想想后果。”“是。”吴世荣越发没话说了，而德馨却更振振有词。“就事论事，说阜康‘信誉素来卓著’，并没有错，他的信用不好，会大半个天下都有他的联号？所以要救阜康，一定要说胡雪岩有办法。老实说，阜康不怕银栗兑现，只伯大户提存，如果把大户稳住了，心里就会想，款子存在阜康，白天生利息，晚上睡觉也在生利息，何必提了现银，摆在家里？不但大钱不会生小钱，而且惹得小偷强盗眼红，还有慢藏海盗之忧。世荣兄，你说我这话是不是？““是！是！”吴世荣完全为他说服了，尤其是想到“慢藏海盗”这一点，出了盗案，巡抚、按察使以下至地方官，都有责任，唯有藩司不管刑名，可以置身事外。照此看来，德馨的警告，实在是忠告。",
+    "en": "“This is no time to consider whether you or I should take a personal risk. We must stabilise the situation. Hu is known as the God of Wealth. If the God of Wealth falls into distress, the consequences will be dreadful—lamentation everywhere. Think of that, Brother Shirong.” “Yes, sir.” Wu had still less to say, while Dexin grew more emphatic. “On the facts alone, it is not wrong to say Fukang ‘has long enjoyed a distinguished reputation.’ Could it have affiliated banks across more than half the country without good credit? To save Fukang, we must insist that Hu has a solution. Frankly, note redemption is not the real danger; withdrawals by large depositors are. Keep them calm and they will reflect that money in Fukang earns interest by day and even while they sleep. Why bring silver home? It would earn nothing and attract the envy of thieves and robbers. Carelessly kept wealth invites theft. Am I not right?” “Indeed, indeed!” Wu was completely persuaded, especially by that last consideration. When a robbery occurred, everyone from the provincial governor and judicial commissioner down to the local officials bore responsibility. Only the provincial treasurer, who did not handle criminal matters, could stand apart. Seen in that light, Dexin’s warning was friendly advice."
+  },
+  {
+    "id": "P014",
+    "global_id": "B086-P014",
+    "part": 86,
+    "source_start_line": 34209,
+    "source_end_line": 34223,
+    "source_heading_prefix": "",
+    "zh": "于是传言告示定稿，谢云青叫人买来上等梅行纸，找了一个好书手，用碗口大的字，正楷书写。告示本应用印，但大印未曾携来，送回衙门去铃盖，又嫌费时，只好变通办法，由吴世荣在他自己的衔名之下，画了个花押，证明确是杭州府的告示。其时奉命去邀客的两个伙计，相继回店复命，却是无功而返，只为没有适当的人可邀，倒是有自告奋勇，愿意来见藩台及知府的，但争先恐后，请这个不请那个，反而要得罪人，只好推托去请示了再说。从他们的话中听得出来，挤兑的人群中，并没有什么有地位的绅士，足以号召大众，而争先恐后想来见官府的，都是无名小卒。既然如此，无足为虑。德馨想了一下，看着吴世荣跟谢云青问道：“有没有口才好的人？声音要宏亮，口齿要清楚，见过大场面，能沉得住气的。”吴世荣尚未开口，谢云青却一叠连声他说：“有，有，就是大人衙门里的周书办。”“周书办。”德馨问道：“是周少棠不是？”“是，是！就是他。”“不错，此人很行。他怎么会在这里？”“他跟我们东家是早年的朋友，今天听说阜康有事，特为来帮忙的。",
+    "en": "Orders were therefore given to finalise the proclamation. Xie sent out for fine-quality paper and found a skilled copyist, who wrote it in regular script with characters as large as the mouth of a bowl. The official seal should have been affixed, but it had not been brought along, and sending the notice back to the office would waste time. Wu improvised by putting his personal flourish beneath his own name and title, certifying that this was indeed a proclamation of the Hangzhou prefectural office. Meanwhile, the two employees sent to invite people in returned one after the other, empty-handed. They had found nobody suitable. Some people had volunteered to meet the Treasurer and prefect, but they competed so eagerly that to invite one and not another would only give offence. The employees could merely say they must ask for instructions first. Their report made it clear that there was no gentleman of standing in the crowd who could command the others’ attention. Those clamouring to see the officials were all nobodies. There was therefore little to fear. After a moment’s thought, Dexin looked at Wu and Xie. “Is there anyone who speaks well? He must have a strong voice, clear diction, experience of large gatherings and the ability to keep his head.” Before Wu could reply, Xie said eagerly, “Yes, sir! Clerk Zhou from your own office.” “Do you mean Zhou Shaotang?” “Yes, precisely.” “An able man. What is he doing here?” “He is an old friend of our employer’s. When he heard of the trouble today, he came specially to help.”"
+  },
+  {
+    "id": "P015",
+    "global_id": "B086-P015",
+    "part": 86,
+    "source_start_line": 34225,
+    "source_end_line": 34229,
+    "source_heading_prefix": "",
+    "zh": "其实，此人是谢云青特为请来的。原来各省藩司衙门，都“有包办上下忙钱粮的书办，俗称”粮书“，公文上往往称此辈为”蠹吏“，所谓”钱粮“就是田赋，为国家主要的收入，其中弊端百出，最清廉能干的地方大吏，亦无法彻底整顿，所以称之为“粮糊涂”。但是这些“蠹吏”另有一本极清楚的底册，这本底册，便是极大的财源，亦只有在藩司衙门注册有案的粮书，才能获得这种底册。粮书是世袭的职务，父死子继，兄终弟及以外，亦可以顶名转让，买这样一个书办底缺，看他所管的县分而定，象杭州府的仁和、钱塘两县的粮书，顶费要十几万银子，就是苦瘠山城，亦非两三万两莫办。这周少棠原是胡雪岩的贫贱之交，后来靠胡雪岩的资助，花了五万银子买了个专管嘉兴府嘉眷县的粮书，只有上下忙开征钱粮的时候，才到嘉善，平时只在省城里专事结交，生得一表人才，能言善道。谢云青跟他很熟，这天因为阜康挤兑，怕应付不下来，特为请了他来帮忙，这时候正好派上用场了。",
+    "en": "In fact, Xie had specially sent for him. Every provincial treasury office had clerks who handled the two seasonal collections of land tax. They were popularly known as grain-tax clerks, and official documents often called them corrupt vermin. Land tax was the state’s principal source of revenue, yet the system contained so many abuses that even the most honest and capable provincial authorities could not thoroughly reform it. Hence its reputation as an unfathomable muddle. These “vermin,” however, possessed another set of perfectly clear underlying registers. Those registers were a source of immense wealth, accessible only to grain-tax clerks officially registered at the provincial treasury. The posts were hereditary: sons succeeded fathers and younger brothers succeeded elder brothers. They could also be transferred to buyers who took over the registered name. The price depended on the county concerned. A post for Renhe or Qiantang, in Hangzhou prefecture, cost over a hundred thousand taels; even a poor mountain county required twenty or thirty thousand. Zhou had known Hu in the days when both were poor. With Hu’s financial support, he had later paid fifty thousand taels for the grain-tax clerkship responsible for Jiashan County in Jiaxing prefecture. He went to Jiashan only for the two seasonal collections. The rest of the time he stayed in the provincial capital, devoting himself to making connections. Good-looking and eloquent, he was well known to Xie. Fearing that he could not cope with the run on Fukang, Xie had invited him to help. Now his talents would come into use."
+  },
+  {
+    "id": "P016",
+    "global_id": "B086-P016",
+    "part": 86,
+    "source_start_line": 34231,
+    "source_end_line": 34241,
+    "source_heading_prefix": "",
+    "zh": "当时将周少棠找了来，向德馨及吴世荣分别行了礼，然后满面赔笑的肃立一旁，听候发落。“周书办，我同吴知府为了维持市面，不能不出头来管阜康的事。现在有张告示在这里，你看了就知道我们的苦心了。”“是，是！两位大人为我们杭州百姓尽心尽力，真正感激不尽。胡大先生跟两位大人，论公是同事，论私是朋友，他不在杭州，就全靠两位大人替他作主了。”“我们虽可以替他作主，也要靠大家顾全大局才好。说老实话，胡观察是倒不下来的，万一真的倒下来了，杭州的市面大受影响，亦非杭州人之福。我请你把这番意思，切切实实跟大家说一说。“",
+    "en": "Zhou was summoned. After paying his respects to Dexin and Wu in turn, he stood deferentially to one side with a broad, obliging smile, awaiting their commands. “Clerk Zhou, Prefect Wu and I must intervene in Fukang’s affairs to preserve order in the marketplace. Here is a proclamation. Once you read it, you will understand our intentions.” “Indeed, indeed! You are sparing no effort for the people of Hangzhou. We cannot thank you enough. Mr Hu is your colleague in public affairs and your friend in private. While he is away, he must rely entirely on you to act for him.” “We can act for him, but everyone must also consider the larger situation. Frankly, Circuit Intendant Hu is not going to fail. If he did, it would seriously damage trade throughout Hangzhou and bring the people no good. I want you to explain this to them thoroughly.”"
+  },
+  {
+    "id": "P017",
+    "global_id": "B086-P017",
+    "part": 86,
+    "source_start_line": 34243,
+    "source_end_line": 34255,
+    "source_heading_prefix": "",
+    "zh": "周少棠答应着，往后退了几步，向站在客座进口处的谢云青，使了个眼色，相偕到了柜房，阜康几个重要的伙计，以及拟六言告示的户房书办都在。周少棠一进门就说：“老卜，你这支笔真刮刮叫！”说着，大拇指举得老高。“老卜是叫户房书办，他们身分相同，走得极近，平时玩笑开惯的，当下老卜答说：”我的一支笔不及你的一张嘴，现在要看你的了。““你不要看我的笑话！倒替我想想看，这桩事情，要从哪里下手？”“要一上来就有噱头，一噱把大家吸住了，才会静下来听你吹。”老卜说道：“我教你个法子，你不是会唱‘徽调儿’？搬一张八仙桌出去，你在上面一站，象‘徐策跑城’一样，捞起皮袍子下摆，唱它一段‘垛板’，包你一个满堂彩。这一来，什么都了说了。”明明是开玩笑，周少棠却不当它笑话，双眼望着空中，眼珠乱转乱眨了一阵，开口说道：“我有办法了，要做它一篇偏锋文章。来，老谢，你叫人搭张八仙桌出去。”“怎么？”老卜笑道：“真的要唱‘徐策跑城’？一张桌子跑圆场跑不转，要不要多搭一张桌子？”",
+    "en": "Zhou agreed, stepped back a few paces and caught Xie’s eye at the entrance. They went together to the accounts room, where several senior employees and the revenue clerk who had drafted the proclamation were waiting. “Bu, your pen is truly formidable!” Zhou exclaimed, raising his thumb. The revenue clerk he called Bu was his equal in rank and a close acquaintance. They often joked together. “My pen is no match for your tongue,” Bu replied. “Now it is your turn.” “Do not just wait to laugh at me. Help me work out how to begin.” “You need a trick at the outset to seize everyone’s attention. Then they will quieten down and listen to your bluster. Here is an idea: you can sing Hui opera, can you not? Put a square table outside and stand on it. Hitch up your fur robe like Xu Ce in Xu Ce Runs Along the City Wall and give them a rapid-fire passage. I guarantee a round of applause. After that, you can say anything.” This was plainly a joke, but Zhou did not treat it as one. He looked into the air, his eyes darting and blinking. Then he said, “I have it. We must approach this from an unexpected angle. Xie, have a square table carried outside.” “What?” Bu laughed. “Are you really going to perform Xu Ce Runs Along the City Wall? You cannot make a proper circuit on one table. Shall we put out another?”"
+  },
+  {
+    "id": "P018",
+    "global_id": "B086-P018",
+    "part": 86,
+    "source_start_line": 34257,
+    "source_end_line": 34263,
+    "source_heading_prefix": "",
+    "zh": "“你懂个屁！”周少堂转脸对谢云青说：“这开门去贴告示，就有学问，没有预备，门一开，人一挤，马上天下大乱。现在这样，你叫他们从旁门搭一张桌子出去，贴紧排门，再把桌子后面的一扇排门卸下来。这一来前面有桌子挡住，人就进不来了。”“你呢？”老卜接口，“你从桌子后面爬出去？”“什么爬出去？我是从桌子后面爬上去。”“好！好！”谢云青原就在为一开门，人潮汹涌，秩序难以维持发愁，所以一听这话，大为高兴，立即派人照办。",
+    "en": "“You know bugger-all!” Zhou turned to Xie. “Opening the doors to post that proclamation takes some thought. Without preparation, the moment they open, the crowd will rush in and all hell will break loose. Have the table taken through the side door and placed right against the shutters. Then remove the shutter behind it. The table will block the entrance and keep people out.” “And you?” Bu interposed. “You crawl out from behind the table?” “Not out. Up onto it.” “Excellent!” Xie had been worrying about just this problem: how to control the crowd once the doors opened. Delighted, he immediately ordered the arrangement made."
+  },
+  {
+    "id": "P019",
+    "global_id": "B086-P019",
+    "part": 86,
+    "source_start_line": 34265,
+    "source_end_line": 34277,
+    "source_heading_prefix": "",
+    "zh": "等桌子一抬出去，外面鼓噪之声稍微安静了些，及至里面排门一卸，先出去两名差役，接着递出红告示去。大家争先恐后往前挤，大呼小叫，鼓噪之声变本加厉了。“不要挤，不要挤！”周少棠急忙跳上桌子，高举双手，大声说道：“杭州府吴大人的告示，我来念。”接着他指挥那两名差役，将红告示高高举了起来，他就用唱“徽调”念韵白似地，“照得”云云，有板有眼地念了起来。念完又大声喝道：“大家不要乱动！”他这蓦地里一喝，由于量大声宏，气势惊人，别有一股慑入的力量，居然不少人想探手入怀的，手在中途停了下来。“为啥叫大家不要乱动？扒儿手就在你旁边！你来不及想摸银票来兑现，哪晓得银票摆在哪里，已经告诉扒儿手了。铜钱是你的总归是你的，阜康的银票，就是现银，今天不兑，明天兑，明天不兑后天兑，分文不少，哪天都一样。不过人家阜康认票不认人，你的银票叫扒儿手摸了去，朝我哭都没有用。“",
+    "en": "As soon as the table appeared, the uproar outside subsided a little. When the shutter behind it was taken down, two runners went out first, followed by the red proclamation. Everyone tried to push forward at once, shouting and calling more loudly than before. “Do not push! Do not push!” Zhou hurriedly climbed onto the table, raised both hands and called out, “A proclamation from Prefect Wu of Hangzhou! I shall read it.” He directed the runners to hold it high. Then, like an actor delivering rhythmic speech in Hui opera, he began, “Whereas…” and read the notice in measured cadences. When he finished, he suddenly shouted, “Nobody move!” His voice was so powerful and commanding that many people whose hands were reaching inside their clothes stopped halfway. “Why do I tell you not to move? Because there may be a pickpocket beside you! In your hurry to get out your banknote and redeem it, you show him exactly where you keep it. Your money is yours. A Fukang note is as good as silver. Redeem it today, tomorrow or the day after: not a fraction will be missing, whichever day you come. But Fukang honours the note, not the person. If a pickpocket takes yours, crying to me will do you no good!”"
+  },
+  {
+    "id": "P020",
+    "global_id": "B086-P020",
+    "part": 86,
+    "source_start_line": 34279,
+    "source_end_line": 34295,
+    "source_heading_prefix": "",
+    "zh": "夹枪带棒一顿排摈，反而将人声压了下去，但人丛中却有人放天嗓子说道：“周少棠，你是唱‘徽调儿’，还是卖梨膏糖？”此言一出，人丛中颇有笑声。原来周少棠早年卖过梨膏糖，这一行照例以唱小调来招揽顾客，触景生情，即兴编词，开开无伤大雅的玩笑，不但要一条极好的嗓子，而且要有一点捷才，周少棠随机应变的本事，便是在卖梨膏糖那两年练出来的。尽管人讪笑，他却神态自若，游目四顾，趁此机会动动脑筋。等笑声停住，他大声说道：“黄八麻子，你不要挖我的痛疮疤！我周少棠，今天一下唱徽调儿，二不卖梨膏糖，是来为大家打抱不平的。”最后这句话，又引起窃窃私议，但很快地复归于平静，那黄八麻子又开口了。“周少棠，你为哪个打抱不平？”“我为大家打！”周少棠应声而答。“打哪个？”“打洋鬼子！”他说：“洋鬼子看我们中国好欺侮，娘卖×的法国人，在安南打不过刘永福，弄两只灯笼壳的铁甲火轮船，在吴淤口外晃啊晃。上海人都是不中用的‘铲头’，自己吓自己，弄得市面大乱，连带金字招牌的阜康都罩不住。说来说去，是法国人害人！不过，法国人总算还是真小人，另外杀人不见血，还有比法国更加毒的洋鬼子。”说到这里，他故意停下来，看看反应，只听一片“哪一国，哪一国”发问的声音。“要问哪一国，喏，青竹蛇儿口，黄蜂尾上针，两样都不毒，最毒英国人。”",
+    "en": "His mixture of warning and mockery actually quietened the crowd. Then someone bawled, “Zhou Shaotang, are you singing Hui opera or selling pear-syrup sweets?” Laughter rippled through the gathering. Zhou had once sold pear-syrup sweets, a trade in which sellers attracted customers by singing popular tunes, improvising verses about whatever they saw and making harmless jokes. It demanded not only a fine voice but a quick wit. His two years in that trade had taught him to think on his feet. He remained unruffled by the laughter, looking about while he used the pause to think. When it stopped, he called, “Huang Bamazi, do not reopen my old sores! Today I am neither singing Hui opera nor selling sweets. I am here to speak up against injustice on everyone’s behalf.” This brought another murmur, which quickly died away. Huang, the pockmarked man, spoke again. “Whose injustice are you speaking up against?” “Everyone’s!” “And who are you taking on?” “The foreign devils!” Zhou declared. “They think China is easy to bully. Those bloody French bastards cannot beat Liu Yongfu in Annam, so they bring a couple of ironclad steamships, flimsy as paper lanterns, to hover outside the Wusong. The useless fools in Shanghai frighten themselves into a panic and throw the whole market into disorder. Even Fukang’s golden reputation cannot withstand it. When all is said and done, the French are to blame! But at least they are open villains. There are other foreign devils more poisonous still, who kill without spilling blood.” He paused deliberately to judge the response. Voices called from every side, “Which country? Which country?” “You want to know? The green snake’s mouth, the wasp’s sharp sting—neither is as poisonous as the British!”"
+  },
+  {
+    "id": "P021",
+    "global_id": "B086-P021",
+    "part": 86,
+    "source_start_line": 34297,
+    "source_end_line": 34309,
+    "source_heading_prefix": "",
+    "zh": "对这两句话，大家报以沉默。此一反应不大好，因为广济医院的梅藤更，颇获杭州人的好感，而此人是英国人。“你们只看见梅藤更，”周少棠把大家心里的疙瘩抓了出来，“梅藤更是医生，医家有割股之心，自然是好的。另外呢？第一个是赫德，我们中国的海关，归他一把抓，好比我们的咽喉给他卡住了！”说着他伸手张开虎口，比在自己脖子上作个扼喉的姿势，“他手松一松，中国人就多吃两口饭，紧一紧就要饿肚皮！这个娘卖×的赫德，他只要中国人吃‘黑饭’，不要中国人吃白饭。”说到这里，恰好有个涕泗横流的后生，极力往外挤，引起小小的骚动，给了周少棠一个借题发挥的机会。“你看你，你看你！”他指着那后生说：“年纪轻轻不学好，吃乌烟！瘾头一来，就是这副鬼相。不过，“他提高了声音，”也不要怪他，要怪杀人不见血的英国人！没有英国人，今天阜康没有事。““周少棠，你不要乱开黄腔，旱康显原形，跟英国人啥相千？屙不出屎怪茅坑，真正气数。”责问的是黄八麻子，词锋犀利。周少棠不慌不忙地答道：“你说我开黄腔，我又不姓黄。”",
+    "en": "The crowd greeted these words with silence. This was not a favourable reaction: Mei Tenggeng of Guangji Hospital was well liked in Hangzhou, and he was British. “You are thinking only of Mei Tenggeng,” Zhou said, putting his finger on their objection. “He is a doctor, with a physician’s readiness to cut flesh from his own thigh to save another. Naturally, he is a good man. But what of the others? Take Hart first. He has all our Chinese customs in his grip, as though he were holding us by the throat.” Zhou spread the thumb and fingers of one hand and held them against his own neck in a gesture of strangulation. “If he loosens his hand, we Chinese get a few more mouthfuls of rice; if he tightens it, we go hungry. That bastard Hart wants the Chinese to eat only ‘black food,’ never white rice!” Just then, a young fellow with tears and mucus streaming down his face forced his way towards the edge of the crowd. The small commotion gave Zhou something else to exploit. Pointing at him, he cried, “Look at you! So young, and already taking to bad ways—smoking opium! See what a creature it makes of him when the craving comes! But,” he raised his voice, “do not blame him. Blame the British, who kill without spilling blood! Without the British, nothing would be wrong with Fukang today.” “Zhou, stop that ‘yellow talk’—spouting nonsense! What have the British to do with Fukang showing its true colours? You cannot shit, so you blame the privy. Infuriating!” The challenge came from Huang Bamazi, and it was sharp. Zhou replied calmly, “You accuse me of ‘yellow talk,’ but my surname is not Huang—Yellow!”"
+  },
+  {
+    "id": "P022",
+    "global_id": "B086-P022",
+    "part": 86,
+    "source_start_line": 34311,
+    "source_end_line": 34331,
+    "source_heading_prefix": "",
+    "zh": "话一出口，立刻引起一阵爆笑，还有拍手顿足，乐不可支的。这又给周少棠一个机会，等笑声咯停，大声向黄八麻子挑战。“黄八麻子，你说屙不出屎怪茅坑，是要怪茅坑不好，你敢不敢同我辩一辩？”“别人怕你的歪理十八条，我姓黄的石骨铁硬的杭铁头，偏要戳穿你的西洋镜。”“你是杭铁头，莫非我是苏空头？放马过来！”大家一看有好戏看了，自动让出一条路来，容黄八麻子挤到前面，便有人喊：“上去！上去！”更有人将他抬了起来。周少棠很有风度，伸手拉了他一把，自己偏到一边，腾出地方来让他对立。经此鼓舞的黄八麻子，信心更足了，“周少棠，我辩不过你输一桌酒席。”他问：“你输了呢？”“我输了，一桌酒席以外，当场给大家磕头赔不是。”“好！你问我答，我问你答，答不出来算输。你先问。”周少棠本就想先发问，如下围棋的取得“先手”，所以一听黄八麻子的话，正中下怀，当即拱拱手说：“承让，承让！”“不必客气，放马过来。”黄八麻子，人高马大，又站在东面，偏西的阳光，照得他麻子粒粒发亮，只见他叉手仰脸，颇有睥睨一世的气概。",
+    "en": "The retort brought a burst of laughter. Some people clapped and stamped their feet in delight. This gave Zhou another opening. When the laughter eased, he challenged Huang loudly. “You say a man who cannot shit blames the privy. Well, sometimes the privy is to blame. Dare you argue it out with me?” “Other people may fear your eighteen varieties of crooked reasoning. I am a Hangzhou Iron Head, bone of stone and iron. I shall expose your tricks!” “You are an Iron Head? Do you take me for a Suzhou Empty Head? Come on, then!” Anticipating a good show, the crowd made way for Huang. “Up you go!” people shouted, and some lifted him onto the table. Zhou, with great courtesy, gave him a hand and moved aside to make room for him to stand opposite. Encouraged, Huang grew still more confident. “Zhou, if I cannot beat you in argument, I shall pay for a banquet. What if you lose?” “I shall pay for a banquet too, and kowtow here and now to everyone in apology.” “Good. You ask, I answer; I ask, you answer. Whoever cannot answer loses. You ask first.” Zhou had wanted the first question, just as a player seeks the initiative at go. The offer suited him perfectly. He clasped his hands. “You are too kind!” “No need for courtesy. Come on!” Huang was a tall, imposing fellow. Standing on the eastern side of the table, he faced the declining western sun, which lit up every pockmark. With his arms folded and chin raised, he looked as though he scorned the whole world."
+  },
+  {
+    "id": "P023",
+    "global_id": "B086-P023",
+    "part": 86,
+    "source_start_line": 34333,
+    "source_end_line": 34351,
+    "source_heading_prefix": "",
+    "zh": "“请问，现在有一种新式缫丝的机器，你晓得不晓得？”“晓得。”黄八麻子看都不看地回答。“这种机器，一部好当一百部纺车用，你晓得不晓得？”“晓得。”“既然一部机器，好当一百部纺车用，那么，算他每家有五部纺车，二五得十，加十倍变一百，就有二十家人家的纺车没用处了，这一点你晓得不晓得？”“晓得。”“二十家的纺车没有用处，就是二十家人家没饭吃。这一点，你当然也晓得。”周少棠加了一句：“是不是？黄八麻子请你说。”“这有啥好说的？”黄八麻子手指着周少棠说：“这件事同阜康要上排门，有啥关系？你把脑筋放清楚来，不要乱扯。”“你说我乱扯就乱扯，扯到后来，你才晓得来龙去脉，原来在此！那时候已经晚了，一桌酒席输掉了。”“哼哼！”黄八麻子冷说，“倒要看看是我输酒席，还是你朝大家磕头。”",
+    "en": "“Tell me, do you know about the new silk-reeling machines?” “I do,” Huang answered without even looking at him. “Do you know that one machine can do the work of a hundred spinning wheels?” “I do.” “Then suppose each household has five spinning wheels. Twice five makes ten; multiply by ten and you have a hundred. That means twenty households’ wheels become useless. Do you understand that?” “I do.” “Twenty households with useless wheels means twenty households with nothing to eat. You understand that too, of course.” Zhou added, “Do you not? Please answer, Huang Bamazi.” “What is there to answer?” Huang pointed at him. “What has any of this to do with Fukang putting up its shutters? Keep your head clear and stop wandering off the subject.” “Call it wandering if you like. Once I reach the end, you will understand how it all connects. But by then it will be too late: you will have lost your banquet.” “Hmph!” Huang sneered. “We shall see whether I lose a banquet or you kowtow to everyone.”"
+  },
+  {
+    "id": "P024",
+    "global_id": "B086-P024",
+    "part": 86,
+    "source_start_line": 34353,
+    "source_end_line": 34367,
+    "source_heading_prefix": "",
+    "zh": "“好！言归正传。”周少棠问：“虽然是机器，也要有茧子才做得出丝，是不是？”“这还用你说！”“那么，没有茧子，他的机器就没有用了，这也是用不着说的。现在，我再要问你一件事，他们的机器是哪里来的？”“当然是外洋来的。”“是哪个从外洋运来的？”“我不晓得，只有请教你‘万宝全书缺只角’的周少棠了。”“这一点，倒不在我‘缺’的那只‘角’里面，我告诉你，怡和洋行，大班是英国人。”周少棠这时变了方式，面朝大众演说：“英国人的机器好，就是嘴巴大，一部机器要吃掉我们中国人二十家做给人家的饭。大家倒想，有啥办法对付？只有一个办法，根本叫他的机器饿肚皮。怎么饿法，不卖茧子给他。”这时台底下有些骚动了，“嗡嗡”的声音出现在好几处地方，显然是被周少棠点醒了，有些摸到胡雪岩的苦衷了。",
+    "en": "“Very well! Back to the point,” Zhou said. “Even a machine needs cocoons before it can make silk. Correct?” “That goes without saying!” “Then it is equally obvious that, without cocoons, the machine is useless. Now another question: where do these machines come from?” “Abroad, naturally.” “Who brought them here?” “I do not know. I must ask you, Zhou Shaotang, the encyclopaedia with one corner missing.” “That happens not to be in my missing corner. I shall tell you: Jardine Matheson. Its chief is British.” Zhou now changed his method and addressed the crowd. “The British machines are good, but they have huge mouths. One machine swallows the rice that feeds twenty Chinese households. Think about it: what can we do? There is only one answer. Starve their machines from the outset. How? Sell them no cocoons!” A stir ran through the audience. Buzzing conversations broke out in several places. Evidently, Zhou had opened their eyes, and some were beginning to understand Hu’s difficulties."
+  },
+  {
+    "id": "P025",
+    "global_id": "B086-P025",
+    "part": 86,
+    "source_start_line": 34369,
+    "source_end_line": 34393,
+    "source_heading_prefix": "",
+    "zh": "这样的情况不能继续下去，否则凝聚起来的注意力一分散，他的话就说不下去了，因此找到一个熟人，指名发问。“喂，小阿毛，你是做机坊的，你娘是‘湖丝阿奶’，你倒说说看！”在家络丝，论件计酬，贴补家用的妇女，杭州人称之为“湖丝阿奶”，小阿毛父子都是织造衙门的织工，一家人的生计都与丝有关，对于新式缫丝厂的情况相当清楚，当即答说：“我娘先没有‘生活’做，现在又有了。”“是啥辰光没有‘生活’做？”“上海洋机厂一开工，就没有了。”“现在为啥又有了呢？”“因为洋机厂停工。”“洋机厂为啥停工？”“我不晓得。”“你晓不晓得？”周少棠转脸问黄八麻子，但不等他回答，自己说了出来，“是因为不卖茧子给它。”然后又问：“养蚕人家不卖茧子，吃什么？茧子一定要卖，不卖给洋鬼子，总要有人来买？你说，这是哪一个？“黄八麻子知道而不肯说，一说就要输，所以硬着头皮答道：“哪个晓得？”“你不晓得我告诉你！喏！”周少棠半转回身子，指着“阜康钱庄”闪闪生光的金字招牌说：“就是这里的胡大先生，”",
+    "en": "He could not let that continue. Once the attention he had gathered dispersed, he would be unable to go on. Spotting an acquaintance, he called on him by name. “Xiao A’mao! You work at the looms, and your mother is a ‘husi granny.’ Tell us what you know!” In Hangzhou, women who wound silk at home, paid by the piece to supplement the household income, were called husi grannies. Xiao A’mao and his father were both weavers employed by the Imperial Weaving Office. The whole family depended on silk and knew a good deal about the new reeling factories. He answered at once, “My mother had no work before. Now she has some again.” “When did she lose her work?” “When the foreign machine factory in Shanghai began operating.” “Why has she work again now?” “Because the foreign factory has stopped.” “Why did it stop?” “I do not know.” “Do you know?” Zhou turned to Huang, but answered his own question before Huang could reply. “Because nobody will sell it cocoons. But if the silkworm rearers do not sell their cocoons, how are they to eat? The cocoons must be sold. If not to the foreign devils, someone else has to buy them. Who is it?” Huang knew, but would not say: to answer would be to lose. He brazened it out. “Who knows?” “If you do not, I shall tell you!” Zhou half-turned and pointed at the shining gold characters of Fukang’s sign. “Mr Hu, of this very bank!”"
+  },
+  {
+    "id": "P026",
+    "global_id": "B086-P026",
+    "part": 86,
+    "source_start_line": 34395,
+    "source_end_line": 34405,
+    "source_heading_prefix": "",
+    "zh": "“周少棠，你又要捧‘财神’的卵泡了！”黄八麻子展开反击，“胡大先生囤的是丝，茧子没有多少，事情没有弄清楚，牛皮吹得哗打打，这里又没有人买你的梨膏糖。”“我的梨膏糖消痰化气。你倒想想看，那时节，只要你晚上出去赌铜钱到天亮不回来，你娘就要来买我的梨膏糖吃了。”这是周少棠无中生有，编出来的一套话，气得黄八麻子顿足敦指地骂：“姓周的，你真不要脸，乱说八道，哪个不晓得我姓黄的从来不赌铜钱的！”这时人丛中已有笑声了，周少棠却故意开玩笑说：“你晚上出去，一夜不回家，不是去赌铜钱，那就一定去逛‘私门头’。这一来，你老婆都要来买我的梨膏糖了。”台下哄然。黄八麻子咬牙切齿却无可奈何。周少棠仍是一副惫懒的神情，相形之下，越发惹笑。“你不要生气！”周少棠笑道：“大家笑一笑就是消痰化气。老弟兄寻寻开心，犯不着认真；等一息，我请你吃‘皇饭儿’。现在，”他正一正脸色：“我们话说回头。”",
+    "en": "“Zhou, you are cradling the God of Wealth’s balls again!” Huang counterattacked. “Mr Hu is hoarding silk, not many cocoons. You have not got your facts straight, yet you boast away as though a drum were beating. Nobody here is buying your pear-syrup sweets!” “My sweets clear phlegm and soothe ill temper. Think back: whenever you went out gambling and stayed away till dawn, your mother used to come and buy some from me.” This was a complete invention. Furious, Huang stamped his feet and jabbed his finger at Zhou. “You shameless liar! Who does not know that I never gamble?” Laughter had already begun in the crowd, but Zhou deliberately pressed the joke. “If you stayed out all night and were not gambling, you must have been visiting a private brothel. Then your wife would need my sweets too.” The audience roared. Huang ground his teeth, helpless, while Zhou remained cheerfully shameless. The contrast made it funnier still. “Do not be angry!” Zhou laughed. “A good laugh clears everyone’s phlegm and temper. We are old acquaintances having a little fun. No need to take it seriously. I shall treat you at Huangfan’er shortly. Now,” he resumed a serious expression, “let us return to the matter in hand.”"
+  },
+  {
+    "id": "P027",
+    "global_id": "B086-P027",
+    "part": 86,
+    "source_start_line": 34407,
+    "source_end_line": 34413,
+    "source_heading_prefix": "",
+    "zh": "接下来，周少棠又诉诸群众了，他将胡雪岩囤丝，说成是为了维护养蚕做丝人家的利益，与洋商斗法。他说，洋商本来打算设新式缫丝厂，低价收买茧子，产丝直接运销西洋，“中国人只有辛辛苦苦养蚕，等‘蚕宝宝上山，结成茧子，以后，所有的好处，都归洋鬼子独吞了！”他转脸问黄八麻子：“你们说，洋鬼子的心肠狠不狠？你有啥话好帮他们说？”这句话惹火了他的对手，“周少棠，你不要含血喷人，我哪里帮洋鬼子说过好话？只有你，捧‘财神’的卵泡！”黄八麻子指着他说：“你有本事，说出阜康收了人家的存款，可以赖掉不付的道理来，我佩服你。”“黄八麻子，你又乱开黄腔了！你睁开眼睛看看红告示，我们杭州府的父母官说点啥，藩台大人又说点啥？胡大先生手里有五万包丝，一包四百两，一共两千万，你听清楚，两千万两银了，五十两一个的大元宝，要四十万个，为啥要赖客户的存款。“",
+    "en": "Zhou appealed to the crowd again. He presented Hu’s hoarding of silk as a struggle against the foreign merchants to protect the interests of those who reared silkworms and produced silk. The foreigners, he said, had intended to set up modern reeling factories, buy cocoons cheaply and ship the silk straight to the West. “The Chinese would do all the hard work of raising the silkworms. Once the little creatures climbed onto their frames and spun their cocoons, every bit of profit would be swallowed by the foreign devils!” Turning to Huang, he asked, “Are they not ruthless? What can you possibly say in their defence?” This enraged his opponent. “Do not slander me, Zhou! When have I ever spoken up for foreign devils? You are the one cradling the God of Wealth’s balls!” He pointed at Zhou. “If you can explain why Fukang is entitled to take people’s deposits and then refuse to pay them back, I shall admire you.” “There you go with your ‘yellow talk’ again! Open your eyes and read the red proclamation. What does our parent-official, the Prefect of Hangzhou, say? What does His Excellency the Treasurer say? Mr Hu holds fifty thousand bales of silk. At four hundred taels a bale, that is twenty million. Listen carefully: twenty million taels! In fifty-tael ingots, that would be four hundred thousand ingots. Why would he refuse to repay his depositors?”"
+  },
+  {
+    "id": "P028",
+    "global_id": "B086-P028",
+    "part": 86,
+    "source_start_line": 34415,
+    "source_end_line": 34425,
+    "source_heading_prefix": "",
+    "zh": "“不赖，那么照付啊！”黄八麻子从怀中取出一叠银票在空中扬一扬说：“你们看，阜康的银票，马上要‘擦屁股，嫌罪过’了。”他这一着，变成无理取闹，有些泼妇的行径了。周少棠不慌不忙地将手一伸：“你的银票借我看看！你放心，当了这么多人，我不会骗你、抢你的。”这一下，黄八麻子知道要落下风了，想了一下硬着头皮将银票交了过去，“一共五张，两千六百多两银子，看你付不付，”他心里在想，周少棠绷在情面上，一定会如数照付，虽然嘴上吃了亏，但得了实惠，还是划算的。“周少棠不理他的话，接过银票来计算了一下，朝后面喊道：“兑一千四百四十两银子出来！听到没有？”谢云青精神抖擞地高声答应：“听到。”“对不起！现在兑不兑不是阜康的事情了，藩台同杭州府两位大人在阜康坐镇，出告示一千两以下照付，一千两以上等旱康老板回来，自会理清楚，大人先生的话，我们只有照听不误。”他捡出一张银票递了回去，“这张一千二百两的，请你暂时收回，等胡大先生回来再兑，其余四张，一共一千四百四十两，赌，来了！”",
+    "en": "“If he is not refusing, let him pay!” Huang pulled a wad of banknotes from inside his clothes and waved them in the air. “Look! Fukang notes! Soon they will hardly be fit to wipe your arse with.” He was now becoming unreasonable, behaving almost like a quarrelsome shrew. Zhou calmly held out his hand. “Let me see your notes. Do not worry. In front of all these people, I shall neither cheat you nor rob you.” Huang knew he was losing ground. After a moment’s thought, he steeled himself and handed them over. “Five notes, over two thousand six hundred taels altogether. Let us see whether you will pay.” He thought Zhou, caught by the need to save face, would surely have them paid in full. He might lose the verbal contest, but the practical gain would make it worthwhile. Ignoring this challenge, Zhou counted the notes and called over his shoulder, “Bring out one thousand four hundred and forty taels! Did you hear?” “I heard!” Xie replied loudly, full of vigour. “I am sorry,” Zhou told Huang. “Whether these notes can be redeemed is no longer Fukang’s decision. The Treasurer and the prefect are here in person. Their proclamation says that notes for a thousand taels or less will be paid; anything above that must wait for Fukang’s owner to return and settle matters. We can only obey Their Honours.” He selected one note and handed it back. “Please keep this one for twelve hundred taels until Mr Hu returns. The other four come to one thousand four hundred and forty. Look! Here it is!”"
+  },
+  {
+    "id": "P029",
+    "global_id": "B086-P029",
+    "part": 86,
+    "source_start_line": 34427,
+    "source_end_line": 34443,
+    "source_heading_prefix": "",
+    "zh": "阜康的伙计抬上来一个箩筐，将银子堆了起来，二十八个人元宝，堆成三列，另外四个十两头的元丝。都是刚出炉的“足纹”，白光闪闪，耀眼生花。“先生，”谢云青在方桌后面，探身出来，很客气他说：“请你点点数。”“数是不要点了，一目了然。不过，”黄八麻子大感为难，“我怎么拿呢？”“照规矩，应该送到府上。不过，今天兑银票的人多，实在抽不出人。真正对不住，真正对不住！“说着，谢云青连连拱手。“好了，好了！”人丛中有人大喊：“兑了银子的好走了，前客让后客！大家都有分。“这一催促提醒了好些原有急用、要提现银的人。热闹看够了，希望阜康赶紧卸排门开始兑银，所以亦都不耐烦地鼓噪，黄八麻子无可奈何，愤愤地向周少棠说：“算你这张卖梨膏糖的嘴厉害！银子我也不兑了，银票还我！”“对不起，对不起！”谢云青赔笑说道：“等明天稍为闲一闲，要用多少现银，我派‘出店，送到府上。暗，这里是原票，请收好了。”",
+    "en": "Fukang’s employees carried out a wicker basket and piled up the silver: twenty-eight large ingots in three rows, with four smaller ingots of ten taels each. All were freshly cast silver of full standard purity, dazzlingly white. Leaning out from behind the square table, Xie said very politely, “Sir, please check the amount.” “There is no need. It is plain at a glance. But…” Huang was in difficulty. “How am I to carry it?” “Normally, we ought to deliver it to your house. Today, however, so many people are redeeming notes that we really cannot spare anyone. We are most sorry, most sorry!” Xie repeatedly clasped his hands in apology. Someone in the crowd shouted, “That is enough! If you have your silver, move along! Let the next customer come forward. There is enough for everyone!” This reminded others that they needed ready money for urgent purposes. They had seen enough entertainment and wanted Fukang to take down the shutters and begin paying out. Their impatient clamour grew. With no alternative, Huang said angrily to Zhou, “I admit that sweet-seller’s tongue of yours is formidable! I shall not take the silver. Give me back my notes!” “We are very sorry,” Xie said with an apologetic smile. “When things are a little quieter tomorrow, I shall send our outside clerk to your house with whatever silver you need. Here are your original notes. Please put them away safely.”"
+  },
+  {
+    "id": "P030",
+    "global_id": "B086-P030",
+    "part": 86,
+    "source_start_line": 34445,
+    "source_end_line": 34453,
+    "source_heading_prefix": "",
+    "zh": "“八哥，八哥！”周少棠跳下桌，来扶黄八麻子，“多亏你捧场。等下‘皇饭儿’你一定要赏我个面子。”周少棠耍了一套把戏。黄八麻子展示了一个实例，即便是提一千两银子，亦须有所准备，一千两银子五十五斤多，要个麻袋，起码还要两个人来挑，银子分量重，一个人是提不动的。这一来，极大部分的人都散去了，也没有人对只准提一千两这个限额，表示异议，但却有人要求保证以后如数照兑，既不必立笔据，无非一句空话，谢云青乐得满口答应。不过要兑现银的小户，比平常是要多得多，谢云青认为应该做得大方些，当场宣布，延时营业，直到主顾散光为止，又去租来两盏煤气灯，预备破天荒地做个夜市。偌大一场风波，如此轻易应付过去，德馨非常满意。周少棠自然成了“英雄“，上上下下无不夸奖。不过大家也都知道，风潮只是暂时平息，”重头戏“在后面，只待”主角“胡雪岩一回来便要登场了。",
+    "en": "“Brother Eight! Brother Eight!” Zhou jumped down and helped Huang off the table. “Thank you for helping the performance along. You must do me the honour of coming to Huangfan’er later.” Zhou had played a neat trick, and Huang had supplied a practical demonstration. Even withdrawing a thousand taels required preparation. A thousand taels of silver weighed more than fifty-five jin. One needed a sack and at least two men to carry it; the weight was too much for one man to lift. Most of the crowd now dispersed. Nobody objected to the thousand-tael limit, though some wanted an assurance that they would eventually be paid in full. Since no written undertaking was required, it amounted to no more than words, and Xie readily promised everything. There were nevertheless far more small customers seeking silver than usual. Feeling that the bank should act generously, he announced on the spot that business would continue until the last customer had left. He also rented two gas lamps, preparing to open at night for the first time. Dexin was thoroughly satisfied that so great a disturbance had been handled with such ease. Zhou naturally became the “hero,” praised by everyone from top to bottom. Yet all knew that the crisis had only been quietened for the moment. The main act was still to come, waiting for its leading player, Hu Xueyan, to return and take the stage."
+  }
+]

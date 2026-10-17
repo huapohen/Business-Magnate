@@ -1,0 +1,1222 @@
+{
+  "source_sha256": "27ded7a0aa0482b15b146c349d02dee34c92be0107317481d5123b2c2f498238",
+  "sections": {
+    "1": {
+      "prefix": "内容简介",
+      "en": "SYNOPSIS",
+      "zh": "内容简介"
+    },
+    "11": {
+      "prefix": "楔子",
+      "en": "PROLOGUE",
+      "zh": "楔子"
+    },
+    "27": {
+      "prefix": "",
+      "en": "THE NOVEL",
+      "zh": "正文"
+    },
+    "29": {
+      "prefix": "一",
+      "en": "CHAPTER ONE",
+      "zh": "第一章"
+    },
+    "541": {
+      "prefix": "二",
+      "en": "CHAPTER TWO",
+      "zh": "第二章"
+    },
+    "1773": {
+      "prefix": "三",
+      "en": "CHAPTER THREE",
+      "zh": "第三章"
+    },
+    "2841": {
+      "prefix": "四",
+      "en": "CHAPTER FOUR",
+      "zh": "第四章"
+    },
+    "3733": {
+      "prefix": "五",
+      "en": "CHAPTER FIVE",
+      "zh": "第五章"
+    },
+    "4215": {
+      "prefix": "六",
+      "en": "CHAPTER SIX",
+      "zh": "第六章"
+    },
+    "4987": {
+      "prefix": "七",
+      "en": "CHAPTER SEVEN",
+      "zh": "第七章"
+    },
+    "6117": {
+      "prefix": "八",
+      "en": "CHAPTER EIGHT",
+      "zh": "第八章"
+    },
+    "6877": {
+      "prefix": "九",
+      "en": "CHAPTER NINE",
+      "zh": "第九章"
+    },
+    "7847": {
+      "prefix": "十",
+      "en": "CHAPTER TEN",
+      "zh": "第十章"
+    },
+    "8377": {
+      "prefix": "十一",
+      "en": "CHAPTER ELEVEN",
+      "zh": "第十一章"
+    },
+    "9279": {
+      "prefix": "十二",
+      "zh": "第十二章",
+      "en": "CHAPTER TWELVE"
+    },
+    "10747": {
+      "prefix": "十三",
+      "zh": "第十三章",
+      "en": "CHAPTER THIRTEEN"
+    },
+    "11033": {
+      "prefix": "十四",
+      "zh": "第十四章",
+      "en": "CHAPTER FOURTEEN"
+    },
+    "11841": {
+      "prefix": "十五",
+      "zh": "第十五章",
+      "en": "CHAPTER FIFTEEN"
+    },
+    "12975": {
+      "prefix": "十六",
+      "zh": "第十六章",
+      "en": "CHAPTER SIXTEEN"
+    },
+    "13931": {
+      "prefix": "十七",
+      "zh": "第十七章",
+      "en": "CHAPTER SEVENTEEN"
+    },
+    "14715": {
+      "prefix": "十八",
+      "zh": "第十八章",
+      "en": "CHAPTER EIGHTEEN"
+    },
+    "15581": {
+      "prefix": "十九",
+      "zh": "第十九章",
+      "en": "CHAPTER NINETEEN"
+    },
+    "16199": {
+      "prefix": "二十",
+      "zh": "第二十章",
+      "en": "CHAPTER TWENTY"
+    },
+    "16899": {
+      "prefix": "二十一",
+      "zh": "第二十一章",
+      "en": "CHAPTER TWENTY-ONE"
+    },
+    "17695": {
+      "prefix": "二十二",
+      "zh": "第二十二章",
+      "en": "CHAPTER TWENTY-TWO"
+    },
+    "18987": {
+      "prefix": "二十三",
+      "zh": "第二十三章",
+      "en": "CHAPTER TWENTY-THREE"
+    },
+    "20425": {
+      "prefix": "二十五",
+      "zh": "第二十五章",
+      "en": "CHAPTER TWENTY-FIVE"
+    },
+    "21459": {
+      "prefix": "二十六",
+      "zh": "第二十六章",
+      "en": "CHAPTER TWENTY-SIX"
+    },
+    "22297": {
+      "prefix": "二十七",
+      "zh": "第二十七章",
+      "en": "CHAPTER TWENTY-SEVEN"
+    },
+    "23529": {
+      "prefix": "二十八",
+      "zh": "第二十八章",
+      "en": "CHAPTER TWENTY-EIGHT"
+    },
+    "24317": {
+      "prefix": "二十九",
+      "zh": "第二十九章",
+      "en": "CHAPTER TWENTY-NINE"
+    },
+    "25671": {
+      "prefix": "三十",
+      "zh": "第三十章",
+      "en": "CHAPTER THIRTY"
+    },
+    "26353": {
+      "prefix": "三十一",
+      "zh": "第三十一章",
+      "en": "CHAPTER THIRTY-ONE"
+    },
+    "26909": {
+      "prefix": "编后小语",
+      "zh": "编后小语",
+      "en": "EDITORIAL AFTERWORD"
+    },
+    "26916": {
+      "prefix": "内容简介",
+      "zh": "《灯火楼台》内容简介",
+      "en": "TOWERS OF LIGHT — SYNOPSIS"
+    },
+    "26927": {
+      "prefix": "前记",
+      "zh": "前记",
+      "en": "FOREWORD"
+    },
+    "26945": {
+      "prefix": "一出将人相",
+      "zh": "第一章 出将入相",
+      "en": "CHAPTER ONE: FROM GENERAL TO MINISTER"
+    },
+    "27639": {
+      "prefix": "二深宫疑云",
+      "zh": "第二章 深宫疑云",
+      "en": "CHAPTER TWO: MISGIVINGS IN THE INNER PALACE"
+    },
+    "28521": {
+      "prefix": "三元宝街",
+      "zh": "第三章 元宝街",
+      "en": "CHAPTER THREE: YUANBAO STREET"
+    },
+    "29113": {
+      "prefix": "四美人计",
+      "zh": "第四章 美人计",
+      "en": "CHAPTER FOUR: THE BEAUTY STRATAGEM"
+    },
+    "29795": {
+      "prefix": "五“螺蛳太太”",
+      "zh": "第五章 “螺蛳太太”",
+      "en": "CHAPTER FIVE: MADAM LUOSI"
+    },
+    "31399": {
+      "prefix": "六曲折情关",
+      "zh": "第六章 曲折情关",
+      "en": "CHAPTER SIX: A WINDING ROAD TO MARRIAGE"
+    },
+    "32315": {
+      "prefix": "七帮夫运",
+      "zh": "第七章 帮夫运",
+      "en": "CHAPTER SEVEN: A WIFE WHO BRINGS HER HUSBAND PROSPERITY"
+    },
+    "32484": {
+      "prefix": "一甲申之变",
+      "zh": "第一章 甲申之变",
+      "en": "CHAPTER ONE: THE CRISIS OF THE JIASHEN YEAR"
+    },
+    "33377": {
+      "prefix": "二变起不测",
+      "zh": "第二章 变起不测",
+      "en": "CHAPTER TWO: AN UNFORESEEN CRISIS"
+    },
+    "34039": {
+      "prefix": "三仗义执言",
+      "zh": "第三章 仗义执言",
+      "en": "CHAPTER THREE: SPEAKING UP FOR JUSTICE"
+    },
+    "34455": {
+      "prefix": "四夜访藩司",
+      "zh": "第四章 夜访藩司",
+      "en": "CHAPTER FOUR: A NIGHT VISIT TO THE PROVINCIAL TREASURER"
+    },
+    "35091": {
+      "prefix": "五回光返照",
+      "zh": "第五章 回光返照",
+      "en": "CHAPTER FIVE: THE LAST FLICKER"
+    },
+    "35493": {
+      "prefix": "六探骊得珠",
+      "zh": "第六章 探骊得珠",
+      "en": "CHAPTER SIX: SEIZING THE DRAGON’S PEARL"
+    },
+    "36021": {
+      "prefix": "七大封典铺",
+      "zh": "第七章 大封典铺",
+      "en": "CHAPTER SEVEN: THE MASS SEQUESTRATION OF THE PAWNSHOPS"
+    },
+    "37133": {
+      "prefix": "八赠妾酬友",
+      "zh": "第八章 赠妾酬友",
+      "en": "CHAPTER EIGHT: A CONCUBINE AS A GIFT TO A FRIEND"
+    },
+    "37747": {
+      "prefix": "九少年绮梦",
+      "zh": "第九章 少年绮梦",
+      "en": "CHAPTER NINE: YOUTHFUL DREAMS OF LOVE"
+    },
+    "38279": {
+      "prefix": "十不堪回首",
+      "zh": "第十章 不堪回首",
+      "en": "CHAPTER TEN: THE PAST TOO PAINFUL TO RECALL"
+    },
+    "38925": {
+      "prefix": "十一人去楼空",
+      "zh": "第十一章 人去楼空",
+      "en": "CHAPTER ELEVEN: THE PEOPLE GONE, THE TOWERS EMPTY"
+    },
+    "39625": {
+      "prefix": "十二城狐社鼠",
+      "zh": "第十二章 城狐社鼠",
+      "en": "CHAPTER TWELVE: FOXES IN THE CITY WALL, RATS IN THE SHRINE"
+    },
+    "40233": {
+      "prefix": "十三烟消云散",
+      "zh": "第十三章 烟消云散",
+      "en": "CHAPTER THIRTEEN: VANISHING INTO THIN AIR"
+    },
+    "40919": {
+      "prefix": "后记",
+      "zh": "后记",
+      "en": "AFTERWORD"
+    }
+  },
+  "parts": [
+    {
+      "number": 1,
+      "start_line": 1,
+      "end_line": 540,
+      "file_stem": "001_平步青云（上）_简介_楔子_第一章",
+      "title_zh": "简介、楔子、《平步青云（上）》第一章（完整）",
+      "title_en": "Synopsis, Prologue, and the complete Chapter One of A Swift Rise to Prominence, Volume I",
+      "display_number": 1
+    },
+    {
+      "number": 2,
+      "start_line": 541,
+      "end_line": 1120,
+      "file_stem": "002_平步青云（上）_第二章_上",
+      "title_zh": "《平步青云（上）》第二章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Two, first part",
+      "display_number": 2
+    },
+    {
+      "number": 3,
+      "start_line": 1121,
+      "end_line": 1772,
+      "file_stem": "003_平步青云（上）_第二章_下",
+      "title_zh": "《平步青云（上）》第二章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Two, concluding part",
+      "display_number": 3
+    },
+    {
+      "number": 4,
+      "start_line": 1773,
+      "end_line": 2394,
+      "file_stem": "004_平步青云（上）_第三章_上",
+      "title_zh": "《平步青云（上）》第三章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Three, first part",
+      "display_number": 4
+    },
+    {
+      "number": 5,
+      "start_line": 2395,
+      "end_line": 2840,
+      "file_stem": "005_平步青云（上）_第三章_下",
+      "title_zh": "《平步青云（上）》第三章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Three, concluding part",
+      "display_number": 5
+    },
+    {
+      "number": 6,
+      "start_line": 2841,
+      "end_line": 3332,
+      "file_stem": "006_平步青云（上）_第四章_上",
+      "title_zh": "《平步青云（上）》第四章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Four, first part",
+      "display_number": 6
+    },
+    {
+      "number": 7,
+      "start_line": 3333,
+      "end_line": 3732,
+      "file_stem": "007_平步青云（上）_第四章_下",
+      "title_zh": "《平步青云（上）》第四章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Four, concluding part",
+      "display_number": 7
+    },
+    {
+      "number": 8,
+      "start_line": 3733,
+      "end_line": 4214,
+      "file_stem": "008_平步青云（上）_第五章",
+      "title_zh": "《平步青云（上）》第五章（完整）",
+      "title_en": "A Swift Rise to Prominence, Volume I — the complete Chapter Five",
+      "display_number": 8
+    },
+    {
+      "number": 9,
+      "start_line": 4215,
+      "end_line": 4986,
+      "file_stem": "009_平步青云（上）_第六章",
+      "title_zh": "《平步青云（上）》第六章（完整）",
+      "title_en": "A Swift Rise to Prominence, Volume I — the complete Chapter Six",
+      "display_number": 9
+    },
+    {
+      "number": 10,
+      "start_line": 4987,
+      "end_line": 5662,
+      "file_stem": "010_平步青云（上）_第七章_上",
+      "title_zh": "《平步青云（上）》第七章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Seven, first part",
+      "display_number": 10
+    },
+    {
+      "number": 11,
+      "start_line": 5663,
+      "end_line": 6116,
+      "file_stem": "011_平步青云（上）_第七章_下",
+      "title_zh": "《平步青云（上）》第七章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Seven, concluding part",
+      "display_number": 11
+    },
+    {
+      "number": 12,
+      "start_line": 6117,
+      "end_line": 6876,
+      "file_stem": "012_平步青云（上）_第八章",
+      "title_zh": "《平步青云（上）》第八章（完整）",
+      "title_en": "A Swift Rise to Prominence, Volume I — the complete Chapter Eight",
+      "display_number": 12
+    },
+    {
+      "number": 13,
+      "start_line": 6877,
+      "end_line": 7408,
+      "file_stem": "013_平步青云（上）_第九章_上",
+      "title_zh": "《平步青云（上）》第九章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Nine, first part",
+      "display_number": 13
+    },
+    {
+      "number": 14,
+      "start_line": 7409,
+      "end_line": 7846,
+      "file_stem": "014_平步青云（上）_第九章_下",
+      "title_zh": "《平步青云（上）》第九章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Nine, concluding part",
+      "display_number": 14
+    },
+    {
+      "number": 15,
+      "start_line": 7847,
+      "end_line": 8376,
+      "file_stem": "015_平步青云（上）_第十章",
+      "title_zh": "《平步青云（上）》第十章（完整）",
+      "title_en": "A Swift Rise to Prominence, Volume I — the complete Chapter Ten",
+      "display_number": 15
+    },
+    {
+      "number": 16,
+      "start_line": 8377,
+      "end_line": 8834,
+      "file_stem": "016_平步青云（上）_第十一章_上",
+      "title_zh": "《平步青云（上）》第十一章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Eleven, first part",
+      "display_number": 16
+    },
+    {
+      "number": 17,
+      "start_line": 8835,
+      "end_line": 9278,
+      "file_stem": "017_平步青云（上）_第十一章_下",
+      "title_zh": "《平步青云（上）》第十一章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume I — Chapter Eleven, concluding part",
+      "display_number": 17
+    },
+    {
+      "number": 18,
+      "start_line": 9279,
+      "end_line": 9720,
+      "file_stem": "018_平步青云（中）_第十二章_上",
+      "title_zh": "《平步青云（中）》第十二章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twelve, first part",
+      "display_number": 18
+    },
+    {
+      "number": 19,
+      "start_line": 9721,
+      "end_line": 10248,
+      "file_stem": "019_平步青云（中）_第十二章_中",
+      "title_zh": "《平步青云（中）》第十二章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twelve, middle part",
+      "display_number": 19
+    },
+    {
+      "number": 20,
+      "start_line": 10249,
+      "end_line": 10746,
+      "file_stem": "020_平步青云（中）_第十二章_下",
+      "title_zh": "《平步青云（中）》第十二章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twelve, concluding part",
+      "display_number": 20
+    },
+    {
+      "number": 21,
+      "start_line": 10747,
+      "end_line": 11032,
+      "file_stem": "021_平步青云（中）_第十三章",
+      "title_zh": "《平步青云（中）》第十三章（完整）",
+      "title_en": "A Swift Rise to Prominence, Volume II — the complete Chapter Thirteen",
+      "display_number": 21
+    },
+    {
+      "number": 22,
+      "start_line": 11033,
+      "end_line": 11476,
+      "file_stem": "022_平步青云（中）_第十四章_上",
+      "title_zh": "《平步青云（中）》第十四章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Fourteen, first part",
+      "display_number": 22
+    },
+    {
+      "number": 23,
+      "start_line": 11477,
+      "end_line": 11840,
+      "file_stem": "023_平步青云（中）_第十四章_下",
+      "title_zh": "《平步青云（中）》第十四章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Fourteen, concluding part",
+      "display_number": 23
+    },
+    {
+      "number": 24,
+      "start_line": 11841,
+      "end_line": 12310,
+      "file_stem": "024_平步青云（中）_第十五章_上",
+      "title_zh": "《平步青云（中）》第十五章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Fifteen, first part",
+      "display_number": 24
+    },
+    {
+      "number": 25,
+      "start_line": 12311,
+      "end_line": 12532,
+      "file_stem": "025_平步青云（中）_第十五章_中",
+      "title_zh": "《平步青云（中）》第十五章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Fifteen, middle part",
+      "display_number": 25
+    },
+    {
+      "number": 26,
+      "start_line": 12533,
+      "end_line": 12974,
+      "file_stem": "026_平步青云（中）_第十五章_下",
+      "title_zh": "《平步青云（中）》第十五章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Fifteen, concluding part",
+      "display_number": 26
+    },
+    {
+      "number": 27,
+      "start_line": 12975,
+      "end_line": 13430,
+      "file_stem": "027_平步青云（中）_第十六章_上",
+      "title_zh": "《平步青云（中）》第十六章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Sixteen, first part",
+      "display_number": 27
+    },
+    {
+      "number": 28,
+      "start_line": 13431,
+      "end_line": 13930,
+      "file_stem": "028_平步青云（中）_第十六章_下",
+      "title_zh": "《平步青云（中）》第十六章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Sixteen, concluding part",
+      "display_number": 28
+    },
+    {
+      "number": 29,
+      "start_line": 13931,
+      "end_line": 14340,
+      "file_stem": "029_平步青云（中）_第十七章_上",
+      "title_zh": "《平步青云（中）》第十七章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Seventeen, first part",
+      "display_number": 29
+    },
+    {
+      "number": 30,
+      "start_line": 14341,
+      "end_line": 14714,
+      "file_stem": "030_平步青云（中）_第十七章_下",
+      "title_zh": "《平步青云（中）》第十七章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Seventeen, concluding part",
+      "display_number": 30
+    },
+    {
+      "number": 31,
+      "start_line": 14715,
+      "end_line": 15114,
+      "file_stem": "031_平步青云（中）_第十八章_上",
+      "title_zh": "《平步青云（中）》第十八章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Eighteen, first part",
+      "display_number": 31
+    },
+    {
+      "number": 32,
+      "start_line": 15115,
+      "end_line": 15580,
+      "file_stem": "032_平步青云（中）_第十八章_下",
+      "title_zh": "《平步青云（中）》第十八章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Eighteen, concluding part",
+      "display_number": 32
+    },
+    {
+      "number": 33,
+      "start_line": 15581,
+      "end_line": 15840,
+      "file_stem": "033_平步青云（中）_第十九章_上",
+      "title_zh": "《平步青云（中）》第十九章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Nineteen, first part",
+      "display_number": 33
+    },
+    {
+      "number": 34,
+      "start_line": 15841,
+      "end_line": 16198,
+      "file_stem": "034_平步青云（中）_第十九章_下",
+      "title_zh": "《平步青云（中）》第十九章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Nineteen, concluding part",
+      "display_number": 34
+    },
+    {
+      "number": 35,
+      "start_line": 16199,
+      "end_line": 16540,
+      "file_stem": "035_平步青云（中）_第二十章_上",
+      "title_zh": "《平步青云（中）》第二十章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twenty, first part",
+      "display_number": 35
+    },
+    {
+      "number": 36,
+      "start_line": 16541,
+      "end_line": 16898,
+      "file_stem": "036_平步青云（中）_第二十章_下",
+      "title_zh": "《平步青云（中）》第二十章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twenty, concluding part",
+      "display_number": 36
+    },
+    {
+      "number": 37,
+      "start_line": 16899,
+      "end_line": 17322,
+      "file_stem": "037_平步青云（中）_第二十一章_上",
+      "title_zh": "《平步青云（中）》第二十一章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twenty-One, first part",
+      "display_number": 37
+    },
+    {
+      "number": 38,
+      "start_line": 17323,
+      "end_line": 17694,
+      "file_stem": "038_平步青云（中）_第二十一章_下",
+      "title_zh": "《平步青云（中）》第二十一章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume II — Chapter Twenty-One, concluding part",
+      "display_number": 38
+    },
+    {
+      "number": 39,
+      "start_line": 17695,
+      "end_line": 18128,
+      "file_stem": "039_平步青云（下）_第二十二章_上",
+      "title_zh": "《平步青云（下）》第二十二章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Two, first part",
+      "display_number": 39
+    },
+    {
+      "number": 40,
+      "start_line": 18129,
+      "end_line": 18568,
+      "file_stem": "040_平步青云（下）_第二十二章_中",
+      "title_zh": "《平步青云（下）》第二十二章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Two, middle part",
+      "display_number": 40
+    },
+    {
+      "number": 41,
+      "start_line": 18569,
+      "end_line": 18986,
+      "file_stem": "041_平步青云（下）_第二十二章_下",
+      "title_zh": "《平步青云（下）》第二十二章（下，至本章结束）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Two, concluding part",
+      "display_number": 41
+    },
+    {
+      "number": 42,
+      "start_line": 18987,
+      "end_line": 19346,
+      "file_stem": "042_平步青云（下）_第二十三章起连续正文_一",
+      "title_zh": "《平步青云（下）》第二十三章起连续正文（之一；底本未标第二十四章）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Continuous text beginning with Chapter Twenty-Three, part one (the source supplies no Chapter Twenty-Four heading)",
+      "display_number": 42
+    },
+    {
+      "number": 43,
+      "start_line": 19347,
+      "end_line": 19740,
+      "file_stem": "043_平步青云（下）_第二十三章起连续正文_二",
+      "title_zh": "《平步青云（下）》第二十三章起连续正文（之二；底本未标第二十四章）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Continuous text beginning with Chapter Twenty-Three, part two (the source supplies no Chapter Twenty-Four heading)",
+      "display_number": 43
+    },
+    {
+      "number": 44,
+      "start_line": 19741,
+      "end_line": 20198,
+      "file_stem": "044_平步青云（下）_第二十三章起连续正文_三",
+      "title_zh": "《平步青云（下）》第二十三章起连续正文（之三；底本未标第二十四章）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Continuous text beginning with Chapter Twenty-Three, part three (the source supplies no Chapter Twenty-Four heading)",
+      "display_number": 44
+    },
+    {
+      "number": 45,
+      "start_line": 20199,
+      "end_line": 20424,
+      "file_stem": "045_平步青云（下）_第二十三章起连续正文_四",
+      "title_zh": "《平步青云（下）》第二十三章起连续正文（之四；底本未标第二十四章）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Continuous text beginning with Chapter Twenty-Three, part four (the source supplies no Chapter Twenty-Four heading)",
+      "display_number": 45
+    },
+    {
+      "number": 46,
+      "start_line": 20425,
+      "end_line": 20806,
+      "file_stem": "046_平步青云（下）_第二十五章_上",
+      "title_zh": "《平步青云（下）》第二十五章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Five, Part One",
+      "display_number": 46
+    },
+    {
+      "number": 47,
+      "start_line": 20807,
+      "end_line": 21146,
+      "file_stem": "047_平步青云（下）_第二十五章_中",
+      "title_zh": "《平步青云（下）》第二十五章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Five, Part Two",
+      "display_number": 47
+    },
+    {
+      "number": 48,
+      "start_line": 21147,
+      "end_line": 21458,
+      "file_stem": "048_平步青云（下）_第二十五章_下",
+      "title_zh": "《平步青云（下）》第二十五章（下）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Five, Part Three",
+      "display_number": 48
+    },
+    {
+      "number": 49,
+      "start_line": 21459,
+      "end_line": 21948,
+      "file_stem": "049_平步青云（下）_第二十六章_上",
+      "title_zh": "《平步青云（下）》第二十六章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Six, Part One",
+      "display_number": 49
+    },
+    {
+      "number": 50,
+      "start_line": 21949,
+      "end_line": 22296,
+      "file_stem": "050_平步青云（下）_第二十六章_下",
+      "title_zh": "《平步青云（下）》第二十六章（下）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Six, Part Two",
+      "display_number": 50
+    },
+    {
+      "number": 51,
+      "start_line": 22297,
+      "end_line": 22720,
+      "file_stem": "051_平步青云（下）_第二十七章_上",
+      "title_zh": "《平步青云（下）》第二十七章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Seven, Part One",
+      "display_number": 51
+    },
+    {
+      "number": 52,
+      "start_line": 22721,
+      "end_line": 23124,
+      "file_stem": "052_平步青云（下）_第二十七章_中",
+      "title_zh": "《平步青云（下）》第二十七章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Seven, Part Two",
+      "display_number": 52
+    },
+    {
+      "number": 53,
+      "start_line": 23125,
+      "end_line": 23528,
+      "file_stem": "053_平步青云（下）_第二十七章_下",
+      "title_zh": "《平步青云（下）》第二十七章（下）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Seven, Part Three",
+      "display_number": 53
+    },
+    {
+      "number": 54,
+      "start_line": 23529,
+      "end_line": 23710,
+      "file_stem": "054_平步青云（下）_第二十八章_上",
+      "title_zh": "《平步青云（下）》第二十八章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Eight, Part One",
+      "display_number": 54
+    },
+    {
+      "number": 55,
+      "start_line": 23711,
+      "end_line": 24024,
+      "file_stem": "055_平步青云（下）_第二十八章_中",
+      "title_zh": "《平步青云（下）》第二十八章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Eight, Part Two",
+      "display_number": 55
+    },
+    {
+      "number": 56,
+      "start_line": 24025,
+      "end_line": 24316,
+      "file_stem": "056_平步青云（下）_第二十八章_下",
+      "title_zh": "《平步青云（下）》第二十八章（下）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Eight, Part Three",
+      "display_number": 56
+    },
+    {
+      "number": 57,
+      "start_line": 24317,
+      "end_line": 24646,
+      "file_stem": "057_平步青云（下）_第二十九章_上",
+      "title_zh": "《平步青云（下）》第二十九章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Nine, Part One",
+      "display_number": 57
+    },
+    {
+      "number": 58,
+      "start_line": 24647,
+      "end_line": 25176,
+      "file_stem": "058_平步青云（下）_第二十九章_中",
+      "title_zh": "《平步青云（下）》第二十九章（中）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Nine, Part Two",
+      "display_number": 58
+    },
+    {
+      "number": 59,
+      "start_line": 25177,
+      "end_line": 25670,
+      "file_stem": "059_平步青云（下）_第二十九章_下",
+      "title_zh": "《平步青云（下）》第二十九章（下）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Twenty-Nine, Part Three",
+      "display_number": 59
+    },
+    {
+      "number": 60,
+      "start_line": 25671,
+      "end_line": 26010,
+      "file_stem": "060_平步青云（下）_第三十章_上",
+      "title_zh": "《平步青云（下）》第三十章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Thirty, Part One",
+      "display_number": 60
+    },
+    {
+      "number": 61,
+      "start_line": 26011,
+      "end_line": 26352,
+      "file_stem": "061_平步青云（下）_第三十章_下",
+      "title_zh": "《平步青云（下）》第三十章（下）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Thirty, Part Two",
+      "display_number": 61
+    },
+    {
+      "number": 62,
+      "start_line": 26353,
+      "end_line": 26696,
+      "file_stem": "062_平步青云（下）_第三十一章_上",
+      "title_zh": "《平步青云（下）》第三十一章（上）",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Thirty-One, Part One",
+      "display_number": 62
+    },
+    {
+      "number": 63,
+      "start_line": 26697,
+      "end_line": 26915,
+      "file_stem": "063_平步青云（下）_第三十一章_下及编后小语",
+      "title_zh": "《平步青云（下）》第三十一章（下）及编后小语",
+      "title_en": "A Swift Rise to Prominence, Volume III — Chapter Thirty-One, Part Two, and Editorial Afterword",
+      "display_number": 63
+    },
+    {
+      "number": 64,
+      "start_line": 26916,
+      "end_line": 26942,
+      "file_stem": "113_灯火楼台_内容简介与前记",
+      "title_zh": "《灯火楼台》内容简介与前记",
+      "title_en": "Towers of Light — Synopsis and Foreword",
+      "display_number": 113
+    },
+    {
+      "number": 65,
+      "start_line": 26943,
+      "end_line": 27318,
+      "file_stem": "114_灯火楼台_第一章_上",
+      "title_zh": "《灯火楼台》第一章（上）",
+      "title_en": "Towers of Light — Chapter One, Part One",
+      "display_number": 114
+    },
+    {
+      "number": 66,
+      "start_line": 27319,
+      "end_line": 27638,
+      "file_stem": "115_灯火楼台_第一章_下",
+      "title_zh": "《灯火楼台》第一章（下）",
+      "title_en": "Towers of Light — Chapter One, Part Two",
+      "display_number": 115
+    },
+    {
+      "number": 67,
+      "start_line": 27639,
+      "end_line": 28078,
+      "file_stem": "116_灯火楼台_第二章_上",
+      "title_zh": "《灯火楼台》第二章（上）",
+      "title_en": "Towers of Light — Chapter Two, Part One",
+      "display_number": 116
+    },
+    {
+      "number": 68,
+      "start_line": 28079,
+      "end_line": 28520,
+      "file_stem": "117_灯火楼台_第二章_下",
+      "title_zh": "《灯火楼台》第二章（下）",
+      "title_en": "Towers of Light — Chapter Two, Part Two",
+      "display_number": 117
+    },
+    {
+      "number": 69,
+      "start_line": 28521,
+      "end_line": 28818,
+      "file_stem": "118_灯火楼台_第三章_上",
+      "title_zh": "《灯火楼台》第三章（上）",
+      "title_en": "Towers of Light — Chapter Three, Part One",
+      "display_number": 118
+    },
+    {
+      "number": 70,
+      "start_line": 28819,
+      "end_line": 29112,
+      "file_stem": "119_灯火楼台_第三章_下",
+      "title_zh": "《灯火楼台》第三章（下）",
+      "title_en": "Towers of Light — Chapter Three, Part Two",
+      "display_number": 119
+    },
+    {
+      "number": 71,
+      "start_line": 29113,
+      "end_line": 29466,
+      "file_stem": "120_灯火楼台_第四章_上",
+      "title_zh": "《灯火楼台》第四章（上）",
+      "title_en": "Towers of Light — Chapter Four, Part One",
+      "display_number": 120
+    },
+    {
+      "number": 72,
+      "start_line": 29467,
+      "end_line": 29794,
+      "file_stem": "121_灯火楼台_第四章_下",
+      "title_zh": "《灯火楼台》第四章（下）",
+      "title_en": "Towers of Light — Chapter Four, Part Two",
+      "display_number": 121
+    },
+    {
+      "number": 73,
+      "start_line": 29795,
+      "end_line": 30156,
+      "file_stem": "122_灯火楼台_第五章_一",
+      "title_zh": "《灯火楼台》第五章（一）",
+      "title_en": "Towers of Light — Chapter Five, Part One",
+      "display_number": 122
+    },
+    {
+      "number": 74,
+      "start_line": 30157,
+      "end_line": 30530,
+      "file_stem": "123_灯火楼台_第五章_二",
+      "title_zh": "《灯火楼台》第五章（二）",
+      "title_en": "Towers of Light — Chapter Five, Part Two",
+      "display_number": 123
+    },
+    {
+      "number": 75,
+      "start_line": 30531,
+      "end_line": 30914,
+      "file_stem": "124_灯火楼台_第五章_三",
+      "title_zh": "《灯火楼台》第五章（三）",
+      "title_en": "Towers of Light — Chapter Five, Part Three",
+      "display_number": 124
+    },
+    {
+      "number": 76,
+      "start_line": 30915,
+      "end_line": 31398,
+      "file_stem": "125_灯火楼台_第五章_四",
+      "title_zh": "《灯火楼台》第五章（四，至本章结束）",
+      "title_en": "Towers of Light — Chapter Five, Part Four (conclusion)",
+      "display_number": 125
+    },
+    {
+      "number": 77,
+      "start_line": 31399,
+      "end_line": 31790,
+      "file_stem": "126_灯火楼台_第六章_上",
+      "title_zh": "《灯火楼台》第六章（上）",
+      "title_en": "Towers of Light — Chapter Six, Part One",
+      "display_number": 126
+    },
+    {
+      "number": 78,
+      "start_line": 31791,
+      "end_line": 32080,
+      "file_stem": "127_灯火楼台_第六章_中",
+      "title_zh": "《灯火楼台》第六章（中）",
+      "title_en": "Towers of Light — Chapter Six, Part Two",
+      "display_number": 127
+    },
+    {
+      "number": 79,
+      "start_line": 32081,
+      "end_line": 32314,
+      "file_stem": "128_灯火楼台_第六章_下",
+      "title_zh": "《灯火楼台》第六章（下）",
+      "title_en": "Towers of Light — Chapter Six, Part Three (conclusion)",
+      "display_number": 128
+    },
+    {
+      "number": 80,
+      "start_line": 32315,
+      "end_line": 32481,
+      "file_stem": "129_灯火楼台_第七章",
+      "title_zh": "《灯火楼台》第七章（全章，至本卷结束）",
+      "title_en": "Towers of Light — Chapter Seven (complete; end of volume)",
+      "display_number": 129
+    },
+    {
+      "number": 81,
+      "start_line": 32482,
+      "end_line": 32716,
+      "file_stem": "157_烟消云散_第一章_一",
+      "title_zh": "《烟消云散》卷名与第一章（一）",
+      "title_en": "Vanishing into Thin Air — Volume Title and Chapter One, Part One",
+      "display_number": 157
+    },
+    {
+      "number": 82,
+      "start_line": 32717,
+      "end_line": 33016,
+      "file_stem": "158_烟消云散_第一章_二",
+      "title_zh": "《烟消云散》第一章（二）",
+      "title_en": "Vanishing into Thin Air — Chapter One, Part Two",
+      "display_number": 158
+    },
+    {
+      "number": 83,
+      "start_line": 33017,
+      "end_line": 33376,
+      "file_stem": "159_烟消云散_第一章_三",
+      "title_zh": "《烟消云散》第一章（三，至本章结束）",
+      "title_en": "Vanishing into Thin Air — Chapter One, Part Three (conclusion)",
+      "display_number": 159
+    },
+    {
+      "number": 84,
+      "start_line": 33377,
+      "end_line": 33732,
+      "file_stem": "160_烟消云散_第二章_上",
+      "title_zh": "《烟消云散》第二章（上）",
+      "title_en": "Vanishing into Thin Air — Chapter Two, Part One",
+      "display_number": 160
+    },
+    {
+      "number": 85,
+      "start_line": 33733,
+      "end_line": 34038,
+      "file_stem": "161_烟消云散_第二章_下",
+      "title_zh": "《烟消云散》第二章（下，至本章结束）",
+      "title_en": "Vanishing into Thin Air — Chapter Two, Part Two (conclusion)",
+      "display_number": 161
+    },
+    {
+      "number": 86,
+      "start_line": 34039,
+      "end_line": 34454,
+      "file_stem": "162_烟消云散_第三章",
+      "title_zh": "《烟消云散》第三章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Three (complete)",
+      "display_number": 162
+    },
+    {
+      "number": 87,
+      "start_line": 34455,
+      "end_line": 34774,
+      "file_stem": "163_烟消云散_第四章_上",
+      "title_zh": "《烟消云散》第四章（上）",
+      "title_en": "Vanishing into Thin Air — Chapter Four, Part One",
+      "display_number": 163
+    },
+    {
+      "number": 88,
+      "start_line": 34775,
+      "end_line": 35090,
+      "file_stem": "164_烟消云散_第四章_下",
+      "title_zh": "《烟消云散》第四章（下，至本章结束）",
+      "title_en": "Vanishing into Thin Air — Chapter Four, Part Two (conclusion)",
+      "display_number": 164
+    },
+    {
+      "number": 89,
+      "start_line": 35091,
+      "end_line": 35492,
+      "file_stem": "165_烟消云散_第五章",
+      "title_zh": "《烟消云散》第五章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Five (complete)",
+      "display_number": 165
+    },
+    {
+      "number": 90,
+      "start_line": 35493,
+      "end_line": 35764,
+      "file_stem": "166_烟消云散_第六章_上",
+      "title_zh": "《烟消云散》第六章（上）",
+      "title_en": "Vanishing into Thin Air — Chapter Six, Part One",
+      "display_number": 166
+    },
+    {
+      "number": 91,
+      "start_line": 35765,
+      "end_line": 36020,
+      "file_stem": "167_烟消云散_第六章_下",
+      "title_zh": "《烟消云散》第六章（下，至本章结束）",
+      "title_en": "Vanishing into Thin Air — Chapter Six, Part Two (conclusion)",
+      "display_number": 167
+    },
+    {
+      "number": 92,
+      "start_line": 36021,
+      "end_line": 36380,
+      "file_stem": "168_烟消云散_第七章_一",
+      "title_zh": "《烟消云散》第七章（一）",
+      "title_en": "Vanishing into Thin Air — Chapter Seven, Part One",
+      "display_number": 168
+    },
+    {
+      "number": 93,
+      "start_line": 36381,
+      "end_line": 36708,
+      "file_stem": "169_烟消云散_第七章_二",
+      "title_zh": "《烟消云散》第七章（二）",
+      "title_en": "Vanishing into Thin Air — Chapter Seven, Part Two",
+      "display_number": 169
+    },
+    {
+      "number": 94,
+      "start_line": 36709,
+      "end_line": 37132,
+      "file_stem": "170_烟消云散_第七章_三",
+      "title_zh": "《烟消云散》第七章（三，至本章结束）",
+      "title_en": "Vanishing into Thin Air — Chapter Seven, Part Three (conclusion)",
+      "display_number": 170
+    },
+    {
+      "number": 95,
+      "start_line": 37133,
+      "end_line": 37460,
+      "file_stem": "171_烟消云散_第八章_上",
+      "title_zh": "《烟消云散》第八章（上）",
+      "title_en": "Vanishing into Thin Air — Chapter Eight, Part One",
+      "display_number": 171
+    },
+    {
+      "number": 96,
+      "start_line": 37461,
+      "end_line": 37746,
+      "file_stem": "172_烟消云散_第八章_下",
+      "title_zh": "《烟消云散》第八章（下，至本章结束）",
+      "title_en": "Vanishing into Thin Air — Chapter Eight, Part Two (conclusion)",
+      "display_number": 172
+    },
+    {
+      "number": 97,
+      "start_line": 37747,
+      "end_line": 38278,
+      "file_stem": "173_烟消云散_第九章",
+      "title_zh": "《烟消云散》第九章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Nine (complete)",
+      "display_number": 173
+    },
+    {
+      "number": 98,
+      "start_line": 38279,
+      "end_line": 38924,
+      "file_stem": "174_烟消云散_第十章",
+      "title_zh": "《烟消云散》第十章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Ten (complete)",
+      "display_number": 174
+    },
+    {
+      "number": 99,
+      "start_line": 38925,
+      "end_line": 39624,
+      "file_stem": "175_烟消云散_第十一章",
+      "title_zh": "《烟消云散》第十一章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Eleven (complete)",
+      "display_number": 175
+    },
+    {
+      "number": 100,
+      "start_line": 39625,
+      "end_line": 40232,
+      "file_stem": "176_烟消云散_第十二章",
+      "title_zh": "《烟消云散》第十二章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Twelve (complete)",
+      "display_number": 176
+    },
+    {
+      "number": 101,
+      "start_line": 40233,
+      "end_line": 40918,
+      "file_stem": "177_烟消云散_第十三章",
+      "title_zh": "《烟消云散》第十三章（全章）",
+      "title_en": "Vanishing into Thin Air — Chapter Thirteen (complete)",
+      "display_number": 177
+    },
+    {
+      "number": 102,
+      "start_line": 40919,
+      "end_line": 40928,
+      "file_stem": "178_后记及附载声明",
+      "title_zh": "后记及底本附载声明",
+      "title_en": "Afterword and Notice Appended to the Source",
+      "display_number": 178
+    }
+  ],
+  "current_end_zh": "所提供文本末尾，含后记及底本附载声明",
+  "current_end_en": "the end of the supplied text, including its afterword and appended notice",
+  "reading_layout": {
+    "unit": "reviewed semantic paragraph",
+    "pair_order": [
+      "zh",
+      "en"
+    ],
+    "visible_paragraph_ids": false,
+    "visible_language_labels": false,
+    "preserve_translation_content": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "reviewer": "translate_red_b",
+  "scope": "Independent complete source/translation comparison of parts 167–169, with emphasis on financial amounts, units, time bases, repayment conditions, cash versus credit and proposal versus completed transaction.",
+  "status": "passed_without_text_changes",
+  "modified_translation_files": [],
+  "coverage_checks": [
+    {
+      "part": 167,
+      "source_range": [
+        1587,
+        1697
+      ],
+      "nonempty_lines": 56,
+      "paragraphs": 13,
+      "words": 4100,
+      "coverage": "complete_once_in_order",
+      "sha256": "8353b5a8734355479767972334f3f43b05aa2fdbcd49bf3e16ab89fde10d3486"
+    },
+    {
+      "part": 168,
+      "source_range": [
+        1699,
+        1809
+      ],
+      "nonempty_lines": 56,
+      "paragraphs": 11,
+      "words": 2680,
+      "coverage": "complete_once_in_order",
+      "sha256": "007742bcfa51c2ea30d2607fbf062ceebd71f5d39eb258a53f9d2121f1ba872e"
+    },
+    {
+      "part": 169,
+      "source_range": [
+        1811,
+        1937
+      ],
+      "nonempty_lines": 64,
+      "paragraphs": 11,
+      "words": 2681,
+      "coverage": "complete_once_in_order",
+      "sha256": "fd81e166eaa1015de16daa5a919d157edac1b5dd4a3f763958f9a27521234ae3"
+    }
+  ],
+  "ledger": [
+    {
+      "part": 167,
+      "lines": "1589–1607",
+      "verified": "He asks 2,000 taels; Zhang caps at 1,500; agreement 1,200, half in advance and half after completion. Xu withdraws 1,000 and issues a 600-tael note. Remaining 200-tael shortfall not invented; thirteen gates retained."
+    },
+    {
+      "part": 167,
+      "lines": "1619",
+      "verified": "Import duty per opium chest: Chinese demand 150 taels versus British offer 80; no agreement claimed."
+    },
+    {
+      "part": 167,
+      "lines": "1631–1645",
+      "verified": "5,000,000-tael HSBC loan, monthly 1.25%, seven years/fourteen half-yearly instalments. 150,000-tael penalty and three-month deadline symmetric. HSBC monthly 1% plus Tailai 0.25 percentage points sum to 1.25%. Shillings, silver dollars and tael-weight silver kept distinct."
+    },
+    {
+      "part": 167,
+      "lines": "1653–1659",
+      "verified": "1,750,000 merchant + 1,750,000 HSBC = 3,500,000; forecast assistance >18,100,000 over seven years, at least 10,000,000 after foreign-loan repayment. Requested flexible terms distinguished from accepted six years/half-yearly/monthly1.2%. Court memorial eighth month day16 and reply one month later retained."
+    },
+    {
+      "part": 167,
+      "lines": "1661–1671",
+      "verified": "New loan4,000,000 received Guangxu7 fourth month; two years interest only; from third year1,000,000 principal/year in two500,000 payments, Guangxu9 fourth/tenth months. Each500,000 is principal, not principal plus interest. Former customs-bill protection distinguished from Shanghai office/Revenue promise and Hu personal liquidity exposure."
+    },
+    {
+      "part": 168,
+      "lines": "1709–1749",
+      "verified": "Xu wealth100,000+ taels; land2,900+ mu,51 foreign-style houses,>=2,000 commercial premises; book value2,200,000+ versus true1,500,000. Venture4,000,000 = Chinese55%/2,200,000 + British45%/1,800,000. Land top-up700,000; Gu commits500,000 with350,000 borrowed. Xu gives10,000 for subscription raising. French military appropriation5,000,000 FRANCS, not taels."
+    },
+    {
+      "part": 168,
+      "lines": "1773–1803",
+      "verified": "Hu guesses10,000,000 ready silver and is corrected to1,000,000. HSBC principal500,000 due month-end; half-month remains. Withdrawal example50,000.60–70% silver dispersed inland versus30–40% hoarded. Wen withdraws300,000 and deposits460,000; increase160,000 contains clan money100,000 and is not all personal earnings."
+    },
+    {
+      "part": 168,
+      "lines": "1805–1809",
+      "verified": "Clearing certificates basic unit500 taels; odd sums cash or separate ledger. Collection3–4pm; Fukang receivable1,000,000 less own notes840,000 = net160,000. Certificates/banknotes distinguished from actual silver."
+    },
+    {
+      "part": 169,
+      "lines": "1811–1817",
+      "verified": "Net settlement before2pm NEXT day, borrowing next morning. One/two-day advances daily-interest without receipt versus longer fixed-rate written instruments; money-creation description remains Mi explanation, not modern endorsement."
+    },
+    {
+      "part": 169,
+      "lines": "1819–1837",
+      "verified": "Silk6,000–7,000 bales; more cocoons, nearly3,000,000 taels tied up. Gu100,000 debt moved to Hu account. Three mills; several thousand bales cocoons proposed, not sold. Sterling/American notes distinguished from taels. Sale conditional on inability to collect full500,000; alternate strategy still undisclosed."
+    },
+    {
+      "part": 169,
+      "lines": "1865–1875",
+      "verified": "Additional shortage120,000–130,000. Initial500 bales plus200 becomes700 bales; proposed pledge yields140,000 taels (implicit200/bale, not inserted in prose). Collateral pledge replaces sale to avoid depressing price; no completed sale/cash receipt claimed."
+    },
+    {
+      "part": 169,
+      "lines": "1889–1925",
+      "verified": "Hu stated100-tael contract for eight years distinct from outright sale; extra payment proposed to alter contract rejected. Disclosure status preserved; early discussion not prematurely exposed as fabricated."
+    }
+  ],
+  "source_ambiguities_preserved": [
+    {
+      "part": 167,
+      "lines": "1631/1653",
+      "detail": "Source calls first commercial funding6,500,000 but later subscription total3,500,000; translation and notes retain both instead of silently reconciling."
+    },
+    {
+      "part": 167,
+      "lines": "1663",
+      "detail": "Source half-yearly principal+interest of100,000 or so appears inconsistent with loan size/term; translator preserves source, notes flag."
+    },
+    {
+      "part": 167,
+      "lines": "1665",
+      "detail": "Annual source rate九厘九毫五 rendered original units nine li, nine hao and five. Existing notes distinguish possible9.95% reading from archival9.75% (九厘七毫五丝). Root supplied corroborating primary-source scholarship; no independent rate substitution or new historical claim made."
+    },
+    {
+      "part": 168,
+      "lines": "1713/1721",
+      "detail": "Initial120 students in4x30 later fourth group40 plus second group7 privately funded; figures retained with note, not forced into an invented total."
+    },
+    {
+      "part": 168,
+      "lines": "1793",
+      "detail": "Source shortfall约1,000,000 conflicts with500,000 payment half already remitted. Correctly retained as textual inconsistency, not changed to100,000/250,000."
+    },
+    {
+      "part": 169,
+      "lines": "1833",
+      "detail": "Original both proposes converting foreign-currency sales receipts against debt and speaks of receiving500,000 silver. Translation/notes preserve argument without inventing a complete cash-flow mechanism."
+    }
+  ],
+  "out_of_scope": "No source/config/renderer/final output edits. No changes to167 notes while translator updated interest-rate citations.",
+  "safety": "Reviewed passages contain no explicit sexual acts involving identified minors; non-graphic contractual/marriage discussion in169 retained."
+}

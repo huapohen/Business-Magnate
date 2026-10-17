@@ -1,0 +1,25 @@
+{
+  "part": 175,
+  "status": "passed",
+  "coverage": {
+    "part": 175,
+    "source_range": [
+      2503,
+      2609
+    ],
+    "nonempty_lines": 54,
+    "paragraphs": 14,
+    "words": 3049,
+    "coverage": "complete_once_in_order",
+    "sha256": "ad6550e71fbbec27e73507340f62792f4902a33bf7a593645d18a30bfa458802"
+  },
+  "verified": [
+    "Source2503 corrupt time wording preserved non-specifically after parent review (at this time), no season invented",
+    "Five fen tray height distinct from liang stock weight and100,000 taels financial debt",
+    "No omitted monastery tale invented; source only names it",
+    "Male foreman/Italian engineer abuse represented in non-graphic language; no age invented",
+    "Mill transfer is Huang decision, not completed purchase/payment",
+    "All named people/businesses match established terminology"
+  ],
+  "safety_overrides": []
+}

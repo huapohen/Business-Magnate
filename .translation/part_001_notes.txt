@@ -1,0 +1,40 @@
+附：文本与术语说明（以下为译者说明，不属于原文）
+
+1. 原文有较多疑似扫描识别错误。例如“宫场”“让会”“湖川府”“长生殴”“临情”“大贝”“巨贤”，本批分别按上下文中的“官场”“社会”“湖州府”“长生殿”“临清”“大员”“巨资”理解。中文对照未替换这些字，便于核查。
+2. 原文写小胡下了“两盘”棋，随后对话却列出三盘；译文保留这一不一致，不自行改成统一数字。
+3. 原文第225行以“第二天”衔接背景事件，且章中月份顺序存在疑点；译文按所给文本译出，未擅自重建年表。此处进行的是文本翻译，不是历史考证。
+4. 原文“招牌叫做‘日升昌’”按所给文字译为 Rishengchang；未依据其他版本替换字号。
+5. 章中直接引用的诏令、诗句、俗语等，均为本次据中文所作的英文翻译，不是引用既有英文版本。
+
+本批关键术语
+
+胡雪岩：Hu Xueyan；本名胡光墉：Hu Guangyong。
+王有龄：Wang Youling；字雪轩：Xuexuan。
+黄宗汉：Huang Zonghan；字寿臣：Shouchen。
+椿寿：Chunshou。
+何桂清：He Guiqing。
+钱庄：private bank；首次出现同时说明 qianzhuang。
+票号：remittance bank；首次出现同时说明 piaohao。
+银两：tael / taels，银的重量及记账单位，不换算为现代币值。
+石：shi，粮食容量单位，保留原单位。
+里：li，距离单位，保留原单位。
+候补：expectant，表示已具任职资格、等待实缺；不是 acting（署理、代理）。
+巡抚：governor；总督：governor-general。
+布政使／藩司／藩台：provincial treasurer，叙述中按同一官职处理。
+按察使／臬司：provincial judicial commissioner。
+学政：education commissioner。
+军机处：Grand Council；军机大臣：grand councillor。
+漕运：grain-tax transport / grain transport；漕帮：grain-transport association。
+尖丁：headman，保留其“实际领头人、正式身份低”的区别。
+同年：examination classmate，此处指同一科考中式者，不是普通学校同班同学。
+捐班：通过购买资格进入仕途；以 purchasing a qualification / purchasing official status 等具体表达译出，区分资格与实际任命。
+
+附：本批精读方向（学习提示，不属于原文）
+
+阅读：先梳理王有龄与胡雪岩的关系，再梳理椿寿与黄宗汉的矛盾。尤其区分“叙述事实”“据说”“人物的判断”与“人物对外的说法”。
+完形：关注 however、therefore、otherwise、even if、in effect 等词前后的语义关系；同时记录 rely on、bear responsibility、make up the shortfall 等搭配。先确定上下文关系，再记单词。
+段落排序：梳理“征收粮税—验米拒收—仓满停征—百姓等待—官员被迫议价”的因果链，以及“提议不走—核算亏损—提出疏浚—附加条件—官员翻案”的转折链。注意 the first / the second / the third 等结构标志和 this / that 的回指。
+翻译：选取含 although、unless、whether、so that、as for 的长句，先独立英译汉，再对照中文。中文原文与英文句子不必逐词对应，应检查主干、逻辑、指代及语气是否保留。
+写作：优先积累能脱离故事背景使用的表达，如 fulfil an obligation、take responsibility、reach an agreement、leave room to manoeuvre。官场称谓、历史单位和人物对话不宜直接搬进议论文。
+
+建议每次先只读英文，写一句英文概括，再打开对照版查漏。

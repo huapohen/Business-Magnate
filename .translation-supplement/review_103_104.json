@@ -1,0 +1,59 @@
+{
+  "reviewer": "translate_red_b",
+  "scope": "103、104所有非空源行与全部译文逐段通读复核，包括血书、全部实际提供的诗与诗注、粮数、付款/援军状态、说话人",
+  "changes": [
+    {
+      "part": 103,
+      "before": "“I shall make the necessary arrangements.”",
+      "after": "“I have my own plans.”",
+      "reason": "第21行“我自有道理”为含糊自持，不能强化为已承诺作出救援安排。"
+    },
+    {
+      "part": 104,
+      "before": "the false rebel Li Xiucheng",
+      "after": "the rebel Li Xiucheng",
+      "reason": "第167行“伪逆”是清方贬称，不表示李秀成并非真的叛军；false rebel会错误暗示身份虚假。"
+    },
+    {
+      "part": 104,
+      "before": "A commander’s star, great as the Dipper, falls into the Yangtze.",
+      "after": "A commander’s star, huge as a grain measure, falls into the Yangtze.",
+      "reason": "第171行“如斗”用量器喻星之大，原译the Dipper增添北斗星座指称；改回量器比喻。"
+    }
+  ],
+  "confirmed": [
+    "君胡胄依《左传》用典理解，维持现有译文；未当人名或改成其他字。",
+    "源文“一腔热血三升血”保留复字疑点，未自行补写第二首缺失诗。",
+    "血书一封给庆端、一封给薛焕；代奏附稿、请求兵援均未写成已经实施。",
+    "半两一蟹、32只标价15两、12两还价、14两成交；赠出10只，数字一致。",
+    "拨款20,000两未携现银；库存1,000石与可另筹1,000石分别保留。",
+    "遗留原文地理/纪年/诗注不作无依据校改。"
+  ],
+  "sources": [
+    {
+      "title": "教育部《重编国语辞典》望岁",
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=162991&la=0&powerMode=0"
+    },
+    {
+      "title": "教育部《国语辞典简编本》斗大",
+      "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=7789&la=0&powerMode=0"
+    }
+  ],
+  "audit": [
+    {
+      "part": 103,
+      "nonempty_source_lines": 55,
+      "paragraphs": 20,
+      "coverage": "exactly_once_in_order",
+      "sha256": "c0ee280ff271d9da6791489431789f85b41705bd41a14883e9a11aface178d13"
+    },
+    {
+      "part": 104,
+      "nonempty_source_lines": 55,
+      "paragraphs": 18,
+      "coverage": "exactly_once_in_order",
+      "sha256": "58ef0a9115ee75f45e926ce6b9e9e4972b419f988ba2c23b7877acb7dd49e5a5"
+    }
+  ],
+  "safety_adaptation_needed": false
+}

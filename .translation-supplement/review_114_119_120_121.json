@@ -1,0 +1,99 @@
+{
+  "reviewer": "translate_desolate_a",
+  "scope": "Full source and TSV comparison of all four batches for fidelity, omissions, numbers, conditions, speaker attribution and paragraph alignment.",
+  "result": "One paragraph alignment issue and four minor wording precision issues reported to root. No source or target batch files edited by reviewer.",
+  "parts": [
+    {
+      "part": 114,
+      "source_range": [
+        1157,
+        1257
+      ],
+      "source_nonempty_lines": 51,
+      "paragraphs": 13,
+      "coverage_exact_once": true,
+      "checks": [
+        "Aqiao reunion, He dismissal and offered 2000 taels, assets 30000-50000, and rice transport deadlines preserved."
+      ],
+      "findings": [
+        {
+          "span": "1185-1197",
+          "suggestion": "Change light padded jacket to light lined jacket for jia ao."
+        }
+      ],
+      "reviewer_edits": [],
+      "tsv_sha256_at_report": "18c44a30843f6bd93a0681faa4a39798112aa09cde83bc7cc364ee7ff009d89a"
+    },
+    {
+      "part": 119,
+      "source_range": [
+        1635,
+        1725
+      ],
+      "source_nonempty_lines": 46,
+      "paragraphs": 13,
+      "coverage_exact_once": true,
+      "checks": [
+        "Rice/hams, 20000 shi, forged papers and fees preserved; negotiated demands not presented as completed payments."
+      ],
+      "findings": [
+        {
+          "span": "1703-1707",
+          "suggestion": "Change one bowl of gruel a day to one meal of gruel a day; source specifies a meal, not a bowl."
+        }
+      ],
+      "reviewer_edits": [],
+      "tsv_sha256_at_report": "30f09f79d3d52cbbe7aa8c0dafea6fec6ec5013ee0e0cedf8b9ee1ff42cad2d9"
+    },
+    {
+      "part": 120,
+      "source_range": [
+        1727,
+        1803
+      ],
+      "source_nonempty_lines": 39,
+      "paragraphs": 11,
+      "coverage_exact_once": true,
+      "checks": [
+        "Alleged hidden rice and opened gates remain unverified; rebel appointment explicitly confirmed.",
+        "Hu family risks, rival allegations, Chen request, Liu return proposal and Hu conditional bargain preserved."
+      ],
+      "findings": [
+        {
+          "span": "1753-1759 / 1761-1765",
+          "suggestion": "Move As Liu continued ... unscrupulous villain. from start of 1761-1765 to end of 1753-1759. This is source line 1759, currently split between English paragraphs."
+        }
+      ],
+      "reviewer_edits": [],
+      "tsv_sha256_at_report": "4c8dc14c6a2163e1ec6e4375175d1c96b34c303939d0907df51a8adf43f2ba55"
+    },
+    {
+      "part": 121,
+      "source_range": [
+        1805,
+        1895
+      ],
+      "source_nonempty_lines": 46,
+      "paragraphs": 20,
+      "coverage_exact_once": true,
+      "checks": [
+        "Counter-rebel dispatch as both insurance and deterrent preserved.",
+        "100000 plus 20000 equals 120000 taels; Hu 30000-50000 and Gu 70000-80000 retained as approximate source amounts.",
+        "Yunnan bank acknowledgement uncertain; temporary cash display and reinvestment remain proposed, not completed.",
+        "Wang accusations remain Hu perspective, Gu political reasoning and dispatch completion distinguished."
+      ],
+      "findings": [
+        {
+          "span": "1807-1809",
+          "suggestion": "Use After ten oclock rather than By ten oclock or so."
+        },
+        {
+          "span": "1859-1863",
+          "suggestion": "Remove at least before an eight-in-ten chance; source says 80 percent without a lower-bound qualifier."
+        }
+      ],
+      "reviewer_edits": [],
+      "tsv_sha256_at_report": "3f1becdc63db52ab340248c5f1ba38b428054061e17f845ed161d739db9bb347"
+    }
+  ]
+}

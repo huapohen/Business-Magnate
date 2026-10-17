@@ -1,0 +1,823 @@
+{
+  "purpose": "Update reader-facing installment references to display_number while retaining internal filenames and original source line numbers",
+  "mapping_source": [
+    ".translation/book_config.json",
+    ".translation-supplement/config.json"
+  ],
+  "files_changed": 43,
+  "replacement_contexts": 92,
+  "replacements": [
+    {
+      "path": ".translation/part_066_notes.txt",
+      "before": "全称已在065介绍",
+      "after": "全称已在114介绍",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "前情及064术语",
+      "after": "前情及113术语",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "与065、066统一",
+      "after": "与114、115统一",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "沿064 purchasing",
+      "after": "沿113 purchasing",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "与066“陕西",
+      "after": "与115“陕西",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "干血痨沿065作",
+      "after": "干血痨沿114作",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "等按065与",
+      "after": "等按114与",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "干血痨与065统一",
+      "after": "干血痨与114统一",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "内奏事处统一066的",
+      "after": "内奏事处统一115的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "与065胡的",
+      "after": "与114胡的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "06627557为",
+      "after": "第115批第27557行为",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "before": "06727689称",
+      "after": "第116批第27689行称",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_068_notes.txt",
+      "before": "第064—067批",
+      "after": "第113—116批",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_069_notes.txt",
+      "before": "Sen沿067",
+      "after": "Sen沿116",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_072_notes.txt",
+      "before": "前情和070术语",
+      "after": "前情和119术语",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_072_notes.txt",
+      "before": "沿071：",
+      "after": "沿120：",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_072_notes.txt",
+      "before": "与069“阜康",
+      "after": "与118“阜康",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_072_notes.txt",
+      "before": "统一沿064、067",
+      "after": "统一沿113、116",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_072_notes.txt",
+      "before": "已定064、067用语",
+      "after": "已定113、116用语",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_073_notes.txt",
+      "before": "沿总稿064、067",
+      "after": "沿总稿113、116",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_076_notes.txt",
+      "before": "七姐夫沿075为",
+      "after": "七姐夫沿124为",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_076_notes.txt",
+      "before": "比劫运沿075称",
+      "after": "比劫运沿124称",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_076_notes.txt",
+      "before": "完整读取075前情",
+      "after": "完整读取124前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_076_notes.txt",
+      "before": "交付前已按075统一",
+      "after": "交付前已按124统一",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_077_notes.txt",
+      "before": "076已叙胡",
+      "after": "125已叙胡",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_077_notes.txt",
+      "before": "依076原场面",
+      "after": "依125原场面",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_079_notes.txt",
+      "before": "承接078的",
+      "after": "承接127的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_079_notes.txt",
+      "before": "材料沿078所定",
+      "after": "材料沿127所定",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_079_notes.txt",
+      "before": "已由078译",
+      "after": "已由127译",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_081_notes.txt",
+      "before": "江海关沿066正式",
+      "after": "江海关沿115正式",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_082_notes.txt",
+      "before": "官职沿081：",
+      "after": "官职沿157：",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_082_notes.txt",
+      "before": "与081邵",
+      "after": "与157邵",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_082_notes.txt",
+      "before": "原文及081术语",
+      "after": "原文及157术语",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_082_notes.txt",
+      "before": "李少荃核对066已用",
+      "after": "李少荃核对115已用",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_083_notes.txt",
+      "before": "“江海关”沿066统一",
+      "after": "“江海关”沿115统一",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_084_notes.txt",
+      "before": "“卖朝报”沿078用",
+      "after": "“卖朝报”沿127用",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_086_notes.txt",
+      "before": "已完整读取085前情",
+      "after": "已完整读取161前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_087_notes.txt",
+      "before": "Qinghefang沿086已定义",
+      "after": "Qinghefang沿162已定义",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_087_notes.txt",
+      "before": "完整通读086前情",
+      "after": "完整通读162前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_088_notes.txt",
+      "before": "源文与087前情",
+      "after": "源文与163前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_090_notes.txt",
+      "before": "宝二爷，前067已明确",
+      "after": "宝二爷，前116已明确",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_090_notes.txt",
+      "before": "前065记文煜",
+      "after": "前114记文煜",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_090_notes.txt",
+      "before": "与前067任",
+      "after": "与前116任",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_091_notes.txt",
+      "before": "结合完整090前情",
+      "after": "结合完整166前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_092_notes.txt",
+      "before": "他不是088德馨",
+      "after": "他不是164德馨",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_092_notes.txt",
+      "before": "与091一致",
+      "after": "与167一致",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_092_notes.txt",
+      "before": "与086织工",
+      "after": "与162织工",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_092_notes.txt",
+      "before": "查封沿091程序",
+      "after": "查封沿167程序",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_093_notes.txt",
+      "before": "与092先说",
+      "after": "与168先说",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_094_notes.txt",
+      "before": "周妻属羊统一095的",
+      "after": "周妻属羊统一171的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_095_notes.txt",
+      "before": "十二金钗沿080的",
+      "after": "十二金钗沿129的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_095_notes.txt",
+      "before": "年大将军沿093 General",
+      "after": "年大将军沿169 General",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_095_notes.txt",
+      "before": "前文093明确",
+      "after": "前文169明确",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_095_notes.txt",
+      "before": "“瘦马”沿093的",
+      "after": "“瘦马”沿169的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_096_notes.txt",
+      "before": "依据090与本段",
+      "after": "依据166与本段",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_096_notes.txt",
+      "before": "与089估总欠",
+      "after": "与165估总欠",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_096_notes.txt",
+      "before": "并复读095前情",
+      "after": "并复读171前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_098_notes.txt",
+      "before": "与093此前",
+      "after": "与169此前",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_098_notes.txt",
+      "before": "含097前情",
+      "after": "含173前情",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_099_notes.txt",
+      "before": "与098门房",
+      "after": "与174门房",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_099_notes.txt",
+      "before": "不擅与095的",
+      "after": "不擅与171的",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_099_notes.txt",
+      "before": "098中她仍说",
+      "after": "174中她仍说",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_099_notes.txt",
+      "before": "把100的故事",
+      "after": "把176的故事",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_099_notes.txt",
+      "before": "连读098确认",
+      "after": "连读174确认",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_101_notes.txt",
+      "before": "承100：",
+      "after": "承176：",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation/part_101_notes.txt",
+      "before": "梅藤更检索086沿",
+      "after": "梅藤更检索162沿",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_109_notes.txt",
+      "before": "沿最近107采用",
+      "after": "沿最近068采用",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_109_notes.txt",
+      "before": "105的 Biezimen",
+      "after": "066的 Biezimen",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_123_notes.txt",
+      "before": "与122中胡的委托",
+      "after": "与083中胡的委托",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_130_notes.txt",
+      "before": "与后部172保持",
+      "after": "与后部150保持",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_135_notes.txt",
+      "before": "“何都司”承接134 Officer",
+      "after": "“何都司”承接095 Officer",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_139_notes.txt",
+      "before": "误字承138校读",
+      "after": "误字承099校读",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_142_notes.txt",
+      "before": "未用140较早",
+      "after": "未用101较早",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_143_notes.txt",
+      "before": "与142军需",
+      "after": "与103军需",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_143_notes.txt",
+      "before": "且147现有术语",
+      "after": "且108现有术语",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_144_notes.txt",
+      "before": "不因143已说",
+      "after": "不因104已说",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_144_notes.txt",
+      "before": "衔接既有103–104",
+      "after": "衔接既有064–065",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_145_notes.txt",
+      "before": "已有131、149、153译名",
+      "after": "已有092、110、131译名",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_153_notes.txt",
+      "before": "与 152 连续",
+      "after": "与 130 连续",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_153_notes.txt",
+      "before": "后续 154 批",
+      "after": "后续 132 批",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_154_notes.txt",
+      "before": "承接 153，",
+      "after": "承接 131，",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_154_notes.txt",
+      "before": "所以 153 的 Xiang",
+      "after": "所以 131 的 Xiang",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_154_notes.txt",
+      "before": "前文 152 第",
+      "after": "前文 130 第",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_160_notes.txt",
+      "before": "前文 152 第",
+      "after": "前文 130 第",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_165_notes.txt",
+      "before": "164的英文",
+      "after": "142的英文",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_172_notes.txt",
+      "before": "与171源",
+      "after": "与149源",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_172_notes.txt",
+      "before": "和172这段",
+      "after": "和150这段",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_174_notes.txt",
+      "before": "承接173别发购妆",
+      "after": "承接151别发购妆",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_176_notes.txt",
+      "before": "与171批",
+      "after": "与149批",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_176_notes.txt",
+      "before": "在177批承接",
+      "after": "在155批承接",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_178_notes.txt",
+      "before": "及170前文",
+      "after": "及148前文",
+      "occurrences": 1
+    },
+    {
+      "path": ".translation-supplement/part_178_notes.txt",
+      "before": "与177揭示",
+      "after": "与155揭示",
+      "occurrences": 1
+    }
+  ],
+  "files": [
+    {
+      "path": ".translation/part_066_notes.txt",
+      "sha256_before": "f5c37e1f4b8583a647874723ab43ca60dab29a4b96626c1a448fb9b80b262882",
+      "sha256_after": "b3a596f586ecbbef899cd241148716d498e513c9ef7e2408c75f2cb8b6cf4ece",
+      "backup": ".filename-reorder/20261017/.translation/part_066_notes.txt"
+    },
+    {
+      "path": ".translation/part_067_notes.txt",
+      "sha256_before": "c8496e3c9dff082ac8bdb6a072fdf71cad78b31e46f338a82b9d08a7893d3aaf",
+      "sha256_after": "e70a9a1e4444396df64ea681519b5368c1abc5b54a1d9cef7c43cc8f0ed5bdc0",
+      "backup": ".filename-reorder/20261017/.translation/part_067_notes.txt"
+    },
+    {
+      "path": ".translation/part_068_notes.txt",
+      "sha256_before": "9959fc930b819f25777f02679073e48963096335d9177673be7510b4f4c9cb78",
+      "sha256_after": "4bd79d7cae66d4b3ebe8fdc63baac4d78818d71775576bafb18a509732812a1a",
+      "backup": ".filename-reorder/20261017/.translation/part_068_notes.txt"
+    },
+    {
+      "path": ".translation/part_069_notes.txt",
+      "sha256_before": "80820b5bdc1e5fc685d1b9dd4ac3ca1b51ec4b14534a69b9c0850ee45b53d38f",
+      "sha256_after": "833317dccff1540d2bffdfccf08ce0e481a4d40811199b395ee9db25f9186062",
+      "backup": ".filename-reorder/20261017/.translation/part_069_notes.txt"
+    },
+    {
+      "path": ".translation/part_072_notes.txt",
+      "sha256_before": "eddf6629fe8ee83caec0fef392403985571e413025cc7eb86e0a5cfed884c37a",
+      "sha256_after": "46adf0daac8e70d99f4263f3eb75c7f9fd6058d4567e3611d84e9183bd10e196",
+      "backup": ".filename-reorder/20261017/.translation/part_072_notes.txt"
+    },
+    {
+      "path": ".translation/part_073_notes.txt",
+      "sha256_before": "696695530dc2e20f2f9f66bb487e0fc74debe2e3debe76d6a86cf56ebc7e328e",
+      "sha256_after": "182dc74b8efcab8aa728e5fb51c77dc2e7b8e0040b186346f2f3940baddf1a39",
+      "backup": ".filename-reorder/20261017/.translation/part_073_notes.txt"
+    },
+    {
+      "path": ".translation/part_076_notes.txt",
+      "sha256_before": "9fb1bb4bf201a37694ec63c5cd80a80484365ad91899be6ddeca3c91033f9f72",
+      "sha256_after": "6971847615d23239cc61a6507296696ba5c16433477d56c658335997262fdf80",
+      "backup": ".filename-reorder/20261017/.translation/part_076_notes.txt"
+    },
+    {
+      "path": ".translation/part_077_notes.txt",
+      "sha256_before": "983c29f109fbf4b061bc0edb4aaa1cae945be5c77e5ecaad1e87aca3d008f05d",
+      "sha256_after": "d39defb740e9acbf1097199ec4b0c27115711b7e5b882ab33284fa7714551478",
+      "backup": ".filename-reorder/20261017/.translation/part_077_notes.txt"
+    },
+    {
+      "path": ".translation/part_079_notes.txt",
+      "sha256_before": "6613d5353ccf583292eecfc29e4f28d15814a8e7597c8655ace5588c550fbaf9",
+      "sha256_after": "39a86d9d988f0c43a6bbb6b7d9fe498a990d11f1f9bab838e9257063aff7f795",
+      "backup": ".filename-reorder/20261017/.translation/part_079_notes.txt"
+    },
+    {
+      "path": ".translation/part_081_notes.txt",
+      "sha256_before": "10265a3d5094afd67a7afc611c11c59c964b73063a5ff2b04d7b8c253b1ca388",
+      "sha256_after": "ad8f13076489c901020d5a5c5de45929e91e9d843ef9b8111e6fcb6146ec3e81",
+      "backup": ".filename-reorder/20261017/.translation/part_081_notes.txt"
+    },
+    {
+      "path": ".translation/part_082_notes.txt",
+      "sha256_before": "b3a37faca63e5d247bf18d4578d0ff8832d6743570d756e419bb5c4f1c1cd556",
+      "sha256_after": "dcb1375f55d2eda184650494940f698c0b1f69243663c1425763d2175973a9b8",
+      "backup": ".filename-reorder/20261017/.translation/part_082_notes.txt"
+    },
+    {
+      "path": ".translation/part_083_notes.txt",
+      "sha256_before": "d05d9be5fb39c7f9663d6801345faaee491106adc0a409634dab605f35120908",
+      "sha256_after": "44d2d588ac7463c2d5b09f727c11899675fabcf2ef5647a5be68af20e5acdcf6",
+      "backup": ".filename-reorder/20261017/.translation/part_083_notes.txt"
+    },
+    {
+      "path": ".translation/part_084_notes.txt",
+      "sha256_before": "813941d542fd47dbc9f4e7d2dbdc28efb1ad2c332269e87685b413442998a445",
+      "sha256_after": "0918b9113428f6820e35d89c097d8a2c7fb93aa84fd140a8f1f4f2452076b9d9",
+      "backup": ".filename-reorder/20261017/.translation/part_084_notes.txt"
+    },
+    {
+      "path": ".translation/part_086_notes.txt",
+      "sha256_before": "d54227aadcf69db65530a33bac2725760a822e135eff634b9d85de9bc39f261d",
+      "sha256_after": "3e2b681e224c3143b39a406643d15f7e6e5d8a525ee76332ed6142903beeb8a0",
+      "backup": ".filename-reorder/20261017/.translation/part_086_notes.txt"
+    },
+    {
+      "path": ".translation/part_087_notes.txt",
+      "sha256_before": "dc74960fd2d37e0548808e481bb1e3ec88769861ead656965cce221b61a0cced",
+      "sha256_after": "adc914a0050c48597b24c9d8fdcae005044417954052b8a956fc0ea147d89620",
+      "backup": ".filename-reorder/20261017/.translation/part_087_notes.txt"
+    },
+    {
+      "path": ".translation/part_088_notes.txt",
+      "sha256_before": "2005db2f643b88b8cc546e02deab0b4e9be3c860148de228b1f55b752c0a1b16",
+      "sha256_after": "b812bd2eacbeedd38d19fb9874c4f88a9b959fb1e87cb72f031ab6368e246312",
+      "backup": ".filename-reorder/20261017/.translation/part_088_notes.txt"
+    },
+    {
+      "path": ".translation/part_090_notes.txt",
+      "sha256_before": "07c2e467a3725f1fe37ba59a34afd0f2a7b65fef2a7eccb867daa4e4794444f9",
+      "sha256_after": "54b917487b21a1e8311f01671e50d17e2b72ba08ba1d333ec405022eb7d9bef4",
+      "backup": ".filename-reorder/20261017/.translation/part_090_notes.txt"
+    },
+    {
+      "path": ".translation/part_091_notes.txt",
+      "sha256_before": "21b9835c5aec825746397077f506661e4febfef899eecbf456c88263a84beb05",
+      "sha256_after": "e32a7b8f78a91a30df438f79739be64fbc627010d9365287911475e5ecdc9ca2",
+      "backup": ".filename-reorder/20261017/.translation/part_091_notes.txt"
+    },
+    {
+      "path": ".translation/part_092_notes.txt",
+      "sha256_before": "3aa0e50c2caa47698a883af794efed50cee5814871fb020e7e1a5ee108edd058",
+      "sha256_after": "0f82e738f71642998c77070d2938bbf9b8b6860a7d93574836f9ee1bc29e13fa",
+      "backup": ".filename-reorder/20261017/.translation/part_092_notes.txt"
+    },
+    {
+      "path": ".translation/part_093_notes.txt",
+      "sha256_before": "7986435369188f0a3079fcb69030dfcf67df34e4d6c32b5c2a114e1b6f4a584b",
+      "sha256_after": "96cde76a8d9447501e4b71d3c8c8d28e930834a74bd53d8a476de8de3423b165",
+      "backup": ".filename-reorder/20261017/.translation/part_093_notes.txt"
+    },
+    {
+      "path": ".translation/part_094_notes.txt",
+      "sha256_before": "c7ebf3f33a67264718f367d5de030d271137b661a0a2301e99172fdc97326b74",
+      "sha256_after": "3905d33c6ab60ae500a965339a1c4735b0bc2beb2fb10a7b3209bcae391f92e6",
+      "backup": ".filename-reorder/20261017/.translation/part_094_notes.txt"
+    },
+    {
+      "path": ".translation/part_095_notes.txt",
+      "sha256_before": "74ae4d9049644fd0256e13838dd1fcad4c40c5925ef9815ea435f94dd73f1e18",
+      "sha256_after": "7dd762bcc8dcad7594b9748a2e9bd817ad0cea3bb056dcfaa0dbe65e300f76c7",
+      "backup": ".filename-reorder/20261017/.translation/part_095_notes.txt"
+    },
+    {
+      "path": ".translation/part_096_notes.txt",
+      "sha256_before": "97f9799306172771cce7065074ba51679572f4edd3ea9800130daf43de680dd4",
+      "sha256_after": "e233e19fa53439b914cc07d40a954e34e80e2d240d9157824d2301d1c850950f",
+      "backup": ".filename-reorder/20261017/.translation/part_096_notes.txt"
+    },
+    {
+      "path": ".translation/part_098_notes.txt",
+      "sha256_before": "ca5a24af89bec69310cf772091fc1ee0dfc62734bebcafc7ea4c7e35026c08c2",
+      "sha256_after": "13c14f05fc72cfb351a059c0d9531e302bbf705cf285c8f637c2b7afd565a90d",
+      "backup": ".filename-reorder/20261017/.translation/part_098_notes.txt"
+    },
+    {
+      "path": ".translation/part_099_notes.txt",
+      "sha256_before": "813ced5e04570f53d1d06b27c25ad0de2dbf07caecfda2dc04b968762b6b3a9c",
+      "sha256_after": "d827fe6b62cd8d9cc87111b2a7bc1bc061051e1b5b728bfa4a4ec79631f15d9a",
+      "backup": ".filename-reorder/20261017/.translation/part_099_notes.txt"
+    },
+    {
+      "path": ".translation/part_101_notes.txt",
+      "sha256_before": "3f4fe17ad331824748a45988f0f80bd7267dc6fc636c2f4c54d170b174097697",
+      "sha256_after": "47a68795e42a14c266c7e2991ed4208689935b746a59f894995fb7d32aa3797f",
+      "backup": ".filename-reorder/20261017/.translation/part_101_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_109_notes.txt",
+      "sha256_before": "bd78588b0b6a6372503dd60ffaa1ad65946813cc9873489a6d5f62cc9e445e5e",
+      "sha256_after": "6ffb6f7040d6e4a532189d427aaf9d67ddea076ddfc6518eb920c1f7b4251506",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_109_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_123_notes.txt",
+      "sha256_before": "5b19a5c72e43ab596fe0bec198e85acaae1c005f81f1d368d37908a30a51ecc7",
+      "sha256_after": "9366d5a2ce43e43d5fe509cf8c9d2bfa812dcc9fa976f88b307611d464ee3858",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_123_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_130_notes.txt",
+      "sha256_before": "bdce7947585df9e0827a4c0072a0857e1067d02b877bc24a7550b712f3f7f912",
+      "sha256_after": "043d14f459921af352db120fd46135046f468200181be38d555ce3565d6c921b",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_130_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_135_notes.txt",
+      "sha256_before": "2cdb173335889a4a2dd60096f9c5720f92b66511b792a617637555c12b13f86c",
+      "sha256_after": "aea1f468a3db541cf6aa28e94c7e9b761172e2b96e8d758519fe1f956d129a04",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_135_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_139_notes.txt",
+      "sha256_before": "56c1c511b849b1991c3be24f3001b6bae8066ed80eb7c0935f12afb7f423fbcd",
+      "sha256_after": "549e2032f84316fb099e3191bf5bf39b74d0c920460e0eda0494078c093bc3bc",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_139_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_142_notes.txt",
+      "sha256_before": "0c8effe30b0a68e88a7877c4450f4cebfde834ffbc50ca8dbe3a05aef260848c",
+      "sha256_after": "f081383ae7b793c8646e7fa4d65155307b7de2ba3aae747486fabe3ab3be6f90",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_142_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_143_notes.txt",
+      "sha256_before": "5ae090613f7deae22b87a5875161c9c41308ec856ff5e3a727c216a1d02d976e",
+      "sha256_after": "393570f48b1eb5fd2917e3ce3f96461f8792a9ef34c6af3cdb27f4e1c570a9d3",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_143_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_144_notes.txt",
+      "sha256_before": "de09f5a1342033094ebdfb8adc62b8ac33ff62eb0c123349de655ae146eafedc",
+      "sha256_after": "757956072a503cf944d2d60485e3958f4f205e66a2ebb480318609aa378cb22c",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_144_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_145_notes.txt",
+      "sha256_before": "228f98c728178d1b14b8b98f159562a146d79d2cbca7ba2bfe3cd5066f30088e",
+      "sha256_after": "f58aee1aaa37e9297633bf95c5c32daf7192ed5d6187a52d3421af3a3c33a823",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_145_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_153_notes.txt",
+      "sha256_before": "07e0ef5bfef924437cfa64ffb25882017d89b1f68b93e34f7e0c91e993b9ef61",
+      "sha256_after": "3ad60773df7ea1b12e9e856b0ea2606973a068d7133e35fb98ccccf3b439a1f0",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_153_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_154_notes.txt",
+      "sha256_before": "d50666c07f56112309e3463b738269d62d31ebcfdb9f58ba81313516bc7592b9",
+      "sha256_after": "c9624b4f5103bc212498c29cf8836c47e597405cb1dcfe9f3ab81af632b63ffb",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_154_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_160_notes.txt",
+      "sha256_before": "19729a3980efdb48e7740f845f10164d7b4aaeef2f0e5603f3ba8952f94d3207",
+      "sha256_after": "90db1012e6f82c16d0a54bf4eafdc098d5410408218ff7ba004cd4ddf494157b",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_160_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_165_notes.txt",
+      "sha256_before": "c611e8de24b946d586a85a479610a86f08d64d557986fd0cbc1944675e329641",
+      "sha256_after": "b4fe96d03ce1058cc5f53e62b975ebb46edde8f74e69821160e390c9db02335c",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_165_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_172_notes.txt",
+      "sha256_before": "f25804970214dc5ed1a4b1e2723df6ab750274f2343b979e183b22fae3e3a9bd",
+      "sha256_after": "16e8b05627561f28ef79347223f0da469dfd33af0d826dba716d5092f0752eee",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_172_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_174_notes.txt",
+      "sha256_before": "fe1c4cafe3393307d3002e520a3208034a1ab7082fe36fb984b9adad02a0b114",
+      "sha256_after": "fd2178355b83cc8c7cec76ee579bb7cf984f7de574226e82d5c85c7847ec3b3b",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_174_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_176_notes.txt",
+      "sha256_before": "49f9e28ab0fe08ce58f16e515d152c965e3842d883bf841d3f50609cc07f2d00",
+      "sha256_after": "00524069ca5ba45b519c994c0151e666c75f731decd54c472b93d57ca1902600",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_176_notes.txt"
+    },
+    {
+      "path": ".translation-supplement/part_178_notes.txt",
+      "sha256_before": "df36b5d4a2a646bc1d5581b4e7af3bd0ed623a3fa1e7d83b1b9089a9d9032db5",
+      "sha256_after": "25d841d0be2779448a26a7bccc0ba605ad0821fc69bd1a61ef1d26f33ff4848b",
+      "backup": ".filename-reorder/20261017/.translation-supplement/part_178_notes.txt"
+    }
+  ]
+}

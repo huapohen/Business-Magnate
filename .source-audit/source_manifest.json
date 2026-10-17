@@ -1,0 +1,18 @@
+{
+  "胡雪岩.txt": {
+    "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/input/胡雪岩.txt",
+    "sha256": "27ded7a0aa0482b15b146c349d02dee34c92be0107317481d5123b2c2f498238",
+    "bytes": 3322814,
+    "characters": 1189768,
+    "lines": 40928,
+    "non_whitespace_characters": 1066689
+  },
+  "《胡雪岩》(共五部).txt": {
+    "path": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/input/《胡雪岩》(共五部).txt",
+    "sha256": "8a39ae387ab2120a65acd6c978748baee9762ef7b9390c977d280108620d9a36",
+    "bytes": 4381840,
+    "characters": 1523518,
+    "lines": 46480,
+    "non_whitespace_characters": 1430226
+  }
+}

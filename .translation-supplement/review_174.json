@@ -1,0 +1,28 @@
+{
+  "reviewer": "translate_desolate_a",
+  "part": 174,
+  "scope": "Independent full source 2391-2501 versus TSV read; emphasis transaction approval, money, display conditions, and sequence.",
+  "source_nonempty_lines": 56,
+  "paragraphs": 13,
+  "coverage_exact_once": true,
+  "checks": [
+    "Manager accepts quoted sale price and offers custom silver salver; display is expressly not a condition of sale.",
+    "500-tael side payment approved by Madam Luosi but not stated as already paid.",
+    "Month-long display and escorted delivery proposed; next-day price list/payment discussion and possible half-month wait for Hangzhou reply preserved.",
+    "English-only labels and keeping display out of newspaper are agreed plans, not already-executed publication controls.",
+    "Eight pawnshops and ledgers in past dowry example, lunar month 8 day 28 / short month / month 9 day 3 ceremony date, and four meat dumplings retained.",
+    "No chandeliers omitted: present source contains no new separate chandelier transaction; all goods selected in 173 fall under accepted price, actual payment pending."
+  ],
+  "findings": [
+    {
+      "type": "paragraph_alignment",
+      "span": "2427-2429 / 2431-2433",
+      "source_line": 2431,
+      "sentence": "Before the Seventh Lady settled that thought, Madam Luosi spoke again.",
+      "correction": "Move sentence from end of 2427-2429 to start of 2431-2433.",
+      "status": "fixed_by_root"
+    }
+  ],
+  "reviewer_edits": [],
+  "tsv_sha256_at_report": "d34342347e01e0d73c370c40a297552255dc8bc5bb85b597073a4f67166ad63b"
+}

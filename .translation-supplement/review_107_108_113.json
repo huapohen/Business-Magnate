@@ -1,0 +1,53 @@
+{
+  "reviewer": "translate_desolate_a",
+  "scope": "Full paragraph comparison against source: omissions, meaning, speakers, amounts, conditions, event status",
+  "result": "No substantive errors requiring correction found; TSVs unchanged",
+  "parts": [
+    {
+      "part": 107,
+      "source_nonempty_lines": 54,
+      "paragraphs": 16,
+      "coverage_exact_once": true,
+      "substantive_errors_found": [],
+      "checks": [
+        "30 taels per soldier, 50 soldiers / 1500 taels, death compensation 1000 each and hypothetical 50000 total preserved.",
+        "40 tables at 8 taels each plus 10 reserve tables preserved; seal ring acceptance not asserted.",
+        "Ward agrees only to hear route details at the close of the part; negotiation status preserved."
+      ],
+      "changes": [],
+      "tsv_sha256": "0c76ab9dcd6b9321cbbbc2952f5572fa4abb3c7904f478927efd3c99360d805b"
+    },
+    {
+      "part": 108,
+      "source_nonempty_lines": 67,
+      "paragraphs": 20,
+      "coverage_exact_once": true,
+      "substantive_errors_found": [],
+      "checks": [
+        "Ward agrees to provide 50 soldiers, with pay details pending quartermaster discussion.",
+        "Ningbo 500000 taels is proposed fundraising, not an actual payment.",
+        "Reciprocal Ningbo/Hangzhou foreign-escort plan is rejected; diversion to Ningbo remains conditional on inability to enter Hangzhou.",
+        "He execution and Wang martyrdom remain conversational judgments and expectations, not completed events.",
+        "Seventh Lady argument for survival and later assistance, and Hu final reasoning, preserved."
+      ],
+      "changes": [],
+      "tsv_sha256": "e2a40edf8f9066b4f250b94395ba243378c0a547680571b2a11b43799813aa8e"
+    },
+    {
+      "part": 113,
+      "source_nonempty_lines": 69,
+      "paragraphs": 16,
+      "coverage_exact_once": true,
+      "substantive_errors_found": [],
+      "checks": [
+        "20000 plus 10000 taels conditional on breakout assistance; 3000 if no action after 3 full days and sailing to Ningbo; doubled casualty compensation preserved.",
+        "Three-day deadline, no further delays, and 20:00 departure preserved.",
+        "Ningbo fell two days earlier on lunar month 11 day 8; 70000 refugees; proposed 2-3 day ship stay; Hu illness 8 days preserved.",
+        "Aqiao departure from He household remains Xiao inference; Old Huang escort verifies Gu household approval.",
+        "Two bowls plus half-bowl gruel, nursing, clothing and reunion details preserved."
+      ],
+      "changes": [],
+      "tsv_sha256": "9e9cfaa4fd174e36ab20829399481492c9c2d79e62a3fd681d3f131bc1453b2f"
+    }
+  ]
+}

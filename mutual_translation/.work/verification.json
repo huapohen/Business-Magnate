@@ -1,0 +1,32 @@
+{
+  "input": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/.translation/part_001_alignment.json",
+  "input_sha256": "33610e4a28ae4bfa1d69a0a3c38dd830d309c01623d26821eedb3566d59c8ed0",
+  "paragraphs": 256,
+  "pairs_including_book_heading": 965,
+  "full_source_coverage": true,
+  "existing_bilingual_file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/001_平步青云（上）_简介_楔子_第一章_中英对照.txt",
+  "existing_bilingual_sha256": "4119f1d3bb10c3b50c430d864d36724688ed174741c18978d606ae4852f8e84d",
+  "both_languages_and_punctuation_unchanged": true,
+  "all_original_paragraphs_found_in_existing_edition_in_order": true,
+  "english_display_adjustments": [],
+  "files": [
+    {
+      "name": "001_平步青云（上）_简介_楔子_第一章_逐句中英对照.txt",
+      "bytes": 141261,
+      "sha256": "c0cdfca089d62488148944b40a8671f3a8df792461c966534b4d98f4ef1405b5"
+    },
+    {
+      "name": "001_平步青云（上）_简介_楔子_第一章_逐句英中对照.txt",
+      "bytes": 141261,
+      "sha256": "cbf175aee920ae191953c8897c1a014b238bf1841f3cf428006b800fec6d537d"
+    },
+    {
+      "name": "阅读说明.txt",
+      "bytes": 1009,
+      "sha256": "8b6770fff795c2b2dec3ee0e98ee93f90df10497029df7b1bed6883a8dcb1725"
+    }
+  ],
+  "rendered_files_verified_line_by_line": true,
+  "semantic_alignment_review": "passed",
+  "publication": "local sample only"
+}

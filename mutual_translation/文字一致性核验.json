@@ -1,0 +1,3413 @@
+{
+  "checked_at": "2026-10-18T00:13:23.976115+00:00",
+  "scope": "All 178 completed installments at audit time, out of 178 planned installments.",
+  "comparison": "Actual TXT body checked against prior bilingual and English editions through exact paragraph reconstruction. Sentence-edge whitespace and layout may differ; letters, numbers, punctuation and order must match. Titles are checked against the approved rendering separately.",
+  "original_files_unchanged": 539,
+  "completed_installments": 178,
+  "checked_part_output_files": 356,
+  "checked_output_files": 358,
+  "whole_files": [
+    {
+      "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/胡雪岩_全书_逐句中英对照.txt",
+      "status": "passed",
+      "part_count": 178,
+      "sha256": "c31853b4906001f0fc17c13e1ca0058902f4e61ffa9f7342cfb2e71ce92278d2"
+    },
+    {
+      "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/胡雪岩_全书_逐句英中对照.txt",
+      "status": "passed",
+      "part_count": 178,
+      "sha256": "5b29fb23f21050baf44185aee97ee988f5f4c8e42d719951008bac6f21e38869"
+    }
+  ],
+  "whole_book_reading_order_verified": true,
+  "total_original_body_nonwhitespace_characters": {
+    "zh": 1428542,
+    "en": 4223838
+  },
+  "differences": 0,
+  "parts": [
+    {
+      "number": 1,
+      "name": "001_平步青云（上）_简介_楔子_第一章",
+      "nonwhitespace_characters": {
+        "zh": 18710,
+        "en": 68491
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/001_平步青云（上）_简介_楔子_第一章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/001_平步青云（上）_简介_楔子_第一章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "002_平步青云（上）_第二章_上",
+      "nonwhitespace_characters": {
+        "zh": 15263,
+        "en": 49916
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/002_平步青云（上）_第二章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/002_平步青云（上）_第二章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "003_平步青云（上）_第二章_下",
+      "nonwhitespace_characters": {
+        "zh": 20468,
+        "en": 68148
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/003_平步青云（上）_第二章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/003_平步青云（上）_第二章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "004_平步青云（上）_第三章_上",
+      "nonwhitespace_characters": {
+        "zh": 17508,
+        "en": 50799
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/004_平步青云（上）_第三章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/004_平步青云（上）_第三章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "005_平步青云（上）_第三章_下",
+      "nonwhitespace_characters": {
+        "zh": 12474,
+        "en": 39408
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/005_平步青云（上）_第三章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/005_平步青云（上）_第三章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "006_平步青云（上）_第四章_上",
+      "nonwhitespace_characters": {
+        "zh": 11534,
+        "en": 34102
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/006_平步青云（上）_第四章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/006_平步青云（上）_第四章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "007_平步青云（上）_第四章_下",
+      "nonwhitespace_characters": {
+        "zh": 10681,
+        "en": 31145
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/007_平步青云（上）_第四章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/007_平步青云（上）_第四章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "008_平步青云（上）_第五章",
+      "nonwhitespace_characters": {
+        "zh": 11396,
+        "en": 32209
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/008_平步青云（上）_第五章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/008_平步青云（上）_第五章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "009_平步青云（上）_第六章",
+      "nonwhitespace_characters": {
+        "zh": 22185,
+        "en": 61416
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/009_平步青云（上）_第六章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/009_平步青云（上）_第六章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "010_平步青云（上）_第七章_上",
+      "nonwhitespace_characters": {
+        "zh": 16514,
+        "en": 49122
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/010_平步青云（上）_第七章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/010_平步青云（上）_第七章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "011_平步青云（上）_第七章_下",
+      "nonwhitespace_characters": {
+        "zh": 11122,
+        "en": 32706
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/011_平步青云（上）_第七章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/011_平步青云（上）_第七章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "012_平步青云（上）_第八章",
+      "nonwhitespace_characters": {
+        "zh": 18514,
+        "en": 54923
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/012_平步青云（上）_第八章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/012_平步青云（上）_第八章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "013_平步青云（上）_第九章_上",
+      "nonwhitespace_characters": {
+        "zh": 13595,
+        "en": 42000
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/013_平步青云（上）_第九章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/013_平步青云（上）_第九章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "014_平步青云（上）_第九章_下",
+      "nonwhitespace_characters": {
+        "zh": 9403,
+        "en": 26439
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/014_平步青云（上）_第九章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/014_平步青云（上）_第九章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "015_平步青云（上）_第十章",
+      "nonwhitespace_characters": {
+        "zh": 13256,
+        "en": 38295
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/015_平步青云（上）_第十章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/015_平步青云（上）_第十章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "016_平步青云（上）_第十一章_上",
+      "nonwhitespace_characters": {
+        "zh": 11627,
+        "en": 35152
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/016_平步青云（上）_第十一章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/016_平步青云（上）_第十一章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "017_平步青云（上）_第十一章_下",
+      "nonwhitespace_characters": {
+        "zh": 12151,
+        "en": 34876
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/017_平步青云（上）_第十一章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/017_平步青云（上）_第十一章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "018_平步青云（中）_第十二章_上",
+      "nonwhitespace_characters": {
+        "zh": 10666,
+        "en": 30591
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/018_平步青云（中）_第十二章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/018_平步青云（中）_第十二章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": "019_平步青云（中）_第十二章_中",
+      "nonwhitespace_characters": {
+        "zh": 13004,
+        "en": 35363
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/019_平步青云（中）_第十二章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/019_平步青云（中）_第十二章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": "020_平步青云（中）_第十二章_下",
+      "nonwhitespace_characters": {
+        "zh": 11432,
+        "en": 33311
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/020_平步青云（中）_第十二章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/020_平步青云（中）_第十二章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": "021_平步青云（中）_第十三章",
+      "nonwhitespace_characters": {
+        "zh": 7332,
+        "en": 22490
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/021_平步青云（中）_第十三章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/021_平步青云（中）_第十三章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name": "022_平步青云（中）_第十四章_上",
+      "nonwhitespace_characters": {
+        "zh": 12196,
+        "en": 36319
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/022_平步青云（中）_第十四章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/022_平步青云（中）_第十四章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name": "023_平步青云（中）_第十四章_下",
+      "nonwhitespace_characters": {
+        "zh": 9231,
+        "en": 26646
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/023_平步青云（中）_第十四章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/023_平步青云（中）_第十四章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "name": "024_平步青云（中）_第十五章_上",
+      "nonwhitespace_characters": {
+        "zh": 11072,
+        "en": 30151
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/024_平步青云（中）_第十五章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/024_平步青云（中）_第十五章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "name": "025_平步青云（中）_第十五章_中",
+      "nonwhitespace_characters": {
+        "zh": 5821,
+        "en": 16729
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/025_平步青云（中）_第十五章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/025_平步青云（中）_第十五章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "name": "026_平步青云（中）_第十五章_下",
+      "nonwhitespace_characters": {
+        "zh": 12390,
+        "en": 35366
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/026_平步青云（中）_第十五章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/026_平步青云（中）_第十五章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "name": "027_平步青云（中）_第十六章_上",
+      "nonwhitespace_characters": {
+        "zh": 13264,
+        "en": 36360
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/027_平步青云（中）_第十六章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/027_平步青云（中）_第十六章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "name": "028_平步青云（中）_第十六章_下",
+      "nonwhitespace_characters": {
+        "zh": 13327,
+        "en": 35538
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/028_平步青云（中）_第十六章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/028_平步青云（中）_第十六章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "name": "029_平步青云（中）_第十七章_上",
+      "nonwhitespace_characters": {
+        "zh": 10719,
+        "en": 30827
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/029_平步青云（中）_第十七章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/029_平步青云（中）_第十七章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "name": "030_平步青云（中）_第十七章_下",
+      "nonwhitespace_characters": {
+        "zh": 9413,
+        "en": 26097
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/030_平步青云（中）_第十七章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/030_平步青云（中）_第十七章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "name": "031_平步青云（中）_第十八章_上",
+      "nonwhitespace_characters": {
+        "zh": 10420,
+        "en": 28117
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/031_平步青云（中）_第十八章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/031_平步青云（中）_第十八章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "name": "032_平步青云（中）_第十八章_下",
+      "nonwhitespace_characters": {
+        "zh": 12159,
+        "en": 32714
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/032_平步青云（中）_第十八章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/032_平步青云（中）_第十八章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "name": "033_平步青云（中）_第十九章_上",
+      "nonwhitespace_characters": {
+        "zh": 6697,
+        "en": 19890
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/033_平步青云（中）_第十九章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/033_平步青云（中）_第十九章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "name": "034_平步青云（中）_第十九章_下",
+      "nonwhitespace_characters": {
+        "zh": 10494,
+        "en": 31035
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/034_平步青云（中）_第十九章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/034_平步青云（中）_第十九章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "name": "035_平步青云（中）_第二十章_上",
+      "nonwhitespace_characters": {
+        "zh": 9405,
+        "en": 25996
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/035_平步青云（中）_第二十章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/035_平步青云（中）_第二十章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "name": "036_平步青云（中）_第二十章_下",
+      "nonwhitespace_characters": {
+        "zh": 9469,
+        "en": 28305
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/036_平步青云（中）_第二十章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/036_平步青云（中）_第二十章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "name": "037_平步青云（中）_第二十一章_上",
+      "nonwhitespace_characters": {
+        "zh": 10361,
+        "en": 29443
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/037_平步青云（中）_第二十一章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/037_平步青云（中）_第二十一章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "name": "038_平步青云（中）_第二十一章_下",
+      "nonwhitespace_characters": {
+        "zh": 9617,
+        "en": 28933
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/038_平步青云（中）_第二十一章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/038_平步青云（中）_第二十一章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "name": "039_平步青云（下）_第二十二章_上",
+      "nonwhitespace_characters": {
+        "zh": 11373,
+        "en": 31405
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/039_平步青云（下）_第二十二章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/039_平步青云（下）_第二十二章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "name": "040_平步青云（下）_第二十二章_中",
+      "nonwhitespace_characters": {
+        "zh": 9341,
+        "en": 24227
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/040_平步青云（下）_第二十二章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/040_平步青云（下）_第二十二章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "name": "041_平步青云（下）_第二十二章_下",
+      "nonwhitespace_characters": {
+        "zh": 11385,
+        "en": 33383
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/041_平步青云（下）_第二十二章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/041_平步青云（下）_第二十二章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "name": "042_平步青云（下）_第二十三章起连续正文_一",
+      "nonwhitespace_characters": {
+        "zh": 9675,
+        "en": 28339
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/042_平步青云（下）_第二十三章起连续正文_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/042_平步青云（下）_第二十三章起连续正文_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "name": "043_平步青云（下）_第二十三章起连续正文_二",
+      "nonwhitespace_characters": {
+        "zh": 10059,
+        "en": 29195
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/043_平步青云（下）_第二十三章起连续正文_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/043_平步青云（下）_第二十三章起连续正文_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "name": "044_平步青云（下）_第二十三章起连续正文_三",
+      "nonwhitespace_characters": {
+        "zh": 12677,
+        "en": 35444
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/044_平步青云（下）_第二十三章起连续正文_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/044_平步青云（下）_第二十三章起连续正文_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "name": "045_平步青云（下）_第二十三章起连续正文_四",
+      "nonwhitespace_characters": {
+        "zh": 6201,
+        "en": 17180
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/045_平步青云（下）_第二十三章起连续正文_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/045_平步青云（下）_第二十三章起连续正文_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "name": "046_平步青云（下）_第二十五章_上",
+      "nonwhitespace_characters": {
+        "zh": 9836,
+        "en": 27727
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/046_平步青云（下）_第二十五章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/046_平步青云（下）_第二十五章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "name": "047_平步青云（下）_第二十五章_中",
+      "nonwhitespace_characters": {
+        "zh": 9656,
+        "en": 26824
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/047_平步青云（下）_第二十五章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/047_平步青云（下）_第二十五章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "name": "048_平步青云（下）_第二十五章_下",
+      "nonwhitespace_characters": {
+        "zh": 8439,
+        "en": 26189
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/048_平步青云（下）_第二十五章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/048_平步青云（下）_第二十五章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "name": "049_平步青云（下）_第二十六章_上",
+      "nonwhitespace_characters": {
+        "zh": 12559,
+        "en": 36928
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/049_平步青云（下）_第二十六章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/049_平步青云（下）_第二十六章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "name": "050_平步青云（下）_第二十六章_下",
+      "nonwhitespace_characters": {
+        "zh": 8011,
+        "en": 21888
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/050_平步青云（下）_第二十六章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/050_平步青云（下）_第二十六章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "name": "051_平步青云（下）_第二十七章_上",
+      "nonwhitespace_characters": {
+        "zh": 11299,
+        "en": 33014
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/051_平步青云（下）_第二十七章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/051_平步青云（下）_第二十七章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "name": "052_平步青云（下）_第二十七章_中",
+      "nonwhitespace_characters": {
+        "zh": 11487,
+        "en": 34723
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/052_平步青云（下）_第二十七章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/052_平步青云（下）_第二十七章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "name": "053_平步青云（下）_第二十七章_下",
+      "nonwhitespace_characters": {
+        "zh": 9539,
+        "en": 25060
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/053_平步青云（下）_第二十七章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/053_平步青云（下）_第二十七章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "name": "054_平步青云（下）_第二十八章_上",
+      "nonwhitespace_characters": {
+        "zh": 5653,
+        "en": 17556
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/054_平步青云（下）_第二十八章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/054_平步青云（下）_第二十八章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "name": "055_平步青云（下）_第二十八章_中",
+      "nonwhitespace_characters": {
+        "zh": 8978,
+        "en": 25972
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/055_平步青云（下）_第二十八章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/055_平步青云（下）_第二十八章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "name": "056_平步青云（下）_第二十八章_下",
+      "nonwhitespace_characters": {
+        "zh": 8850,
+        "en": 27402
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/056_平步青云（下）_第二十八章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/056_平步青云（下）_第二十八章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "name": "057_平步青云（下）_第二十九章_上",
+      "nonwhitespace_characters": {
+        "zh": 8350,
+        "en": 22368
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/057_平步青云（下）_第二十九章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/057_平步青云（下）_第二十九章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "name": "058_平步青云（下）_第二十九章_中",
+      "nonwhitespace_characters": {
+        "zh": 12446,
+        "en": 34471
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/058_平步青云（下）_第二十九章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/058_平步青云（下）_第二十九章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "name": "059_平步青云（下）_第二十九章_下",
+      "nonwhitespace_characters": {
+        "zh": 12395,
+        "en": 30374
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/059_平步青云（下）_第二十九章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/059_平步青云（下）_第二十九章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "name": "060_平步青云（下）_第三十章_上",
+      "nonwhitespace_characters": {
+        "zh": 9862,
+        "en": 28670
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/060_平步青云（下）_第三十章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/060_平步青云（下）_第三十章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "name": "061_平步青云（下）_第三十章_下",
+      "nonwhitespace_characters": {
+        "zh": 8850,
+        "en": 25167
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/061_平步青云（下）_第三十章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/061_平步青云（下）_第三十章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "name": "062_平步青云（下）_第三十一章_上",
+      "nonwhitespace_characters": {
+        "zh": 9009,
+        "en": 24423
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/062_平步青云（下）_第三十一章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/062_平步青云（下）_第三十一章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "name": "063_平步青云（下）_第三十一章_下及编后小语",
+      "nonwhitespace_characters": {
+        "zh": 6671,
+        "en": 20480
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/063_平步青云（下）_第三十一章_下及编后小语_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/063_平步青云（下）_第三十一章_下及编后小语_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "name": "113_灯火楼台_内容简介与前记",
+      "nonwhitespace_characters": {
+        "zh": 1425,
+        "en": 5355
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/113_灯火楼台_内容简介与前记_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/113_灯火楼台_内容简介与前记_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "name": "114_灯火楼台_第一章_上",
+      "nonwhitespace_characters": {
+        "zh": 9784,
+        "en": 32162
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/114_灯火楼台_第一章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/114_灯火楼台_第一章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "name": "115_灯火楼台_第一章_下",
+      "nonwhitespace_characters": {
+        "zh": 8238,
+        "en": 26153
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/115_灯火楼台_第一章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/115_灯火楼台_第一章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "name": "116_灯火楼台_第二章_上",
+      "nonwhitespace_characters": {
+        "zh": 13265,
+        "en": 43241
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/116_灯火楼台_第二章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/116_灯火楼台_第二章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "name": "117_灯火楼台_第二章_下",
+      "nonwhitespace_characters": {
+        "zh": 16938,
+        "en": 58075
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/117_灯火楼台_第二章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/117_灯火楼台_第二章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "name": "118_灯火楼台_第三章_上",
+      "nonwhitespace_characters": {
+        "zh": 9653,
+        "en": 31518
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/118_灯火楼台_第三章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/118_灯火楼台_第三章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "name": "119_灯火楼台_第三章_下",
+      "nonwhitespace_characters": {
+        "zh": 9587,
+        "en": 28439
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/119_灯火楼台_第三章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/119_灯火楼台_第三章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "name": "120_灯火楼台_第四章_上",
+      "nonwhitespace_characters": {
+        "zh": 7931,
+        "en": 23395
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/120_灯火楼台_第四章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/120_灯火楼台_第四章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "name": "121_灯火楼台_第四章_下",
+      "nonwhitespace_characters": {
+        "zh": 10781,
+        "en": 33431
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/121_灯火楼台_第四章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/121_灯火楼台_第四章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "name": "122_灯火楼台_第五章_一",
+      "nonwhitespace_characters": {
+        "zh": 8229,
+        "en": 24267
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/122_灯火楼台_第五章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/122_灯火楼台_第五章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "name": "123_灯火楼台_第五章_二",
+      "nonwhitespace_characters": {
+        "zh": 8332,
+        "en": 23478
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/123_灯火楼台_第五章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/123_灯火楼台_第五章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "name": "124_灯火楼台_第五章_三",
+      "nonwhitespace_characters": {
+        "zh": 7734,
+        "en": 20293
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/124_灯火楼台_第五章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/124_灯火楼台_第五章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "name": "125_灯火楼台_第五章_四",
+      "nonwhitespace_characters": {
+        "zh": 9277,
+        "en": 26966
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/125_灯火楼台_第五章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/125_灯火楼台_第五章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "name": "126_灯火楼台_第六章_上",
+      "nonwhitespace_characters": {
+        "zh": 9753,
+        "en": 25846
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/126_灯火楼台_第六章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/126_灯火楼台_第六章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "name": "127_灯火楼台_第六章_中",
+      "nonwhitespace_characters": {
+        "zh": 7255,
+        "en": 21693
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/127_灯火楼台_第六章_中_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/127_灯火楼台_第六章_中_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "name": "128_灯火楼台_第六章_下",
+      "nonwhitespace_characters": {
+        "zh": 4719,
+        "en": 13246
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/128_灯火楼台_第六章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/128_灯火楼台_第六章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "name": "129_灯火楼台_第七章",
+      "nonwhitespace_characters": {
+        "zh": 7498,
+        "en": 24081
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/129_灯火楼台_第七章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/129_灯火楼台_第七章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "name": "157_烟消云散_第一章_一",
+      "nonwhitespace_characters": {
+        "zh": 8364,
+        "en": 26598
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/157_烟消云散_第一章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/157_烟消云散_第一章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "name": "158_烟消云散_第一章_二",
+      "nonwhitespace_characters": {
+        "zh": 8462,
+        "en": 24253
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/158_烟消云散_第一章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/158_烟消云散_第一章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "name": "159_烟消云散_第一章_三",
+      "nonwhitespace_characters": {
+        "zh": 8722,
+        "en": 27623
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/159_烟消云散_第一章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/159_烟消云散_第一章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "name": "160_烟消云散_第二章_上",
+      "nonwhitespace_characters": {
+        "zh": 8335,
+        "en": 22850
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/160_烟消云散_第二章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/160_烟消云散_第二章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "name": "161_烟消云散_第二章_下",
+      "nonwhitespace_characters": {
+        "zh": 7540,
+        "en": 22513
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/161_烟消云散_第二章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/161_烟消云散_第二章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "name": "162_烟消云散_第三章",
+      "nonwhitespace_characters": {
+        "zh": 11389,
+        "en": 34285
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/162_烟消云散_第三章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/162_烟消云散_第三章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "name": "163_烟消云散_第四章_上",
+      "nonwhitespace_characters": {
+        "zh": 7423,
+        "en": 21819
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/163_烟消云散_第四章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/163_烟消云散_第四章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "name": "164_烟消云散_第四章_下",
+      "nonwhitespace_characters": {
+        "zh": 7666,
+        "en": 24884
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/164_烟消云散_第四章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/164_烟消云散_第四章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "name": "165_烟消云散_第五章",
+      "nonwhitespace_characters": {
+        "zh": 11605,
+        "en": 35837
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/165_烟消云散_第五章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/165_烟消云散_第五章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "name": "166_烟消云散_第六章_上",
+      "nonwhitespace_characters": {
+        "zh": 6894,
+        "en": 21513
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/166_烟消云散_第六章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/166_烟消云散_第六章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "name": "167_烟消云散_第六章_下",
+      "nonwhitespace_characters": {
+        "zh": 6510,
+        "en": 19658
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/167_烟消云散_第六章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/167_烟消云散_第六章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "name": "168_烟消云散_第七章_一",
+      "nonwhitespace_characters": {
+        "zh": 8171,
+        "en": 22295
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/168_烟消云散_第七章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/168_烟消云散_第七章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "name": "169_烟消云散_第七章_二",
+      "nonwhitespace_characters": {
+        "zh": 7477,
+        "en": 20416
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/169_烟消云散_第七章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/169_烟消云散_第七章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "name": "170_烟消云散_第七章_三",
+      "nonwhitespace_characters": {
+        "zh": 9494,
+        "en": 26883
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/170_烟消云散_第七章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/170_烟消云散_第七章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "name": "171_烟消云散_第八章_上",
+      "nonwhitespace_characters": {
+        "zh": 6766,
+        "en": 19106
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/171_烟消云散_第八章_上_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/171_烟消云散_第八章_上_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "name": "172_烟消云散_第八章_下",
+      "nonwhitespace_characters": {
+        "zh": 6610,
+        "en": 19732
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/172_烟消云散_第八章_下_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/172_烟消云散_第八章_下_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "name": "173_烟消云散_第九章",
+      "nonwhitespace_characters": {
+        "zh": 12152,
+        "en": 32760
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/173_烟消云散_第九章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/173_烟消云散_第九章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "name": "174_烟消云散_第十章",
+      "nonwhitespace_characters": {
+        "zh": 15242,
+        "en": 43677
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/174_烟消云散_第十章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/174_烟消云散_第十章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "name": "175_烟消云散_第十一章",
+      "nonwhitespace_characters": {
+        "zh": 15748,
+        "en": 42645
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/175_烟消云散_第十一章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/175_烟消云散_第十一章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "name": "176_烟消云散_第十二章",
+      "nonwhitespace_characters": {
+        "zh": 14903,
+        "en": 39193
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/176_烟消云散_第十二章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/176_烟消云散_第十二章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "name": "177_烟消云散_第十三章",
+      "nonwhitespace_characters": {
+        "zh": 16482,
+        "en": 41760
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/177_烟消云散_第十三章_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/177_烟消云散_第十三章_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "name": "178_后记及附载声明",
+      "nonwhitespace_characters": {
+        "zh": 645,
+        "en": 2291
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/178_后记及附载声明_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/178_后记及附载声明_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "name": "064_红顶商人_第一章_一",
+      "nonwhitespace_characters": {
+        "zh": 4858,
+        "en": 15647
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/064_红顶商人_第一章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/064_红顶商人_第一章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "name": "065_红顶商人_第一章_二",
+      "nonwhitespace_characters": {
+        "zh": 4855,
+        "en": 16875
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/065_红顶商人_第一章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/065_红顶商人_第一章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "name": "066_红顶商人_第一章_三",
+      "nonwhitespace_characters": {
+        "zh": 4877,
+        "en": 16439
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/066_红顶商人_第一章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/066_红顶商人_第一章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "name": "067_红顶商人_第一章_四",
+      "nonwhitespace_characters": {
+        "zh": 4874,
+        "en": 15430
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/067_红顶商人_第一章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/067_红顶商人_第一章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "name": "068_红顶商人_第一章_五",
+      "nonwhitespace_characters": {
+        "zh": 4808,
+        "en": 14251
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/068_红顶商人_第一章_五_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/068_红顶商人_第一章_五_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "name": "069_红顶商人_第一章_六",
+      "nonwhitespace_characters": {
+        "zh": 6468,
+        "en": 19344
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/069_红顶商人_第一章_六_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/069_红顶商人_第一章_六_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "name": "070_红顶商人_第二章_一",
+      "nonwhitespace_characters": {
+        "zh": 4820,
+        "en": 15362
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/070_红顶商人_第二章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/070_红顶商人_第二章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "name": "071_红顶商人_第二章_二",
+      "nonwhitespace_characters": {
+        "zh": 4830,
+        "en": 14757
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/071_红顶商人_第二章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/071_红顶商人_第二章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "name": "072_红顶商人_第二章_三",
+      "nonwhitespace_characters": {
+        "zh": 4859,
+        "en": 16525
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/072_红顶商人_第二章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/072_红顶商人_第二章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "name": "073_红顶商人_第二章_四",
+      "nonwhitespace_characters": {
+        "zh": 3205,
+        "en": 10302
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/073_红顶商人_第二章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/073_红顶商人_第二章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "name": "074_红顶商人_第三章_一",
+      "nonwhitespace_characters": {
+        "zh": 4882,
+        "en": 14464
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/074_红顶商人_第三章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/074_红顶商人_第三章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "name": "075_红顶商人_第三章_二",
+      "nonwhitespace_characters": {
+        "zh": 5061,
+        "en": 15260
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/075_红顶商人_第三章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/075_红顶商人_第三章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "name": "076_红顶商人_第三章_三",
+      "nonwhitespace_characters": {
+        "zh": 4838,
+        "en": 14388
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/076_红顶商人_第三章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/076_红顶商人_第三章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 116,
+      "name": "077_红顶商人_第三章_四",
+      "nonwhitespace_characters": {
+        "zh": 2044,
+        "en": 6195
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/077_红顶商人_第三章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/077_红顶商人_第三章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 117,
+      "name": "078_红顶商人_第四章_一",
+      "nonwhitespace_characters": {
+        "zh": 4948,
+        "en": 15797
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/078_红顶商人_第四章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/078_红顶商人_第四章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "name": "079_红顶商人_第四章_二",
+      "nonwhitespace_characters": {
+        "zh": 4732,
+        "en": 15123
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/079_红顶商人_第四章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/079_红顶商人_第四章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 119,
+      "name": "080_红顶商人_第五章_一",
+      "nonwhitespace_characters": {
+        "zh": 4838,
+        "en": 15845
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/080_红顶商人_第五章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/080_红顶商人_第五章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "name": "081_红顶商人_第五章_二",
+      "nonwhitespace_characters": {
+        "zh": 4818,
+        "en": 14164
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/081_红顶商人_第五章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/081_红顶商人_第五章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "name": "082_红顶商人_第五章_三",
+      "nonwhitespace_characters": {
+        "zh": 6256,
+        "en": 19393
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/082_红顶商人_第五章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/082_红顶商人_第五章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "name": "083_红顶商人_第六章_一",
+      "nonwhitespace_characters": {
+        "zh": 4877,
+        "en": 14164
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/083_红顶商人_第六章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/083_红顶商人_第六章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "name": "084_红顶商人_第六章_二",
+      "nonwhitespace_characters": {
+        "zh": 4853,
+        "en": 13246
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/084_红顶商人_第六章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/084_红顶商人_第六章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "name": "085_红顶商人_第六章_三",
+      "nonwhitespace_characters": {
+        "zh": 4810,
+        "en": 12943
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/085_红顶商人_第六章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/085_红顶商人_第六章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "name": "086_红顶商人_第六章_四",
+      "nonwhitespace_characters": {
+        "zh": 4832,
+        "en": 12954
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/086_红顶商人_第六章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/086_红顶商人_第六章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "name": "087_红顶商人_第六章_五",
+      "nonwhitespace_characters": {
+        "zh": 6531,
+        "en": 20463
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/087_红顶商人_第六章_五_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/087_红顶商人_第六章_五_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 127,
+      "name": "088_红顶商人_第七章_一",
+      "nonwhitespace_characters": {
+        "zh": 4950,
+        "en": 15027
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/088_红顶商人_第七章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/088_红顶商人_第七章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 128,
+      "name": "089_红顶商人_第七章_二",
+      "nonwhitespace_characters": {
+        "zh": 4792,
+        "en": 13313
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/089_红顶商人_第七章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/089_红顶商人_第七章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 129,
+      "name": "090_红顶商人_第七章_三",
+      "nonwhitespace_characters": {
+        "zh": 4854,
+        "en": 14861
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/090_红顶商人_第七章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/090_红顶商人_第七章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 130,
+      "name": "091_红顶商人_第七章_四",
+      "nonwhitespace_characters": {
+        "zh": 5793,
+        "en": 17494
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/091_红顶商人_第七章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/091_红顶商人_第七章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 131,
+      "name": "092_红顶商人_第八章_一",
+      "nonwhitespace_characters": {
+        "zh": 4811,
+        "en": 15738
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/092_红顶商人_第八章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/092_红顶商人_第八章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 132,
+      "name": "093_红顶商人_第八章_二",
+      "nonwhitespace_characters": {
+        "zh": 5039,
+        "en": 14490
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/093_红顶商人_第八章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/093_红顶商人_第八章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 133,
+      "name": "094_红顶商人_第八章_三",
+      "nonwhitespace_characters": {
+        "zh": 4933,
+        "en": 15556
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/094_红顶商人_第八章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/094_红顶商人_第八章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 134,
+      "name": "095_红顶商人_第八章_四",
+      "nonwhitespace_characters": {
+        "zh": 4906,
+        "en": 14982
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/095_红顶商人_第八章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/095_红顶商人_第八章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 135,
+      "name": "096_红顶商人_第八章_五",
+      "nonwhitespace_characters": {
+        "zh": 4886,
+        "en": 15164
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/096_红顶商人_第八章_五_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/096_红顶商人_第八章_五_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 136,
+      "name": "097_红顶商人_第八章_六",
+      "nonwhitespace_characters": {
+        "zh": 4842,
+        "en": 14439
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/097_红顶商人_第八章_六_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/097_红顶商人_第八章_六_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 137,
+      "name": "098_红顶商人_第八章_七",
+      "nonwhitespace_characters": {
+        "zh": 4803,
+        "en": 15064
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/098_红顶商人_第八章_七_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/098_红顶商人_第八章_七_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 138,
+      "name": "099_红顶商人_第八章_八",
+      "nonwhitespace_characters": {
+        "zh": 4826,
+        "en": 14251
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/099_红顶商人_第八章_八_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/099_红顶商人_第八章_八_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 139,
+      "name": "100_红顶商人_第八章_九",
+      "nonwhitespace_characters": {
+        "zh": 3467,
+        "en": 10506
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/100_红顶商人_第八章_九_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/100_红顶商人_第八章_九_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 140,
+      "name": "101_红顶商人_第九章_一",
+      "nonwhitespace_characters": {
+        "zh": 4816,
+        "en": 17522
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/101_红顶商人_第九章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/101_红顶商人_第九章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 141,
+      "name": "102_红顶商人_第九章_二",
+      "nonwhitespace_characters": {
+        "zh": 4876,
+        "en": 16387
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/102_红顶商人_第九章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/102_红顶商人_第九章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 142,
+      "name": "103_红顶商人_第九章_三",
+      "nonwhitespace_characters": {
+        "zh": 4828,
+        "en": 15597
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/103_红顶商人_第九章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/103_红顶商人_第九章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 143,
+      "name": "104_红顶商人_第九章_四",
+      "nonwhitespace_characters": {
+        "zh": 4865,
+        "en": 14893
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/104_红顶商人_第九章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/104_红顶商人_第九章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 144,
+      "name": "105_红顶商人_第九章_五",
+      "nonwhitespace_characters": {
+        "zh": 4794,
+        "en": 13752
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/105_红顶商人_第九章_五_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/105_红顶商人_第九章_五_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 145,
+      "name": "106_红顶商人_第九章_六",
+      "nonwhitespace_characters": {
+        "zh": 4810,
+        "en": 14464
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/106_红顶商人_第九章_六_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/106_红顶商人_第九章_六_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 146,
+      "name": "107_红顶商人_第九章_七",
+      "nonwhitespace_characters": {
+        "zh": 2459,
+        "en": 6982
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/107_红顶商人_第九章_七_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/107_红顶商人_第九章_七_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 147,
+      "name": "108_红顶商人_第十章_一",
+      "nonwhitespace_characters": {
+        "zh": 4816,
+        "en": 17304
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/108_红顶商人_第十章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/108_红顶商人_第十章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 148,
+      "name": "109_红顶商人_第十章_二",
+      "nonwhitespace_characters": {
+        "zh": 4980,
+        "en": 17033
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/109_红顶商人_第十章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/109_红顶商人_第十章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 149,
+      "name": "110_红顶商人_第十章_三",
+      "nonwhitespace_characters": {
+        "zh": 3790,
+        "en": 12454
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/110_红顶商人_第十章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/110_红顶商人_第十章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 150,
+      "name": "111_红顶商人_第十一章_一",
+      "nonwhitespace_characters": {
+        "zh": 4807,
+        "en": 14285
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/111_红顶商人_第十一章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/111_红顶商人_第十一章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 151,
+      "name": "112_红顶商人_第十一章_二",
+      "nonwhitespace_characters": {
+        "zh": 6376,
+        "en": 20193
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/112_红顶商人_第十一章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/112_红顶商人_第十一章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 152,
+      "name": "130_萧瑟洋场_第一章_一",
+      "nonwhitespace_characters": {
+        "zh": 4880,
+        "en": 18747
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/130_萧瑟洋场_第一章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/130_萧瑟洋场_第一章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 153,
+      "name": "131_萧瑟洋场_第一章_二",
+      "nonwhitespace_characters": {
+        "zh": 4841,
+        "en": 15934
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/131_萧瑟洋场_第一章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/131_萧瑟洋场_第一章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 154,
+      "name": "132_萧瑟洋场_第一章_三",
+      "nonwhitespace_characters": {
+        "zh": 4864,
+        "en": 15161
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/132_萧瑟洋场_第一章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/132_萧瑟洋场_第一章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 155,
+      "name": "133_萧瑟洋场_第一章_四",
+      "nonwhitespace_characters": {
+        "zh": 2612,
+        "en": 8868
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/133_萧瑟洋场_第一章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/133_萧瑟洋场_第一章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 156,
+      "name": "134_萧瑟洋场_第二章_一",
+      "nonwhitespace_characters": {
+        "zh": 4823,
+        "en": 15016
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/134_萧瑟洋场_第二章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/134_萧瑟洋场_第二章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 157,
+      "name": "135_萧瑟洋场_第二章_二",
+      "nonwhitespace_characters": {
+        "zh": 4811,
+        "en": 14915
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/135_萧瑟洋场_第二章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/135_萧瑟洋场_第二章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 158,
+      "name": "136_萧瑟洋场_第二章_三",
+      "nonwhitespace_characters": {
+        "zh": 5136,
+        "en": 14685
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/136_萧瑟洋场_第二章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/136_萧瑟洋场_第二章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 159,
+      "name": "137_萧瑟洋场_第二章_四",
+      "nonwhitespace_characters": {
+        "zh": 4957,
+        "en": 13479
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/137_萧瑟洋场_第二章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/137_萧瑟洋场_第二章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 160,
+      "name": "138_萧瑟洋场_第二章_五",
+      "nonwhitespace_characters": {
+        "zh": 4799,
+        "en": 14588
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/138_萧瑟洋场_第二章_五_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/138_萧瑟洋场_第二章_五_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 161,
+      "name": "139_萧瑟洋场_第二章_六",
+      "nonwhitespace_characters": {
+        "zh": 4063,
+        "en": 12002
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/139_萧瑟洋场_第二章_六_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/139_萧瑟洋场_第二章_六_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 162,
+      "name": "140_萧瑟洋场_第三章_一",
+      "nonwhitespace_characters": {
+        "zh": 4808,
+        "en": 16494
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/140_萧瑟洋场_第三章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/140_萧瑟洋场_第三章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 163,
+      "name": "141_萧瑟洋场_第三章_二",
+      "nonwhitespace_characters": {
+        "zh": 4804,
+        "en": 14709
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/141_萧瑟洋场_第三章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/141_萧瑟洋场_第三章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 164,
+      "name": "142_萧瑟洋场_第三章_三",
+      "nonwhitespace_characters": {
+        "zh": 4844,
+        "en": 14865
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/142_萧瑟洋场_第三章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/142_萧瑟洋场_第三章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 165,
+      "name": "143_萧瑟洋场_第三章_四",
+      "nonwhitespace_characters": {
+        "zh": 2911,
+        "en": 9370
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/143_萧瑟洋场_第三章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/143_萧瑟洋场_第三章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 166,
+      "name": "144_萧瑟洋场_第四章_一",
+      "nonwhitespace_characters": {
+        "zh": 4815,
+        "en": 14344
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/144_萧瑟洋场_第四章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/144_萧瑟洋场_第四章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 167,
+      "name": "145_萧瑟洋场_第四章_二",
+      "nonwhitespace_characters": {
+        "zh": 6518,
+        "en": 21186
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/145_萧瑟洋场_第四章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/145_萧瑟洋场_第四章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 168,
+      "name": "146_萧瑟洋场_第五章_一",
+      "nonwhitespace_characters": {
+        "zh": 4885,
+        "en": 13388
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/146_萧瑟洋场_第五章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/146_萧瑟洋场_第五章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 169,
+      "name": "147_萧瑟洋场_第五章_二",
+      "nonwhitespace_characters": {
+        "zh": 4893,
+        "en": 12580
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/147_萧瑟洋场_第五章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/147_萧瑟洋场_第五章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 170,
+      "name": "148_萧瑟洋场_第五章_三",
+      "nonwhitespace_characters": {
+        "zh": 5467,
+        "en": 15616
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/148_萧瑟洋场_第五章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/148_萧瑟洋场_第五章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 171,
+      "name": "149_萧瑟洋场_第六章_一",
+      "nonwhitespace_characters": {
+        "zh": 4829,
+        "en": 12805
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/149_萧瑟洋场_第六章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/149_萧瑟洋场_第六章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 172,
+      "name": "150_萧瑟洋场_第六章_二",
+      "nonwhitespace_characters": {
+        "zh": 5750,
+        "en": 14591
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/150_萧瑟洋场_第六章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/150_萧瑟洋场_第六章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 173,
+      "name": "151_萧瑟洋场_第七章_一",
+      "nonwhitespace_characters": {
+        "zh": 4851,
+        "en": 12804
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/151_萧瑟洋场_第七章_一_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/151_萧瑟洋场_第七章_一_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 174,
+      "name": "152_萧瑟洋场_第七章_二",
+      "nonwhitespace_characters": {
+        "zh": 4877,
+        "en": 12749
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/152_萧瑟洋场_第七章_二_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/152_萧瑟洋场_第七章_二_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 175,
+      "name": "153_萧瑟洋场_第七章_三",
+      "nonwhitespace_characters": {
+        "zh": 4891,
+        "en": 14384
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/153_萧瑟洋场_第七章_三_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/153_萧瑟洋场_第七章_三_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 176,
+      "name": "154_萧瑟洋场_第七章_四",
+      "nonwhitespace_characters": {
+        "zh": 4901,
+        "en": 14507
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/154_萧瑟洋场_第七章_四_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/154_萧瑟洋场_第七章_四_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 177,
+      "name": "155_萧瑟洋场_第七章_五",
+      "nonwhitespace_characters": {
+        "zh": 4809,
+        "en": 12710
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/155_萧瑟洋场_第七章_五_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/155_萧瑟洋场_第七章_五_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "number": 178,
+      "name": "156_萧瑟洋场_第七章_六",
+      "nonwhitespace_characters": {
+        "zh": 3520,
+        "en": 10252
+      },
+      "letter_word_punctuation_order_differences": 0,
+      "files": [
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/156_萧瑟洋场_第七章_六_逐句中英对照.txt",
+          "status": "passed"
+        },
+        {
+          "file": "/Users/lwblx/huapohen/agent/automation/2026/03_10/2/17/output/mutual_translation/156_萧瑟洋场_第七章_六_逐句英中对照.txt",
+          "status": "passed"
+        }
+      ]
+    }
+  ]
+}
